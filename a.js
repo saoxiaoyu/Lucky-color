@@ -1,1 +1,5074 @@
-function _0x2d62(){const _0x202728=['$router','inline','从图片导入','HYPPTiJ','System\x20Fonts','el-popover','#FFDA77','{\x22text\x22:{\x22content\x22:\x22我有这脸\x5cn洗澡都不关门\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Wawati\x20SC\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#FFD460\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:0},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#ea5455\x22,\x22mode\x22:\x22pattern\x22}}','styleSize','Color\x20Hunt','example','group-container-name','{\x22text\x22:{\x22content\x22:\x22🍺\x20+\x20🍺\x20=\x20🍻\x22,\x22fontSize\x22:197,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#000\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:0},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#1977F3\x22,\x22mode\x22:\x22pattern\x22}}','#583d33','200px','FZKangTi-S07S','https://www.xiaoyu.ac.cn','#5eb3b5','initValue','浩克的秘密','2em','emoji-picker-container','方正粗倩简体','height','field','Module','\x20Json文件\x20','(((.+)+)+)+$','#252A34','lineTo','deviceContainer','{\x22text\x22:{\x22content\x22:\x22生\x5cn生\x5cn不\x5cn息\x22,\x22fontSize\x22:150,\x22fontFamily\x22:\x22Hannotate\x20SC\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#7FE160\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:0},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#30CD7A\x22,\x22mode\x22:\x22pattern\x22}}','selectedImageColors','emoticon-picker','productionTip','getElementById','STLiti','onload','about-image','https://www.marvel.com/characters/iron-man-tony-stark','handleAddColors','about-color-item','square','https://twitter.com','uploaded','symbol-input','0cf1','result','gallery-card-container','bolder\x20','1770578mzocam','#ff0050','des','#DD4B22','#6B4F4F','wallpaperStyles','汉仪尚魏手书W','Pretty\x20Face','createElement','symbol-input-container','addEventListener','FZBaoSong-Z04S','Yapi\x20SC','FZQiTi-S14S','Width','Surface\x20Duo','el-container','汉仪旗黑\x2050S','#FDCE26','handleClick','FZXiQian-M15S','FZFangSong-Z02S','handleUpdateExample','max','v-loading','#930077','HYQihei\x2040S','4088','方正粗雅宋简体','success','FZDaHei-B02S','https://colorhunt.co/palette/a8e6cfdcedc1ffd3b6ffaaa5','30px','#5f7890','ColorFu','color-palette-item','split','background.color','STKaiti','#3c3234','rendering','https://en.wikipedia.org/wiki/International_Klein_Blue','tool-item','33cc','Height','examples','FZCaiYun-M09S','方正细黑一简体','getPalette','https://www.facebook.com/','https://www.alibabagroup.com/cn/global/home','方正水柱简体','#DCEDC1','STXingkai','emoji-picker','1486254cDzEQT','auto','el-select','about-color-collection','方正细倩简体','dark','{\x22text\x22:{\x22content\x22:\x22A\x20warm\x20heart\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#eabe4f\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#b93233\x22,\x22mode\x22:\x22pattern\x22}}','4cc9','bind','#CEB03E','fillColor','IKB\x2079','deviceSize','cd-type','汉仪程行体','#f99220','search','el-dialog','splice','721605oaOYbZ','el-icon-bell\x20group-help-icon','stringify','雷神的力量','方正仿宋简体','#08D9D6','fdc6','华文隶书','#59baf7','#ffffff','scrollY','卢西奥','#EEDAD1','#ed6828','IPad\x20Pro','https://github.com/muan/emoji','el-icon-upload','bottom-start','汉仪大黑简','map','el-tabs','row','{\x22text\x22:{\x22content\x22:\x22w(๑•̀ㅂ•́)و✧\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22line\x22,\x22rotation\x22:45,\x22width\x22:25,\x22height\x22:25,\x22foregroundColor\x22:\x22#000\x22,\x22color\x22:\x22#89E089\x22,\x22mode\x22:\x22autoFit\x22,\x22lineWidth\x22:1.5,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22mode\x22:\x22pattern\x22,\x22color\x22:\x22#fff\x22,\x22foregroundColor\x22:\x22#ddd\x22,\x22type\x22:\x22line\x22,\x22width\x22:50,\x22lineWidth\x22:1.5,\x22rotation\x22:0}}','守望先锋','error','方正报宋简体','#FBF6F0','color-field','<span>来自<a\x20href=\x27https://ow.blizzard.cn/home\x27\x20target=\x27_blank\x27>守望先锋</a>英雄的配色</span>','#d87265','STXihei','方正启体简体','#eee','#a09679','toLowerCase','#4484f1','lineCap','cd-example','36VvZUvI','showOverlay','Wawati\x20SC','#eabe4f','圆体-简','#3aa3f6','w(ﾟДﾟ)w','fillStyle','https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439569529.webp','Add','styleHeight','w-resize','#FBB82C','FZYingBiXingShu-S16S','STCaiyun','e357','from','sin','medium','invalid\x20url','preview','handleUpdate','56d7','https://www.antgroup.com/','Another\x20Planet','App','device-header\x20transition','Arial','text/plain;charset=utf-8','a8c9','#fbe88a','apply','el-icon-view','e607','Local','color-palette-container','over','1477','方正硬笔楷书简体','{\x22text\x22:{\x22content\x22:\x22梦想和爱\x5cn健康和学习\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Yuanti\x20SC\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#FFA45B\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:0},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#FBF6F0\x22,\x22mode\x22:\x22pattern\x22}}','bb51','fontFamily','https://ow.blizzard.cn/heroes/tracer','dropdown','https://www.microsoft.com/zh-cn','华文楷体','微软雅黑','{\x22text\x22:{\x22content\x22:\x22👁️\x22,\x22fontSize\x22:100,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#000\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:0},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#4DD599\x22,\x22mode\x22:\x22pattern\x22}}','Big\x20World','first','background','text.fontURL','23e2','translate','responsive','{\x22text\x22:{\x22content\x22:\x22Face\x20challenge\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#fff\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22mode\x22:\x22image\x22,\x22imageURL\x22:\x22https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439492573.webp\x22}}','HYLeMiaoTi','FZXiHei\x20I-Z08S','https://www.douyin.com/','#3b4766','来自著名艺术品的配色','text.type','#b93233','main-container','undefined','#3f2b1a','#d93343','FZJianZhi-M23S','FZWeiBei-S03S','https://www.marvel.com/characters/thor-thor-odinson','/editor','fac9','text.color','nav-logo','handleClickOverlay','component','help','image/png','Microsoft\x20JhengHei','drag-color','About','absolute','FZZhunYuan-M02S','9ff1','el-tab-pane','c405','width','#004AB9','children','rowClass','Eat\x20Red\x20Sun','Naughty\x20Tracer','pointer','handleDragStart','getData','constrain','radio','https://www.marvel.com/characters/hulk-bruce-banner','device-radio','el-icon-arrow-down\x20el-icon--right','white','{\x22text\x22:{\x22content\x22:\x22Air\x20Jordan\x22,\x22fontSize\x22:687,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#10090a\x22,\x22mode\x22:\x22constrain\x22,\x22padding\x22:76,\x22dy\x22:74},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#c40827\x22,\x22mode\x22:\x22pattern\x22}}','#055C9F','https://www.bilibili.com/','image','方正流行体简体','从图像中提取颜色','createPattern','2eeb','showColorsStore','input','Make\x20Wallpaper','Online\x20Fonts','9384597vDZmUs','selectionStart','简约背景\x20👨‍👩‍👧‍👧','$refs','loaded','input-number-overlay','call','https://en.wikipedia.org/wiki/Piet_Mondrian','progress','[\x22w(ﾟДﾟ)w\x22,\x22(ノへ￣、)\x22,\x22(￣_,￣\x20)\x22,\x22ヽ(✿ﾟ▽ﾟ)ノ\x22,\x22(๑•̀ㅂ•́)و✧\x22,\x22(￣ε(#￣)☆\x22,\x22φ(≧ω≦*)♪\x22,\x22o(￣皿￣///)\x22,\x22Σ(\x20°\x20△\x20°|||)︴\x22,\x22（づ￣3￣）づ╭❤～\x22,\x22(～￣(OO)￣)ブ\x22,\x22凸(艹皿艹\x20)\x22,\x22(*\x20￣3)(ε￣\x20*)\x22,\x22(*￣rǒ￣)\x22,\x22┗|｀O′|┛\x20嗷~~\x22,\x22︿(￣︶￣)︿\x22,\x22(u‿ฺu✿ฺ)\x22,\x22Hi~\x20o(*￣▽￣*)ブ\x22,\x22♪(^∇^*)\x22,\x22o(*≧▽≦)ツ┏━┓\x22,\x22╰(*°▽°*)╯\x22,\x22（○｀\x203′○）\x22,\x22o(*^＠^*)o\x22,\x22(°ー°〃)\x22,\x22○|￣|_\x20=3\x22,\x22o(￣ヘ￣o＃)\x22,\x22（＝。＝）\x22,\x22~~(\x20﹁\x20﹁\x20)\x20~~~\x22,\x22(ーー゛)\x22,\x22(ー`´ー)\x22,\x22(#`O′)\x22,\x22o(一︿一+)o\x22,\x22o(≧口≦)o\x22,\x22ㄟ(\x20▔,\x20▔\x20)ㄏ\x22,\x22(o_\x20_)ﾉ\x22,\x22(⊙﹏⊙)\x22,\x22(ˉ▽￣～)\x20切~~\x22,\x22（＊￣（エ）￣）\x22,\x22┑(￣Д\x20￣)┍\x22,\x22(＠_＠;)\x22,\x22━┳━\u3000━┳━\x22,\x22(☆´益`)c\x22,\x22（´Д`）\x22,\x22┗(\x20T﹏T\x20)┛\x22,\x22(。﹏。*)\x22,\x22o(\x20=•ω•=\x20)m\x22,\x22≡ω≡\x22,\x22(*￣(エ)￣)\x22,\x22(✿◡‿◡)\x22,\x22(*/ω＼*)\x22,\x22┭┮﹏┭┮\x22,\x22ヾ(￣▽￣)Bye~Bye~\x22,\x22(\x20﹁\x20﹁\x20)\x20~→\x22,\x22Ψ(￣∀￣)Ψ\x22,\x22✧(≖\x20◡\x20≖✿)\x22,\x22━━(￣ー￣*|||━━\x22,\x22ヽ(*。>Д<)o゜\x22,\x22┌(。Д。)┐\x22,\x22○|￣|_\x22,\x22o(￣▽￣)ｄ\x22,\x22(；′⌒`)\x22,\x22X﹏X\x22,\x22*<|:-)\x20\x22]','方正稚艺简体','fillText','Refresh','fill','dropEffect','{\x22text\x22:{\x22content\x22:\x22Be\x20yourself.\x20🌹\x22,\x22fontSize\x22:100,\x22fontFamily\x22:\x22Hanzipen\x20SC\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#222831\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:33},\x22background\x22:{\x22type\x22:\x22line\x22,\x22color\x22:\x22#FFD369\x22,\x22mode\x22:\x22pattern\x22,\x22foregroundColor\x22:\x22#FEFFC8\x22,\x22lineWidth\x22:1,\x22width\x22:23,\x22height\x22:81,\x22arcRadius\x22:0,\x22rotation\x22:45,\x22fillColor\x22:\x22#FFFFFF\x22,\x22size\x22:3,\x22strokeColor\x22:\x22#FFFFFF\x22}}','getImageData','editor','el-icon-mobile\x20device-icon','#EEEEEE','$mount','FZHuaLi-M14S','muan\x20/\x20emoji','foregroundColor','b15c','handleRemove','#10090a','#111111','#4F237C','14px','image-color-picker-color-item','offsetY','img','handleResize','方正粗圆简体','keys','从图片导入🏞️','color-palette','hash','HYYaKuHeiW','selectedImageColors.length\x20!==\x200','方正大黑简体','emoticon-picker-container','isArray','stopPropagation','restore','https://colorhunt.co/palette/383e56f69e7beedad1d4b5b0','Only\x20can\x20select\x20','flat','substring','tools-container','方正超粗黑简体','FZShuSong-Z01S','el-input-number','#483434','color-empty-wrapper','#00ACEE','魏碑-简','#00ADB5','#145b33','customHeight','0b00','\x20colors.','https://colorhunt.co/palette/222831393e4600adb5eeeeee','#a5babd','阿里巴巴','{\x22text\x22:{\x22content\x22:\x22falling\x20down\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#fff\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22mode\x22:\x22image\x22,\x22imageURL\x22:\x22https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439457370.webp\x22}}','#e8d365','\x206px\x208px','cacheImage','方正小标宋简体','https://www.figma.com','imageColors','imageURL','handleClickColors','el-upload','c615','pop','el-icon-download','router-view','ew-resize','8968','9bef','召唤使徒马太','新宋体','{\x22text\x22:{\x22content\x22:\x22无\x5cn极\x5cn限\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#ffffff\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:0},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#24292e\x22,\x22mode\x22:\x22pattern\x22}}','Lucky-Color','https://ow.blizzard.cn/heroes/sombra','3b6b','预设配色','方正粗活意简体','100%','reduce','FZSongYi-Z13S','selectedValue','image-color-picker-colors','#606266','stroke','showImageExtractor','a1f5','FZKaTong-M19S','handleDragover','俄克拉荷马雷霆','el-menu','https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439202510.webp','Please\x20input\x20title','#c71585','做你自己','Y轴偏移','方正行楷简体','060e','textBaseline','1000px','圣安东尼奥马刺','#F69E7B','forEach','方正新报宋简体','方正平和简体','8399','path','FZHuangCao-S09S','shift','__esModule','strokeStyle','handleClickPattern','IPhone\x20X','symbol-text','deviceContainerWidth','focus','D.Va','point','rect','FZCuQian-M17S','modes','scrollTo','goHome','662d','fillRect','IPhone\x205/SE','transition','style',',\x201fr)','{}.constructor(\x22return\x20this\x22)(\x20)','fontStyle','华文细黑','961d','6d6a','./fonts/luckiest_guy.woff2','https://colorhunt.co/palette/ffa45bffda77fbf6f0aee6e6','https://ow.blizzard.cn/heroes/sigma','方正粗宋简体','3e76','removeEventListener','汉仪家书简','3d7a','#FFF3E4','IPhone\x206/7/8','collapse','Moto\x20G4','options','\x20Size:\x20','wallpaper','value','update','7894','华文行楷','FZXiYuan-M01S','#d1cfcf','Upload\x20online\x20image','Face\x20challenge','aa79','footer','#fa729a','fontWeight','#f7e700','handleStarted','#fe5303','_blank','divided','toDataURL','3355516yCsRzC','selectedMode','#FFD3B6','5c76','on-success','device\x20device-macbook\x20device-spacegray\x20screen-container\x20transition','boolean','rotation','el-carousel-item','#daeaed','dot','about-emoji-container','fd84','color-palette-des','Pixel\x202','f49d','el-empty','deviceContainerHeight','FZNew\x20ShuTi-S08S','bottom','marginTop','handleDownloadFile','https://www.marvel.com/characters/spider-man-peter-parker','emoticon','b3a0','/colorfu/','device-sensors\x20transition','\x20These\x20emojis\x20are\x20from\x20','windowWidth','$emit','activeType','toString','collapse-icon-container','store','key','input-number','3549','{\x22text\x22:{\x22content\x22:\x22Spring\x22,\x22fontSize\x22:279,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#FFDC34\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:60},\x22background\x22:{\x22type\x22:\x22line\x22,\x22color\x22:\x22#4DD599\x22,\x22mode\x22:\x22pattern\x22,\x22foregroundColor\x22:\x22#00918E\x22,\x22lineWidth\x22:189,\x22width\x22:204,\x22rotation\x22:-22}}','color-palette-tab-container','金州勇士','open','warning','方正魏碑简体','body','#1f1cc1','Emoji\x20😆','77df','#07689F','_self','#EAEAEA','方正大标宋简体','方正琥珀简体','appendChild','26fb','FZYaoTi-M06S','min','handleClickCard','#409EFF','resize','device-frame\x20transition','table','表情包\x20😆','handleClickImageColorItem','rotate','39a5','思源宋体','handleMouseUp','nav-header-container','render','el-dropdown-link','方正宋三简体','https://en.wikipedia.org/wiki/Mona_Lisa','.type','FZXingKai-S04S','#90ee90','object','types','#F07B3F','color-palette-link','钢铁侠','device-frame','Xingkai\x20SC','AntV','NSimSun','text.content','emoji','方正华隶简体','#ff4500','#F6F7D4','el-dropdown-menu','FZShuiHei-M21S','#2D4059','phoneProgress','线条颜色','clearRect','Custom','方正黑体简体','preventDefault','<span>一个很棒的配色网站<a\x20href=\x27https://colorhunt.co/\x27\x20target=\x27_blank\x27>Color\x20Hunt</a>.</span>','https://ow.blizzard.cn/heroes/widowmaker','方正中等线简体','col','FZPingHe-S11S','HYQihei\x2060S','{\x22text\x22:{\x22content\x22:\x22保持好心情\x20♪\x22,\x22fontSize\x22:122,\x22fontFamily\x22:\x22Wawati\x20SC\x22,\x22type\x22:\x22dot\x22,\x22color\x22:\x22#3281E1\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:0,\x22fillColor\x22:\x22#FFFFFF\x22,\x22size\x22:4,\x22strokeColor\x22:\x22#FFFFFF\x22,\x22lineWidth\x22:1,\x22width\x22:18,\x22height\x22:18,\x22rotation\x22:3},\x22background\x22:{\x22type\x22:\x22dot\x22,\x22color\x22:\x22#FFFFFF\x22,\x22mode\x22:\x22pattern\x22,\x22foregroundColor\x22:\x22#F2B6CC\x22,\x22lineWidth\x22:1,\x22width\x22:100,\x22rotation\x22:45,\x22fillColor\x22:\x22#E8F4F8\x22,\x22size\x22:49,\x22strokeColor\x22:\x22#E1F3F8\x22,\x22height\x22:100,\x22arcRadius\x22:13}}','#ecdc75','fc19','背景设置','\x20S\x20','汉仪旗黑\x2040S','config','西格玛','https://colorhunt.co/palette/2d4059ea5455f07b3fffd460','screenSize','NBA','7135','美好的一天','#24292e','汉仪PP体简','about','second','horizontal','app-container','flex','el-link','艺术品','maxCount','1em','Pixel\x202\x20XL','use','fe82','#110133','up\x20to\x20','字体设置','216510lAAsvk','#f0e4eb','href','display','device-power\x20transition','el-icon-circle-plus-outline','2a87','device\x20device-iphone-x\x20device-spacegray\x20screen-container\x20transition','type','背景颜色','51e8','4280','drawImage','179b','Cassidy\x27s\x20Gentle','clientHeight','16px','exception','constructor','FZXiShanHu-M13S','STXinwei','clientWidth','allowOnline','eab5','STZhongsong','旋转角度','挑战自我','#383E56','华文宋体','canvas','handleChange','填充颜色','#1e90ff','dataTransfer','#89E089','#e97e18','e-resize','values','#E61C5D','方正彩云简体','app','storey-make-button','https://ow.blizzard.cn/heroes/echo','Nest\x20Hub\x20Max','el-checkbox','PingFang\x20SC','FZZongYi-M05S','activeDevice','#6566b9','#6f9636','line','color-palette-colors','dc33','32%','right','showUploadDialog','Hannotate\x20SC','Luckiest\x20Guy','el-aside','\x20我认为这就是一个很好的例子，人们用文字和颜色来表达自己的情感或想法。\x20','WenQuanYi\x20Micro\x20Hei','https://colorhunt.co/palette/3a0088930077e61c5dffbd39','onlineImageURL','numberValue','FZXiaoZhuanTi-S13T','slice','textarea','9fe7','push','方正康体简体','方正黄草简体','cos','progress\x20>\x200','animate','535e','attribute-tree','FZZhongQian-M16S','a5de','emoticon-picker-item','807c','parse','selectedImageColorIndex','left','7786','IPad','#566c70','toStringTag','文泉驿微米黑','#A8E6CF','0d74','mode','d8f4','font','汉仪小麦体','196d','波士顿凯尔特人','32ad','beginPath','1ea3','#18385e','HYChengXingJ','documentElement','phone','\x20图片\x20','83b8','color','fa59','middle','Colors','#f26323','KaiTi','X轴间隔','text','Microsoft\x20Yahei','v-show','ee4b','FZYaSongS-B-GB','top','fontURL','repeat','#FFD460','STFangsong','FZXiDengXian-Z06S','fe2a','image-color-picker','FZLiShu\x20II-S06S','el-carousel','自适应','752d','华文新魏','#4c6389','#03ed81','cd52','background.mode','蚂蚁集团','background.type','all','FZSongHei-B07S','日出·印象','#6f9cf6','{\x22text\x22:{\x22content\x22:\x22Welcome!!!\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#000000\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#FBB82C\x22,\x22mode\x22:\x22pattern\x22}}','group-children','faces','colors','Galaxy\x20S5','微软正黑体','#ed9ec3','#0c111b','#6d4928','lineWidth','abb8','el-icon-link','7523','black','FZCuSong-B09S','#92d25e','wave','el-tooltip','https://colorhunt.co/palette/28df9999f3bdd2f6c5f6f7d4','default','Y轴间隔','SimSun','length','The\x20online\x20image\x20can\x27t\x20be\x20downloaded,\x20You\x20can\x20take\x20a\x20screenshot\x20in\x20preview\x20mode\x20or\x20upload\x20local\x20image!','Songti\x20SC','span','8bc9','el-icon-picture-outline\x20el-icon--left','思源黑体','size','FZNew\x20BaoSong-Z12S','手札体-简','predefineColors','FZShaoEr-M11S','方正准圆简体','#b757ff','STHeiti','fonts/luckiest_guy.woff2','字体颜色','name','fullscreen','#000','FZYingBiKaiShu-S15S','方正细圆简体','方正隶书简体','#8c9ed9','79f6','cursorStyle','about-color-name','handleCloseImageColorPicker','c4d9','handleConfirmOnline','none','385f','#99725c','transformStyles','方正少儿简体','el-color-picker','macProgress','美国队长','https://en.wikipedia.org/wiki/The_Calling_of_St_Matthew_(Caravaggio)','#ea5455','STSong','selectedName','el-icon-monitor\x20device-icon','innerHeight','div','汉仪大宋简','label','indent','exports','50px','rotateZ(','deviceContainerX','px,\x20','What\x20a\x20beautiful\x20thing','device-stripe\x20transition','#FFDC34','text.mode','#7FE160','colClass','container','handleSelectExample','has','LiSu','e753','#c75849','086e','entries','index','filter','#D4B5B0','#00918E','https://ow.blizzard.cn/heroes/cassidy','devices','warn','handleInput','.json','#695fb4','Github','placeholder','reference','pixelRatio','primary','el-option','#000000','#24292f','#c40827','change','\x20写\x20\x22福\x20\x22字是中国新年的传统，人们会在红纸上写一个大大的\x20\x22福\x20\x22字，贴在门上，表达对新年的美好期盼。\x20','0459','e415','pattern','https://colorhunt.co/palette/222831393e46ffd369eeeeee','/about','HYKaiti','scale','6c42','radio-container','FangSong','2876','fontFace','方正幼线简体','patternSize','text.padding','32ca','0px','remove','https://ow.blizzard.cn/heroes/reaper','wheel','phone-container','set','#28DF99','prototype','#d7d9da','#836cc1','所思即所获,所见即所得','translate(','d361','#409eff','160px','phoneExamples','styleWidth','emoji-picker-content','top-container','#3A0088','input-label','readAsDataURL','#8cc33c','{\x22text\x22:{\x22content\x22:\x22🍋🌳👇🐷🙋‍♀️\x22,\x22fontSize\x22:121,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#000\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:0},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#ed6828\x22,\x22mode\x22:\x22pattern\x22}}','华文彩云','\x20Click\x20to\x20select\x20','raw','华文琥珀','text.dy','step','fixed','info','FZHei-B01S','FZXiangLi-S17S','#ac864d','Yuanti\x20SC','洛杉矶湖人','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:\x20#606266;font-size:14px;line-height:\x201.4;\x22>如何自定义配色</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20\x20src=\x22https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706441305845.gif\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','windowHeight','about-color-collection-des','雅痞-简','1fee','d751','YouYuan','冬青黑体简','方正隶变简体','f673','url(','方正毡笔黑简体','#fbc30c','绯红女巫','eb3d','gallery-card','patterns','deg)','return\x20(function()\x20','#FF2E63','preImageURL','https://ow.blizzard.cn/heroes/ashe','show','saveAs','defaultOpen','#0d0b07','hasOwnProperty','handleMousewheel','Source\x20Han\x20Serif\x20SC','autoFit','section','方正宋黑简体','f36a','FZShuiZhu-M08S','#294775','FZGuLi-S12S','el-input','#D4715E','small','f215','</span>','group-help-content','px)','#4DD599','console','d3e8','#437bd2','mini','Cancel','{\x22text\x22:{\x22content\x22:\x22Big\x20world\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#fff\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22mode\x22:\x22image\x22,\x22imageURL\x22:\x22https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439300868.webp\x22}}','汉仪黑荔枝','f46a','handleFullscreenChange','7882','汉仪乐喵体简','Failed\x20to\x20draw!','device-btns\x20transition','a753','#393E46','left\x20top','fontVariant','39292xbsWCo','STHupo','https://github.com/','create','8uazPYm','randomEmoticon','setData','emoji-picker-item','星月夜','#090a0a','position','emoji-input-popover','8ae6','emojiInput','iconStyle','https://colorhunt.co/palette/4834346b4f4feed6c4fff3e4','image-color-picker-container','handleWindowResize','dialog-footer','方正细珊瑚简体','FZZhanBiHei-M22S','px\x20','Extract\x20colors\x20from\x20image\x20failed!','7694','findIndex','字体库','el-button','textColor','/colorfu','pattern-card','preview-container','requestFullscreen','#222831','fullscreenchange','Confirm','containerClass','方正中倩简体','芝加哥公牛','px)\x20scale(','#F8BA03','X（原Twitter）','chunk-vendors','customWidth','f038','bd6d','gallery','47f0','FZLiShu-S01S','arcRadius','3585','https://antv.vision','300','{\x22text\x22:{\x22content\x22:\x22Good\x20Night\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#fff\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22mode\x22:\x22image\x22,\x22imageURL\x22:\x22https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439202510.webp\x22}}','text.fontSize','#3f1a7e','join','f7a4','static','home','c604','loading','https://ow.blizzard.cn/heroes/ana','31bf','36f3','template','4375','handleClickEmoji','fontSize','visibility','<span>来自<a\x20href=\x27https://www.marvel.com/\x27\x20target=\x27_blank\x27>漫威</a>中角色的配色</span>','#3d4981','预设配色🏳️‍🌈','{\x22text\x22:{\x22content\x22:\x22Always\x20Angry\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#836cc1\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#7bbc5c\x22,\x22mode\x22:\x22pattern\x22}}','setItem','el-icon-plus\x20image-uploader-icon','自定义','onerror','number','Figma','c3a8','string','device-container','af95','el-menu-item','#30CD7A','ba35','{\x22text\x22:{\x22content\x22:\x22Mamba\x20forever\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22line\x22,\x22rotation\x22:45,\x22width\x22:25,\x22height\x22:25,\x22foregroundColor\x22:\x22#EEEEEE\x22,\x22color\x22:\x22#FFD369\x22,\x22mode\x22:\x22autoFit\x22,\x22lineWidth\x22:1.5,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22mode\x22:\x22pattern\x22,\x22color\x22:\x22#222831\x22,\x22foregroundColor\x22:\x22#393E46\x22,\x22type\x22:\x22line\x22,\x22width\x22:50,\x22lineWidth\x22:1.5,\x22rotation\x22:0}}','transformed','src','#1a366c','娃娃体-简','hover','#66734b','保持好心情','397a','move','select-group','华文黑体','moveTo','getContext','emojis','华文中宋','#FFAAA5','strokeColor','#efd496','方正小篆体','FZMeiHei-M07S','concat','groups','el-dropdown','colorStore','HYJiaShuJ','#792ef7','ac3b','link','https://colorhunt.co/palette/11013300918e4dd599ffdc34','1693','group-container-header','https://ow.blizzard.cn/heroes/lucio','9e79','#1ca4f4','HYShangWeiShouShuW','蒙德里安','#65452c','el-dropdown-item','黑百合','225f','FZHuPo-M04S','FZSong','repeat(','#D6281D','-10000px','2630','#2c1f26','调色板','showButtons','handleDrop','FZShuTi','篮球之神','\x20如果能用更多的颜色和文字来制作壁纸，表达更多的情感，那会怎样呢？不仅能让壁纸变得漂亮，还能让壁纸变得有意义。\x20','FZLiuXingTi-M26S','background.imageURL','el-icon-plus','innerWidth','emoticon-picker-content','getItem','0a1b','方正综艺简体','device','1c64','computedScreenSize','#4992cd','Falling\x20Down','defineProperty','#FFA45B','间隔宽度','offsetX','汉仪楷体','select','Galaxy\x20Fold','字体大小','cardSize','textValue','FZXiaoBiaoSong-B05S','collapse-icon\x20el-icon-arrow-up','toFixed'];_0x2d62=function(){return _0x202728;};return _0x2d62();}function _0x54a9(_0x5892b7,_0xaee3d8){const _0x289fdf=_0x2d62();return _0x54a9=function(_0x411991,_0x3334c7){_0x411991=_0x411991-0x11d;let _0x4c524c=_0x289fdf[_0x411991];return _0x4c524c;},_0x54a9(_0x5892b7,_0xaee3d8);}(function(_0x38c144,_0x36c958){const _0x4a75d2=_0x54a9,_0x1ff20e=_0x38c144();while(!![]){try{const _0xa4c789=-parseInt(_0x4a75d2(0x2f0))/0x1+parseInt(_0x4a75d2(0x3c8))/0x2+parseInt(_0x4a75d2(0x184))/0x3+-parseInt(_0x4a75d2(0x55d))/0x4+-parseInt(_0x4a75d2(0x412))/0x5*(parseInt(_0x4a75d2(0x438))/0x6)+parseInt(_0x4a75d2(0x3ff))/0x7+parseInt(_0x4a75d2(0x2f4))/0x8*(parseInt(_0x4a75d2(0x4a9))/0x9);if(_0xa4c789===_0x36c958)break;else _0x1ff20e['push'](_0x1ff20e['shift']());}catch(_0x2980c){_0x1ff20e['push'](_0x1ff20e['shift']());}}}(_0x2d62,0x725c1),function(_0x280207){const _0x430629=_0x54a9,_0x170b0e=(function(){let _0x8e66bd=!![];return function(_0x531a58,_0x395d92){const _0x372cea=_0x8e66bd?function(){const _0x5b0c3f=_0x54a9;if(_0x395d92){const _0x592bd4=_0x395d92[_0x5b0c3f(0x457)](_0x531a58,arguments);return _0x395d92=null,_0x592bd4;}}:function(){};return _0x8e66bd=![],_0x372cea;};}()),_0xef1bbc=(function(){let _0x5de9b6=!![];return function(_0x21aced,_0x4c6514){const _0x1eefcc=_0x5de9b6?function(){const _0x332f34=_0x54a9;if(_0x4c6514){const _0x3e018f=_0x4c6514[_0x332f34(0x457)](_0x21aced,arguments);return _0x4c6514=null,_0x3e018f;}}:function(){};return _0x5de9b6=![],_0x1eefcc;};}());function _0x462d52(_0x1fd798){const _0xd6e154=_0x54a9,_0x426172=_0x170b0e(this,function(){const _0x59377a=_0x54a9;return _0x426172['toString']()[_0x59377a(0x40f)](_0x59377a(0x3b1))['toString']()[_0x59377a(0x196)](_0x426172)[_0x59377a(0x40f)](_0x59377a(0x3b1));});_0x426172();const _0x57122e=_0xef1bbc(this,function(){const _0xc30eb0=_0x54a9,_0x3e08f2=function(){const _0x8a82f3=_0x54a9;let _0xa59f68;try{_0xa59f68=Function(_0x8a82f3(0x2c5)+_0x8a82f3(0x537)+');')();}catch(_0x6c53aa){_0xa59f68=window;}return _0xa59f68;},_0xd3e207=_0x3e08f2(),_0x14cd68=_0xd3e207[_0xc30eb0(0x2df)]=_0xd3e207[_0xc30eb0(0x2df)]||{},_0x28cf4e=['log',_0xc30eb0(0x26f),_0xc30eb0(0x2ad),_0xc30eb0(0x42a),_0xc30eb0(0x195),_0xc30eb0(0x13a),'trace'];for(let _0x254275=0x0;_0x254275<_0x28cf4e[_0xc30eb0(0x226)];_0x254275++){const _0x2fe6c8=_0xef1bbc['constructor'][_0xc30eb0(0x295)][_0xc30eb0(0x407)](_0xef1bbc),_0x425ae6=_0x28cf4e[_0x254275],_0x577ad3=_0x14cd68[_0x425ae6]||_0x2fe6c8;_0x2fe6c8['__proto__']=_0xef1bbc[_0xc30eb0(0x407)](_0xef1bbc),_0x2fe6c8[_0xc30eb0(0x11d)]=_0x577ad3[_0xc30eb0(0x11d)]['bind'](_0x577ad3),_0x14cd68[_0x425ae6]=_0x2fe6c8;}});_0x57122e();for(var _0x547f44,_0x3caba7,_0x390c13=_0x1fd798[0x0],_0x54ac13=_0x1fd798[0x1],_0x30d97b=_0x1fd798[0x2],_0x34749c=0x0,_0x1edd01=[];_0x34749c<_0x390c13[_0xd6e154(0x226)];_0x34749c++)_0x3caba7=_0x390c13[_0x34749c],Object['prototype'][_0xd6e154(0x2cd)]['call'](_0x58b9a4,_0x3caba7)&&_0x58b9a4[_0x3caba7]&&_0x1edd01['push'](_0x58b9a4[_0x3caba7][0x0]),_0x58b9a4[_0x3caba7]=0x0;for(_0x547f44 in _0x54ac13)Object[_0xd6e154(0x295)][_0xd6e154(0x2cd)]['call'](_0x54ac13,_0x547f44)&&(_0x280207[_0x547f44]=_0x54ac13[_0x547f44]);_0x758a5a&&_0x758a5a(_0x1fd798);while(_0x1edd01['length'])_0x1edd01[_0xd6e154(0x522)]()();return _0x2dbffd['push'][_0xd6e154(0x457)](_0x2dbffd,_0x30d97b||[]),_0x3e7547();}function _0x3e7547(){const _0x187448=_0x54a9;for(var _0x16cef2,_0x42540c=0x0;_0x42540c<_0x2dbffd[_0x187448(0x226)];_0x42540c++){for(var _0x171a68=_0x2dbffd[_0x42540c],_0x43656d=!0x0,_0x6d1065=0x1;_0x6d1065<_0x171a68[_0x187448(0x226)];_0x6d1065++){var _0x13553b=_0x171a68[_0x6d1065];0x0!==_0x58b9a4[_0x13553b]&&(_0x43656d=!0x1);}_0x43656d&&(_0x2dbffd[_0x187448(0x411)](_0x42540c--,0x1),_0x16cef2=_0x1d2e1a(_0x1d2e1a['s']=_0x171a68[0x0]));}return _0x16cef2;}var _0x1e8e86={},_0x58b9a4={'app':0x0},_0x2dbffd=[];function _0x1d2e1a(_0x32be4e){const _0x1eff11=_0x54a9;if(_0x1e8e86[_0x32be4e])return _0x1e8e86[_0x32be4e]['exports'];var _0x2e2821=_0x1e8e86[_0x32be4e]={'i':_0x32be4e,'l':!0x1,'exports':{}};return _0x280207[_0x32be4e][_0x1eff11(0x4af)](_0x2e2821[_0x1eff11(0x256)],_0x2e2821,_0x2e2821[_0x1eff11(0x256)],_0x1d2e1a),_0x2e2821['l']=!0x0,_0x2e2821[_0x1eff11(0x256)];}_0x1d2e1a['m']=_0x280207,_0x1d2e1a['c']=_0x1e8e86,_0x1d2e1a['d']=function(_0x4721a9,_0x275420,_0x161cb6){const _0x7dff61=_0x54a9;_0x1d2e1a['o'](_0x4721a9,_0x275420)||Object[_0x7dff61(0x389)](_0x4721a9,_0x275420,{'enumerable':!0x0,'get':_0x161cb6});},_0x1d2e1a['r']=function(_0x3630e8){const _0xedc39d=_0x54a9;_0xedc39d(0x478)!==typeof Symbol&&Symbol[_0xedc39d(0x1da)]&&Object[_0xedc39d(0x389)](_0x3630e8,Symbol[_0xedc39d(0x1da)],{'value':_0xedc39d(0x3af)}),Object[_0xedc39d(0x389)](_0x3630e8,_0xedc39d(0x523),{'value':!0x0});},_0x1d2e1a['t']=function(_0x4b3b89,_0x1b3eb0){const _0x4bfad9=_0x54a9;if(0x1&_0x1b3eb0&&(_0x4b3b89=_0x1d2e1a(_0x4b3b89)),0x8&_0x1b3eb0)return _0x4b3b89;if(0x4&_0x1b3eb0&&_0x4bfad9(0x149)===typeof _0x4b3b89&&_0x4b3b89&&_0x4b3b89[_0x4bfad9(0x523)])return _0x4b3b89;var _0x4c7091=Object[_0x4bfad9(0x2f3)](null);if(_0x1d2e1a['r'](_0x4c7091),Object[_0x4bfad9(0x389)](_0x4c7091,_0x4bfad9(0x223),{'enumerable':!0x0,'value':_0x4b3b89}),0x2&_0x1b3eb0&&_0x4bfad9(0x340)!=typeof _0x4b3b89){for(var _0x55f263 in _0x4b3b89)_0x1d2e1a['d'](_0x4c7091,_0x55f263,function(_0x1aa8ce){return _0x4b3b89[_0x1aa8ce];}[_0x4bfad9(0x407)](null,_0x55f263));}return _0x4c7091;},_0x1d2e1a['n']=function(_0x517e41){const _0x255a24=_0x54a9;var _0x333f3a=_0x517e41&&_0x517e41[_0x255a24(0x523)]?function(){const _0x1ad25b=_0x255a24;return _0x517e41[_0x1ad25b(0x223)];}:function(){return _0x517e41;};return _0x1d2e1a['d'](_0x333f3a,'a',_0x333f3a),_0x333f3a;},_0x1d2e1a['o']=function(_0x336043,_0x451090){const _0x366a0d=_0x54a9;return Object['prototype'][_0x366a0d(0x2cd)]['call'](_0x336043,_0x451090);},_0x1d2e1a['p']=_0x430629(0x576);var _0x2ebf62=window['webpackJsonp']=window['webpackJsonp']||[],_0x1172c2=_0x2ebf62[_0x430629(0x1c8)][_0x430629(0x407)](_0x2ebf62);_0x2ebf62['push']=_0x462d52,_0x2ebf62=_0x2ebf62[_0x430629(0x1c5)]();for(var _0x4e451a=0x0;_0x4e451a<_0x2ebf62[_0x430629(0x226)];_0x4e451a++)_0x462d52(_0x2ebf62[_0x4e451a]);var _0x758a5a=_0x1172c2;_0x2dbffd[_0x430629(0x1c8)]([0x0,_0x430629(0x319)]),_0x3e7547();}({0x0:function(_0x2769bc,_0x284fbd,_0x125ba1){const _0x6278b8=_0x54a9;_0x2769bc[_0x6278b8(0x256)]=_0x125ba1(_0x6278b8(0x44e));},'086e':function(_0x57c280,_0x9d8c00,_0x349c9d){},'0a1b':function(_0x1e06ce){const _0x5cca76=_0x54a9;_0x1e06ce[_0x5cca76(0x256)]=JSON[_0x5cca76(0x1d4)]('{\x22text\x22:{\x22content\x22:\x22Have\x20a\x20nice\x20day.\x20🌞\x22,\x22fontSize\x22:114,\x22fontFamily\x22:\x22Hannotate\x20SC\x22,\x22type\x22:\x22dot\x22,\x22color\x22:\x22#0081FF\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:22,\x22fillColor\x22:\x22#9ACDFF\x22,\x22size\x22:30,\x22strokeColor\x22:\x22#8EC7FF\x22,\x22lineWidth\x22:2,\x22width\x22:50,\x22height\x22:50,\x22rotation\x22:45,\x22foregroundColor\x22:\x22#FFD700\x22,\x22arcRadius\x22:1},\x22background\x22:{\x22type\x22:\x22wave\x22,\x22color\x22:\x22#FFF2C3\x22,\x22mode\x22:\x22pattern\x22,\x22foregroundColor\x22:\x22#FFEEB1\x22,\x22lineWidth\x22:4,\x22width\x22:60,\x22rotation\x22:0,\x22fillColor\x22:\x22#F1F9E3\x22,\x22size\x22:35,\x22strokeColor\x22:\x22#DCEDC1\x22,\x22height\x22:50,\x22arcRadius\x22:14}}');},'0cf1':function(_0x491c33,_0x3807b8,_0x22697b){'use strict';_0x22697b('80cf');},'0d74':function(_0x38f4b1,_0x227a24,_0x2e1224){'use strict';const _0x3845f4=_0x54a9;_0x2e1224(_0x3845f4(0x4c1));},'0f57':function(_0x336e38,_0x247d34,_0x276a2e){'use strict';const _0x4f7aca=_0x54a9;_0x276a2e(_0x4f7aca(0x406));},0x5c5:function(_0x50f3d6,_0x458911,_0x300655){},0x69d:function(_0x21823a){const _0x3cf68a=_0x54a9;_0x21823a[_0x3cf68a(0x256)]=JSON['parse'](_0x3cf68a(0x166));},'177c':function(_0x3a2f6f,_0x3e4485,_0x375bee){'use strict';const _0x78209a=_0x54a9;_0x375bee(_0x78209a(0x540));},'179b':function(_0x37ee68){const _0x25e268=_0x54a9;_0x37ee68[_0x25e268(0x256)]=JSON[_0x25e268(0x1d4)](_0x25e268(0x324));},'196d':function(_0x1496ad,_0x1104b7,_0x24e0f7){'use strict';const _0x5d1307=_0x54a9;_0x24e0f7(_0x5d1307(0x48d));},'1ac0':function(_0x4c1b9e){const _0xd16b32=_0x54a9;_0x4c1b9e[_0xd16b32(0x256)]=JSON[_0xd16b32(0x1d4)](_0xd16b32(0x123));},'1b79':function(_0x422fbf,_0x3c3cae,_0x2236fa){},'1c64':function(_0x240fe7,_0x4dd48b,_0x3cd79d){},'1e2e':function(_0x2ff9bd){const _0x4b7594=_0x54a9;_0x2ff9bd[_0x4b7594(0x256)]=JSON[_0x4b7594(0x1d4)](_0x4b7594(0x39d));},'1fee':function(_0x6be756,_0x216444,_0x1522a2){'use strict';const _0x5ce72b=_0x54a9;_0x1522a2(_0x5ce72b(0x13e));},0x846:function(_0x1fe543,_0x5eb0e5,_0x491560){const _0x88ada8=_0x54a9;_0x1fe543[_0x88ada8(0x256)]=_0x491560['p']+_0x88ada8(0x235);},'32ca':function(_0x501412,_0x220418,_0x597b20){'use strict';_0x597b20('377a');},'33cc':function(_0x4fd250){const _0x4de714=_0x54a9;_0x4fd250[_0x4de714(0x256)]=JSON[_0x4de714(0x1d4)](_0x4de714(0x2e4));},0xe01:function(_0x572d28,_0x54816f,_0x85d257){'use strict';const _0x3ae1b3=_0x54a9;_0x85d257(_0x3ae1b3(0x45d));},'377a':function(_0x3715de,_0x4f69f7,_0x32966e){},'385f':function(_0x5a4bf1,_0x3fec5b,_0x1053d2){},'397a':function(_0x199ae0,_0x14c2c1,_0x119373){},'39a5':function(_0x2e01cf,_0x18159c,_0x488bb1){},'3da8':function(_0x4a0f66,_0x20848c,_0x2516f9){'use strict';_0x2516f9('5f25');},'3e76':function(_0x56c2aa,_0x46ec08,_0x485fa0){},0xfa4:function(_0x32cd38){const _0xd486ca=_0x54a9;_0x32cd38['exports']=JSON[_0xd486ca(0x1d4)](_0xd486ca(0x428));},0xff8:function(_0x26a751,_0x55cf08,_0x1f9bb8){'use strict';const _0x3e7d69=_0x54a9;_0x1f9bb8(_0x3e7d69(0x2e8));},0x1117:function(_0x524b8b){const _0x58e2ee=_0x54a9;_0x524b8b[_0x58e2ee(0x256)]=JSON[_0x58e2ee(0x1d4)](_0x58e2ee(0x3a2));},'4a48':function(_0x1d5a3f){const _0x2f45be=_0x54a9;_0x1d5a3f[_0x2f45be(0x256)]=JSON[_0x2f45be(0x1d4)]('{\x22text\x22:{\x22content\x22:\x22It\x27s\x20high\x20noon\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#583d33\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22type\x22:\x22dot\x22,\x22color\x22:\x22#9e3b37\x22,\x22mode\x22:\x22pattern\x22,\x22fillColor\x22:\x22#d87265\x22,\x22size\x22:100,\x22strokeColor\x22:\x22#d87265\x22,\x22lineWidth\x22:1,\x22width\x22:210,\x22height\x22:210,\x22rotation\x22:45}}');},'4cc9':function(_0x39c12b,_0x38bafc,_0x3ab168){},'535e':function(_0x37a761){const _0x1286c0=_0x54a9;_0x37a761[_0x1286c0(0x256)]=JSON[_0x1286c0(0x1d4)]('{\x22text\x22:{\x22content\x22:\x22\x20I\x20miss\x20you.\x20*\x20\x22,\x22fontSize\x22:120,\x22fontFamily\x22:\x22Xingkai\x20SC\x22,\x22type\x22:\x22dot\x22,\x22color\x22:\x22#B5E4D0\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:2,\x22fillColor\x22:\x22#D2F6C5\x22,\x22size\x22:37,\x22strokeColor\x22:\x22#D2F6C5\x22,\x22lineWidth\x22:1,\x22width\x22:50,\x22height\x22:50,\x22rotation\x22:0},\x22background\x22:{\x22type\x22:\x22dot\x22,\x22color\x22:\x22#DF6E97\x22,\x22mode\x22:\x22pattern\x22,\x22foregroundColor\x22:\x22#FEFFC8\x22,\x22lineWidth\x22:1,\x22width\x22:50,\x22height\x22:50,\x22arcRadius\x22:0,\x22rotation\x22:45,\x22fillColor\x22:\x22#E1A2B9\x22,\x22size\x22:3,\x22strokeColor\x22:\x22#E1A2B9\x22}}');},'56d7':function(_0x2d48b6,_0x590b8c,_0x561369){'use strict';const _0xc282b3=_0x54a9;_0x561369['r'](_0x590b8c),(_0x561369(_0xc282b3(0x1e6)),_0x561369('bdaf'));var _0x2d279f=_0x561369(_0xc282b3(0x36e)),_0x429a26=_0x561369['n'](_0x2d279f),_0x42e69e=(_0x561369(_0xc282b3(0x361)),_0x561369(_0xc282b3(0x4a4))),_0x22457e=_0x561369['n'](_0x42e69e),_0x41737e=(_0x561369(_0xc282b3(0x4f5)),_0x561369('7d96')),_0x1c2ac3=_0x561369['n'](_0x41737e),_0x20a31d=(_0x561369(_0xc282b3(0x46c)),_0x561369(_0xc282b3(0x50c))),_0x87b17f=_0x561369['n'](_0x20a31d),_0x47e223=(_0x561369(_0xc282b3(0x2c1)),_0x561369('266d')),_0x406ccd=_0x561369['n'](_0x47e223),_0x16acd5=(_0x561369('d0a3'),_0x561369(_0xc282b3(0x12c))),_0x227e30=_0x561369['n'](_0x16acd5),_0x528c72=(_0x561369(_0xc282b3(0x208)),_0x561369('affb')),_0x47c598=_0x561369['n'](_0x528c72),_0x318561=(_0x561369(_0xc282b3(0x31e)),_0x561369(_0xc282b3(0x122))),_0x296775=_0x561369['n'](_0x318561),_0x4b9d0d=(_0x561369(_0xc282b3(0x53b)),_0x561369(_0xc282b3(0x33f))),_0x449c21=_0x561369['n'](_0x4b9d0d),_0x2d460f=(_0x561369(_0xc282b3(0x1f7)),_0x561369(_0xc282b3(0x32f))),_0x2c54a7=_0x561369['n'](_0x2d460f),_0x17bdbf=(_0x561369(_0xc282b3(0x2bc)),_0x561369(_0xc282b3(0x575))),_0x4618bd=_0x561369['n'](_0x17bdbf),_0xd3c301=(_0x561369(_0xc282b3(0x1b8)),_0x561369(_0xc282b3(0x133))),_0x5e9fb1=_0x561369['n'](_0xd3c301),_0x4c3c9c=(_0x561369(_0xc282b3(0x1c7)),_0x561369(_0xc282b3(0x517))),_0x282627=_0x561369['n'](_0x4c3c9c),_0x5ebf8d=(_0x561369(_0xc282b3(0x1df)),_0x561369(_0xc282b3(0x18a))),_0x1ed5e0=_0x561369['n'](_0x5ebf8d),_0x3d194b=(_0x561369(_0xc282b3(0x53a)),_0x561369(_0xc282b3(0x171))),_0x25171a=_0x561369['n'](_0x3d194b),_0x576cdf=(_0x561369('ccb3'),_0x561369(_0xc282b3(0x18e))),_0x48bd43=_0x561369['n'](_0x576cdf),_0xf16c26=(_0x561369(_0xc282b3(0x288)),_0x561369('ecc8')),_0x246aee=_0x561369['n'](_0xf16c26),_0x290c7a=(_0x561369('c117'),_0x561369('a248')),_0x312b4d=_0x561369['n'](_0x290c7a),_0x2bdf52=(_0x561369('02b0'),_0x561369(_0xc282b3(0x1e4))),_0x27ff34=_0x561369['n'](_0x2bdf52),_0x38c612=(_0x561369(_0xc282b3(0x1ff)),_0x561369('3173')),_0x4255dd=_0x561369['n'](_0x38c612),_0x46db01=(_0x561369('0cd6'),_0x561369(_0xc282b3(0x27e))),_0x44f3ce=_0x561369['n'](_0x46db01),_0x3bf9af=(_0x561369(_0xc282b3(0x47f)),_0x561369('bc58')),_0x32a778=_0x561369['n'](_0x3bf9af),_0x52146e=(_0x561369(_0xc282b3(0x1d3)),_0x561369(_0xc282b3(0x29a))),_0x2745b7=_0x561369['n'](_0x52146e),_0x49a639=(_0x561369(_0xc282b3(0x48b)),_0x561369('195b')),_0x1d1d8f=_0x561369['n'](_0x49a639),_0x411288=(_0x561369(_0xc282b3(0x19b)),_0x561369(_0xc282b3(0x1ec))),_0x51d0c2=_0x561369['n'](_0x411288),_0x21353c=(_0x561369(_0xc282b3(0x345)),_0x561369(_0xc282b3(0x543))),_0x3c9603=_0x561369['n'](_0x21353c),_0x591a11=(_0x561369(_0xc282b3(0x560)),_0x561369('d5aa')),_0x368382=_0x561369['n'](_0x591a11),_0x4d5df0=(_0x561369(_0xc282b3(0x374)),_0x561369(_0xc282b3(0x501))),_0xa7e0c4=_0x561369['n'](_0x4d5df0),_0x262cbc=(_0x561369('8dcf'),_0x561369(_0xc282b3(0x4e6))),_0x444b27=_0x561369['n'](_0x262cbc),_0x30b86a=(_0x561369('9524'),_0x561369(_0xc282b3(0x307))),_0x5d2393=_0x561369['n'](_0x30b86a),_0x5a40e1=_0x561369('1f37'),_0x50a9be=_0x561369('7a15'),_0x35040c=_0x561369['n'](_0x50a9be),_0x8a6ed2=(_0x561369(_0xc282b3(0x204)),function(){const _0x126588=_0xc282b3;var _0x627cd5=this,_0x3f55ed=_0x627cd5[_0x126588(0x12e)]['_c'];return _0x3f55ed('div',{'attrs':{'id':_0x126588(0x1ac)}},[_0x3f55ed(_0x126588(0x252),{'attrs':{'id':'app-container'}},[_0x3f55ed('nav-header'),_0x3f55ed('keep-alive',{'attrs':{'exclude':_0x126588(0x4ba)}},[_0x3f55ed(_0x126588(0x4f8))],0x1)],0x1)]);}),_0x3f6850=[],_0x264d7c=function(){const _0x1c4fd5=_0xc282b3;var _0x27c131=this,_0x599878=_0x27c131[_0x1c4fd5(0x12e)]['_c'];return _0x599878(_0x1c4fd5(0x252),{'staticClass':_0x1c4fd5(0x141)},[_0x599878(_0x1c4fd5(0x229),{'staticClass':_0x1c4fd5(0x481),'on':{'click':_0x27c131[_0x1c4fd5(0x530)]}},[_0x27c131['_v'](_0x1c4fd5(0x4ff))]),_0x599878(_0x1c4fd5(0x510),{'attrs':{'mode':_0x1c4fd5(0x177),'router':!0x0,'default-active':_0x27c131[_0x1c4fd5(0x520)],'background-color':_0x1c4fd5(0x27a),'text-color':_0x1c4fd5(0x41b),'active-text-color':'#999999'}},[_0x599878('el-menu-item',{'attrs':{'index':'/'}},[_0x27c131['_v']('首页')]),_0x599878('el-menu-item',{'attrs':{'index':_0x1c4fd5(0x47e)}},[_0x27c131['_v']('创作')]),_0x599878(_0x1c4fd5(0x343),{'attrs':{'index':_0x1c4fd5(0x282)}},[_0x27c131['_v']('关于')]),_0x599878(_0x1c4fd5(0x343),{'attrs':{'index':''}},[_0x599878('a',{'attrs':{'href':_0x1c4fd5(0x3a6),'target':_0x1c4fd5(0x55a)}},[_0x27c131['_v']('博客')])])],0x1)],0x1);},_0x27cb72=[],_0x2e1682=(_0x561369('149f'),{'data'(){const _0x5c285a=_0xc282b3;return{'path':this['$router']['currentRoute'][_0x5c285a(0x520)]};},'watch':{'$route'(_0x2ec580){const _0x208741=_0xc282b3,{path:_0x4983ee}=_0x2ec580;this[_0x208741(0x520)]=_0x4983ee;}},'methods':{'goHome'(){const _0x1b43eb=_0xc282b3;this[_0x1b43eb(0x396)][_0x1b43eb(0x1c8)]('/');}}}),_0xf53847=_0x2e1682,_0xe49168=(_0x561369(_0xc282b3(0x321)),_0x561369(_0xc282b3(0x459))),_0x2bef0e=Object(_0xe49168['a'])(_0xf53847,_0x264d7c,_0x27cb72,!0x1,null,null,null),_0x1faf0f=_0x2bef0e[_0xc282b3(0x256)],_0x50bda9={'name':_0xc282b3(0x451),'components':{'NavHeader':_0x1faf0f}},_0x364c36=_0x50bda9,_0x571d2c=(_0x561369(_0xc282b3(0x28d)),Object(_0xe49168['a'])(_0x364c36,_0x8a6ed2,_0x3f6850,!0x1,null,null,null)),_0xdd6047=_0x571d2c['exports'],_0x4d950b=_0x561369(_0xc282b3(0x31b)),_0x36e27d=function(){const _0xc39ada=_0xc282b3;var _0x50b847=this,_0x42e55e=_0x50b847[_0xc39ada(0x12e)]['_c'];return _0x42e55e('div',{'staticClass':'home-container'},[_0x42e55e(_0xc39ada(0x252),{'staticClass':_0xc39ada(0x2a0)},[_0x42e55e(_0xc39ada(0x252),{'staticClass':'top-text'},[_0x42e55e('h1',[_0x50b847['_v'](_0xc39ada(0x298))]),_0x42e55e('p',[_0x50b847['_v']('\x20创建简约海报、壁纸只需动动手指')]),_0x42e55e(_0xc39ada(0x252),{'staticStyle':{'display':_0xc39ada(0x179)}},[_0x42e55e(_0xc39ada(0x30a),{'attrs':{'type':_0xc39ada(0x277)},'on':{'click':_0x50b847[_0xc39ada(0x558)]}},[_0x50b847['_v']('GO')]),_0x42e55e(_0xc39ada(0x30a),{'on':{'click':_0x50b847['handleStory']}},[_0x50b847['_v'](_0xc39ada(0x488))])],0x1)]),_0x42e55e(_0xc39ada(0x252),{'ref':_0xc39ada(0x3b4),'staticClass':_0xc39ada(0x341)},[_0x42e55e(_0xc39ada(0x252),{'staticClass':_0xc39ada(0x292),'style':{'transform':'scale(0.3,\x200.3)\x20translateX('+_0x50b847['translateX']+_0xc39ada(0x2dd),'bottom':_0x50b847[_0xc39ada(0x2fa)][_0xc39ada(0x4c8)]+'px','right':-_0x50b847[_0xc39ada(0x2fa)][_0xc39ada(0x38c)]+'px'}},[_0x42e55e(_0xc39ada(0x252),{'staticClass':_0xc39ada(0x18b)},[_0x42e55e(_0xc39ada(0x252),{'staticClass':_0xc39ada(0x14e)},[_0x42e55e(_0xc39ada(0x202),{'style':{'width':_0x50b847[_0xc39ada(0x40b)][_0xc39ada(0x48e)]+'px'},'attrs':{'height':_0x50b847['deviceSize'][_0xc39ada(0x3ad)]+'px'}},_0x50b847['_l'](_0x50b847[_0xc39ada(0x29d)],function(_0x26a2b3){const _0x344f0a=_0xc39ada;return _0x42e55e(_0x344f0a(0x565),{'key':_0x26a2b3[_0x344f0a(0x1de)]},[_0x42e55e(_0x344f0a(0x252),{'style':{'cursor':_0x50b847[_0x344f0a(0x4b1)]>=0x1?'pointer':_0x344f0a(0x223)},'on':{'click':function(_0x16fca8){const _0x31bac4=_0x344f0a;return _0x50b847[_0x31bac4(0x262)](_0x26a2b3,_0x31bac4(0x1ea));}}},[_0x42e55e(_0x344f0a(0x54a),{'attrs':{'options':_0x26a2b3,'width':_0x50b847['deviceSize'][_0x344f0a(0x48e)],'height':_0x50b847[_0x344f0a(0x40b)]['height']}})],0x1)]);}),0x1)],0x1),_0x42e55e(_0xc39ada(0x252),{'staticClass':_0xc39ada(0x25c)}),_0x42e55e('div',{'staticClass':_0xc39ada(0x452)}),_0x42e55e('div',{'staticClass':_0xc39ada(0x577)}),_0x42e55e(_0xc39ada(0x252),{'staticClass':_0xc39ada(0x2eb)}),_0x42e55e(_0xc39ada(0x252),{'staticClass':_0xc39ada(0x188)})])])])]),_0x42e55e(_0xc39ada(0x284),{'attrs':{'progress':_0x50b847[_0xc39ada(0x24a)],'from':_0x50b847['position'][_0xc39ada(0x448)],'to':_0x50b847[_0xc39ada(0x2fa)]['to'],'fixed':!0x0,'offsetY':_0x50b847[_0xc39ada(0x4b1)]>=0x1?0xc8:0x0},'on':{'onResize':_0x50b847[_0xc39ada(0x4ca)]}},[_0x42e55e(_0xc39ada(0x384),{'attrs':{'width':_0x50b847['screenSize'][_0xc39ada(0x48e)],'height':_0x50b847['screenSize']['height']}},[_0x42e55e(_0xc39ada(0x202),{'style':{'width':_0x50b847[_0xc39ada(0x16f)]['width']+'px'},'attrs':{'height':_0x50b847[_0xc39ada(0x16f)][_0xc39ada(0x3ad)]+'px'}},_0x50b847['_l'](_0x50b847[_0xc39ada(0x3f5)],function(_0x3e4b4d){const _0x379a41=_0xc39ada;return _0x42e55e(_0x379a41(0x565),{'key':_0x3e4b4d[_0x379a41(0x1de)]},[_0x42e55e('div',{'style':{'cursor':_0x50b847[_0x379a41(0x4b1)]>=0x1?_0x379a41(0x494):_0x379a41(0x223)},'on':{'click':function(_0x348bc9){const _0x14d5bd=_0x379a41;return _0x50b847[_0x14d5bd(0x262)](_0x3e4b4d);}}},[_0x42e55e(_0x379a41(0x54a),{'attrs':{'options':_0x3e4b4d,'width':_0x50b847['screenSize'][_0x379a41(0x48e)],'height':_0x50b847[_0x379a41(0x16f)]['height']}})],0x1)]);}),0x1)],0x1)],0x1),_0x42e55e(_0xc39ada(0x31d),{'directives':[{'name':'show','rawName':_0xc39ada(0x1f6),'value':_0x50b847[_0xc39ada(0x4b1)]>0x0,'expression':_0xc39ada(0x1cc)}]})],0x1);},_0x3f8b50=[],_0x1341a8=function(){const _0x49dfce=_0xc282b3;var _0x27fb32=this,_0x162f61=_0x27fb32['_self']['_c'];return _0x162f61(_0x49dfce(0x252),{'directives':[{'name':_0x49dfce(0x32c),'rawName':_0x49dfce(0x3e0),'value':_0x27fb32['loading'],'expression':_0x49dfce(0x32c)}],'class':{'transition':_0x27fb32[_0x49dfce(0x1cd)]},'style':_0x27fb32[_0x49dfce(0x39e)]},[_0x162f61(_0x49dfce(0x1a1),{'ref':'canvas','class':{'transition':_0x27fb32[_0x49dfce(0x1cd)]},'style':_0x27fb32['styleSize']})]);},_0xc3d886=[],_0x4a846d=(_0x561369(_0xc282b3(0x2e0)),_0x561369(_0xc282b3(0x328))),_0x316bba=_0x561369['n'](_0x4a846d);function _0x17dc63(_0x89e194,_0xd4641f,_0x12c08d){const _0x29a2f2=_0xc282b3,_0x2cc2ed=window[_0x29a2f2(0x276)]||0x2;_0x89e194[_0x29a2f2(0x3ad)]=_0x12c08d*_0x2cc2ed,_0x89e194[_0x29a2f2(0x48e)]=_0xd4641f*_0x2cc2ed;const _0x317d0e=_0x89e194[_0x29a2f2(0x353)]('2d');return _0x317d0e[_0x29a2f2(0x284)](_0x2cc2ed,_0x2cc2ed),_0x317d0e;}function _0x403ebb(){const _0x15894f=_0xc282b3;return document[_0x15894f(0x3d0)](_0x15894f(0x1a1));}function _0x4e49b6(_0x3fbba7,_0x49b78c,_0x85d0ba,{backgroundColor:_0x316e90,foregroundColor:_0x3ae01a,lineWidth:_0x33caea}){const _0x1a1631=_0xc282b3;_0x3fbba7[_0x1a1631(0x43f)]=_0x316e90,_0x3fbba7[_0x1a1631(0x532)](0x0,0x0,_0x49b78c,_0x85d0ba),_0x3fbba7[_0x1a1631(0x524)]=_0x3ae01a,_0x3fbba7[_0x1a1631(0x219)]=_0x33caea,_0x3fbba7[_0x1a1631(0x1e5)](),_0x3fbba7[_0x1a1631(0x352)](_0x49b78c,0x0),_0x3fbba7[_0x1a1631(0x3b3)](_0x49b78c,_0x85d0ba),_0x3fbba7['stroke']();}function _0x33860c(_0x42b06f,_0x2d17b1,_0x41b9b9,{backgroundColor:_0x247dc5,strokeColor:_0x2fe379,lineWidth:_0x23018a,fillColor:_0x10d873,size:_0x504e81}){const _0x56f7c6=_0xc282b3;_0x42b06f[_0x56f7c6(0x43f)]=_0x247dc5,_0x42b06f[_0x56f7c6(0x532)](0x0,0x0,_0x2d17b1,_0x41b9b9),_0x42b06f['strokeStyle']=_0x2fe379,_0x42b06f[_0x56f7c6(0x219)]=_0x23018a,_0x42b06f[_0x56f7c6(0x43f)]=_0x10d873,_0x42b06f[_0x56f7c6(0x1e5)](),_0x42b06f['arc'](_0x2d17b1/0x2,_0x41b9b9/0x2,_0x504e81/0x2,0x0,0x2*Math['PI']),_0x42b06f['fill'](),_0x42b06f[_0x56f7c6(0x50a)]();}_0x561369(_0xc282b3(0x531));function _0xa12c8f(_0x1f0219,_0x4d6d86,_0x25a7a7,{backgroundColor:_0x32e946,foregroundColor:_0x110613,lineWidth:_0x51f4f3,arcRadius:_0x177a2d}){const _0x56c501=_0xc282b3;_0x1f0219['fillStyle']=_0x32e946,_0x1f0219['fillRect'](0x0,0x0,_0x4d6d86,_0x25a7a7),_0x1f0219[_0x56c501(0x524)]=_0x110613,_0x1f0219[_0x56c501(0x219)]=_0x51f4f3,_0x1f0219[_0x56c501(0x436)]=_0x56c501(0x3c0);const _0x1f7d0b=[{'x':0x1/0x4*-_0x4d6d86,'y':_0x25a7a7*(0x3/0x4)},{'x':_0x4d6d86*(0x1/0x4),'y':_0x25a7a7*(0x1/0x4)},{'x':_0x4d6d86*(0x3/0x4),'y':_0x25a7a7*(0x3/0x4)},{'x':_0x4d6d86*(0x5/0x4),'y':_0x25a7a7*(0x1/0x4)}],_0x5aef75=_0x3efe75(_0x1f7d0b,_0x177a2d),_0x416bbe=new Path2D(_0x5aef75);_0x1f0219[_0x56c501(0x50a)](_0x416bbe);}const _0x1fff21=(_0x3b77a3,_0x5cf7f0,_0x53131d)=>(_0x3b77a3['y']-_0x5cf7f0['y'])*(_0x3b77a3['x']-_0x53131d['x'])==(_0x3b77a3['y']-_0x53131d['y'])*(_0x3b77a3['x']-_0x5cf7f0['x']),_0x18abce=(_0x356041,_0x18ef2d,_0x4807a4)=>{const _0x1303f0={'x':_0x356041['x']-_0x18ef2d['x'],'y':_0x356041['y']-_0x18ef2d['y']},_0x229766=Math['sqrt'](_0x1303f0['x']*_0x1303f0['x']+_0x1303f0['y']*_0x1303f0['y']),_0x51ea90={'x':_0x1303f0['x']/_0x229766,'y':_0x1303f0['y']/_0x229766};return{'x':_0x18ef2d['x']+_0x51ea90['x']*_0x4807a4,'y':_0x18ef2d['y']+_0x51ea90['y']*_0x4807a4};};function _0x3efe75(_0x2bc886,_0x4de640){const _0x2d9032=_0xc282b3,_0x15b0da=_0x2bc886['slice'](0x1)[_0x2d9032(0x505)]((_0x2dd590,_0x47e61c,_0x20d637,_0x27bb6e)=>{const _0x1ccc52=_0x2d9032;let _0x4ce047=_0x27bb6e[_0x20d637+0x1],_0x53e55a=_0x2dd590[_0x2dd590['length']-0x1];if(_0x4ce047&&!_0x1fff21(_0x53e55a[_0x1ccc52(0x52b)],_0x47e61c,_0x4ce047)){let _0x18d29b=_0x18abce(_0x53e55a[_0x1ccc52(0x52b)],_0x47e61c,_0x4de640),_0x5362cf=_0x18abce(_0x4ce047,_0x47e61c,_0x4de640);return _0x2dd590[_0x1ccc52(0x35b)]({'point':_0x47e61c,'s':'L\x20'+_0x18d29b['x']+'\x20'+_0x18d29b['y']+_0x1ccc52(0x16a)+_0x47e61c['x']+'\x20'+_0x47e61c['y']+'\x20'+_0x5362cf['x']+'\x20'+_0x5362cf['y']+'\x20'});}return _0x2dd590[_0x1ccc52(0x35b)]({'point':_0x47e61c,'s':'L\x20'+_0x47e61c['x']+'\x20'+_0x47e61c['y']+'\x20'});},[{'point':_0x2bc886[0x0],'s':'M\x20'+_0x2bc886[0x0]['x']+'\x20'+_0x2bc886[0x0]['y']+'\x20'}])[_0x2d9032(0x425)](_0x32b80f=>_0x32b80f['s'])[_0x2d9032(0x327)]('');return _0x15b0da;}function _0x481589(_0x142d46,_0xaa5945,_0x2e07eb,{backgroundColor:_0x2cba02,strokeColor:_0x329971,lineWidth:_0x380605,fillColor:_0x191422,size:_0x52572d,staggered:_0xf5d155}){const _0x3177e2=_0xc282b3;_0x142d46[_0x3177e2(0x43f)]=_0x2cba02,_0x142d46['fillRect'](0x0,0x0,_0xaa5945,_0x2e07eb),_0x142d46['strokeStyle']=_0x329971,_0x142d46[_0x3177e2(0x219)]=_0x380605,_0x142d46[_0x3177e2(0x43f)]=_0x191422,_0x142d46['beginPath'](),_0xf5d155?(_0x142d46[_0x3177e2(0x52c)](_0xaa5945*(0x1/0x4)-_0x52572d/0x2,_0x2e07eb*(0x1/0x4)-_0x52572d/0x2,_0x52572d,_0x52572d),_0x142d46['rect'](_0xaa5945*(0x3/0x4)-_0x52572d/0x2,_0x2e07eb*(0x3/0x4)-_0x52572d/0x2,_0x52572d,_0x52572d)):(_0x142d46['rect'](_0xaa5945*(0x1/0x4)-_0x52572d/0x2,_0x2e07eb*(0x1/0x4)-_0x52572d/0x2,_0x52572d,_0x52572d),_0x142d46[_0x3177e2(0x52c)](_0xaa5945*(0x1/0x4)-_0x52572d/0x2,_0x2e07eb*(0x3/0x4)-_0x52572d/0x2,_0x52572d,_0x52572d),_0x142d46['rect'](_0xaa5945*(0x3/0x4)-_0x52572d/0x2,_0x2e07eb*(0x3/0x4)-_0x52572d/0x2,_0x52572d,_0x52572d),_0x142d46[_0x3177e2(0x52c)](_0xaa5945*(0x3/0x4)-_0x52572d/0x2,_0x2e07eb*(0x1/0x4)-_0x52572d/0x2,_0x52572d,_0x52572d)),_0x142d46[_0x3177e2(0x4b6)](),_0x142d46[_0x3177e2(0x50a)]();}function _0x5f2595(_0x3a69e8,_0x1d7204,_0x5c449c,_0x4191ac,_0x39c8ca){const _0x4a77e3=(_0x3a69e8-_0x1d7204)/(_0x5c449c-_0x1d7204);return _0x4191ac*(0x1-_0x4a77e3)+_0x39c8ca*_0x4a77e3;}function _0x2a08fc(_0x468fb4,_0x5d4e0a,_0x14ee79){const _0x562c93=_0xc282b3;return Math[_0x562c93(0x135)](_0x14ee79,Math[_0x562c93(0x3df)](_0x5d4e0a,_0x468fb4));}function _0x253729(_0x4f3349,_0x470e05){const _0x4a2c63=_0xc282b3,_0x5469ef=_0x470e05*Math['PI']/0xb4,_0x45d71b={'a':Math[_0x4a2c63(0x1cb)](_0x5469ef)*_0x4f3349,'b':Math[_0x4a2c63(0x449)](_0x5469ef)*_0x4f3349,'c':-Math['sin'](_0x5469ef)*_0x4f3349,'d':Math['cos'](_0x5469ef)*_0x4f3349,'e':0x0,'f':0x0};return _0x45d71b;}function _0x173558(_0x4df70e,{type:_0x3bf734,width:_0x5cebc6=0x32,height:_0x4c9b07=0x32,rotation:_0x460636=0x0,repetition:_0xe4dd8b=_0xc282b3(0x1fb),..._0x12dfd3}){const _0x48c831=_0xc282b3,_0x36b841=_0x403ebb(),_0x44f533=_0x17dc63(_0x36b841,_0x5cebc6,_0x4c9b07);switch(_0x3bf734){case _0x48c831(0x1b6):_0x4e49b6(_0x44f533,_0x5cebc6,_0x4c9b07,_0x12dfd3);break;case'dot':_0x33860c(_0x44f533,_0x5cebc6,_0x4c9b07,_0x12dfd3);break;case _0x48c831(0x220):_0xa12c8f(_0x44f533,_0x5cebc6,_0x4c9b07,_0x12dfd3);break;case _0x48c831(0x3c0):_0x481589(_0x44f533,_0x5cebc6,_0x4c9b07,_0x12dfd3);break;}const _0x4a9d47=_0x4df70e[_0x48c831(0x4a3)](_0x36b841,_0xe4dd8b),_0x5bb1b4=_0x253729(0.5,_0x460636);return _0x4a9d47['setTransform'](_0x5bb1b4),_0x4a9d47;}function _0x2a26cd(_0x3290bb,_0x1754db,_0x237710,_0x2813fa){const _0x2bbb3d=_0xc282b3,[_0x19fda9,_0x5f2d2e]=_0x1df373(_0x3290bb,_0x2813fa),_0x4bf830=_0x1754db/_0x19fda9*0.8,_0x29695b=_0x237710/_0x5f2d2e,_0x248e6a=Math[_0x2bbb3d(0x135)](_0x4bf830,_0x29695b);return _0x2813fa['fontSize']*_0x248e6a;}function _0x37f653(_0x4144a0,_0x4ca464){const _0x49419e=_0xc282b3,_0x4b1d3f=_0x39503d();return _0x4b1d3f[_0x49419e(0x535)][_0x49419e(0x333)]=_0x4ca464[_0x49419e(0x333)]+'px',_0x4b1d3f[_0x49419e(0x535)][_0x49419e(0x461)]=_0x4ca464['fontFamily'],_0x4b1d3f[_0x49419e(0x535)]['fontWeight']=_0x4ca464[_0x49419e(0x556)],_0x4b1d3f[_0x49419e(0x535)][_0x49419e(0x538)]=_0x4ca464[_0x49419e(0x538)],_0x4b1d3f['style'][_0x49419e(0x2ef)]=_0x4ca464[_0x49419e(0x2ef)],_0x4b1d3f['innerHTML']=_0x4144a0,[_0x4b1d3f[_0x49419e(0x199)],_0x4b1d3f[_0x49419e(0x193)]];}function _0x1df373(_0x56fce4,_0x590d2c){const _0x5357a5=_0xc282b3,_0x145b5d=_0x56fce4[_0x5357a5(0x3ec)]('\x0a');return _0x145b5d[_0x5357a5(0x505)]((_0x3be655,_0x54aee1)=>{const _0x477f94=_0x5357a5,[_0x555530,_0x4217e1]=_0x37f653(_0x54aee1,_0x590d2c),_0x147cf1=Math[_0x477f94(0x3df)](_0x3be655[0x0],_0x555530),_0x3daadd=_0x3be655[0x1]+_0x4217e1;return[_0x147cf1,_0x3daadd];},[-0x1/0x0,0x0]);}let _0x58c0ff;function _0x39503d(){const _0x520dec=_0xc282b3;return _0x58c0ff||(_0x58c0ff=document[_0x520dec(0x3d0)](_0x520dec(0x229)),_0x58c0ff['style'][_0x520dec(0x334)]='hidden',_0x58c0ff[_0x520dec(0x535)][_0x520dec(0x2fa)]=_0x520dec(0x489),_0x58c0ff[_0x520dec(0x535)][_0x520dec(0x187)]=_0x520dec(0x397),_0x58c0ff['style'][_0x520dec(0x1d6)]='-10000px',_0x58c0ff['style']['top']=_0x520dec(0x373),document[_0x520dec(0x129)][_0x520dec(0x132)](_0x58c0ff),_0x58c0ff);}function _0x3ba6a0(_0x2a8d25,_0x11f5f0,_0x2fc1e4,_0xf7fe7a){const _0x533d51=_0x17dc63(_0x2a8d25,_0x11f5f0,_0x2fc1e4),{text:_0x48a54c,background:_0x4f85cd}=_0xf7fe7a;_0x3a2ea7(_0x533d51,_0x11f5f0,_0x2fc1e4,_0x4f85cd),_0x5e5b35(_0x533d51,_0x11f5f0,_0x2fc1e4,_0x48a54c);}function _0x436ad2(_0x3b6085){const _0x4b8021=_0xc282b3;return!_0x3b6085||_0x4b8021(0x244)===_0x3b6085;}function _0x3a2ea7(_0x1165f0,_0x4af31f,_0x17a0bc,{type:_0x19f83c,image:_0x3b78ae,color:_0x3d1224,mode:_0x1dbf31,..._0x4051d6}){const _0x43877e=_0xc282b3;if('image'===_0x1dbf31)_0x24db6c(_0x1165f0,_0x3b78ae,_0x4af31f,_0x17a0bc);else{const _0x28453d=_0x436ad2(_0x19f83c)?_0x3d1224:_0x173558(_0x1165f0,{'backgroundColor':_0x3d1224,'type':_0x19f83c,..._0x4051d6});_0x1165f0[_0x43877e(0x43f)]=_0x28453d,_0x1165f0[_0x43877e(0x532)](0x0,0x0,_0x4af31f,_0x17a0bc);}}function _0x5e5b35(_0x256113,_0x3f7428,_0x476c4a,{color:_0x13f48b,type:_0xb25925,fontSize:_0x356ecb,fontFamily:_0x568b32,content:_0x4d8ce3,mode:_0x3e5819='none',padding:_0x5fc74d=0x32,dy:_0xbbd340=0x0,..._0x3d7a50}){const _0x5ded30=_0xc282b3,_0x42a0d1=_0x436ad2(_0xb25925)?_0x13f48b:_0x173558(_0x256113,{'backgroundColor':_0x13f48b,'type':_0xb25925,..._0x3d7a50}),_0x358356=_0x3f7428-0x2*_0x5fc74d,_0x5ab2aa=_0x3f7428-0x2*_0x5fc74d,_0x161356='autoFit'===_0x3e5819?_0x2a26cd(_0x4d8ce3,_0x358356,_0x5ab2aa,{'fontSize':0xc8,'fontFamily':_0x568b32}):_0x356ecb;_0x256113[_0x5ded30(0x1e0)]=_0x5ded30(0x3c7)+_0x161356+_0x5ded30(0x305)+_0x568b32,_0x256113['textAlign']='center',_0x256113[_0x5ded30(0x518)]=_0x5ded30(0x1ef),_0x256113[_0x5ded30(0x43f)]=_0x42a0d1,_0x256113['save']();const _0x1c406c={'fontSize':_0x161356,'fontFamily':_0x568b32},_0xaff922=_0x3f7428/0x2,_0x34ddc5=_0x476c4a/0x2+_0xbbd340;if(_0x5ded30(0x497)===_0x3e5819){const [_0x13a008,_0x2c1563]=_0x1df373(_0x4d8ce3,_0x1c406c),_0x9beef3=_0x13a008>_0x358356?_0x358356/_0x13a008:0x1,_0x491a4a=_0x2c1563>_0x5ab2aa?_0x5ab2aa/_0x2c1563:0x1;_0x256113[_0x5ded30(0x46d)](_0xaff922,_0x34ddc5),_0x256113[_0x5ded30(0x284)](_0x9beef3,_0x491a4a),_0x256113[_0x5ded30(0x46d)](-_0xaff922,-_0x34ddc5);}_0x5de545(_0x256113,_0x4d8ce3,_0xaff922,_0x34ddc5,_0x1c406c),_0x256113[_0x5ded30(0x4d6)]();}function _0x24db6c(_0xba3129,_0x70157f,_0xfa0138,_0x51ef66){const _0x152aaf=_0xc282b3,{width:_0x5eeb89,height:_0x52499e}=_0x70157f,_0x3d7d94=_0x52499e/_0x5eeb89,_0x39a888=_0x51ef66/_0xfa0138;let _0x4977a5,_0x382b4c;_0x3d7d94>_0x39a888?(_0x4977a5=_0x5eeb89,_0x382b4c=_0x4977a5*_0x39a888):(_0x382b4c=_0x52499e,_0x4977a5=_0x382b4c/_0x39a888);const _0x19d72d=(_0x5eeb89-_0x4977a5)/0x2,_0xc39676=(_0x52499e-_0x382b4c)/0x2;_0xba3129[_0x152aaf(0x190)](_0x70157f,_0x19d72d,_0xc39676,_0x4977a5,_0x382b4c,0x0,0x0,_0xfa0138,_0x51ef66);}function _0x5de545(_0x114079,_0x22079a,_0x36758d,_0x5efdc6,_0x496eb9){const _0x10db11=_0xc282b3,_0x10c138=_0x22079a[_0x10db11(0x3ec)]('\x0a'),[,_0x2ee7c8]=_0x37f653(_0x10c138[0x0],_0x496eb9),_0x1472b3=_0x2ee7c8*(_0x10c138[_0x10db11(0x226)]-0x1),_0x53c001=_0x5efdc6-_0x1472b3/0x2;for(let _0x30f7bd=0x0;_0x30f7bd<_0x10c138['length'];_0x30f7bd++){const _0x1ce99d=_0x10c138[_0x30f7bd];_0x114079[_0x10db11(0x4b4)](_0x1ce99d,_0x36758d,_0x53c001+_0x30f7bd*_0x2ee7c8);}}function _0x1c1ff0(_0xfb613f){const _0x28a58e=_0xc282b3,_0x44bd85=new Image();return _0x44bd85[_0x28a58e(0x348)]=_0xfb613f,new Promise((_0x5a3d88,_0x45736b)=>{const _0x4b186c=_0x28a58e;_0x44bd85[_0x4b186c(0x3bb)]=function(){_0x5a3d88(_0x44bd85);},_0x44bd85[_0x4b186c(0x33c)]=function(){_0x45736b();};});}function _0xf6935(_0x4d7524,_0x6b69b){const _0x53047e=_0xc282b3;return new FontFace(_0x6b69b,_0x53047e(0x2bd)+_0x4d7524+')')['load']();}function _0x430ad3(_0x570403,_0x222552,_0x3c608a){const _0x2fdc9d=_0xc282b3,_0x4ec1ac=_0x222552[_0x2fdc9d(0x3ec)]('.'),_0x3d8b19=_0x4ec1ac[_0x2fdc9d(0x4f6)](),_0x49b8e9=_0x4ec1ac[_0x2fdc9d(0x505)]((_0x79c478,_0xdf24fa)=>_0x79c478[_0xdf24fa],_0x570403);_0x5a40e1[_0x2fdc9d(0x223)][_0x2fdc9d(0x293)](_0x49b8e9,_0x3d8b19,_0x3c608a);}function _0x4408cc(_0x47d276,_0x515ffb){const _0x3a7c2e=_0xc282b3,_0x53924b=_0x515ffb[_0x3a7c2e(0x3ec)]('.');return _0x53924b['reduce']((_0x389acb,_0x413b81)=>_0x389acb[_0x413b81],_0x47d276);}function _0x1b28d6(_0x36bd00){const _0x4afbda=_0xc282b3;return Array[_0x4afbda(0x4d4)](_0x36bd00)?[..._0x36bd00[_0x4afbda(0x425)](_0x1b28d6)]:void 0x0===_0x36bd00||null===_0x36bd00||_0x4afbda(0x149)!==typeof _0x36bd00?_0x36bd00:Object[_0x4afbda(0x268)](_0x36bd00)['reduce']((_0x6cd0a4,[_0x21b8c9,_0x1fb4db])=>(_0x6cd0a4[_0x21b8c9]=_0x1b28d6(_0x1fb4db),_0x6cd0a4),{});}var _0x1d360d={'props':{'options':Object,'width':Number,'height':Number,'animate':{'type':Boolean,'default':!0x0},'styleWidth':[Number,String],'styleHeight':[Number,String]},'data'(){return{'fontFace':void 0x0,'image':void 0x0,'loading':!0x1,'rendering':!0x1};},'computed':{'styleSize'(){const _0x30775b=_0xc282b3,_0x59afaa=this[_0x30775b(0x29e)]||this['width'],_0x3f18e9=this[_0x30775b(0x442)]||this[_0x30775b(0x3ad)],_0x3e3fd6=_0x56220e=>_0x30775b(0x33d)===typeof _0x56220e?_0x56220e+'px':_0x56220e;return{'width':_0x3e3fd6(_0x59afaa),'height':_0x3e3fd6(_0x3f18e9)};}},'mounted'(){this['render']();},'watch':{'options':{'deep':!0x0,'handler'(_0x2270fc,_0x1b2298){const _0x1cb590=_0xc282b3;_0x1b2298[_0x1cb590(0x1f4)][_0x1cb590(0x1fa)]!==_0x2270fc['text'][_0x1cb590(0x1fa)]&&(this['fontFace']=void 0x0),_0x1b2298['background'][_0x1cb590(0x4f2)]!==_0x2270fc[_0x1cb590(0x46a)]['imageURL']&&(this[_0x1cb590(0x4a0)]=void 0x0),this[_0x1cb590(0x142)]();}},'width'(){const _0x5398dd=_0xc282b3;this[_0x5398dd(0x142)]();},'height'(){const _0x169618=_0xc282b3;this[_0x169618(0x142)]();}},'methods':{async 'render'(){const _0x2e3afa=_0xc282b3;try{if(this[_0x2e3afa(0x3f0)])return;this[_0x2e3afa(0x3f0)]=!0x0,await this['loadAssets']();const _0x483305=_0x1b28d6(this['options']);this['image']&&(_0x483305['background'][_0x2e3afa(0x4a0)]=this[_0x2e3afa(0x4a0)]),_0x3ba6a0(this[_0x2e3afa(0x4ac)]['canvas'],this[_0x2e3afa(0x48e)],this[_0x2e3afa(0x3ad)],_0x483305),this[_0x2e3afa(0x57a)](_0x2e3afa(0x561),this[_0x2e3afa(0x4ac)][_0x2e3afa(0x1a1)]),this['rendering']=!0x1;}catch(_0xa4436){_0x316bba['a'][_0x2e3afa(0x42a)](_0x2e3afa(0x2ea)),console[_0x2e3afa(0x42a)](_0xa4436),this['rendering']=!0x1,this[_0x2e3afa(0x32c)]=!0x1;}},async 'loadAssets'(){const _0x252695=_0xc282b3,{fontURL:_0x93b316,fontFamily:_0x19e1b0}=this['options'][_0x252695(0x1f4)],{imageURL:_0x2dddfd}=this[_0x252695(0x548)][_0x252695(0x46a)],_0x52e648=_0x93b316&&(!this[_0x252695(0x289)]||!this[_0x252695(0x289)][_0x252695(0x4ad)]),_0x25ec3=_0x2dddfd&&!this[_0x252695(0x4a0)];(_0x52e648||_0x25ec3)&&(this[_0x252695(0x32c)]=!0x0,this[_0x252695(0x289)]=_0x52e648?await _0xf6935(_0x93b316,_0x19e1b0):this[_0x252695(0x289)],this[_0x252695(0x4a0)]=_0x25ec3?await _0x1c1ff0(_0x2dddfd):this[_0x252695(0x4a0)],this[_0x252695(0x32c)]=!0x1);}}},_0x25dad1=_0x1d360d,_0x5877f9=(_0x561369(_0xc282b3(0x447)),Object(_0xe49168['a'])(_0x25dad1,_0x1341a8,_0xc3d886,!0x1,null,null,null)),_0x77b865=_0x5877f9['exports'],_0x2f5262=function(){const _0x497f89=_0xc282b3;var _0x14a094=this,_0x1ab783=_0x14a094[_0x497f89(0x12e)]['_c'];return _0x1ab783(_0x497f89(0x252),{'staticClass':_0x497f89(0x562),'style':_0x14a094['transformStyles'][_0x497f89(0x261)]},[_0x1ab783('div',{'staticClass':_0x497f89(0x139)},[_0x1ab783(_0x497f89(0x252),{'staticClass':_0x497f89(0x534),'style':_0x14a094[_0x497f89(0x247)]['content']},[_0x14a094['_t'](_0x497f89(0x223))],0x2)]),_0x1ab783('div',{'staticClass':'device-stripe\x20transition'}),_0x1ab783('div',{'staticClass':_0x497f89(0x452)}),_0x1ab783(_0x497f89(0x252),{'staticClass':_0x497f89(0x577)}),_0x1ab783(_0x497f89(0x252),{'staticClass':_0x497f89(0x2eb)}),_0x1ab783('div',{'staticClass':'device-power\x20transition'})]);},_0x588c22=[],_0x4206d9={'props':{'src':String,'meta':Object,'width':Number,'height':Number},'computed':{'transformStyles'(){const _0x407bb0=_0xc282b3,_0x52b890=0x240,_0x271e0b=0x168,_0x3132d2=0x53,_0x23b385=0x1d,_0x4d2340=this[_0x407bb0(0x48e)]/_0x52b890,_0x419657=this['height']/_0x271e0b;return{'container':{'transformOrigin':_0x3132d2+_0x407bb0(0x305)+_0x23b385+'px','transform':_0x407bb0(0x299)+-_0x3132d2+_0x407bb0(0x25a)+-_0x23b385+_0x407bb0(0x316)+_0x4d2340+',\x20'+_0x419657+')'},'content':{'transformOrigin':_0x407bb0(0x2ee),'transform':'scale('+0x1/_0x4d2340+',\x20'+0x1/_0x419657+')'}};}}},_0x1261fe=_0x4206d9,_0x2b450f=(_0x561369(_0xc282b3(0x342)),Object(_0xe49168['a'])(_0x1261fe,_0x2f5262,_0x588c22,!0x1,null,null,null)),_0x18f74b=_0x2b450f['exports'],_0x19aa3d=function(){const _0x5430b1=_0xc282b3;var _0x5d060f=this,_0x1fd7e3=_0x5d060f['_self']['_c'];return _0x1fd7e3(_0x5430b1(0x252),{'style':[_0x5d060f[_0x5430b1(0x2ac)]&&{'position':_0x5430b1(0x489),'left':_0x5d060f[_0x5430b1(0x347)]['x']+'px','top':_0x5d060f[_0x5430b1(0x347)]['y']+'px','zIndex':_0x5d060f['zIndex']},{'transformOrigin':_0x5430b1(0x2ee),'transform':'scale('+_0x5d060f[_0x5430b1(0x347)][_0x5430b1(0x284)]+',\x20'+_0x5d060f[_0x5430b1(0x347)][_0x5430b1(0x284)]+')','width':_0x5d060f[_0x5430b1(0x347)]['width']+'px','height':_0x5d060f[_0x5430b1(0x347)][_0x5430b1(0x3ad)]+'px'},_0x5d060f['styles']]},[_0x5d060f['_t'](_0x5430b1(0x223))],0x2);},_0x271649=[],_0x3a3da4={'props':{'from':{'x':Number,'y':Number,'scale':Number},'to':{'x':Number,'y':Number,'scale':Number},'progress':Number,'styles':Object,'fixed':{'default':!0x1,'type':Boolean},'zIndex':{'default':0xa,'type':Number},'offsetY':Number},'computed':{'transformed'(){const _0x1f67d9=_0xc282b3,{from:_0x2cd9ad,to:_0x4a5680=_0x2cd9ad,progress:_0x3c92e7,fixed:_0x3c2730}=this,{x:_0x2902c1,y:_0x3f0b9c,scale:_0x5b8a18}=_0x2cd9ad,{x:_0xa138e2,y:_0xb1131f,scale:_0x33eab2}=_0x4a5680,_0x970fcf={..._0x3c2730&&{'x':_0x5f2595(_0x3c92e7,0x0,0x1,_0x2902c1,_0xa138e2)},..._0x3c2730&&{'y':_0x5f2595(_0x3c92e7,0x0,0x1,_0x3f0b9c,_0xb1131f)+this[_0x1f67d9(0x4c8)]},'scale':_0x5f2595(_0x3c92e7,0x0,0x1,_0x5b8a18,_0x33eab2)};return _0x970fcf;}}},_0x3437af=_0x3a3da4,_0x5c950e=Object(_0xe49168['a'])(_0x3437af,_0x19aa3d,_0x271649,!0x1,null,null,null),_0x26c148=_0x5c950e[_0xc282b3(0x256)];const _0x4c7b4f=_0x5d8d5a=>({'data':()=>({'scrollY':0x0,'realScrollY':0x0}),'computed':{'progress'(){return _0x5f2595(this['scrollY'],0x0,_0x5d8d5a,0x0,0x1);}},'methods':{'handleMousewheel'(){const _0x1192a5=_0xc282b3,_0x567a83=document['documentElement']['scrollTop'];this[_0x1192a5(0x41c)]=_0x2a08fc(_0x567a83,0x0,_0x5d8d5a);const _0x1be6e4=document[_0x1192a5(0x3b9)](_0x1192a5(0x178)),_0x52a262=document[_0x1192a5(0x3b9)](_0x1192a5(0x1ac));_0x567a83<_0x5d8d5a?(_0x52a262[_0x1192a5(0x535)][_0x1192a5(0x48e)]=_0x1192a5(0x504),_0x52a262[_0x1192a5(0x535)][_0x1192a5(0x3ad)]=window[_0x1192a5(0x251)]+_0x5d8d5a+'px',_0x1be6e4[_0x1192a5(0x535)]['position']=_0x1192a5(0x2ac),_0x1be6e4[_0x1192a5(0x535)][_0x1192a5(0x48e)]=_0x1192a5(0x504),_0x1be6e4[_0x1192a5(0x535)][_0x1192a5(0x571)]=_0x1192a5(0x28e)):(_0x52a262[_0x1192a5(0x535)][_0x1192a5(0x48e)]=_0x1192a5(0x400),_0x52a262[_0x1192a5(0x535)][_0x1192a5(0x3ad)]=_0x1192a5(0x400),_0x1be6e4[_0x1192a5(0x535)]['position']='static',_0x1be6e4[_0x1192a5(0x535)][_0x1192a5(0x571)]=_0x5d8d5a+'px');}},'mounted'(){const _0x5f54b0=_0xc282b3;window[_0x5f54b0(0x52f)](0x0,0x0);},'activated'(){const _0x505803=_0xc282b3,_0x58320f=document[_0x505803(0x3b9)](_0x505803(0x178));if(this[_0x505803(0x41c)]<_0x5d8d5a){const _0x41641a=document[_0x505803(0x3b9)]('app');_0x41641a['style'][_0x505803(0x48e)]=_0x505803(0x504),_0x41641a[_0x505803(0x535)][_0x505803(0x3ad)]=window[_0x505803(0x251)]+_0x5d8d5a+'px',_0x58320f['style'][_0x505803(0x2fa)]=_0x505803(0x2ac),_0x58320f[_0x505803(0x535)][_0x505803(0x48e)]=_0x505803(0x504),_0x58320f[_0x505803(0x535)][_0x505803(0x571)]='0px',window[_0x505803(0x52f)](0x0,this['scrollY']);}else{const _0x59d556=document['getElementById']('app-container');_0x59d556[_0x505803(0x535)][_0x505803(0x571)]=_0x5d8d5a+'px',window['scrollTo'](0x0,_0x5d8d5a);}window['addEventListener'](_0x505803(0x291),this[_0x505803(0x2ce)]);},'deactivated'(){const _0x3668a2=_0xc282b3;window[_0x3668a2(0x52f)](0x0,0x0);const _0x3b9298=document['getElementById'](_0x3668a2(0x1ac));_0x3b9298[_0x3668a2(0x535)]['width']='auto',_0x3b9298['style'][_0x3668a2(0x3ad)]=_0x3668a2(0x400);const _0x375d49=document[_0x3668a2(0x3b9)](_0x3668a2(0x178));_0x375d49[_0x3668a2(0x535)]['position']=_0x3668a2(0x329),_0x375d49[_0x3668a2(0x535)][_0x3668a2(0x571)]='0px',window[_0x3668a2(0x541)](_0x3668a2(0x291),this[_0x3668a2(0x2ce)]);}}),_0x26c213=()=>({'data':()=>({'windowWidth':window['innerWidth'],'windowHeight':window['innerHeight']}),'methods':{'handleWindowResize'(){const _0x4ccadc=_0xc282b3;this[_0x4ccadc(0x579)]=window[_0x4ccadc(0x37f)],this[_0x4ccadc(0x2b4)]=window[_0x4ccadc(0x251)];}},'mounted'(){const _0x567e60=_0xc282b3;window[_0x567e60(0x3d2)]('resize',this[_0x567e60(0x301)]);},'destroyed'(){const _0x243f43=_0xc282b3;window['removeEventListener'](_0x243f43(0x138),this[_0x243f43(0x301)]);}}),_0x43e686=_0x2f29bd=>({'data'(){const _0x5c15f5=_0xc282b3;return{[_0x2f29bd+'X']:0x0,[_0x2f29bd+'Y']:0x0,[_0x2f29bd+_0x5c15f5(0x3d6)]:0x0,[_0x2f29bd+_0x5c15f5(0x3f4)]:0x0};},'mounted'(){const _0x44f4dc=_0xc282b3,_0x4daa1f=this[_0x44f4dc(0x4ac)][_0x2f29bd];if(!_0x4daa1f)return;const {top:_0x1091e3,left:_0x575942,right:_0x493381,bottom:_0x208d8e}=_0x4daa1f['getBoundingClientRect']();this[_0x2f29bd+'X']=_0x575942,this[_0x2f29bd+'Y']=_0x1091e3,this[_0x2f29bd+_0x44f4dc(0x3d6)]=_0x493381-_0x575942,this[_0x2f29bd+_0x44f4dc(0x3f4)]=_0x208d8e-_0x1091e3;}});var _0x56af92=_0x561369(_0xc282b3(0x191));const _0xdc0c9={'name':_0xc282b3(0x450),'type':_0xc282b3(0x4a0),'options':_0x56af92};var _0x5ed667=_0x561369('4004');const _0x54f4b9={'name':'Angry','options':_0x5ed667};var _0x38f5df=_0x561369(_0xc282b3(0x2da));const _0x941621={'name':'Welcome','options':_0x38f5df};var _0x1c8a40=_0x561369('b206');const _0x57e7d0={'name':_0xc282b3(0x19e),'options':_0x1c8a40};var _0x596f8f=_0x561369(_0xc282b3(0x1ee));const _0x54b5fc={'name':_0xc282b3(0x388),'type':_0xc282b3(0x4a0),'options':_0x596f8f};var _0x1f6048=_0x561369(_0xc282b3(0x168));const _0x6901a6={'name':'排列','options':_0x1f6048},_0x2090a0=_0x941621[_0xc282b3(0x548)],_0x40d7c8=_0x54f4b9[_0xc282b3(0x548)],_0x5c1afe=_0xdc0c9[_0xc282b3(0x548)],_0x292419=_0x6901a6['options'],_0x47b56e=_0x54b5fc[_0xc282b3(0x548)],_0x6f54a2=_0x57e7d0[_0xc282b3(0x548)];var _0x47f9f2=function(){const _0x47f203=_0xc282b3;var _0x315335=this,_0x5b9220=_0x315335[_0x47f203(0x12e)]['_c'];return _0x5b9220(_0x47f203(0x252),{'staticClass':'gallery-container','staticStyle':{'margin-bottom':_0x47f203(0x257)}},[_0x5b9220(_0x47f203(0x252),{'staticClass':_0x47f203(0x49a)},[_0x5b9220('i',{'staticClass':_0x47f203(0x250),'style':{'color':'pc'===_0x315335['activeType']?_0x47f203(0x29b):_0x47f203(0x239)},'on':{'click':function(_0x44a0da){const _0x347265=_0x47f203;_0x315335[_0x347265(0x57b)]='pc';}}}),_0x5b9220('i',{'staticClass':_0x47f203(0x4bb),'style':{'color':'phone'===_0x315335[_0x47f203(0x57b)]?_0x47f203(0x29b):_0x47f203(0x239)},'on':{'click':function(_0x2831eb){const _0x82299e=_0x47f203;_0x315335[_0x82299e(0x57b)]=_0x82299e(0x1ea);}}})]),0x1===_0x315335[_0x47f203(0x31d)][_0x47f203(0x226)]?_0x5b9220(_0x47f203(0x252),{'staticClass':_0x47f203(0x3c6),'style':{'grid-template-columns':_0x47f203(0x371)+('pc'===_0x315335[_0x47f203(0x57b)]?0x4:0x6)+_0x47f203(0x536)}},_0x315335['_l'](_0x315335[_0x47f203(0x31d)][0x0]['wallpapers'],function(_0x516c76){const _0x1721d1=_0x47f203;return _0x5b9220(_0x1721d1(0x252),{'key':_0x516c76['name'],'on':{'click':()=>_0x315335[_0x1721d1(0x136)](_0x315335[_0x1721d1(0x46e)](_0x516c76['options']))}},[_0x5b9220(_0x1721d1(0x252),{'staticStyle':{'margin':'20px'}},[_0x5b9220(_0x1721d1(0x252),{'staticClass':_0x1721d1(0x2c2),'style':{'paddingBottom':_0x315335[_0x1721d1(0x40b)][0x1]/_0x315335[_0x1721d1(0x40b)][0x0]*0x64+'%'}},[_0x5b9220('div',{'staticClass':'gallery-card-content'},[_0x5b9220(_0x1721d1(0x54a),{'attrs':{'width':_0x315335[_0x1721d1(0x40b)][0x0],'height':_0x315335[_0x1721d1(0x40b)][0x1],'styleHeight':_0x1721d1(0x504),'styleWidth':_0x1721d1(0x504),'options':_0x315335[_0x1721d1(0x46e)](_0x516c76[_0x1721d1(0x548)])}})],0x1)])]),_0x5b9220(_0x1721d1(0x252),[_0x5b9220('span',[_0x315335['_v'](_0x315335['_s'](_0x516c76[_0x1721d1(0x237)])+'\x20'),_0x1721d1(0x4a0)===_0x516c76[_0x1721d1(0x18c)]?_0x5b9220(_0x1721d1(0x221),{'attrs':{'effect':'dark','content':'图片来自网络','placement':'top'}},[_0x5b9220('i',{'staticClass':'el-icon-warning-outline','staticStyle':{'cursor':_0x1721d1(0x494)}})]):_0x315335['_e']()],0x1)])]);}),0x0):_0x315335['_e']()]);},_0x3158fe=[],_0x5820c1=_0x561369(_0xc282b3(0x4fb));const _0x214c15={'name':'钢铁侠的一生','options':_0x5820c1};var _0xeb866d=_0x561369('7dca');const _0x59f97b={'name':_0xc282b3(0x415),'options':_0xeb866d};var _0x545583=_0x561369(_0xc282b3(0x2b8));const _0x5dbaa0={'name':_0xc282b3(0x3a9),'options':_0x545583};var _0x3389f0=_0x561369(_0xc282b3(0x367));const _0x1cb13d={'name':_0xc282b3(0x37a),'options':_0x3389f0};var _0x5bf915=_0x561369('4a48');const _0x2650e2={'name':_0xc282b3(0x192),'options':_0x5bf915};var _0x22948d=_0x561369(_0xc282b3(0x21c));const _0x55d118={'name':_0xc282b3(0x493),'options':_0x22948d};var _0x37c263=_0x561369('1ac0');const _0x163706={'name':_0xc282b3(0x25b),'options':_0x37c263};var _0xa4a567=_0x561369('bcb9');const _0x20ee9d={'name':_0xc282b3(0x492),'type':_0xc282b3(0x4a0),'options':_0xa4a567};var _0x4f387f=_0x561369(_0xc282b3(0x3f3));const _0x5bd0de={'name':_0xc282b3(0x468),'type':'image','options':_0x4f387f};var _0x1872de=_0x561369(_0xc282b3(0x418));const _0x3599c6={'name':_0xc282b3(0x552),'type':_0xc282b3(0x4a0),'options':_0x1872de};var _0x19b636=_0x561369(_0xc282b3(0x31c));const _0x209c2e={'name':_0xc282b3(0x514),'options':_0x19b636};var _0x5aca50=_0x561369(_0xc282b3(0x1ce));const _0x13b9cd={'name':'我想你','options':_0x5aca50};var _0x438ccc=_0x561369(_0xc282b3(0x364));const _0x26dfb1={'name':_0xc282b3(0x34d),'options':_0x438ccc};var _0x15bdcf=_0x561369(_0xc282b3(0x382));const _0x6472db={'name':_0xc282b3(0x172),'options':_0x15bdcf};var _0x836786=_0x561369(_0xc282b3(0x180));const _0x236949={'name':'科比','options':_0x836786};var _0x543694=_0x561369(_0xc282b3(0x54d));const _0x5500d8={'name':'洞察','options':_0x543694};var _0x4a63af=_0x561369(_0xc282b3(0x331));const _0x45fef8={'name':'啤酒','options':_0x4a63af};var _0x178cb3=_0x561369(_0xc282b3(0x22a));const _0x2107e5={'name':'孱弱','options':_0x178cb3};var _0xedf629=_0x561369(_0xc282b3(0x2ec));const _0x57433b={'name':'生命','options':_0xedf629};var _0x32c1b5=_0x561369('1e2e');const _0xbfb9e9={'name':_0xc282b3(0x3cf),'options':_0x32c1b5};var _0x1e97e5=_0x561369(_0xc282b3(0x56c));const _0x625636={'name':'目标','options':_0x1e97e5},_0x4a41a0={'name':_0xc282b3(0x20c),'wallpapers':[_0x214c15,_0x59f97b,_0x5dbaa0,_0x1cb13d,_0x57433b,_0x57e7d0,_0xbfb9e9,_0x625636,_0x236949,_0x2650e2,_0x55d118,_0x163706,_0x209c2e,_0x26dfb1,_0x13b9cd,_0x6472db,_0x5500d8,_0x45fef8,_0x2107e5,_0x6901a6,_0x20ee9d,_0x5bd0de,_0x54b5fc,_0x3599c6]},_0x4da706=[_0x4a41a0];function _0x1ac7f9(_0x33911a,_0x10dec4,_0x573ce7='pc'){const _0xe18c03=_0xc282b3;localStorage[_0xe18c03(0x339)](_0xe18c03(0x437),JSON[_0xe18c03(0x414)](_0x10dec4)),localStorage[_0xe18c03(0x339)](_0xe18c03(0x40c),_0x573ce7),_0x33911a[_0xe18c03(0x1c8)]({'path':_0xe18c03(0x4ba)});}function _0x57b7e1(_0x5acc14,_0x499cd8=0x1){const _0x2377ca=_0xc282b3,_0x80abfe=_0x1b28d6(_0x5acc14),_0x2c1cb4=_0x4408cc(_0x80abfe,_0x2377ca(0x2aa))||0x0;_0x430ad3(_0x80abfe,_0x2377ca(0x25e),'autoFit'),_0x430ad3(_0x80abfe,_0x2377ca(0x2aa),Math[_0x2377ca(0x135)](_0x2c1cb4,0x1e)),_0x430ad3(_0x80abfe,_0x2377ca(0x28c),0x0);const {text:_0x4b83d8,background:_0x11d40f}=_0x80abfe;return[_0x4b83d8,_0x11d40f][_0x2377ca(0x51c)](_0x3624ab=>{const _0x1f5405=_0x2377ca;for(const _0x2ebf36 of Object['keys'](_0x3624ab)){const _0x3f3b6d=_0x3624ab[_0x2ebf36];_0x1f5405(0x33d)===typeof _0x3f3b6d&&'rotation'!==_0x2ebf36&&(_0x3624ab[_0x2ebf36]=_0x3f3b6d*_0x499cd8);}}),_0x80abfe;}var _0x3d75cd={'components':{'Wallpaper':_0x77b865},'data'(){return{'gallery':_0x4da706,'windowWidth':screen['width'],'windowHeight':screen['height'],'activeType':'pc'};},'computed':{'deviceSize'(){const _0x2db6ca=_0xc282b3;return'pc'===this[_0x2db6ca(0x57b)]?[screen[_0x2db6ca(0x48e)],screen[_0x2db6ca(0x3ad)]]:[0x177,0x29b];}},'name':_0xc282b3(0x31d),'methods':{'handleClickCard'(_0x504436){const _0x5453e1=_0xc282b3;_0x1ac7f9(this['$router'],_0x504436,this[_0x5453e1(0x57b)]);},'responsive'(_0x1245b4){const _0x2dd472=_0xc282b3;if('pc'===this[_0x2dd472(0x57b)])return _0x1245b4;{const _0x298542=this[_0x2dd472(0x40b)][0x1]/screen[_0x2dd472(0x3ad)];return _0x57b7e1(_0x1245b4,_0x298542);}}}},_0x146c7e=_0x3d75cd,_0x44b6e3=(_0x561369(_0xc282b3(0x3e3)),Object(_0xe49168['a'])(_0x146c7e,_0x47f9f2,_0x3158fe,!0x1,null,null,null)),_0x58b3b5=_0x44b6e3[_0xc282b3(0x256)],_0x56488e={'components':{'Wallpaper':_0x77b865,'Device':_0x18f74b,'Scale':_0x26c148,'Gallery':_0x58b3b5},'name':_0xc282b3(0x32a),'data'(){const _0x529158=_0xc282b3;return{'disabled':!0x1,'examples':[_0x2090a0,_0x40d7c8,_0x5c1afe],'phoneExamples':[_0x6f54a2,_0x47b56e,_0x292419][_0x529158(0x425)](_0x57b7e1),'screenSize':{},'deviceSize':{'width':0x177,'height':0x32c}};},'mixins':[_0x4c7b4f(0xc8),_0x26c213(),_0x43e686(_0xc282b3(0x3b4))],'watch':{'progress':{'immediate':!0x0,'handler'(){this['computedScreenSize']();}},'windowWidth'(){const _0x3057e3=_0xc282b3;this[_0x3057e3(0x386)]();},'windowHeight'(){const _0x449459=_0xc282b3;this[_0x449459(0x386)]();}},'computed':{'position'(){const _0x3e10f3=_0xc282b3,_0x2df326=0.625,_0x13beda=0.7,_0xfbd1d6=this['deviceContainerHeight']/this[_0x3e10f3(0x528)];let _0x248ad3,_0xef659a;return _0xfbd1d6>_0x2df326?(_0x248ad3=this[_0x3e10f3(0x528)]*_0x13beda,_0xef659a=_0x248ad3*_0x2df326):(_0xef659a=this[_0x3e10f3(0x56e)]*_0x13beda,_0x248ad3=_0xef659a/_0x2df326),{'from':{'x':0x0,'y':0x0,'scale':0x1},'to':{'x':this[_0x3e10f3(0x259)]+(this[_0x3e10f3(0x528)]-_0x248ad3)/0x2,'y':this['deviceContainerY']+(this[_0x3e10f3(0x56e)]-_0xef659a)/0x2,'scale':_0x248ad3/this['windowWidth']},'offsetY':(this[_0x3e10f3(0x56e)]-_0xef659a)/0x2,'offsetX':(this[_0x3e10f3(0x528)]-_0x248ad3)/0x2};},'translateX'(){const _0x1e79eb=_0xc282b3;return _0x5f2595(this[_0x1e79eb(0x15a)],0x0,0x1,0x3e8,0x0);},'macProgress'(){const _0x2b408b=_0xc282b3,_0x5dc3d7=_0x2a08fc(this[_0x2b408b(0x4b1)],0x0,0.8);return _0x5f2595(_0x5dc3d7,0x0,0.8,0x0,0x1);},'phoneProgress'(){const _0x456eff=_0x2a08fc(this['progress'],0.8,0x1);return _0x5f2595(_0x456eff,0.8,0x1,0x0,0x1);}},'methods':{'handleResize'({width:_0x1d6268,height:_0x283bf7}){this['screenSize']={'width':_0x1d6268,'height':_0x283bf7};},'handleStarted'(){const _0x3203b4=_0xc282b3;this[_0x3203b4(0x396)]['push']({'path':_0x3203b4(0x47e)});},'handleSelectExample'(_0x40338f,_0x5d1e56){const _0x271079=_0xc282b3;this[_0x271079(0x4b1)]<0x1||_0x1ac7f9(this[_0x271079(0x396)],_0x40338f,_0x5d1e56);},'handleStory'(){const _0x2d7806=_0xc282b3;this[_0x2d7806(0x396)][_0x2d7806(0x1c8)]({'path':_0x2d7806(0x282)});},'computedScreenSize'(){const _0x7dc98f=_0xc282b3,_0x256a39=0.625,_0x485194=this['windowWidth']*_0x256a39,_0x216089=this[_0x7dc98f(0x2b4)],_0x23f363=_0x485194,_0x5006ef=this[_0x7dc98f(0x24a)]<=0x0?_0x216089:this[_0x7dc98f(0x24a)]>=0x1?_0x23f363:this[_0x7dc98f(0x16f)][_0x7dc98f(0x3ad)];this[_0x7dc98f(0x16f)]={'width':this[_0x7dc98f(0x579)],'height':_0x5006ef};}}},_0x14e441=_0x56488e,_0x3d7457=(_0x561369(_0xc282b3(0x242)),Object(_0xe49168['a'])(_0x14e441,_0x36e27d,_0x3f8b50,!0x1,null,null,null)),_0x39eb8c=_0x3d7457[_0xc282b3(0x256)],_0x9dbffc=function(){const _0x1ef3ae=_0xc282b3;var _0x65a301=this,_0x1888cd=_0x65a301['_self']['_c'];return _0x1888cd(_0x1ef3ae(0x3d8),{'staticClass':'editor-container'},[_0x1888cd(_0x1ef3ae(0x1be),{'attrs':{'width':'300px'}},[_0x1888cd(_0x1ef3ae(0x1cf),{'attrs':{'options':_0x65a301['attribute'],'values':_0x65a301['example']},'on':{'update':_0x65a301[_0x1ef3ae(0x3de)]}})],0x1),_0x1888cd(_0x1ef3ae(0x3d8),[_0x1888cd(_0x1ef3ae(0x252),{'staticClass':_0x1ef3ae(0x477)},[_0x1888cd(_0x1ef3ae(0x252),{'staticClass':_0x1ef3ae(0x4db)},[_0x1888cd(_0x1ef3ae(0x252),{'staticClass':'tools'},[_0x1888cd(_0x1ef3ae(0x252),{'staticClass':_0x1ef3ae(0x3f2)},[_0x1888cd(_0x1ef3ae(0x35d),{'attrs':{'size':_0x1ef3ae(0x44a)},'on':{'command':function(_0xea617b){const _0x4e8e66=_0x1ef3ae;_0x65a301[_0x4e8e66(0x1b3)]=_0xea617b;}}},[_0x1888cd(_0x1ef3ae(0x229),{'staticClass':_0x1ef3ae(0x143)},[_0x65a301['_v'](_0x1ef3ae(0x549)+_0x65a301['_s'](_0x65a301[_0x1ef3ae(0x26e)][_0x65a301[_0x1ef3ae(0x1b3)]][_0x1ef3ae(0x237)])),_0x1888cd('i',{'staticClass':_0x1ef3ae(0x49b)})]),_0x1888cd(_0x1ef3ae(0x157),{'attrs':{'slot':'dropdown'},'slot':_0x1ef3ae(0x463)},_0x65a301['_l'](_0x65a301[_0x1ef3ae(0x26e)],function(_0x5c5ec9,_0x55147a){const _0x56d8ae=_0x1ef3ae;return _0x1888cd(_0x56d8ae(0x36c),{'key':_0x5c5ec9[_0x56d8ae(0x120)],'attrs':{'divided':_0x5c5ec9[_0x56d8ae(0x55b)],'command':_0x55147a}},[_0x65a301['_v'](_0x65a301['_s'](_0x5c5ec9['name']))]);}),0x1)],0x1)],0x1),_0x1888cd(_0x1ef3ae(0x252),{'staticClass':_0x1ef3ae(0x3f2)},[_0x1888cd(_0x1ef3ae(0x4de),{'attrs':{'value':_0x65a301[_0x1ef3ae(0x40b)][0x0],'controls-position':_0x1ef3ae(0x1ba),'min':0x1,'size':_0x1ef3ae(0x2e2),'disabled':0x0!==_0x65a301[_0x1ef3ae(0x1b3)]},'on':{'change':function(_0x2e314c){_0x65a301['customWidth']=_0x2e314c;}}}),_0x1888cd('i',{'staticClass':'el-icon-sort\x20icon-switch','on':{'click':function(_0x3f7987){const _0x12c242=_0x1ef3ae;_0x65a301[_0x12c242(0x13d)]=!_0x65a301[_0x12c242(0x13d)];}}}),_0x1888cd('el-input-number',{'attrs':{'value':_0x65a301['deviceSize'][0x1],'controls-position':_0x1ef3ae(0x1ba),'min':0x1,'size':_0x1ef3ae(0x2e2),'disabled':0x0!==_0x65a301[_0x1ef3ae(0x1b3)]},'on':{'change':function(_0x4c6224){const _0x56fabb=_0x1ef3ae;_0x65a301[_0x56fabb(0x4e5)]=_0x4c6224;}}}),_0x1888cd('span',{'staticClass':'scale-text'},[_0x65a301['_v']('\x20'+_0x65a301['_s']((0x64*_0x65a301[_0x1ef3ae(0x347)]['scale'])[_0x1ef3ae(0x395)](0x1)+'%')+'\x20')])],0x1),_0x1888cd(_0x1ef3ae(0x252),{'staticClass':_0x1ef3ae(0x3f2)},[_0x1888cd(_0x1ef3ae(0x221),{'attrs':{'effect':'dark','content':'预览','placement':_0x1ef3ae(0x570)}},[_0x1888cd('i',{'staticClass':_0x1ef3ae(0x458),'on':{'click':_0x65a301['handlePreview']}})])],0x1),_0x1888cd(_0x1ef3ae(0x252),{'staticClass':'tool-item'},[_0x1888cd(_0x1ef3ae(0x35d),{'attrs':{'size':'medium','placement':_0x1ef3ae(0x570)},'on':{'command':function(_0x279f15){const _0x2f1ea9=_0x1ef3ae;'image'===_0x279f15?_0x65a301['handleDownloadImage']():_0x65a301[_0x2f1ea9(0x572)]();}}},[_0x1888cd(_0x1ef3ae(0x229),{'staticClass':_0x1ef3ae(0x143)},[_0x1888cd('i',{'staticClass':_0x1ef3ae(0x4f7)})]),_0x1888cd(_0x1ef3ae(0x157),{'attrs':{'slot':_0x1ef3ae(0x463)},'slot':'dropdown'},[_0x1888cd(_0x1ef3ae(0x36c),{'attrs':{'command':_0x1ef3ae(0x4a0)}},[_0x1888cd('i',{'staticClass':_0x1ef3ae(0x22b)}),_0x65a301['_v'](_0x1ef3ae(0x1eb))]),_0x1888cd(_0x1ef3ae(0x36c),{'attrs':{'command':'file'}},[_0x1888cd('i',{'staticClass':'el-icon-files\x20el-icon--left'}),_0x65a301['_v'](_0x1ef3ae(0x3b0))])],0x1)],0x1)],0x1)])]),_0x1888cd(_0x1ef3ae(0x252),{'ref':'preview','staticClass':_0x1ef3ae(0x30e)},[_0x1888cd(_0x1ef3ae(0x252),{'class':{'preview':_0x65a301['fullscreen']},'style':_0x65a301[_0x1ef3ae(0x3cd)]},[_0x1888cd(_0x1ef3ae(0x54a),{'attrs':{'options':_0x65a301[_0x1ef3ae(0x3a0)],'width':_0x65a301[_0x1ef3ae(0x40b)][0x0],'height':_0x65a301[_0x1ef3ae(0x40b)][0x1],'animate':!0x1},'on':{'on-success':function(_0x49d64f){const _0xcea91=_0x1ef3ae;_0x65a301[_0xcea91(0x1a1)]=_0x49d64f;}}})],0x1)])])])],0x1);},_0x5be566=[],_0x77a50f=function(){const _0x45b397=_0xc282b3;var _0x19fa3a=this,_0x2dffbc=_0x19fa3a['_self']['_c'];return _0x45b397(0x261)===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc('div',_0x19fa3a['_l'](_0x19fa3a['options'][_0x45b397(0x490)],function(_0x39aed8){const _0x4a30e2=_0x45b397;return _0x2dffbc(_0x4a30e2(0x1cf),{'key':_0x39aed8[_0x4a30e2(0x120)],'attrs':{'options':_0x39aed8,'values':_0x19fa3a[_0x4a30e2(0x1a9)]},'on':{'update':_0x19fa3a[_0x4a30e2(0x44d)]}});}),0x1):_0x45b397(0x546)===_0x19fa3a['options'][_0x45b397(0x18c)]?_0x2dffbc(_0x45b397(0x546),{'attrs':{'name':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x237)],'defaultOpen':_0x19fa3a['options'][_0x45b397(0x2cb)],'indent':_0x19fa3a[_0x45b397(0x548)]['indent']}},_0x19fa3a['_l'](_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x490)],function(_0x1dc5b9){const _0x255422=_0x45b397;return _0x2dffbc('attribute-tree',{'key':_0x1dc5b9[_0x255422(0x120)],'attrs':{'options':_0x1dc5b9,'values':_0x19fa3a['values']},'on':{'update':_0x19fa3a[_0x255422(0x44d)]}});}),0x1):_0x45b397(0x2d1)===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc('group',{'attrs':{'name':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x237)],'help':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x484)]}},_0x19fa3a['_l'](_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x490)],function(_0x569409){const _0x2d7d69=_0x45b397;return _0x2dffbc('attribute-tree',{'key':_0x569409[_0x2d7d69(0x120)],'attrs':{'options':_0x569409,'values':_0x19fa3a['values']},'on':{'update':_0x19fa3a[_0x2d7d69(0x44d)]}});}),0x1):_0x45b397(0x33d)===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc(_0x45b397(0x121),{'attrs':{'min':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x135)],'max':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x3df)],'step':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x2ab)]||0x1,'name':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x237)]},'model':{'value':_0x19fa3a['value'],'callback':function(_0x463299){const _0x3d4657=_0x45b397;_0x19fa3a[_0x3d4657(0x54b)]=_0x463299;},'expression':_0x45b397(0x54b)}}):_0x45b397(0x4ce)===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc(_0x45b397(0x4ce)):_0x45b397(0x1ed)===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc(_0x45b397(0x42d),{'attrs':{'name':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x237)],'color-key':_0x19fa3a[_0x45b397(0x548)]['key']},'on':{'update':_0x19fa3a[_0x45b397(0x44d)]},'model':{'value':_0x19fa3a['value'],'callback':function(_0x3ba5e2){const _0x1d1def=_0x45b397;_0x19fa3a[_0x1d1def(0x54b)]=_0x3ba5e2;},'expression':_0x45b397(0x54b)}}):_0x2dffbc(_0x45b397(0x3ae),{'attrs':{'name':_0x19fa3a[_0x45b397(0x548)]['name'],'flex':_0x45b397(0x4a0)===_0x19fa3a['options'][_0x45b397(0x18c)]?'col':_0x45b397(0x427)}},['text'===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc(_0x45b397(0x2d7),{'attrs':{'placeholder':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x274)],'size':'small'},'model':{'value':_0x19fa3a[_0x45b397(0x54b)],'callback':function(_0x30462e){const _0x39e897=_0x45b397;_0x19fa3a[_0x39e897(0x54b)]=_0x30462e;},'expression':_0x45b397(0x54b)}}):_0x19fa3a['_e'](),_0x45b397(0x527)===_0x19fa3a['options']['type']?_0x2dffbc(_0x45b397(0x3c3),{'attrs':{'placeholder':_0x19fa3a['options']['placeholder'],'size':_0x45b397(0x2d9)},'model':{'value':_0x19fa3a[_0x45b397(0x54b)],'callback':function(_0x4526c7){const _0x2d26fe=_0x45b397;_0x19fa3a[_0x2d26fe(0x54b)]=_0x4526c7;},'expression':_0x45b397(0x54b)}}):_0x19fa3a['_e'](),_0x45b397(0x4a0)===_0x19fa3a[_0x45b397(0x548)]['type']?_0x2dffbc('image-picker',{'attrs':{'allowOnline':!0x1},'model':{'value':_0x19fa3a['value'],'callback':function(_0x5ba36a){const _0x3790b1=_0x45b397;_0x19fa3a[_0x3790b1(0x54b)]=_0x5ba36a;},'expression':'value'}}):_0x19fa3a['_e'](),'select'===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc(_0x45b397(0x401),{'style':{'width':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x48e)]||_0x45b397(0x29c)},'attrs':{'size':_0x45b397(0x2d9),'filterable':''},'model':{'value':_0x19fa3a[_0x45b397(0x54b)],'callback':function(_0x50520f){_0x19fa3a['value']=_0x50520f;},'expression':_0x45b397(0x54b)}},_0x19fa3a['_l'](_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x548)],function(_0x49f1b0){const _0x5725ff=_0x45b397;return _0x2dffbc('el-option',{'key':_0x49f1b0[_0x5725ff(0x54b)],'attrs':{'label':_0x49f1b0[_0x5725ff(0x254)],'value':_0x49f1b0['value']}},[_0x49f1b0[_0x5725ff(0x330)]?_0x2dffbc(_0x5725ff(0x229),{'domProps':{'innerHTML':_0x19fa3a['_s'](_0x49f1b0['template'])}}):_0x19fa3a['_e']()]);}),0x1):_0x19fa3a['_e'](),_0x45b397(0x350)===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc(_0x45b397(0x401),{'style':{'width':_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x48e)]||'160px'},'attrs':{'size':'small','filterable':''},'model':{'value':_0x19fa3a[_0x45b397(0x54b)],'callback':function(_0x1001c8){const _0x24236a=_0x45b397;_0x19fa3a[_0x24236a(0x54b)]=_0x1001c8;},'expression':_0x45b397(0x54b)}},_0x19fa3a['_l'](_0x19fa3a['options'][_0x45b397(0x35c)],function(_0x5a2a79){const _0x42ce22=_0x45b397;return _0x2dffbc('el-option-group',{'key':_0x5a2a79[_0x42ce22(0x254)],'attrs':{'label':_0x5a2a79[_0x42ce22(0x254)]}},_0x19fa3a['_l'](_0x5a2a79[_0x42ce22(0x548)],function(_0x3f8751){const _0x212444=_0x42ce22;return _0x2dffbc('el-option',{'key':_0x3f8751[_0x212444(0x54b)],'attrs':{'label':_0x3f8751[_0x212444(0x254)],'value':_0x3f8751[_0x212444(0x54b)]}},[_0x3f8751['template']?_0x2dffbc(_0x212444(0x229),{'domProps':{'innerHTML':_0x19fa3a['_s'](_0x3f8751[_0x212444(0x330)])}}):_0x19fa3a['_e']()]);}),0x1);}),0x1):_0x19fa3a['_e'](),_0x45b397(0x498)===_0x19fa3a['options'][_0x45b397(0x18c)]?_0x2dffbc('div',{'staticClass':_0x45b397(0x286)},_0x19fa3a['_l'](_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x548)],function(_0x2b1775){const _0x232331=_0x45b397;return _0x2dffbc('el-radio',{'key':_0x2b1775[_0x232331(0x54b)],'attrs':{'label':_0x2b1775[_0x232331(0x54b)],'size':'small'},'model':{'value':_0x19fa3a[_0x232331(0x54b)],'callback':function(_0x131806){const _0x2504e4=_0x232331;_0x19fa3a[_0x2504e4(0x54b)]=_0x131806;},'expression':_0x232331(0x54b)}},[_0x19fa3a['_v']('\x20'+_0x19fa3a['_s'](_0x2b1775[_0x232331(0x254)])+'\x20')]);}),0x1):_0x19fa3a['_e'](),_0x45b397(0x563)===_0x19fa3a[_0x45b397(0x548)][_0x45b397(0x18c)]?_0x2dffbc('div',[_0x2dffbc(_0x45b397(0x1b0),{'model':{'value':_0x19fa3a[_0x45b397(0x54b)],'callback':function(_0x458886){_0x19fa3a['value']=_0x458886;},'expression':_0x45b397(0x54b)}})],0x1):_0x19fa3a['_e']()],0x1);},_0x1f3cd9=[],_0x73df57=function(){const _0x1d5b0c=_0xc282b3;var _0x3b7062=this,_0x447043=_0x3b7062[_0x1d5b0c(0x12e)]['_c'];return _0x447043(_0x1d5b0c(0x252),{'class':[_0x3b7062[_0x1d5b0c(0x313)],'row'===_0x3b7062[_0x1d5b0c(0x179)]?_0x3b7062[_0x1d5b0c(0x491)]:_0x3b7062[_0x1d5b0c(0x260)]]},[_0x447043(_0x1d5b0c(0x252),{'staticClass':_0x1d5b0c(0x2a2)},[_0x3b7062['_t']('name',function(){return[_0x3b7062['_v'](_0x3b7062['_s'](_0x3b7062['name']))];})],0x2),_0x3b7062['_t'](_0x1d5b0c(0x223))],0x2);},_0x12f079=[],_0x36b8c1={'props':{'name':String,'flex':{'default':_0xc282b3(0x427),'type':String}},'data'(){const _0x39cbcf=_0xc282b3;return{'containerClass':'field-container','rowClass':_0x39cbcf(0x427),'colClass':_0x39cbcf(0x163)};}},_0x32f77a=_0x36b8c1,_0x2fed90=(_0x561369(_0xc282b3(0x1e2)),Object(_0xe49168['a'])(_0x32f77a,_0x73df57,_0x12f079,!0x1,null,'55b03386',null)),_0x5e2917=_0x2fed90['exports'],_0x209895=function(){const _0x5e0b9c=_0xc282b3;var _0x4aab0b=this,_0x16aab7=_0x4aab0b['_self']['_c'];return _0x16aab7(_0x5e0b9c(0x252),{'staticClass':'group-container'},[_0x16aab7(_0x5e0b9c(0x252),{'staticClass':_0x5e0b9c(0x365)},[_0x16aab7(_0x5e0b9c(0x229),{'staticClass':_0x5e0b9c(0x3a1)},[_0x4aab0b[_0x5e0b9c(0x484)]?_0x16aab7('el-popover',{'staticClass':'item','attrs':{'effect':_0x5e0b9c(0x404),'width':_0x5e0b9c(0x323),'trigger':'hover','placement':_0x5e0b9c(0x423)}},[_0x16aab7(_0x5e0b9c(0x252),{'staticClass':_0x5e0b9c(0x2dc),'domProps':{'innerHTML':_0x4aab0b['_s'](_0x4aab0b[_0x5e0b9c(0x484)])}}),_0x16aab7('i',{'staticClass':_0x5e0b9c(0x413),'attrs':{'slot':_0x5e0b9c(0x275)},'slot':_0x5e0b9c(0x275)})]):_0x4aab0b['_e'](),_0x4aab0b['_v']('\x20'+_0x4aab0b['_s'](_0x4aab0b[_0x5e0b9c(0x237)])+'\x20')],0x1)]),_0x16aab7(_0x5e0b9c(0x252),{'staticClass':_0x5e0b9c(0x211)},[_0x4aab0b['_t'](_0x5e0b9c(0x223))],0x2)]);},_0x5ab00e=[],_0x62a303={'props':{'name':String,'help':String},'data'(){return{'visible':!0x0};}},_0x10fde6=_0x62a303,_0x16baf1=(_0x561369(_0xc282b3(0x265)),Object(_0xe49168['a'])(_0x10fde6,_0x209895,_0x5ab00e,!0x1,null,null,null)),_0x11fc6f=_0x16baf1[_0xc282b3(0x256)],_0x3a7b24=function(){const _0x3f00cb=_0xc282b3;var _0x24c8d8=this,_0x28f89b=_0x24c8d8[_0x3f00cb(0x12e)]['_c'];return _0x28f89b(_0x3f00cb(0x252),[_0x28f89b(_0x3f00cb(0x4f4),{'class':['image-uploader',{'image-height':''===_0x24c8d8[_0x3f00cb(0x4f2)]},{'image-dash-border':_0x24c8d8[_0x3f00cb(0x3c2)]}],'attrs':{'action':'','auto-upload':!0x1,'on-change':_0x24c8d8[_0x3f00cb(0x1a2)],'on-remove':_0x24c8d8[_0x3f00cb(0x4c2)],'limit':0x1}},[''!==_0x24c8d8[_0x3f00cb(0x4f2)]?_0x28f89b('img',{'staticClass':_0x3f00cb(0x4a0),'attrs':{'src':_0x24c8d8[_0x3f00cb(0x4f2)],'alt':_0x3f00cb(0x44b)},'on':{'mouseenter':function(_0x297c70){const _0x47075c=_0x3f00cb;_0x24c8d8[_0x47075c(0x34b)]=!0x0;},'error':_0x24c8d8['handleErrorImage']}}):_0x28f89b('i',{'staticClass':_0x3f00cb(0x33a),'on':{'mouseenter':function(_0x34ce94){_0x24c8d8['hover']=!0x0;}}}),_0x24c8d8[_0x3f00cb(0x34b)]?_0x28f89b(_0x3f00cb(0x252),{'staticClass':'image-overlay','on':{'mouseleave':function(_0x3cc3b1){const _0x15a798=_0x3f00cb;_0x24c8d8[_0x15a798(0x34b)]=!0x1;},'click':_0x24c8d8[_0x3f00cb(0x482)]}},[_0x24c8d8[_0x3f00cb(0x19a)]?_0x28f89b(_0x3f00cb(0x252),[_0x24c8d8[_0x3f00cb(0x3c2)]?_0x24c8d8['_e']():_0x28f89b(_0x3f00cb(0x30a),{'attrs':{'icon':'el-icon-upload','type':_0x3f00cb(0x277)}},[_0x24c8d8['_v'](_0x3f00cb(0x45a))]),_0x24c8d8[_0x3f00cb(0x3c2)]?_0x24c8d8['_e']():_0x28f89b(_0x3f00cb(0x30a),{'attrs':{'icon':_0x3f00cb(0x422),'type':_0x3f00cb(0x277)},'on':{'click':_0x24c8d8['handleUploadOnline']}},[_0x24c8d8['_v']('Online')])],0x1):_0x24c8d8['_e']()]):_0x24c8d8['_e']()]),_0x28f89b(_0x3f00cb(0x410),{'attrs':{'title':_0x3f00cb(0x551),'visible':_0x24c8d8[_0x3f00cb(0x1bb)],'append-to-body':''},'on':{'update:visible':function(_0x20f7a8){const _0x3e82ec=_0x3f00cb;_0x24c8d8[_0x3e82ec(0x1bb)]=_0x20f7a8;}}},[_0x28f89b(_0x3f00cb(0x2d7),{'model':{'value':_0x24c8d8[_0x3f00cb(0x1c2)],'callback':function(_0x353edf){const _0x59e6da=_0x3f00cb;_0x24c8d8[_0x59e6da(0x1c2)]=_0x353edf;},'expression':_0x3f00cb(0x1c2)}}),_0x28f89b('span',{'staticClass':_0x3f00cb(0x302),'attrs':{'slot':'footer'},'slot':_0x3f00cb(0x554)},[_0x28f89b(_0x3f00cb(0x30a),{'on':{'click':function(_0x3855af){_0x24c8d8['showUploadDialog']=!0x1;}}},[_0x24c8d8['_v'](_0x3f00cb(0x2e3))]),_0x28f89b(_0x3f00cb(0x30a),{'attrs':{'type':_0x3f00cb(0x277)},'on':{'click':_0x24c8d8[_0x3f00cb(0x243)]}},[_0x24c8d8['_v'](_0x3f00cb(0x312))])],0x1)],0x1)],0x1);},_0x5cf951=[],_0x557dca=_0x561369(_0xc282b3(0x32e));function _0xdf9b9c(_0x8619b){const _0x4947b0=_0xc282b3,_0x2a4b27=new FileReader();return _0x2a4b27[_0x4947b0(0x2a3)](_0x8619b),new Promise(_0x4e9087=>{_0x2a4b27['onload']=()=>{const _0x416416=_0x54a9;_0x4e9087(_0x2a4b27[_0x416416(0x3c5)]);};});}function _0x340a5d(_0xca5b55,_0x2a9ad0){const _0x1187de=_0xc282b3,_0x221de3=document[_0x1187de(0x3d0)]('a');_0x221de3['download']=_0x2a9ad0,_0x221de3[_0x1187de(0x186)]=_0xca5b55[_0x1187de(0x55c)](_0x1187de(0x485)),document[_0x1187de(0x129)][_0x1187de(0x132)](_0x221de3),_0x221de3['click'](),_0x221de3[_0x1187de(0x28f)]();}function _0x2b5f98(_0x2a5b07,_0x395458){const _0x17beac=_0xc282b3,_0x1beae6=new File([JSON[_0x17beac(0x414)](_0x2a5b07)],_0x395458+_0x17beac(0x271),{'type':_0x17beac(0x454)});Object(_0x557dca[_0x17beac(0x2ca)])(_0x1beae6);}var _0x5558fa={'model':{'prop':'imageURL','event':_0xc282b3(0x27c)},'props':{'imageURL':String,'cacheImage':{'type':Boolean,'default':!0x0},'allowOnline':{'type':Boolean,'default':!0x0}},'data'(){return{'uploaded':!0x1,'hover':!0x1,'showUploadDialog':!0x1,'onlineImageURL':'','preImageURL':''};},'watch':{'imageURL'(_0x341784,_0x5d56f8){const _0xec3d4a=_0xc282b3;this[_0xec3d4a(0x2c7)]=_0x5d56f8;}},'methods':{async 'handleChange'(_0x164673){const _0xeffbeb=_0xc282b3,_0x82832b=await _0xdf9b9c(_0x164673[_0xeffbeb(0x2a8)]);this[_0xeffbeb(0x3c2)]=!0x0,this[_0xeffbeb(0x57a)]('change',_0x82832b);},'handleRemove'(){const _0x19b9a2=_0xc282b3;this['uploaded']=!0x1,this[_0x19b9a2(0x34b)]=!0x1,this[_0x19b9a2(0x4ee)]||this[_0x19b9a2(0x57a)](_0x19b9a2(0x27c),'');},'handleUploadOnline'(_0x1ee025){const _0x1dd15a=_0xc282b3;_0x1ee025[_0x1dd15a(0x4d5)](),this['showUploadDialog']=!0x0;},'handleClickOverlay'(_0x42baa1){const _0x93c50b=_0xc282b3;this['uploaded']&&(_0x316bba['a'][_0x93c50b(0x42a)]('Please\x20delete\x20uploaded\x20image\x20first!'),_0x42baa1[_0x93c50b(0x4d5)]());},'handleConfirmOnline'(){const _0xa73700=_0xc282b3;this[_0xa73700(0x1c2)]?this[_0xa73700(0x57a)](_0xa73700(0x27c),this[_0xa73700(0x1c2)]):_0x316bba['a']['error']('Please\x20provide\x20non-empty\x20url!'),this[_0xa73700(0x1bb)]=!0x1;},'handleErrorImage'(){const _0x557d6d=_0xc282b3;_0x316bba['a']['error']('Invalid\x20image\x20url!'),this[_0x557d6d(0x57a)](_0x557d6d(0x27c),this[_0x557d6d(0x2c7)]);}}},_0x1b746f=_0x5558fa,_0x43fce6=(_0x561369(_0xc282b3(0x2e6)),Object(_0xe49168['a'])(_0x1b746f,_0x3a7b24,_0x5cf951,!0x1,null,null,null)),_0x1e30ba=_0x43fce6[_0xc282b3(0x256)],_0x549682=function(){const _0x20ce6a=_0xc282b3;var _0x594771=this,_0x1212ba=_0x594771[_0x20ce6a(0x12e)]['_c'];return _0x1212ba('field',{'attrs':{'name':_0x594771[_0x20ce6a(0x237)]},'scopedSlots':_0x594771['_u']([{'key':_0x20ce6a(0x237),'fn':function(){const _0x39d711=_0x20ce6a;return[_0x1212ba(_0x39d711(0x229),{'style':_0x594771[_0x39d711(0x23f)],'on':{'mousedown':_0x594771['handleMouseDown']}},[_0x594771['_v'](_0x594771['_s'](_0x594771[_0x39d711(0x237)]))])];},'proxy':!0x0}])},[_0x1212ba(_0x20ce6a(0x4de),{'attrs':{'controls-position':_0x20ce6a(0x1ba),'min':_0x594771[_0x20ce6a(0x135)],'max':_0x594771['max'],'step':_0x594771['step'],'size':_0x20ce6a(0x2d9)},'model':{'value':_0x594771[_0x20ce6a(0x1c3)],'callback':function(_0x154663){_0x594771['numberValue']=_0x154663;},'expression':_0x20ce6a(0x1c3)}}),_0x594771[_0x20ce6a(0x439)]?_0x1212ba(_0x20ce6a(0x252),{'staticClass':_0x20ce6a(0x4ae),'style':_0x594771['cursorStyle'],'on':{'mouseup':_0x594771[_0x20ce6a(0x140)],'mousemove':_0x594771['handleMouseMove']}}):_0x594771['_e']()],0x1);},_0x1e1cd5=[],_0x5dc9b3={'components':{'Field':_0x5e2917},'props':{'min':{'type':Number,'default':-0x1/0x0},'max':{'type':Number,'default':0x1/0x0},'value':Number,'step':Number,'name':String},'data'(){return{'showOverlay':!0x1,'x':0x0,'initValue':0x0};},'computed':{'numberValue':{'get'(){return this['value'];},'set'(_0x4bcc43){const _0x4793bd=_0xc282b3;this[_0x4793bd(0x57a)](_0x4793bd(0x4a6),_0x4bcc43);}},'cursorStyle'(){const _0x5ac29d=_0xc282b3;let _0x2af4bd;return _0x2af4bd=this[_0x5ac29d(0x54b)]<=this['min']?_0x5ac29d(0x1a8):this['value']>=this[_0x5ac29d(0x3df)]?_0x5ac29d(0x443):_0x5ac29d(0x4f9),{'cursor':_0x2af4bd};}},'methods':{'handleMouseDown'({clientX:_0x32ac13}){const _0x44736a=_0xc282b3;this['showOverlay']=!0x0,this['x']=_0x32ac13,this[_0x44736a(0x3a8)]=this['value'];},'handleMouseUp'(){this['showOverlay']=!0x1;},'handleMouseMove'({clientX:_0x37e339}){const _0x33c9f9=_0xc282b3,_0x27e871=_0x37e339-this['x'],_0x192ad1=this[_0x33c9f9(0x3a8)]+_0x27e871;this[_0x33c9f9(0x57a)]('input',_0x192ad1);}}},_0x33d074=_0x5dc9b3,_0x22f0be=(_0x561369('e6d5'),Object(_0xe49168['a'])(_0x33d074,_0x549682,_0x1e1cd5,!0x1,null,null,null)),_0x4510c4=_0x22f0be[_0xc282b3(0x256)],_0x3d9848=function(){const _0x43990d=_0xc282b3;var _0x3bb73f=this,_0x5b30ee=_0x3bb73f[_0x43990d(0x12e)]['_c'];return _0x5b30ee('div',[_0x5b30ee(_0x43990d(0x3ae),{'attrs':{'name':_0x3bb73f[_0x43990d(0x237)]}},[_0x5b30ee(_0x43990d(0x229),{'staticClass':_0x43990d(0x11e)},[_0x5b30ee('i',{'staticClass':_0x43990d(0x394),'style':_0x3bb73f[_0x43990d(0x2fe)],'on':{'click':function(_0x308dc8){const _0x6cea7f=_0x43990d;_0x3bb73f[_0x6cea7f(0x126)]=!_0x3bb73f[_0x6cea7f(0x126)];}}})])]),_0x5b30ee('el-collapse-transition',[_0x5b30ee('div',{'directives':[{'name':_0x43990d(0x2c9),'rawName':'v-show','value':_0x3bb73f[_0x43990d(0x126)],'expression':_0x43990d(0x126)}],'staticClass':'collapse-children','style':{'paddingLeft':_0x3bb73f[_0x43990d(0x255)]?_0x43990d(0x17d):0x0}},[_0x3bb73f['_t'](_0x43990d(0x223))],0x2)])],0x1);},_0x3a6731=[],_0x44125b={'components':{'Field':_0x5e2917},'props':{'name':String,'indent':{'type':Boolean,'default':!0x0},'defaultOpen':{'type':Boolean,'default':!0x0},'maxHeight':{'type':Number,'default':0x1f4}},'data'(){const _0x497a95=_0xc282b3;return{'open':this[_0x497a95(0x2cb)]};},'computed':{'iconStyle'(){const _0x54459c=_0xc282b3;return{'transform':_0x54459c(0x258)+(this[_0x54459c(0x126)]?0x0:0xb4)+_0x54459c(0x2c4)};},'childrenStyle'(){const _0x20cf3d=_0xc282b3;return this['open']?{}:{'height':_0x20cf3d(0x28e)};}}},_0x59785e=_0x44125b,_0x55a2d3=(_0x561369(_0xc282b3(0x27f)),Object(_0xe49168['a'])(_0x59785e,_0x3d9848,_0x3a6731,!0x1,null,null,null)),_0x8a2965=_0x55a2d3[_0xc282b3(0x256)],_0x769c0c=function(){const _0x35b767=_0xc282b3;var _0x12e885=this,_0x106186=_0x12e885[_0x35b767(0x12e)]['_c'];return _0x106186('div',{'staticClass':_0x35b767(0x3d1)},[_0x106186(_0x35b767(0x39b),{'attrs':{'placement':_0x35b767(0x1f9),'width':_0x35b767(0x323),'trigger':_0x35b767(0x529)}},[_0x106186(_0x35b767(0x252),{'staticClass':_0x35b767(0x2fb)},[_0x106186(_0x35b767(0x426),{'attrs':{'value':_0x35b767(0x469)}},[_0x106186(_0x35b767(0x48c),{'attrs':{'label':_0x35b767(0x43e),'name':_0x35b767(0x469)}},[_0x106186(_0x35b767(0x3b7),{'on':{'input':_0x12e885[_0x35b767(0x270)]}})],0x1),_0x106186(_0x35b767(0x48c),{'attrs':{'label':_0x35b767(0x12b),'name':_0x35b767(0x176)}},[_0x106186(_0x35b767(0x3fe),{'on':{'input':_0x12e885[_0x35b767(0x270)]}})],0x1)],0x1)],0x1),_0x106186(_0x35b767(0x2d7),{'style':{'width':_0x35b767(0x3a4)},'attrs':{'slot':_0x35b767(0x275),'id':_0x35b767(0x2fd),'placeholder':_0x12e885[_0x35b767(0x274)],'size':_0x12e885['size'],'type':_0x35b767(0x1c6),'autosize':''},'slot':'reference','model':{'value':_0x12e885[_0x35b767(0x392)],'callback':function(_0x44042f){const _0xfc33ee=_0x35b767;_0x12e885[_0xfc33ee(0x392)]=_0x44042f;},'expression':'textValue'}})],0x1)],0x1);},_0x359895=[],_0x3344fb=function(){const _0x887d6f=_0xc282b3;var _0x1bfa96=this,_0x2f200c=_0x1bfa96[_0x887d6f(0x12e)]['_c'];return _0x2f200c('div',{'staticClass':_0x887d6f(0x3ab)},[_0x2f200c('el-tabs',{'attrs':{'tab-position':_0x887d6f(0x570)},'model':{'value':_0x1bfa96[_0x887d6f(0x24f)],'callback':function(_0x45b1a8){const _0x22bd9d=_0x887d6f;_0x1bfa96[_0x22bd9d(0x24f)]=_0x45b1a8;},'expression':'selectedName'}},_0x1bfa96['_l'](_0x1bfa96['emojiGroups'],function(_0x627e5d){const _0x392173=_0x887d6f;return _0x2f200c(_0x392173(0x48c),{'key':_0x627e5d['name'],'attrs':{'label':_0x627e5d['emoji'],'name':_0x627e5d['name']}},[_0x2f200c('div',{'staticClass':_0x392173(0x29f)},_0x1bfa96['_l'](_0x1bfa96[_0x392173(0x354)],function(_0x2070c9){const _0x2bbeeb=_0x392173;return _0x2f200c('span',{'key':_0x2070c9[_0x2bbeeb(0x237)],'staticClass':_0x2bbeeb(0x2f7),'on':{'click':()=>_0x1bfa96['handleClick'](_0x2070c9)}},[_0x1bfa96['_v'](_0x1bfa96['_s'](_0x2070c9[_0x2bbeeb(0x153)]))]);}),0x0)]);}),0x1)],0x1);},_0x5c7ea3=[],_0x4f4b35=_0x561369(_0xc282b3(0x32b));const _0x373b75=Object[_0xc282b3(0x4cc)](_0x4f4b35)['map'](_0x105f3b=>({'name':_0x105f3b,'emoji':_0x4f4b35[_0x105f3b][0x0][_0xc282b3(0x153)]}));var _0x170d9d={'data'(){const _0x227746=_0xc282b3;return{'emojiGroups':_0x373b75,'selectedName':_0x373b75[0x0][_0x227746(0x237)]};},'computed':{'emojis'(){const _0x280914=_0xc282b3;return _0x4f4b35[this[_0x280914(0x24f)]];}},'methods':{'handleClick'(_0x354117){const _0x4aa14c=_0xc282b3;this[_0x4aa14c(0x57a)](_0x4aa14c(0x4a6),_0x354117[_0x4aa14c(0x153)]);}}},_0xb9503d=_0x170d9d,_0x424f0c=(_0x561369(_0xc282b3(0x2b7)),Object(_0xe49168['a'])(_0xb9503d,_0x3344fb,_0x5c7ea3,!0x1,null,null,null)),_0x1be819=_0x424f0c['exports'],_0x190f07=function(){const _0x2a6fae=_0xc282b3;var _0x5442b1=this,_0x4a47ab=_0x5442b1[_0x2a6fae(0x12e)]['_c'];return _0x4a47ab('div',{'staticClass':_0x2a6fae(0x4d3)},[_0x4a47ab('div',{'staticClass':'emoticon-picker-header'},[_0x4a47ab('el-button',{'attrs':{'type':_0x2a6fae(0x277),'size':_0x2a6fae(0x2e2)},'on':{'click':_0x5442b1['generateEmotion']}},[_0x5442b1['_v'](_0x2a6fae(0x4b5))]),_0x4a47ab('span',{'staticClass':'emoticon-picker-item','on':{'click':()=>_0x5442b1[_0x2a6fae(0x3db)](_0x5442b1[_0x2a6fae(0x2f5)])}},[_0x5442b1['_v'](_0x5442b1['_s'](_0x5442b1[_0x2a6fae(0x2f5)]))])],0x1),_0x4a47ab(_0x2a6fae(0x252),{'staticClass':_0x2a6fae(0x380)},_0x5442b1['_l'](_0x5442b1[_0x2a6fae(0x212)],function(_0x324567){const _0xc49ae=_0x2a6fae;return _0x4a47ab(_0xc49ae(0x229),{'key':_0x324567,'staticClass':_0xc49ae(0x1d2),'on':{'click':()=>_0x5442b1[_0xc49ae(0x3db)](_0x324567)}},[_0x5442b1['_v'](_0x5442b1['_s'](_0x324567))]);}),0x0)]);},_0x3fe550=[],_0x20a724=_0x561369(_0xc282b3(0x460)),_0x3681d2=_0x561369['n'](_0x20a724),_0x2db194=_0x561369(_0xc282b3(0x1d7)),_0x502a40={'data'(){return{'randomEmoticon':_0x3681d2()(),'faces':_0x2db194};},'methods':{'generateEmotion'(){const _0x3f2534=_0xc282b3;this[_0x3f2534(0x2f5)]=_0x3681d2()();},'handleClick'(_0x479d54){const _0x2bdcde=_0xc282b3;this[_0x2bdcde(0x57a)]('input',_0x479d54);}}},_0x387bfc=_0x502a40,_0x1567a0=(_0x561369('0f57'),Object(_0xe49168['a'])(_0x387bfc,_0x190f07,_0x3fe550,!0x1,null,null,null)),_0x1ba589=_0x1567a0['exports'],_0x273bfb={'components':{'EmojiPicker':_0x1be819,'EmoticonPicker':_0x1ba589},'props':{'placeholder':String,'size':String,'value':String},'computed':{'textValue':{'get'(){return this['value'];},'set'(_0x36dd6d){const _0x301403=_0xc282b3;this['$emit'](_0x301403(0x4a6),_0x36dd6d);}}},'methods':{'handleInput'(_0x8473c8){const _0x11e841=_0xc282b3,_0x46a43d=document[_0x11e841(0x3b9)]('emojiInput'),{selectionStart:_0x2322a0,selectionEnd:_0x4d0135}=_0x46a43d;if(void 0x0===_0x2322a0||void 0x0===_0x4d0135)return;const _0x47e036=this[_0x11e841(0x392)][_0x11e841(0x4da)](0x0,_0x2322a0)+_0x8473c8+this[_0x11e841(0x392)][_0x11e841(0x4da)](_0x4d0135);_0x46a43d[_0x11e841(0x54b)]=_0x47e036,_0x46a43d['focus'](),_0x46a43d[_0x11e841(0x4aa)]=_0x2322a0+_0x8473c8[_0x11e841(0x226)],_0x46a43d['selectionEnd']=_0x2322a0+_0x8473c8[_0x11e841(0x226)],this['textValue']=_0x47e036;}}},_0x2fe21a=_0x273bfb,_0x2f348d=(_0x561369(_0xc282b3(0x21a)),Object(_0xe49168['a'])(_0x2fe21a,_0x769c0c,_0x359895,!0x1,null,null,null)),_0x35e918=_0x2f348d['exports'],_0x31824d=function(){const _0x5b9c86=_0xc282b3;var _0x2a8778=this,_0x569443=_0x2a8778[_0x5b9c86(0x12e)]['_c'];return _0x569443(_0x5b9c86(0x252),{'staticClass':_0x5b9c86(0x45b),'style':{'borderColor':_0x2a8778['over']?_0x5b9c86(0x137):'#d9d9d9'},'on':{'dragover':_0x2a8778['handleDragover'],'drop':_0x2a8778[_0x5b9c86(0x378)],'dragleave':function(_0x221307){const _0x44da4f=_0x5b9c86;_0x2a8778[_0x44da4f(0x45c)]=!0x1;}}},[0x0===_0x2a8778['colors'][_0x5b9c86(0x226)]?_0x569443('div',{'staticClass':_0x5b9c86(0x4e0),'on':{'mouseover':function(_0x3f33b7){_0x2a8778['showButtons']=!0x0;},'mouseleave':function(_0x537e4e){const _0x426bde=_0x5b9c86;_0x2a8778[_0x426bde(0x377)]=!0x1;}}},[_0x569443(_0x5b9c86(0x56d),{'style':{'opacity':_0x2a8778[_0x5b9c86(0x377)]?0x0:0x1},'attrs':{'description':'拖拽颜色到此处添加。'}}),_0x2a8778[_0x5b9c86(0x377)]?_0x569443(_0x5b9c86(0x252),{'staticClass':'color-palette-btns'},[_0x569443(_0x5b9c86(0x30a),{'attrs':{'icon':_0x5b9c86(0x37e),'type':_0x5b9c86(0x277),'size':_0x5b9c86(0x2d9)},'on':{'click':function(_0x1d2865){const _0x260410=_0x5b9c86;_0x2a8778[_0x260410(0x4a5)]=!0x0;}}},[_0x2a8778['_v'](_0x5b9c86(0x502))]),_0x569443(_0x5b9c86(0x30a),{'attrs':{'icon':'el-icon-plus','type':_0x5b9c86(0x277),'size':_0x5b9c86(0x2d9)},'on':{'click':function(_0x4682fe){_0x2a8778['showImageExtractor']=!0x0;}}},[_0x2a8778['_v'](_0x5b9c86(0x398))])],0x1):_0x2a8778['_e']()],0x1):_0x569443(_0x5b9c86(0x252),{'staticClass':_0x5b9c86(0x1b7)},[_0x2a8778['_l'](_0x2a8778[_0x5b9c86(0x213)],function(_0x381433){const _0x5cd749=_0x5b9c86;return _0x569443(_0x5cd749(0x229),{'key':_0x381433,'staticClass':_0x5cd749(0x3eb),'style':{'background':_0x381433},'attrs':{'draggable':'true'},'on':{'dragstart':_0x5bcbc9=>_0x2a8778[_0x5cd749(0x495)](_0x5bcbc9,_0x381433)}});}),_0x569443(_0x5b9c86(0x39b),{'attrs':{'placement':_0x5b9c86(0x570),'trigger':'hover'}},[_0x569443(_0x5b9c86(0x30a),{'attrs':{'icon':_0x5b9c86(0x37e),'type':'primary','size':_0x5b9c86(0x2d9)},'on':{'click':function(_0x27bf59){_0x2a8778['showColorsStore']=!0x0;}}},[_0x2a8778['_v'](_0x5b9c86(0x502))]),_0x569443(_0x5b9c86(0x30a),{'attrs':{'icon':_0x5b9c86(0x37e),'type':_0x5b9c86(0x277),'size':_0x5b9c86(0x2d9)},'on':{'click':function(_0x259f44){const _0x3d4200=_0x5b9c86;_0x2a8778[_0x3d4200(0x50b)]=!0x0;}}},[_0x2a8778['_v'](_0x5b9c86(0x398))]),_0x569443('i',{'staticClass':_0x5b9c86(0x189),'style':{'float':_0x5b9c86(0x1d6),'cursor':_0x5b9c86(0x494),'lineHeight':_0x5b9c86(0x3e8)},'attrs':{'slot':_0x5b9c86(0x275)},'slot':_0x5b9c86(0x275)})],0x1)],0x2),_0x569443(_0x5b9c86(0x410),{'attrs':{'title':_0x5b9c86(0x502),'width':_0x5b9c86(0x519),'visible':_0x2a8778[_0x5b9c86(0x4a5)]},'on':{'update:visible':function(_0x50c623){const _0x5c0aab=_0x5b9c86;_0x2a8778[_0x5c0aab(0x4a5)]=_0x50c623;}}},[_0x569443(_0x5b9c86(0x426),{'attrs':{'value':_0x2a8778[_0x5b9c86(0x35e)][0x0][_0x5b9c86(0x237)]}},_0x2a8778['_l'](_0x2a8778[_0x5b9c86(0x35e)],function(_0x57c2cc){const _0x33865c=_0x5b9c86;return _0x569443(_0x33865c(0x48c),{'key':_0x57c2cc[_0x33865c(0x237)],'attrs':{'label':_0x57c2cc[_0x33865c(0x237)],'name':_0x57c2cc[_0x33865c(0x237)]}},[_0x569443('p',{'staticClass':_0x33865c(0x56a),'domProps':{'innerHTML':_0x2a8778['_s'](_0x57c2cc['des'])}}),_0x569443(_0x33865c(0x252),{'staticClass':_0x33865c(0x124)},_0x2a8778['_l'](_0x57c2cc[_0x33865c(0x213)],function(_0x22f183){const _0xfc455f=_0x33865c;return _0x569443(_0xfc455f(0x252),{'key':_0x22f183[_0xfc455f(0x237)]||_0x22f183['values'][_0xfc455f(0x327)]('')},[_0x569443(_0xfc455f(0x252),{'on':{'click':()=>_0x2a8778[_0xfc455f(0x3be)](_0x22f183['values'])}},[_0x569443('el-card',{'style':{'width':_0x2a8778[_0xfc455f(0x391)]+'px','height':_0x2a8778[_0xfc455f(0x391)]+'px','margin':'0px\x208px','cursor':_0xfc455f(0x494)},'attrs':{'shadow':'hover'}},_0x2a8778['_l'](_0x22f183['values'],function(_0x1202a2){const _0xbe4ca6=_0xfc455f;return _0x569443(_0xbe4ca6(0x252),{'key':_0x1202a2,'style':{'background':_0x1202a2,'width':_0xbe4ca6(0x504),'height':_0x2a8778[_0xbe4ca6(0x391)]/(_0x22f183[_0xbe4ca6(0x1a9)][_0xbe4ca6(0x226)]||0x1)+'px'}});}),0x0)],0x1),_0x569443(_0xfc455f(0x252),{'style':{'height':_0xfc455f(0x3e8),'width':_0x2a8778[_0xfc455f(0x391)]+'px','margin':_0xfc455f(0x4ed)}},[_0x569443(_0xfc455f(0x229),[_0x2a8778['_v'](_0x2a8778['_s'](_0x22f183[_0xfc455f(0x237)]||'Learn\x20More'))]),_0x22f183['link']?_0x569443(_0xfc455f(0x229),{'staticClass':_0xfc455f(0x14c)},[_0x569443(_0xfc455f(0x17a),{'attrs':{'href':_0x22f183[_0xfc455f(0x362)],'target':_0xfc455f(0x55a),'underline':!0x1}},[_0x569443('i',{'staticClass':_0xfc455f(0x21b),'staticStyle':{'font-size':_0xfc455f(0x194)}})])],0x1):_0x2a8778['_e']()])]);}),0x0)]);}),0x1),_0x569443(_0x5b9c86(0x229),{'staticClass':_0x5b9c86(0x302),'attrs':{'slot':_0x5b9c86(0x554)},'slot':_0x5b9c86(0x554)},[_0x569443(_0x5b9c86(0x30a),{'on':{'click':function(_0x525f35){const _0x1b2d99=_0x5b9c86;_0x2a8778[_0x1b2d99(0x4a5)]=!0x1;}}},[_0x2a8778['_v'](_0x5b9c86(0x2e3))])],0x1)],0x1),_0x569443(_0x5b9c86(0x410),{'attrs':{'title':_0x5b9c86(0x4a2),'visible':_0x2a8778[_0x5b9c86(0x50b)]},'on':{'update:visible':function(_0x1c67e8){_0x2a8778['showImageExtractor']=_0x1c67e8;}}},[_0x569443(_0x5b9c86(0x200),{'model':{'value':_0x2a8778[_0x5b9c86(0x3b6)],'callback':function(_0x29113){const _0x4db164=_0x5b9c86;_0x2a8778[_0x4db164(0x3b6)]=_0x29113;},'expression':_0x5b9c86(0x3b6)}}),_0x569443(_0x5b9c86(0x229),{'staticClass':_0x5b9c86(0x302),'attrs':{'slot':_0x5b9c86(0x554)},'slot':_0x5b9c86(0x554)},[_0x569443(_0x5b9c86(0x30a),{'on':{'click':_0x2a8778['handleCloseImageColorPicker']}},[_0x2a8778['_v'](_0x5b9c86(0x2e3))]),_0x569443(_0x5b9c86(0x30a),{'directives':[{'name':_0x5b9c86(0x2c9),'rawName':_0x5b9c86(0x1f6),'value':0x0!==_0x2a8778[_0x5b9c86(0x3b6)]['length'],'expression':_0x5b9c86(0x4d1)}],'attrs':{'type':_0x5b9c86(0x277)},'on':{'click':_0x2a8778['handleAddImageColors']}},[_0x2a8778['_v'](_0x5b9c86(0x441))])],0x1)],0x1)],0x1);},_0xaaf358=[];const _0x4bcf2f={'name':'品牌','des':'来自各大品牌的配色','colors':[{'name':_0xc282b3(0x20a),'values':['#147bfb'],'link':_0xc282b3(0x44f)},{'name':_0xc282b3(0x4ea),'values':[_0xc282b3(0x3cb)],'link':_0xc282b3(0x3fa)},{'name':'哔哩哔哩','values':[_0xc282b3(0x555)],'link':_0xc282b3(0x49f)},{'name':'语雀','values':[_0xc282b3(0x344),_0xc282b3(0x25f)],'link':'https://www.yuque.com/'},{'name':'抖音','values':[_0xc282b3(0x4c4),'#10faef',_0xc282b3(0x3c9)],'link':_0xc282b3(0x472)},{'name':'微软','values':[_0xc282b3(0x4e1),_0xc282b3(0x2a4),_0xc282b3(0x2bf),_0xc282b3(0x1f1)],'link':_0xc282b3(0x464)},{'name':'谷歌','values':[_0xc282b3(0x435),'#35a454',_0xc282b3(0x317),_0xc282b3(0x41f)],'link':'https://www.google.com/'},{'name':_0xc282b3(0x318),'values':[_0xc282b3(0x368)],'link':_0xc282b3(0x3c1)},{'name':'Facebook','values':['#1977F3'],'link':_0xc282b3(0x3f9)},{'name':_0xc282b3(0x273),'values':[_0xc282b3(0x173)],'link':_0xc282b3(0x2f2)},{'name':_0xc282b3(0x33e),'values':[_0xc282b3(0x559),_0xc282b3(0x233),'#00d5ff',_0xc282b3(0x207)],'link':_0xc282b3(0x4f0)},{'name':_0xc282b3(0x150),'values':[_0xc282b3(0x360),_0xc282b3(0x40e)],'link':_0xc282b3(0x322)}]},_0x4d3bc4={'name':_0xc282b3(0x170),'des':'<span>来自一些\x20<a\x20href=\x27https://china.nba.com/\x27\x20target=\x27_blank\x27>NBA</a>球队的配色</span>','colors':[{'name':_0xc282b3(0x1e3),'values':[_0xc282b3(0x4e4)]},{'name':_0xc282b3(0x2b2),'values':['#FBB82C',_0xc282b3(0x4c5)]},{'name':_0xc282b3(0x125),'values':[_0xc282b3(0x48f),_0xc282b3(0x3da)]},{'name':_0xc282b3(0x315),'values':[_0xc282b3(0x27b),_0xc282b3(0x4c3)]},{'name':_0xc282b3(0x50f),'values':[_0xc282b3(0x1e7),_0xc282b3(0x266),'#5ca0bf']},{'name':_0xc282b3(0x51a),'values':[_0xc282b3(0x2f9),'#747677',_0xc282b3(0x296)]}]},_0x2a6be0={'name':_0xc282b3(0x39f),'owner':!0x1,'des':_0xc282b3(0x160),'colors':[{'values':[_0xc282b3(0x181),_0xc282b3(0x26c),_0xc282b3(0x2de),_0xc282b3(0x25d)],'link':_0xc282b3(0x363)},{'values':['#222831',_0xc282b3(0x2ed),_0xc282b3(0x4e3),_0xc282b3(0x4bc)],'link':_0xc282b3(0x4e8)},{'values':[_0xc282b3(0x19f),_0xc282b3(0x51b),_0xc282b3(0x41e),_0xc282b3(0x26b)],'link':_0xc282b3(0x4d7)},{'values':[_0xc282b3(0x417),_0xc282b3(0x3b2),_0xc282b3(0x2c6),_0xc282b3(0x12f)],'link':'https://colorhunt.co/palette/08d9d6252a34ff2e63eaeaea'},{'values':[_0xc282b3(0x1dc),_0xc282b3(0x3fc),_0xc282b3(0x55f),_0xc282b3(0x356)],'link':_0xc282b3(0x3e7)},{'values':[_0xc282b3(0x2a1),_0xc282b3(0x3e1),_0xc282b3(0x1aa),'#FFBD39'],'link':_0xc282b3(0x1c1)},{'values':[_0xc282b3(0x310),'#393E46','#FFD369',_0xc282b3(0x4bc)],'link':_0xc282b3(0x281)},{'values':[_0xc282b3(0x294),'#99F3BD','#D2F6C5',_0xc282b3(0x156)],'link':_0xc282b3(0x222)},{'values':['#2D4059','#ea5455',_0xc282b3(0x14b),_0xc282b3(0x1fc)],'link':_0xc282b3(0x16e)},{'values':[_0xc282b3(0x38a),_0xc282b3(0x39c),_0xc282b3(0x42c),'#AEE6E6'],'link':_0xc282b3(0x53d)},{'values':['#FFC93C',_0xc282b3(0x12d),'#40A8C4','#A2D5F2'],'link':'https://colorhunt.co/palette/ffc93c07689f40a8c4a2d5f2'},{'values':[_0xc282b3(0x4df),_0xc282b3(0x3cc),'#EED6C4',_0xc282b3(0x544)],'link':_0xc282b3(0x2ff)}]},_0x4c79ef={'name':_0xc282b3(0x429),'des':_0xc282b3(0x42e),'colors':[{'name':'卡西迪','values':[_0xc282b3(0x3a3),'#9e3b37',_0xc282b3(0x42f)],'link':_0xc282b3(0x26d)},{'name':_0xc282b3(0x41d),'values':[_0xc282b3(0x1b5),_0xc282b3(0x21f),_0xc282b3(0x557)],'link':_0xc282b3(0x366)},{'name':'安娜','values':[_0xc282b3(0x2d5),_0xc282b3(0x2e1),_0xc282b3(0x550)],'link':_0xc282b3(0x32d)},{'name':'猎空','values':['#372923',_0xc282b3(0x1a7),_0xc282b3(0x358)],'link':_0xc282b3(0x462)},{'name':'艾什','values':[_0xc282b3(0x3ef),'#82695c',_0xc282b3(0x456)],'link':_0xc282b3(0x2c8)},{'name':_0xc282b3(0x16d),'values':[_0xc282b3(0x473),_0xc282b3(0x3e9),_0xc282b3(0x3a7)],'link':_0xc282b3(0x53e)},{'name':'黑影','values':[_0xc282b3(0x326),_0xc282b3(0x272),'#d0a3e6'],'link':_0xc282b3(0x500)},{'name':'回声','values':[_0xc282b3(0x43d),_0xc282b3(0x41a),_0xc282b3(0x566)],'link':_0xc282b3(0x1ae)},{'name':'死神','values':[_0xc282b3(0x217),'#5c6067','#aeaba8'],'link':_0xc282b3(0x290)},{'name':_0xc282b3(0x52a),'values':['#645a8d',_0xc282b3(0x1b4),_0xc282b3(0x216)],'link':'https://ow.blizzard.cn/heroes/dva'},{'name':'末日铁拳','values':['#6b5546',_0xc282b3(0x246),_0xc282b3(0x433)],'link':'https://ow.blizzard.cn/heroes/doomfist'},{'name':_0xc282b3(0x36d),'values':[_0xc282b3(0x336),'#9fb4e2',_0xc282b3(0x185)],'link':_0xc282b3(0x161)}]},_0x591c29={'name':'漫威','des':_0xc282b3(0x335),'colors':[{'name':_0xc282b3(0x2c0),'values':['#bd3232','#d98b94'],'link':'https://www.marvel.com/characters/scarlet-witch-wanda-maximoff'},{'name':_0xc282b3(0x14d),'values':[_0xc282b3(0x476),_0xc282b3(0x43b)],'link':_0xc282b3(0x3bd)},{'name':_0xc282b3(0x24b),'values':[_0xc282b3(0x387),_0xc282b3(0x47a)],'link':'https://www.marvel.com/characters/captain-america-steve-rogers'},{'name':'蜘蛛侠','values':['#f45552',_0xc282b3(0x20f)],'link':_0xc282b3(0x573)},{'name':'雷神','values':[_0xc282b3(0x167),_0xc282b3(0x23d)],'link':_0xc282b3(0x47d)},{'name':'浩克','values':['#7bbc5c',_0xc282b3(0x297)],'link':_0xc282b3(0x499)}]},_0x2c4bbb={'name':_0xc282b3(0x17b),'des':_0xc282b3(0x474),'colors':[{'name':_0xc282b3(0x40a),'values':[_0xc282b3(0x12a)],'link':_0xc282b3(0x3f1)},{'name':_0xc282b3(0x36a),'values':[_0xc282b3(0x372),_0xc282b3(0x4ec),_0xc282b3(0x49e)],'link':_0xc282b3(0x4b0)},{'name':_0xc282b3(0x20e),'values':[_0xc282b3(0x1d9),_0xc282b3(0x4e9),_0xc282b3(0x2d8)],'link':'https://en.wikipedia.org/wiki/Impression,_Sunrise'},{'name':'蒙娜丽莎','values':[_0xc282b3(0x375),_0xc282b3(0x36b),_0xc282b3(0x34c),'#9ba069'],'link':_0xc282b3(0x145)},{'name':_0xc282b3(0x4fc),'values':[_0xc282b3(0x2cc),_0xc282b3(0x479),_0xc282b3(0x218),_0xc282b3(0x2b0)],'link':_0xc282b3(0x24c)},{'name':_0xc282b3(0x2f8),'values':[_0xc282b3(0x349),_0xc282b3(0x206),'#7792c1',_0xc282b3(0x408)],'link':'https://en.wikipedia.org/wiki/The_Starry_Night'}]},_0x5c2443=[_0x4bcf2f,_0x591c29,_0x4c79ef,_0x4d3bc4,_0x2c4bbb,_0x2a6be0];var _0x12ede3=function(){const _0x353736=_0xc282b3;var _0x49e3d2=this,_0x27677d=_0x49e3d2[_0x353736(0x12e)]['_c'];return _0x27677d(_0x353736(0x252),{'staticClass':_0x353736(0x300)},[_0x27677d('image-picker',{'attrs':{'allowOnline':!0x1,'cacheImage':!0x1},'model':{'value':_0x49e3d2[_0x353736(0x4f2)],'callback':function(_0x3212f4){const _0x5cfa24=_0x353736;_0x49e3d2[_0x5cfa24(0x4f2)]=_0x3212f4;},'expression':_0x353736(0x4f2)}}),_0x27677d('div',{'staticClass':_0x353736(0x508)},[_0x49e3d2[_0x353736(0x4f1)]['length']?_0x27677d(_0x353736(0x252),{'staticStyle':{'color':_0x353736(0x509),'font-size':_0x353736(0x4c6)}},[_0x49e3d2['_v'](_0x353736(0x2a7)+_0x49e3d2['_s'](_0x49e3d2[_0x353736(0x17c)]===0x1/0x0?'':_0x353736(0x182)+_0x49e3d2[_0x353736(0x17c)]+'\x20')+'colors\x20you\x20want\x20to\x20use.\x20')]):_0x49e3d2['_e'](),_0x49e3d2['_l'](_0x49e3d2[_0x353736(0x4f1)],function(_0x2eca39,_0x1e0d65){const _0x3b1611=_0x353736;return _0x27677d(_0x3b1611(0x229),{'key':_0x2eca39,'staticClass':_0x3b1611(0x4c7),'style':{'backgroundColor':_0x2eca39,'borderColor':-0x1===_0x49e3d2[_0x3b1611(0x1d5)]['indexOf'](_0x1e0d65)?_0x2eca39:'#409eff'},'on':{'click':()=>_0x49e3d2[_0x3b1611(0x13c)](_0x1e0d65)}});})],0x2)],0x1);},_0x2b02f0=[],_0x1cc21a=_0x561369('7aa5');const _0x2d117c=(_0x11a4b9,_0x298139,_0x367da0)=>'#'+[_0x11a4b9,_0x298139,_0x367da0][_0xc282b3(0x425)](_0x5af712=>{const _0x280a5a=_0xc282b3,_0x4771d7=_0x5af712[_0x280a5a(0x11d)](0x10);return 0x1===_0x4771d7[_0x280a5a(0x226)]?'0'+_0x4771d7:_0x4771d7;})[_0xc282b3(0x327)](''),_0x42b4cf=new _0x1cc21a['a']();var _0x33859b={'props':{'maxCount':{'type':Number,'default':0x1/0x0},'value':{'type':Array,'default':()=>[]}},'components':{'ImagePicker':_0x1e30ba},'data'(){return{'imageURL':'','imageColors':[]};},'computed':{'selectedImageColorIndex':{'get'(){const _0x585902=_0xc282b3;return console['log']({'value':this[_0x585902(0x54b)]}),this[_0x585902(0x54b)][_0x585902(0x425)](_0x545ba1=>this[_0x585902(0x4f1)][_0x585902(0x308)](_0x341e19=>_0x545ba1===_0x341e19))[_0x585902(0x26a)](_0x1427d5=>-0x1!==_0x1427d5);},'set'(_0x18a54f){const _0x5941ed=_0xc282b3,_0x2cf95c=_0x18a54f[_0x5941ed(0x425)](_0xa0e758=>this[_0x5941ed(0x4f1)][_0xa0e758]);this[_0x5941ed(0x57a)](_0x5941ed(0x4a6),_0x2cf95c);}}},'watch':{'imageURL':{'immediate':!0x0,async 'handler'(_0x433e60){const _0x23d478=_0xc282b3;if(''===_0x433e60)return this['imageColors']=[],void(this[_0x23d478(0x1d5)]=[]);try{const _0x4f6f6a=await _0x1c1ff0(_0x433e60),_0x512da6=_0x42b4cf[_0x23d478(0x3f8)](_0x4f6f6a)[_0x23d478(0x425)](_0x2ae830=>_0x2d117c(..._0x2ae830));this[_0x23d478(0x4f1)]=_0x512da6;}catch(_0x3b457d){_0x316bba['a'][_0x23d478(0x42a)](_0x23d478(0x306));}}}},'methods':{'handleClickImageColorItem'(_0x5ed1b6){const _0x39c400=_0xc282b3,_0x2b30e0=this['selectedImageColorIndex']['indexOf'](_0x5ed1b6),_0x2daa84=[...this['selectedImageColorIndex']];if(-0x1===_0x2b30e0){if(this[_0x39c400(0x1d5)][_0x39c400(0x226)]>=this[_0x39c400(0x17c)])return void _0x316bba['a'][_0x39c400(0x42a)](_0x39c400(0x4d8)+this['maxCount']+_0x39c400(0x4e7));_0x2daa84[_0x39c400(0x1c8)](_0x5ed1b6);}else _0x2daa84[_0x39c400(0x411)](_0x2b30e0,0x1);this[_0x39c400(0x1d5)]=_0x2daa84;}}},_0x3092a1=_0x33859b,_0x2b1cf1=(_0x561369(_0xc282b3(0x1dd)),Object(_0xe49168['a'])(_0x3092a1,_0x12ede3,_0x2b02f0,!0x1,null,null,null)),_0x770bcc=_0x2b1cf1[_0xc282b3(0x256)],_0x1a08fc={'data'(){return{'showColorsStore':!0x1,'colorStore':_0x5c2443,'cardSize':0xc8,'colors':[],'showButtons':!0x1,'showImageExtractor':!0x1,'selectedImageColors':[],'over':!0x1};},'components':{'ImageColorPicker':_0x770bcc},'methods':{'handleDragover'(_0x388748){const _0x41ab98=_0xc282b3;_0x388748[_0x41ab98(0x15f)](),_0x388748['dataTransfer'][_0x41ab98(0x4b7)]=_0x41ab98(0x34f),this[_0x41ab98(0x45c)]=!0x0;},'handleDrop'(_0x50564e){const _0x4e9122=_0xc282b3,_0x4f9a49=_0x50564e['dataTransfer'][_0x4e9122(0x496)]('drag-color'),{value:_0xccf1d0}=JSON[_0x4e9122(0x1d4)](_0x4f9a49);this[_0x4e9122(0x3be)]([_0xccf1d0]),this[_0x4e9122(0x45c)]=!0x1;},'handleAddImageColors'(){const _0xc596b9=_0xc282b3,_0xf82bb3=[...this['selectedImageColors']];this[_0xc596b9(0x3be)](_0xf82bb3),this[_0xc596b9(0x241)]();},'handleCloseImageColorPicker'(){const _0x57fee9=_0xc282b3;this[_0x57fee9(0x50b)]=!0x1,this['selectedImageColors']=[];},'handleAddColors'(_0x1525d7){const _0x4805eb=_0xc282b3;if(0x0===_0x1525d7[_0x4805eb(0x226)])return;const _0x4985cc=new Set(this[_0x4805eb(0x213)]),_0x2637eb=_0x1525d7[_0x4805eb(0x26a)](_0x456626=>!_0x4985cc[_0x4805eb(0x263)](_0x456626));_0x1525d7[_0x4805eb(0x226)]!==_0x2637eb[_0x4805eb(0x226)]&&_0x316bba['a'][_0x4805eb(0x127)]('Repeat\x20colors\x20will\x20not\x20be\x20added.'),this[_0x4805eb(0x213)][_0x4805eb(0x1c8)](..._0x2637eb),this[_0x4805eb(0x4a5)]=!0x1;},'handleDeleteColor'(_0x80f373){const _0x3506c1=_0xc282b3;this[_0x3506c1(0x213)][_0x3506c1(0x411)](_0x80f373,0x1);},'handleDragStart'(_0x501f78,_0x19606a){const _0xc2dbbe=_0xc282b3,_0x1805fe=JSON['stringify']({'value':_0x19606a});_0x501f78[_0xc2dbbe(0x1a5)]['setData'](_0xc2dbbe(0x487),_0x1805fe);}}},_0x5c9993=_0x1a08fc,_0x400f1c=(_0x561369('3da8'),Object(_0xe49168['a'])(_0x5c9993,_0x31824d,_0xaaf358,!0x1,null,null,null)),_0x9ba03d=_0x400f1c[_0xc282b3(0x256)],_0x31b316=function(){const _0x11d45a=_0xc282b3;var _0x3e636e=this,_0x302a29=_0x3e636e[_0x11d45a(0x12e)]['_c'];return _0x302a29('div',{'staticClass':'color-field','style':{'background':_0x3e636e[_0x11d45a(0x45c)]?_0x11d45a(0x432):_0x11d45a(0x49c)},'attrs':{'draggable':''},'on':{'dragover':_0x3e636e[_0x11d45a(0x50e)],'drop':_0x3e636e[_0x11d45a(0x378)],'dragleave':function(_0x374250){const _0x14d480=_0x11d45a;_0x3e636e[_0x14d480(0x45c)]=!0x1;},'dragstart':_0x3e636e[_0x11d45a(0x495)]}},[_0x302a29('field',{'attrs':{'name':_0x3e636e[_0x11d45a(0x237)]}},[_0x302a29(_0x11d45a(0x249),{'attrs':{'size':_0x11d45a(0x2d9),'predefine':_0x3e636e[_0x11d45a(0x230)]},'model':{'value':_0x3e636e['color'],'callback':function(_0x3d3024){_0x3e636e['color']=_0x3d3024;},'expression':_0x11d45a(0x1ed)}})],0x1)],0x1);},_0x853e82=[],_0x41f2cc={'props':{'name':String,'value':String,'colorKey':String},'components':{'Field':_0x5e2917},'data'(){const _0x1c736c=_0xc282b3;return{'over':!0x1,'predefineColors':[_0x1c736c(0x155),'#ff8c00','#ffd700',_0x1c736c(0x148),'#00ced1',_0x1c736c(0x1a4),_0x1c736c(0x513)]};},'computed':{'color':{'get'(){const _0x317bf6=_0xc282b3;return this[_0x317bf6(0x54b)];},'set'(_0x345280){const _0x40d772=_0xc282b3;this['$emit'](_0x40d772(0x4a6),_0x345280);}}},'methods':{'handleDragStart'(_0x334186){const _0x5d05ab=_0xc282b3,_0xbb2af4=JSON['stringify']({'value':this['value'],'key':this['colorKey']});_0x334186[_0x5d05ab(0x1a5)][_0x5d05ab(0x2f6)](_0x5d05ab(0x487),_0xbb2af4);},'handleDragover'(_0x4ef1c4){const _0x4fa1e0=_0xc282b3;_0x4ef1c4[_0x4fa1e0(0x15f)](),_0x4ef1c4[_0x4fa1e0(0x1a5)][_0x4fa1e0(0x4b7)]=_0x4fa1e0(0x34f),this['over']=!0x0;},'handleDrop'(_0x203d6e){const _0xc573e7=_0xc282b3,_0x164f16=_0x203d6e[_0xc573e7(0x1a5)]['getData']('drag-color'),{value:_0x225a06,key:_0x2db34a}=JSON[_0xc573e7(0x1d4)](_0x164f16);this[_0xc573e7(0x57a)](_0xc573e7(0x4a6),_0x225a06),this[_0xc573e7(0x45c)]=!0x1,_0x2db34a&&this[_0xc573e7(0x57a)](_0xc573e7(0x54c),{'key':_0x2db34a,'value':this[_0xc573e7(0x54b)]});}}},_0x11ac3d=_0x41f2cc,_0x3efb38=(_0x561369(_0xc282b3(0x2d3)),Object(_0xe49168['a'])(_0x11ac3d,_0x31b316,_0x853e82,!0x1,null,null,null)),_0x538a5b=_0x3efb38['exports'],_0x251dd3={'name':_0xc282b3(0x1cf),'components':{'Field':_0x5e2917,'Group':_0x11fc6f,'ImagePicker':_0x1e30ba,'InputNumber':_0x4510c4,'Collapse':_0x8a2965,'SymbolInput':_0x35e918,'ColorPalette':_0x9ba03d,'ColorField':_0x538a5b},'props':{'options':Object,'values':Object},'computed':{'value':{'get'(){const _0x27cbc3=_0xc282b3,{key:_0x28701c}=this[_0x27cbc3(0x548)];if(_0x28701c)return _0x4408cc(this['values'],_0x28701c);},'set'(_0x1a8a4e){const _0x4859bd=_0xc282b3,{key:_0x5f15ca,relations:_0xccdfb2=[]}=this[_0x4859bd(0x548)];if(_0x5f15ca){this[_0x4859bd(0x44d)]({'key':_0x5f15ca,'value':_0x1a8a4e});for(const {trigger:_0x8bfc57,actions:_0x2949f4}of _0xccdfb2)if(_0x8bfc57===_0x1a8a4e)for(const {key:_0x4e9fd2,value:_0x3abad7,force:_0x9a56d4}of _0x2949f4){const _0x15a711=_0x4408cc(this[_0x4859bd(0x1a9)],_0x4e9fd2);(void 0x0===_0x15a711||_0x9a56d4)&&this[_0x4859bd(0x44d)]({'key':_0x4e9fd2,'value':_0x3abad7});}}}}},'methods':{'handleUpdate'(_0x26139a){const _0x304001=_0xc282b3;this[_0x304001(0x57a)](_0x304001(0x54c),_0x26139a);}}},_0x5cb465=_0x251dd3,_0x27077a=(_0x561369(_0xc282b3(0x455)),Object(_0xe49168['a'])(_0x5cb465,_0x77a50f,_0x1f3cd9,!0x1,null,null,null)),_0x5baa78=_0x27077a[_0xc282b3(0x256)];function _0x12352c(){const _0x577bdc=_0xc282b3;return[{'type':_0x577bdc(0x1ed),'key':_0x577bdc(0x1ed),'name':_0x577bdc(0x18d),'defaultValue':_0x577bdc(0x239)},{'type':_0x577bdc(0x1ed),'key':_0x577bdc(0x4c0),'name':_0x577bdc(0x15b),'defaultValue':_0x577bdc(0x1a6)},{'type':_0x577bdc(0x33d),'key':'lineWidth','name':'线宽','defaultValue':0x1,'min':0x1},{'type':_0x577bdc(0x33d),'key':_0x577bdc(0x48e),'name':_0x577bdc(0x38b),'min':0xa,'defaultValue':0x32},{'type':'number','key':_0x577bdc(0x564),'name':_0x577bdc(0x19d),'defaultValue':0x0}];}function _0x28e727(){const _0xa4d2e0=_0xc282b3;return[{'type':'color','key':_0xa4d2e0(0x1ed),'name':_0xa4d2e0(0x18d),'defaultValue':_0xa4d2e0(0x239)},{'type':_0xa4d2e0(0x1ed),'key':_0xa4d2e0(0x409),'name':_0xa4d2e0(0x1a3),'defaultValue':_0xa4d2e0(0x239)},{'type':_0xa4d2e0(0x33d),'key':_0xa4d2e0(0x22d),'name':'大小','defaultValue':0x32,'min':0x0},{'type':_0xa4d2e0(0x1ed),'key':_0xa4d2e0(0x357),'name':'半径','defaultValue':_0xa4d2e0(0x239)},{'type':_0xa4d2e0(0x33d),'key':_0xa4d2e0(0x219),'name':'线宽','defaultValue':0x0,'min':0x1},{'type':_0xa4d2e0(0x33d),'key':_0xa4d2e0(0x48e),'name':_0xa4d2e0(0x1f3),'min':0xa,'defaultValue':0x6e},{'type':'number','key':_0xa4d2e0(0x3ad),'name':_0xa4d2e0(0x224),'min':0xa,'defaultValue':0x6e},{'type':'number','key':_0xa4d2e0(0x564),'name':'旋转','defaultValue':0x0}];}function _0x409758(){const _0x3db936=_0xc282b3;return[{'type':'color','key':'color','name':_0x3db936(0x18d),'defaultValue':_0x3db936(0x239)},{'type':_0x3db936(0x1ed),'key':_0x3db936(0x4c0),'name':_0x3db936(0x15b),'defaultValue':_0x3db936(0x1a6)},{'type':_0x3db936(0x33d),'key':_0x3db936(0x219),'name':'线宽','defaultValue':0x1e,'min':0x0},{'type':_0x3db936(0x33d),'key':_0x3db936(0x48e),'name':'X轴间隔','min':0xa,'defaultValue':0x82},{'type':'number','key':'height','name':_0x3db936(0x224),'min':0xa,'defaultValue':0x82},{'type':'number','key':_0x3db936(0x320),'name':'弧径','defaultValue':0x1e},{'type':_0x3db936(0x33d),'key':_0x3db936(0x564),'name':'旋转','defaultValue':0x0}];}function _0x2c81a8(){const _0x377a2e=_0xc282b3;return[{'type':_0x377a2e(0x1ed),'key':_0x377a2e(0x1ed),'name':_0x377a2e(0x18d),'defaultValue':'#000'},{'type':'color','key':'fillColor','name':_0x377a2e(0x1a3),'defaultValue':'#000'},{'type':_0x377a2e(0x33d),'key':'size','name':'大小','defaultValue':0x14,'min':0x0},{'type':'color','key':_0x377a2e(0x357),'name':'半径','defaultValue':_0x377a2e(0x239)},{'type':'number','key':_0x377a2e(0x219),'name':'线宽','defaultValue':0x0,'min':0x0},{'type':_0x377a2e(0x33d),'key':_0x377a2e(0x48e),'name':_0x377a2e(0x1f3),'min':0xa,'defaultValue':0x28},{'type':'number','key':_0x377a2e(0x3ad),'name':'Y轴间隔','min':0xa,'defaultValue':0x28},{'type':_0x377a2e(0x33d),'key':_0x377a2e(0x564),'name':'旋转','defaultValue':0x0},{'type':_0x377a2e(0x563),'key':'staggered','name':'交错','defaultValue':!0x0}];}const _0x428791={'line':_0x12352c,'dot':_0x28e727,'wave':_0x409758,'square':_0x2c81a8};function _0x2e4c15(_0x2943d7,_0x5cf9c1){const _0x3b3802=_0xc282b3,_0x23d568=_0x4408cc(_0x2943d7,_0x5cf9c1+_0x3b3802(0x146)),_0x16f3bc=_0x428791[_0x23d568]||_0x12352c;return _0x16f3bc(_0x2943d7)[_0x3b3802(0x425)](({key:_0x38f7f8,..._0x151bb3})=>({'key':_0x5cf9c1+'.'+_0x38f7f8,..._0x151bb3}));}function _0x301fd4(_0x478180,_0x1aeab5){const _0xfd6d58=_0xc282b3,_0x475fee=_0x2e4c15(_0x478180,_0x1aeab5);return _0x475fee[_0xfd6d58(0x26a)](_0x56bf90=>_0xfd6d58(0x1ed)!==_0x56bf90[_0xfd6d58(0x18c)]);}function _0x13f4ae(_0x5df312,_0x54a6f3,_0x5dd905){const _0xfe75c1=_0xc282b3,_0x2ec969=_0x2e4c15(_0x5df312,_0x54a6f3);return _0x2ec969[_0xfe75c1(0x26a)](_0x505751=>_0xfe75c1(0x1ed)===_0x505751['type'])['map'](({name:_0x59a76b,..._0x31a1b2})=>({'name':_0x5dd905+'\x20-\x20'+_0x59a76b,..._0x31a1b2}));}function _0x54a675(_0x4388ac,_0xd2e1be){const _0x228b5a=_0xc282b3;return Object[_0x228b5a(0x268)](_0x428791)[_0x228b5a(0x425)](([_0x31c07d,_0x1a8306])=>({'trigger':_0x31c07d,'actions':_0x1a8306(_0x4388ac)[_0x228b5a(0x425)](({key:_0x37e87f,defaultValue:_0x177797})=>({'key':_0xd2e1be+'.'+_0x37e87f,'value':_0x177797}))}));}var _0x43508c=function(_0x427ffe){const _0x1519c2=_0xc282b3;if(_0x1519c2(0x340)!=typeof _0x427ffe)return!0x1;var _0x6d4190=_0x1519c2(0x453);if(_0x427ffe[_0x1519c2(0x434)]()==_0x6d4190['toLowerCase']())return!0x0;var _0x144a2c='a',_0x4bf77e=0x64,_0xc74931=0x64,_0x28a8f9=0x64,_0x540ed9=document[_0x1519c2(0x3d0)](_0x1519c2(0x1a1)),_0x25dfdb=_0x540ed9[_0x1519c2(0x353)]('2d');_0x540ed9[_0x1519c2(0x48e)]=_0xc74931,_0x540ed9['height']=_0x28a8f9,_0x25dfdb['textAlign']='center',_0x25dfdb[_0x1519c2(0x43f)]=_0x1519c2(0x21d),_0x25dfdb[_0x1519c2(0x518)]='middle';var _0x4d7cb8=function(_0x2d7a9d){const _0x551db5=_0x1519c2;_0x25dfdb[_0x551db5(0x15c)](0x0,0x0,_0xc74931,_0x28a8f9),_0x25dfdb['font']=_0x4bf77e+_0x551db5(0x305)+_0x2d7a9d+',\x20'+_0x6d4190,_0x25dfdb['fillText'](_0x144a2c,_0xc74931/0x2,_0x28a8f9/0x2);var _0x4d61ef=_0x25dfdb[_0x551db5(0x4b9)](0x0,0x0,_0xc74931,_0x28a8f9)['data'];return[][_0x551db5(0x1c5)][_0x551db5(0x4af)](_0x4d61ef)[_0x551db5(0x26a)](function(_0x2539fb){return 0x0!=_0x2539fb;});};return _0x4d7cb8(_0x6d4190)[_0x1519c2(0x327)]('')!==_0x4d7cb8(_0x427ffe)['join']('');},_0x416cc0={'windows':[{'ch':'宋体','en':_0xc282b3(0x225)},{'ch':'黑体','en':'SimHei'},{'ch':_0xc282b3(0x466),'en':_0xc282b3(0x1f5)},{'ch':_0xc282b3(0x215),'en':_0xc282b3(0x486)},{'ch':'楷体','en':_0xc282b3(0x1f2)},{'ch':_0xc282b3(0x4fd),'en':_0xc282b3(0x151)},{'ch':'仿宋','en':_0xc282b3(0x287)}],'OS\x20X':[{'ch':'苹方','en':_0xc282b3(0x1b1)},{'ch':_0xc282b3(0x351),'en':_0xc282b3(0x234)},{'ch':_0xc282b3(0x465),'en':_0xc282b3(0x3ee)},{'ch':_0xc282b3(0x1a0),'en':'STSong'},{'ch':'华文仿宋','en':'STFangsong'},{'ch':_0xc282b3(0x355),'en':_0xc282b3(0x19c)},{'ch':_0xc282b3(0x2a9),'en':'STHupo'},{'ch':_0xc282b3(0x205),'en':'STXinwei'},{'ch':_0xc282b3(0x419),'en':'STLiti'},{'ch':_0xc282b3(0x54e),'en':_0xc282b3(0x3fd)},{'ch':_0xc282b3(0x2ba),'en':'Hiragino\x20Sans\x20GB'},{'ch':'兰亭黑-简','en':'Lantinghei\x20SC'},{'ch':'翩翩体-简','en':'Hanzipen\x20SC'},{'ch':_0xc282b3(0x22f),'en':_0xc282b3(0x1bc)},{'ch':'宋体-简','en':_0xc282b3(0x228)},{'ch':_0xc282b3(0x34a),'en':_0xc282b3(0x43a)},{'ch':_0xc282b3(0x4e2),'en':'Weibei\x20SC'},{'ch':'行楷-简','en':_0xc282b3(0x14f)},{'ch':_0xc282b3(0x2b6),'en':_0xc282b3(0x3d4)},{'ch':_0xc282b3(0x43c),'en':_0xc282b3(0x2b1)}],'office':[{'ch':'幼圆','en':_0xc282b3(0x2b9)},{'ch':'隶书','en':_0xc282b3(0x264)},{'ch':_0xc282b3(0x539),'en':_0xc282b3(0x430)},{'ch':_0xc282b3(0x465),'en':'STKaiti'},{'ch':_0xc282b3(0x1a0),'en':_0xc282b3(0x24e)},{'ch':'华文仿宋','en':_0xc282b3(0x1fd)},{'ch':_0xc282b3(0x355),'en':'STZhongsong'},{'ch':_0xc282b3(0x2a6),'en':_0xc282b3(0x446)},{'ch':_0xc282b3(0x2a9),'en':_0xc282b3(0x2f1)},{'ch':_0xc282b3(0x205),'en':_0xc282b3(0x198)},{'ch':'华文隶书','en':_0xc282b3(0x3ba)},{'ch':_0xc282b3(0x54e),'en':'STXingkai'},{'ch':'方正舒体','en':_0xc282b3(0x379)},{'ch':'方正姚体','en':'FZYaoti'}],'open':[{'ch':_0xc282b3(0x22c),'en':'Source\x20Han\x20Sans\x20CN'},{'ch':_0xc282b3(0x13f),'en':_0xc282b3(0x2cf)},{'ch':_0xc282b3(0x1db),'en':_0xc282b3(0x1c0)}],'hanyi':[{'ch':_0xc282b3(0x16b),'en':_0xc282b3(0x3e2)},{'ch':_0xc282b3(0x3d9),'en':'HYQihei\x2050S'},{'ch':'汉仪旗黑\x2060S','en':_0xc282b3(0x165)},{'ch':_0xc282b3(0x253),'en':'HYDaSongJ'},{'ch':_0xc282b3(0x38d),'en':_0xc282b3(0x283)},{'ch':_0xc282b3(0x542),'en':_0xc282b3(0x35f)},{'ch':_0xc282b3(0x174),'en':_0xc282b3(0x399)},{'ch':_0xc282b3(0x2e9),'en':_0xc282b3(0x470)},{'ch':_0xc282b3(0x1e1),'en':'HYXiaoMaiTiJ'},{'ch':_0xc282b3(0x40d),'en':_0xc282b3(0x1e8)},{'ch':_0xc282b3(0x2e5),'en':'HYHeiLiZhiTiJ'},{'ch':'汉仪雅酷黑W','en':_0xc282b3(0x4d0)},{'ch':_0xc282b3(0x424),'en':'HYDaHeiJ'},{'ch':_0xc282b3(0x3ce),'en':_0xc282b3(0x369)}],'fangzheng':[{'ch':_0xc282b3(0x3e4),'en':_0xc282b3(0x1f8)},{'ch':_0xc282b3(0x42b),'en':_0xc282b3(0x3d3)},{'ch':_0xc282b3(0x4cb),'en':'FZCuYuan-M03S'},{'ch':_0xc282b3(0x130),'en':'FZDaBiaoSong-B06S'},{'ch':_0xc282b3(0x4d2),'en':_0xc282b3(0x3e6)},{'ch':_0xc282b3(0x416),'en':_0xc282b3(0x3dd)},{'ch':_0xc282b3(0x15e),'en':_0xc282b3(0x2ae)},{'ch':_0xc282b3(0x131),'en':_0xc282b3(0x36f)},{'ch':'方正楷体简体','en':'FZKai-Z03S'},{'ch':_0xc282b3(0x2bb),'en':'FZLiBian-S02S'},{'ch':_0xc282b3(0x23c),'en':_0xc282b3(0x31f)},{'ch':'方正美黑简体','en':_0xc282b3(0x35a)},{'ch':'方正书宋简体','en':_0xc282b3(0x4dd)},{'ch':'方正舒体简体','en':'FZShuTi-S05S'},{'ch':_0xc282b3(0x3fb),'en':_0xc282b3(0x2d4)},{'ch':_0xc282b3(0x2d2),'en':_0xc282b3(0x20d)},{'ch':_0xc282b3(0x144),'en':_0xc282b3(0x370)},{'ch':_0xc282b3(0x128),'en':_0xc282b3(0x47c)},{'ch':'方正细等线简体','en':_0xc282b3(0x1fe)},{'ch':_0xc282b3(0x3f7),'en':_0xc282b3(0x471)},{'ch':_0xc282b3(0x23b),'en':_0xc282b3(0x54f)},{'ch':_0xc282b3(0x4ef),'en':_0xc282b3(0x393)},{'ch':_0xc282b3(0x516),'en':_0xc282b3(0x147)},{'ch':'方正姚体简体','en':_0xc282b3(0x134)},{'ch':_0xc282b3(0x162),'en':'FZZhongDengXian-Z07S'},{'ch':_0xc282b3(0x232),'en':_0xc282b3(0x48a)},{'ch':_0xc282b3(0x383),'en':_0xc282b3(0x1b2)},{'ch':_0xc282b3(0x1ab),'en':_0xc282b3(0x3f6)},{'ch':'方正隶二简体','en':_0xc282b3(0x201)},{'ch':_0xc282b3(0x1c9),'en':_0xc282b3(0x3a5)},{'ch':_0xc282b3(0x4dc),'en':'FZChaoCuHei-M10S'},{'ch':_0xc282b3(0x51d),'en':_0xc282b3(0x22e)},{'ch':'方正新舒体简体','en':_0xc282b3(0x56f)},{'ch':_0xc282b3(0x1ca),'en':_0xc282b3(0x521)},{'ch':_0xc282b3(0x248),'en':_0xc282b3(0x231)},{'ch':_0xc282b3(0x4b3),'en':'FZZhiYi-M12S'},{'ch':_0xc282b3(0x303),'en':_0xc282b3(0x197)},{'ch':_0xc282b3(0x53f),'en':_0xc282b3(0x21e)},{'ch':_0xc282b3(0x51e),'en':_0xc282b3(0x164)},{'ch':_0xc282b3(0x154),'en':_0xc282b3(0x4be)},{'ch':'方正瘦金书简体','en':'FZShouJinShu-S10S'},{'ch':_0xc282b3(0x403),'en':_0xc282b3(0x3dc)},{'ch':_0xc282b3(0x314),'en':_0xc282b3(0x1d0)},{'ch':_0xc282b3(0x3ac),'en':_0xc282b3(0x52d)},{'ch':'方正胖娃简体','en':'FZPangWa-M18S'},{'ch':'方正宋一简体','en':_0xc282b3(0x506)},{'ch':'方正剪纸简体','en':_0xc282b3(0x47b)},{'ch':_0xc282b3(0x4a1),'en':_0xc282b3(0x37c)},{'ch':'方正祥隶简体','en':_0xc282b3(0x2af)},{'ch':_0xc282b3(0x503),'en':'FZCuHuoYi-M25S'},{'ch':'方正胖头鱼简体','en':'FZPangTouYu-M24S'},{'ch':'方正卡通简体','en':_0xc282b3(0x50d)},{'ch':'方正艺黑简体','en':'FZYiHei-M20S'},{'ch':'方正水黑简体','en':_0xc282b3(0x158)},{'ch':'方正古隶简体','en':_0xc282b3(0x2d6)},{'ch':_0xc282b3(0x28a),'en':'FZYouXian-Z09S'},{'ch':_0xc282b3(0x431),'en':_0xc282b3(0x3d5)},{'ch':_0xc282b3(0x359),'en':_0xc282b3(0x1c4)},{'ch':_0xc282b3(0x45e),'en':_0xc282b3(0x23a)},{'ch':_0xc282b3(0x2be),'en':_0xc282b3(0x304)},{'ch':'方正硬笔行书简体','en':_0xc282b3(0x445)}]};const _0x566df0=[];for(var _0x490460 in _0x416cc0)_0x416cc0[_0x490460][_0xc282b3(0x51c)](_0x473f35=>{_0x43508c(_0x473f35['en'])&&_0x566df0['push'](_0x473f35);});const _0x46bfe8=Array[_0xc282b3(0x448)](new Set(_0x566df0[_0xc282b3(0x425)](_0x553141=>_0x553141['en']))),_0x2c562e=_0x46bfe8[_0xc282b3(0x425)](_0x42c6c0=>({'name':_0x42c6c0,'fontURL':void 0x0}));var _0x2ed20b=_0x561369('2118'),_0x509e95=_0x561369['n'](_0x2ed20b);const _0x291047=[{'name':_0xc282b3(0x1bd),'fontURL':_0x509e95['a'],'type':'en'}];function _0x1a60b2(_0x304533){const _0x53fbaf=_0xc282b3;return{'value':_0x304533[_0x53fbaf(0x237)],'label':_0x304533[_0x53fbaf(0x237)]+(_0x304533[_0x53fbaf(0x18c)]?'\x20('+_0x304533[_0x53fbaf(0x18c)]+')':''),'template':'<span\x20style=\x22font-family:'+_0x304533[_0x53fbaf(0x237)]+'\x22>'+_0x304533[_0x53fbaf(0x237)]+_0x53fbaf(0x2db),'url':_0x304533[_0x53fbaf(0x1fa)]};}function _0x4a8dba(_0x267a38){const _0x44f67e=_0xc282b3;return[{'type':_0x44f67e(0x527),'key':_0x44f67e(0x152),'name':'内容','placeholder':_0x44f67e(0x512)},{'name':'字体','type':_0x44f67e(0x546),'defaultOpen':!0x1,'children':[{'type':'select-group','key':'text.fontFamily','name':_0x44f67e(0x309),'groups':[{'label':_0x44f67e(0x4a8),'options':_0x291047[_0x44f67e(0x425)](_0x1a60b2)},{'label':_0x44f67e(0x39a),'options':_0x2c562e[_0x44f67e(0x425)](_0x1a60b2)}],'relations':[..._0x291047,..._0x2c562e][_0x44f67e(0x425)](_0x27a476=>({'trigger':_0x27a476[_0x44f67e(0x237)],'actions':[{'key':_0x44f67e(0x46b),'value':_0x27a476[_0x44f67e(0x1fa)],'force':!0x0}]}))},{'type':_0x44f67e(0x38e),'key':_0x44f67e(0x25e),'name':'尺寸','options':[{'value':_0x44f67e(0x244),'label':'正常'},{'value':'autoFit','label':_0x44f67e(0x203)},{'value':_0x44f67e(0x497),'label':_0x44f67e(0x33b)}],'relations':[{'trigger':_0x44f67e(0x244),'actions':[{'key':_0x44f67e(0x325),'value':0xc8}]},{'trigger':_0x44f67e(0x2d0),'actions':[{'key':_0x44f67e(0x28c),'value':0x0},{'key':_0x44f67e(0x2aa),'value':0x0}]},{'trigger':_0x44f67e(0x497),'actions':[{'key':_0x44f67e(0x325),'value':0xc8},{'key':_0x44f67e(0x28c),'value':0x32},{'key':_0x44f67e(0x2aa),'value':0x0}]}]},..._0xb999f3(_0x267a38)]},{'type':'collapse','name':'样式','defaultOpen':!0x1,'children':[{'type':_0x44f67e(0x38e),'key':_0x44f67e(0x475),'name':'类型','options':[{'value':_0x44f67e(0x244),'label':'无'},{'value':_0x44f67e(0x1b6),'label':'线条'},{'value':_0x44f67e(0x567),'label':'圆点'},{'value':_0x44f67e(0x220),'label':'波浪'},{'value':'square','label':'方块'}],'relations':_0x54a675(_0x267a38,_0x44f67e(0x1f4))},..._0x25b629(_0x267a38)]}];}function _0xb999f3(_0x3bf962){const _0x52a3b5=_0xc282b3,_0x1ba428=_0x4408cc(_0x3bf962,_0x52a3b5(0x25e)),_0x4bdd16={'type':_0x52a3b5(0x33d),'key':'text.fontSize','name':_0x52a3b5(0x390),'min':0x32},_0x5a2047={'type':_0x52a3b5(0x33d),'key':_0x52a3b5(0x28c),'name':'缩放','min':0x0},_0x4c0cd3={'type':_0x52a3b5(0x33d),'key':_0x52a3b5(0x2aa),'name':_0x52a3b5(0x515)};return _0x52a3b5(0x244)===_0x1ba428?[_0x4bdd16,_0x4c0cd3]:_0x52a3b5(0x2d0)===_0x1ba428?[_0x5a2047,_0x4c0cd3]:_0x52a3b5(0x497)===_0x1ba428?[_0x4bdd16,_0x5a2047,_0x4c0cd3]:void 0x0;}function _0x25b629(_0x5495e6){const _0x5d5b81=_0xc282b3,_0x1d4e0d=_0x4408cc(_0x5495e6,_0x5d5b81(0x475));return _0x1d4e0d&&'none'!==_0x1d4e0d?_0x301fd4(_0x5495e6,'text'):[];}var _0x16824c=_0x561369(_0xc282b3(0x553)),_0x35d474=_0x561369['n'](_0x16824c);const _0x12e2f6=_0x35d474['a'];function _0x565f5b(_0x40ddbc){const _0x54ac2e=_0xc282b3;return[{'type':_0x54ac2e(0x498),'key':_0x54ac2e(0x209),'name':'类型','options':[{'value':_0x54ac2e(0x4a0),'label':'图片'},{'value':_0x54ac2e(0x280),'label':'默认'}],'relations':[{'trigger':_0x54ac2e(0x4a0),'actions':[{'key':_0x54ac2e(0x37d),'value':_0x12e2f6}]},{'trigger':_0x54ac2e(0x280),'actions':[{'key':_0x54ac2e(0x20b),'value':_0x54ac2e(0x244)},{'key':'background.color','value':_0x54ac2e(0x279)}]}]},..._0x598549(_0x40ddbc)];}function _0x598549(_0x1e469c){const _0x57ba47=_0xc282b3,_0x24d911=_0x4408cc(_0x1e469c,'background.mode');return'image'===_0x24d911?[{'type':_0x57ba47(0x4a0),'key':_0x57ba47(0x37d),'name':'Image'}]:[{'type':_0x57ba47(0x546),'name':'样式','defaultOpen':!0x1,'children':[{'type':_0x57ba47(0x38e),'key':'background.type','name':'类型','options':[{'value':_0x57ba47(0x244),'label':'无'},{'value':_0x57ba47(0x1b6),'label':'线条'},{'value':_0x57ba47(0x567),'label':'圆点'},{'value':_0x57ba47(0x220),'label':'波浪'},{'value':'square','label':'方块'}],'relations':[{'trigger':'none','actions':[{'key':_0x57ba47(0x3ed),'value':_0x57ba47(0x279)}]},..._0x54a675(_0x1e469c,_0x57ba47(0x46a))]},..._0x332620(_0x1e469c)]}];}function _0x332620(_0x310486){const _0x2d256d=_0xc282b3,_0x5c5348=_0x4408cc(_0x310486,_0x2d256d(0x20b));return _0x5c5348&&_0x2d256d(0x244)!==_0x5c5348?_0x301fd4(_0x310486,_0x2d256d(0x46a)):[];}function _0x5712c0(_0x55f629){return[..._0x238a45(_0x55f629),..._0x375825(_0x55f629)];}function _0x238a45(_0xcfa402){const _0x2d988d=_0xc282b3,_0x343fc8=_0x4408cc(_0xcfa402,_0x2d988d(0x475));return _0x343fc8&&'none'!==_0x343fc8?_0x13f4ae(_0xcfa402,_0x2d988d(0x1f4),'字体'):[{'type':_0x2d988d(0x1ed),'key':_0x2d988d(0x480),'name':_0x2d988d(0x236)}];}function _0x375825(_0x4634b9){const _0x37cd58=_0xc282b3,_0x181a04=_0x4408cc(_0x4634b9,_0x37cd58(0x209)),_0x49c5db=_0x4408cc(_0x4634b9,_0x37cd58(0x20b));return _0x37cd58(0x4a0)===_0x181a04?[]:_0x49c5db&&_0x37cd58(0x244)!==_0x49c5db?_0x13f4ae(_0x4634b9,'background','背景'):[{'type':_0x37cd58(0x1ed),'key':'background.color','name':_0x37cd58(0x18d)}];}function _0x5c2066(_0x61441){const _0x3725f8=_0xc282b3;return{'type':'container','children':[{'type':_0x3725f8(0x2d1),'name':_0x3725f8(0x1f0),'help':_0x3725f8(0x2b3),'children':[{'type':_0x3725f8(0x546),'name':_0x3725f8(0x376),'defaultOpen':!0x0,'indent':!0x1,'children':[{'type':_0x3725f8(0x4ce)}]},..._0x5712c0(_0x61441)]},{'type':_0x3725f8(0x2d1),'name':_0x3725f8(0x183),'children':_0x4a8dba(_0x61441)},{'type':_0x3725f8(0x2d1),'name':_0x3725f8(0x169),'children':_0x565f5b(_0x61441)}]};}const _0x5687c3=()=>({'data'(){return{'fullscreen':!0x1};},'mounted'(){const _0x5c5d16=_0xc282b3;document[_0x5c5d16(0x3d2)](_0x5c5d16(0x311),this[_0x5c5d16(0x2e7)]);},'destroyed'(){const _0x4b4216=_0xc282b3;document['removeEventListener'](_0x4b4216(0x311),this[_0x4b4216(0x2e7)]);},'methods':{'handleFullscreenChange'(){const _0x5a06eb=_0xc282b3;this[_0x5a06eb(0x238)]=!!document['fullscreenElement'];}}});var _0x310819={'components':{'Wallpaper':_0x77b865,'AttributeTree':_0x5baa78},'name':_0xc282b3(0x4ba),'data'(){const _0x4f0b48=_0xc282b3,_0x14591e=localStorage[_0x4f0b48(0x381)](_0x4f0b48(0x437)),_0x3e1872=localStorage['getItem']('cd-type');return{'example':_0x14591e?JSON['parse'](_0x14591e):_0x2090a0,'activeDevice':'pc'===_0x3e1872?0x1:0x7,'customWidth':screen[_0x4f0b48(0x48e)],'customHeight':screen[_0x4f0b48(0x3ad)],'rotate':!0x1,'devices':[{'name':_0x4f0b48(0x15d)},{'name':'PC','width':screen[_0x4f0b48(0x48e)],'height':screen[_0x4f0b48(0x3ad)],'divided':!0x0},{'name':_0x4f0b48(0x547),'width':0x168,'height':0x280,'divided':!0x0},{'name':_0x4f0b48(0x214),'width':0x168,'height':0x280},{'name':_0x4f0b48(0x56b),'width':0x19b,'height':0x2db},{'name':_0x4f0b48(0x17e),'width':0x19b,'height':0x337},{'name':_0x4f0b48(0x533),'width':0x140,'height':0x238},{'name':_0x4f0b48(0x545),'width':0x177,'height':0x29b},{'name':'IPhone\x206/7/8\x20Plus','width':0x19e,'height':0x2e0},{'name':_0x4f0b48(0x526),'width':0x177,'height':0x32c},{'name':_0x4f0b48(0x1d8),'width':0x300,'height':0x400},{'name':_0x4f0b48(0x420),'width':0x400,'height':0x556},{'name':_0x4f0b48(0x3d7),'width':0x21c,'height':0x2d0},{'name':_0x4f0b48(0x38f),'width':0x118,'height':0x28d},{'name':'Nest\x20Hub','width':0x400,'height':0x258},{'name':_0x4f0b48(0x1af),'width':0x500,'height':0x320}]};},'mixins':[_0x26c213(),_0x5687c3(),_0x43e686(_0xc282b3(0x44c))],'watch':{'deviceSize'(_0x3ee6fb,_0x3d512a){const _0xc57b12=_0xc282b3,[,_0x429482]=_0x3d512a,[,_0x4ac4eb]=_0x3ee6fb,_0x2acdd6=_0x4ac4eb/_0x429482;this['example']=_0x57b7e1(this[_0xc57b12(0x3a0)],_0x2acdd6);}},'computed':{'wallpaperStyles'(){const _0x29a1e4=_0xc282b3,{transformed:{translateX:_0x441ce8,translateY:_0x2608c0,scale:_0x181120}}=this;return this[_0x29a1e4(0x238)]?{}:{'transform':_0x29a1e4(0x299)+_0x441ce8+_0x29a1e4(0x25a)+_0x2608c0+'px)\x20scale('+_0x181120+',\x20'+_0x181120+')','transformOrigin':_0x29a1e4(0x2ee)};},'deviceSize'(){const _0x29b69d=_0xc282b3;let _0x2ec08d,_0x13d916;if(0x0===this[_0x29b69d(0x1b3)])_0x2ec08d=this[_0x29b69d(0x31a)],_0x13d916=this[_0x29b69d(0x4e5)];else{const {width:_0x506adf,height:_0x21d7d6}=this['devices'][this['activeDevice']];_0x2ec08d=_0x506adf,_0x13d916=_0x21d7d6;}return this['rotate']&&([_0x2ec08d,_0x13d916]=[_0x13d916,_0x2ec08d]),[_0x2ec08d,_0x13d916];},'attribute'(){const _0x803d6f=_0xc282b3;return _0x5c2066(this[_0x803d6f(0x3a0)]);},'transformed'(){const _0x22125b=_0xc282b3,{previewWidth:_0x4187f7,previewHeight:_0x225d95}=this,[_0x2f6a7b,_0x36e9fd]=this[_0x22125b(0x40b)],_0x30dfe8=0x32,_0x5eb4b5=_0x4187f7-0x2*_0x30dfe8,_0x2c0198=_0x225d95-0x2*_0x30dfe8,_0x519218=_0x2c0198/_0x36e9fd,_0x4cfc0a=_0x5eb4b5/_0x2f6a7b,_0x5df4ed=Math['min'](_0x519218,_0x4cfc0a,0x1),_0x55b81b=(_0x4187f7-_0x2f6a7b*_0x5df4ed)/0x2,_0x5cc1c3=(_0x225d95-_0x36e9fd*_0x5df4ed)/0x2;return{'scale':_0x5df4ed,'translateX':_0x55b81b,'translateY':_0x5cc1c3};}},'methods':{'handleUpdateExample'({key:_0x185ac0,value:_0x51a1a3}){const _0x28fb02=_0xc282b3;this[_0x28fb02(0x3a0)]=_0x1b28d6(this['example']),_0x430ad3(this[_0x28fb02(0x3a0)],_0x185ac0,_0x51a1a3);},'handleDownloadImage'(){const _0x2cabdd=_0xc282b3;try{_0x340a5d(this['canvas'],_0x2cabdd(0x54a));}catch(_0xa1ab06){_0x316bba['a'][_0x2cabdd(0x42a)]({'message':_0x2cabdd(0x227),'duration':0x1388}),console['log'](_0xa1ab06);}},'handleDownloadFile'(){const _0x1af17f=_0xc282b3;_0x2b5f98(this[_0x1af17f(0x3a0)],_0x1af17f(0x269));},'handleHelp'(){const _0x110eb8=_0xc282b3;this[_0x110eb8(0x396)]['push'](_0x110eb8(0x282));},async 'handlePreview'(){const _0x3b4316=_0xc282b3;try{await document[_0x3b4316(0x1e9)][_0x3b4316(0x30f)]();}catch{_0x316bba['a'][_0x3b4316(0x3e5)]('Failed\x20to\x20enter\x20full\x20screen');}}}},_0x3f5cb2=_0x310819,_0x1fd029=(_0x561369('177c'),Object(_0xe49168['a'])(_0x3f5cb2,_0x9dbffc,_0x5be566,!0x1,null,null,null)),_0x31920c=_0x1fd029['exports'],_0x54c25e=function(){const _0x3050ce=_0xc282b3;var _0x1fd75e=this,_0x3ba095=_0x1fd75e[_0x3050ce(0x12e)]['_c'];return _0x3ba095(_0x3050ce(0x252),{'staticClass':'about-container'},[_0x3ba095(_0x3050ce(0x252),{'staticClass':'about-header'},[_0x3ba095('div',[_0x3ba095('h1',[_0x1fd75e['_v'](_0x3050ce(0x488))]),_0x3ba095('p',[_0x1fd75e['_v'](_0x3050ce(0x27d))]),_0x3ba095('p',[_0x1fd75e['_v'](_0x3050ce(0x1bf))]),_0x3ba095('p',[_0x1fd75e['_v'](_0x3050ce(0x37b))]),_0x3ba095('p',[_0x1fd75e['_v']('\x20LuckySheep提供了一些颜色、图案和文字，你甚至可以从图像中提取颜色。找到它们背后的故事，书写属于你自己的篇章✨。')]),_0x3ba095('p',[_0x3ba095(_0x3050ce(0x401),{'model':{'value':_0x1fd75e[_0x3050ce(0x507)],'callback':function(_0x1dce9d){const _0x196053=_0x3050ce;_0x1fd75e[_0x196053(0x507)]=_0x1dce9d;},'expression':'selectedValue'}},_0x1fd75e['_l'](_0x1fd75e[_0x3050ce(0x14a)],function(_0x3906e6){const _0x3901e4=_0x3050ce;return _0x3ba095(_0x3901e4(0x278),{'key':_0x3906e6['value'],'attrs':{'label':_0x3906e6[_0x3901e4(0x254)],'value':_0x3906e6[_0x3901e4(0x54b)]}});}),0x1),_0x3050ce(0x1ed)===_0x1fd75e[_0x3050ce(0x507)]?_0x3ba095(_0x3050ce(0x401),{'model':{'value':_0x1fd75e[_0x3050ce(0x55e)],'callback':function(_0x5104a1){const _0x4e51a5=_0x3050ce;_0x1fd75e[_0x4e51a5(0x55e)]=_0x5104a1;},'expression':_0x3050ce(0x55e)}},_0x1fd75e['_l'](_0x1fd75e[_0x3050ce(0x52e)],function(_0x76566c){const _0x1c1be5=_0x3050ce;return _0x3ba095('el-option',{'key':_0x76566c['value'],'attrs':{'label':_0x76566c[_0x1c1be5(0x254)],'value':_0x76566c[_0x1c1be5(0x54b)]}});}),0x1):_0x1fd75e['_e']()],0x1)]),_0x3ba095(_0x3050ce(0x4c9),{'staticClass':_0x3050ce(0x3bc),'attrs':{'src':_0x3050ce(0x440),'width':_0x3050ce(0x1b9)}})]),_0x3ba095('div',{'staticClass':'about-body'},[_0x3050ce(0x153)===_0x1fd75e[_0x3050ce(0x507)]?_0x3ba095(_0x3050ce(0x252),[_0x3ba095('div',{'staticClass':_0x3050ce(0x568)},_0x1fd75e['_l'](_0x1fd75e[_0x3050ce(0x354)],function(_0x51bced){const _0x2013fb=_0x3050ce;return _0x3ba095(_0x2013fb(0x229),{'key':_0x51bced[_0x2013fb(0x153)],'on':{'click':()=>_0x1fd75e[_0x2013fb(0x332)](_0x51bced[_0x2013fb(0x153)])}},[_0x1fd75e['_v'](_0x1fd75e['_s'](_0x51bced[_0x2013fb(0x153)]))]);}),0x0),_0x3ba095('p',[_0x1fd75e['_v'](_0x3050ce(0x578)),_0x3ba095(_0x3050ce(0x17a),{'attrs':{'type':_0x3050ce(0x277),'href':_0x3050ce(0x421),'target':_0x3050ce(0x55a)}},[_0x1fd75e['_v'](_0x3050ce(0x4bf))]),_0x1fd75e['_v']('\x20❤️.\x20')],0x1)]):_0x1fd75e['_e'](),_0x3050ce(0x574)===_0x1fd75e[_0x3050ce(0x507)]?_0x3ba095('div',{'staticStyle':{'text-align':_0x3050ce(0x1d6)}},_0x1fd75e['_l'](_0x1fd75e['faces'],function(_0x464949){const _0x193de3=_0x3050ce;return _0x3ba095(_0x193de3(0x229),{'key':_0x464949,'staticClass':'about-emoticon-item','on':{'click':()=>_0x1fd75e['handleClickEmoticon'](_0x464949)}},[_0x1fd75e['_v'](_0x1fd75e['_s'](_0x464949))]);}),0x0):_0x1fd75e['_e'](),_0x3050ce(0x1ed)===_0x1fd75e[_0x3050ce(0x507)]&&_0x3050ce(0x11f)===_0x1fd75e[_0x3050ce(0x55e)]?_0x3ba095(_0x3050ce(0x252),_0x1fd75e['_l'](_0x1fd75e[_0x3050ce(0x35e)],function(_0x326dbd){const _0x3767c7=_0x3050ce;return _0x3ba095(_0x3767c7(0x252),{'key':_0x326dbd['name'],'staticClass':_0x3767c7(0x402)},[_0x3ba095('h2',[_0x1fd75e['_v'](_0x1fd75e['_s'](_0x326dbd[_0x3767c7(0x237)]))]),_0x3ba095('p',{'staticClass':_0x3767c7(0x2b5),'domProps':{'innerHTML':_0x1fd75e['_s'](_0x326dbd[_0x3767c7(0x3ca)])}}),_0x3ba095('div',{'staticClass':'about-color-container'},_0x1fd75e['_l'](_0x326dbd['colors'],function(_0x2e3a96){const _0x3434f0=_0x3767c7;return _0x3ba095(_0x3434f0(0x252),{'key':_0x2e3a96[_0x3434f0(0x237)],'staticClass':_0x3434f0(0x3bf)},[_0x3ba095(_0x3434f0(0x252),{'staticClass':'about-color-item-wrapper','style':{'height':_0x1fd75e[_0x3434f0(0x391)]+'px'},'on':{'click':()=>_0x1fd75e['handleClickColors'](_0x2e3a96[_0x3434f0(0x237)]||_0x3434f0(0x3ea),_0x2e3a96[_0x3434f0(0x1a9)])}},_0x1fd75e['_l'](_0x2e3a96['values'],function(_0x5ce19e){const _0x401eb4=_0x3434f0;return _0x3ba095(_0x401eb4(0x252),{'key':_0x5ce19e,'style':{'background':_0x5ce19e,'width':_0x401eb4(0x504),'height':_0x1fd75e[_0x401eb4(0x391)]/(_0x2e3a96[_0x401eb4(0x1a9)][_0x401eb4(0x226)]||0x1)+'px'}});}),0x0),_0x3ba095(_0x3434f0(0x229),{'staticClass':_0x3434f0(0x240)},[_0x2e3a96[_0x3434f0(0x362)]?_0x3ba095(_0x3434f0(0x17a),{'attrs':{'href':_0x2e3a96[_0x3434f0(0x362)],'target':_0x3434f0(0x55a)}},[_0x1fd75e['_v'](_0x1fd75e['_s'](_0x2e3a96[_0x3434f0(0x237)]||'Learn\x20More'))]):_0x3ba095('span',[_0x1fd75e['_v'](_0x1fd75e['_s'](_0x2e3a96[_0x3434f0(0x237)]||'Learn\x20More'))])],0x1)]);}),0x0)]);}),0x0):_0x1fd75e['_e'](),_0x3050ce(0x1ed)===_0x1fd75e[_0x3050ce(0x507)]&&_0x3050ce(0x4a0)===_0x1fd75e[_0x3050ce(0x55e)]?_0x3ba095(_0x3050ce(0x252),{'staticStyle':{'text-align':_0x3050ce(0x1d6),'margin-bottom':_0x3050ce(0x3aa)}},[_0x3ba095(_0x3050ce(0x200),{'attrs':{'maxCount':0x4},'model':{'value':_0x1fd75e[_0x3050ce(0x3b6)],'callback':function(_0x567189){const _0x40e8c8=_0x3050ce;_0x1fd75e[_0x40e8c8(0x3b6)]=_0x567189;},'expression':_0x3050ce(0x3b6)}}),_0x3ba095(_0x3050ce(0x30a),{'staticClass':_0x3050ce(0x1ad),'attrs':{'type':_0x3050ce(0x277),'disabled':0x0===_0x1fd75e[_0x3050ce(0x3b6)][_0x3050ce(0x226)]},'on':{'click':()=>_0x1fd75e[_0x3050ce(0x4f3)](_0x3050ce(0x3ea),_0x1fd75e[_0x3050ce(0x3b6)])}},[_0x1fd75e['_v'](_0x3050ce(0x4a7))])],0x1):_0x1fd75e['_e'](),_0x3050ce(0x280)===_0x1fd75e['selectedValue']?_0x3ba095(_0x3050ce(0x252),{'staticClass':'about-pattern-container'},_0x1fd75e['_l'](_0x1fd75e[_0x3050ce(0x2c3)],function(_0x59452f){const _0x589348=_0x3050ce;return _0x3ba095('div',{'key':_0x59452f['label'],'staticClass':'about-pattern-item','on':{'click':()=>_0x1fd75e[_0x589348(0x525)](_0x59452f[_0x589348(0x254)],_0x59452f[_0x589348(0x30b)],_0x59452f[_0x589348(0x548)])}},[_0x3ba095(_0x589348(0x30d),{'attrs':{'options':_0x59452f[_0x589348(0x548)],'size':_0x1fd75e[_0x589348(0x28b)],'name':_0x59452f[_0x589348(0x254)]}})],0x1);}),0x0):_0x1fd75e['_e']()])]);},_0x191d45=[],_0x445f0e=function(){const _0x39f60e=_0xc282b3;var _0x44c0a8=this,_0x32aa74=_0x44c0a8[_0x39f60e(0x12e)]['_c'];return _0x32aa74('div',{'staticClass':'pattern-card-container'},[_0x32aa74(_0x39f60e(0x1a1),{'ref':'canvas','staticClass':_0x39f60e(0x280)}),_0x32aa74(_0x39f60e(0x229),[_0x44c0a8['_v'](_0x44c0a8['_s'](_0x44c0a8[_0x39f60e(0x237)]))])]);},_0x30da01=[],_0xbfc57b={'props':{'options':Object,'size':{'type':Number,'default':0x12c},'name':String},'mounted'(){const _0x1b3c4c=_0xc282b3,_0x2cc37c=this['$refs'][_0x1b3c4c(0x1a1)],_0x2ca932=_0x17dc63(_0x2cc37c,this['size'],this[_0x1b3c4c(0x22d)]),{color:_0x2636e1}=this[_0x1b3c4c(0x548)];_0x2ca932[_0x1b3c4c(0x43f)]=_0x173558(_0x2ca932,{...this['options'],'backgroundColor':_0x2636e1}),_0x2ca932[_0x1b3c4c(0x532)](0x0,0x0,this['size'],this[_0x1b3c4c(0x22d)]);}},_0x1df01d=_0xbfc57b,_0x47f533=(_0x561369(_0xc282b3(0x3c4)),Object(_0xe49168['a'])(_0x1df01d,_0x445f0e,_0x30da01,!0x1,null,null,null)),_0x2f9136=_0x47f533['exports'];const _0x3c8725=[{'label':'线条','textColor':_0xc282b3(0x25d),'options':{'type':_0xc282b3(0x1b6),'color':_0xc282b3(0x2de),'mode':_0xc282b3(0x280),'foregroundColor':_0xc282b3(0x26c),'lineWidth':0xbd,'width':0xcc,'rotation':-0x16}},{'label':'波浪','textColor':'#372923','options':{'type':_0xc282b3(0x220),'color':_0xc282b3(0x1a7),'mode':_0xc282b3(0x280),'foregroundColor':_0xc282b3(0x358),'lineWidth':0x1e,'width':0x82,'height':0x82,'arcRadius':0x1e,'rotation':-0x1e}},{'label':'圆圈','textColor':_0xc282b3(0x3a3),'options':{'type':'dot','color':'#9e3b37','mode':_0xc282b3(0x280),'fillColor':'#d87265','size':0x50,'strokeColor':_0xc282b3(0x42f),'lineWidth':0x1,'width':0x96,'height':0x96,'rotation':0x2d}},{'label':'方块','textColor':_0xc282b3(0x1fc),'options':{'type':'square','color':_0xc282b3(0x159),'mode':_0xc282b3(0x280),'fillColor':_0xc282b3(0x24d),'size':0x32,'strokeColor':_0xc282b3(0x24d),'lineWidth':0x0,'width':0x64,'height':0x64,'rotation':0x0,'staggered':!0x0}}],_0x1b86d6=Object[_0xc282b3(0x1a9)](_0x4f4b35)[_0xc282b3(0x4d9)]();function _0x1ab2d3(_0x24f925){const _0x558da6=_0xc282b3;return _0x24f925['length']<=0x3?0x64:0x4===_0x24f925[_0x558da6(0x226)]?0x50:0x1e;}var _0x106852={'data'(){const _0x48039b=_0xc282b3;return{'types':[{'value':_0x48039b(0x1ed),'label':'预设配色\x20🌈'},{'value':_0x48039b(0x280),'label':_0x48039b(0x4ab)},{'value':'emoji','label':_0x48039b(0x13b)},{'value':_0x48039b(0x574),'label':_0x48039b(0x43e)}],'modes':[{'value':_0x48039b(0x11f),'label':_0x48039b(0x337)},{'value':_0x48039b(0x4a0),'label':_0x48039b(0x4cd)}],'selectedValue':_0x48039b(0x1ed),'selectedMode':_0x48039b(0x11f),'emojis':_0x1b86d6,'faces':_0x2db194,'patterns':_0x3c8725,'colorStore':_0x5c2443,'cardSize':0xc8,'selectedImageColors':[],'patternSize':screen[_0x48039b(0x48e)]/0x2};},'components':{'ImageColorPicker':_0x770bcc,'PatternCard':_0x2f9136},'methods':{'handleClickEmoticon'(_0x37939d){const _0x59913e=_0xc282b3,_0x2919b8={'text':{'content':_0x37939d,'fontSize':0xc8,'fontFamily':_0x59913e(0x1bd),'fontURL':'./fonts/luckiest_guy.woff2','type':_0x59913e(0x244),'color':'#000000','mode':_0x59913e(0x2d0),'padding':0x0,'dy':0x1e},'background':{'type':_0x59913e(0x244),'color':_0x59913e(0x444),'mode':_0x59913e(0x280)}};_0x1ac7f9(this[_0x59913e(0x396)],_0x2919b8);},'handleClickEmoji'(_0x135446){const _0x547a7b=_0xc282b3,_0x25e1e7={'text':{'content':_0x135446,'fontSize':0x64,'fontFamily':_0x547a7b(0x1bd),'fontURL':_0x547a7b(0x53c),'type':_0x547a7b(0x244),'color':_0x547a7b(0x239),'mode':_0x547a7b(0x244),'padding':0x0,'dy':0x0},'background':{'type':_0x547a7b(0x244),'color':_0x547a7b(0x2de),'mode':_0x547a7b(0x280)}};_0x1ac7f9(this[_0x547a7b(0x396)],_0x25e1e7);},'handleClickColors'(_0x65b682,_0x478d52){const _0x171abb=_0xc282b3;let _0xf5583d;if(0x1===_0x478d52[_0x171abb(0x226)])_0xf5583d={'text':{'content':_0x65b682,'fontSize':0xc8,'fontFamily':_0x171abb(0x1bd),'fontURL':_0x171abb(0x53c),'type':_0x171abb(0x244),'color':_0x171abb(0x41b),'mode':_0x171abb(0x2d0),'padding':0x0,'dy':_0x1ab2d3(_0x65b682)},'background':{'type':_0x171abb(0x244),'color':_0x478d52[0x0],'mode':_0x171abb(0x280)}};else{if(0x2===_0x478d52[_0x171abb(0x226)])_0xf5583d={'text':{'content':_0x65b682,'fontSize':0xc8,'fontFamily':_0x171abb(0x1bd),'fontURL':_0x171abb(0x53c),'type':_0x171abb(0x244),'color':_0x478d52[0x1],'mode':'autoFit','padding':0x0,'dy':_0x1ab2d3(_0x65b682)},'background':{'type':'none','color':_0x478d52[0x0],'mode':_0x171abb(0x280)}};else{if(0x3===_0x478d52[_0x171abb(0x226)]){const [_0x555a43,_0x1c13f1,_0x65b87a]=_0x478d52;_0xf5583d={'text':{'content':_0x65b682,'fontSize':0xc8,'fontFamily':_0x171abb(0x1bd),'fontURL':_0x171abb(0x53c),'type':_0x171abb(0x244),'color':_0x555a43,'mode':_0x171abb(0x2d0),'padding':0x0,'dy':_0x1ab2d3(_0x65b682)},'background':{'type':_0x171abb(0x567),'color':_0x1c13f1,'mode':_0x171abb(0x280),'fillColor':_0x65b87a,'size':0x64,'strokeColor':_0x65b87a,'lineWidth':0x1,'width':0xd2,'height':0xd2,'rotation':0x2d}};}else{if(0x4===_0x478d52[_0x171abb(0x226)]){const [_0x4b86c9,_0xdeeccc,_0xb67bb,_0x52f4f0]=_0x478d52;_0xf5583d={'text':{'content':_0x65b682,'fontSize':0xc8,'fontFamily':_0x171abb(0x1bd),'fontURL':_0x171abb(0x53c),'type':_0x171abb(0x1b6),'rotation':0x2d,'width':0x19,'height':0x19,'foregroundColor':_0x52f4f0,'color':_0xb67bb,'mode':_0x171abb(0x2d0),'lineWidth':1.5,'padding':0x0,'dy':_0x1ab2d3(_0x65b682)},'background':{'mode':'pattern','color':_0x4b86c9,'foregroundColor':_0xdeeccc,'type':_0x171abb(0x1b6),'width':0x32,'lineWidth':1.5,'rotation':0x0}};}}}}_0x1ac7f9(this[_0x171abb(0x396)],_0xf5583d);},'handleClickPattern'(_0x303442,_0x39dbf3,_0x298f9a){const _0x9eb488=_0xc282b3,_0x51f11a={'text':{'content':_0x303442,'fontSize':0xc8,'fontFamily':_0x9eb488(0x1bd),'fontURL':_0x9eb488(0x53c),'type':_0x9eb488(0x244),'color':_0x39dbf3,'mode':_0x9eb488(0x2d0),'padding':0x0,'dy':_0x1ab2d3(_0x303442)},'background':_0x298f9a};_0x1ac7f9(this[_0x9eb488(0x396)],_0x51f11a);}}},_0x114e10=_0x106852,_0x27651b=(_0x561369(_0xc282b3(0x1d1)),Object(_0xe49168['a'])(_0x114e10,_0x54c25e,_0x191d45,!0x1,null,null,null)),_0x43f0da=_0x27651b[_0xc282b3(0x256)];_0x5a40e1[_0xc282b3(0x223)]['use'](_0x4d950b['a']);const _0x10e8b3=[{'path':'/','component':_0x39eb8c},{'path':'/editor','component':_0x31920c,'name':'editor'},{'path':_0xc282b3(0x282),'component':_0x43f0da,'name':_0xc282b3(0x175)}],_0xc3f58f=new _0x4d950b['a']({'routes':_0x10e8b3,'mode':_0xc282b3(0x4cf),'base':_0xc282b3(0x30c)});var _0x36bc6f=_0xc3f58f,_0x2e75d3=(_0x561369(_0xc282b3(0x4fa)),_0x561369(_0xc282b3(0x18f))),_0x288dac=_0x561369['n'](_0x2e75d3),_0x43de0e=_0x561369('1df5'),_0xee074d=_0x561369['n'](_0x43de0e);_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x16c)][_0xc282b3(0x3b8)]=!0x1,_0x5a40e1[_0xc282b3(0x223)]['use'](_0x5d2393['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x444b27['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0xa7e0c4['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x368382['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x3c9603['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x51d0c2['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x1d1d8f['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x2745b7['a']),_0x5a40e1['default'][_0xc282b3(0x17f)](_0x32a778['a']),_0x5a40e1[_0xc282b3(0x223)]['use'](_0x44f3ce['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x4255dd['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x27ff34['a']),_0x5a40e1['default'][_0xc282b3(0x17f)](_0x312b4d['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x246aee['a']),_0x5a40e1['default'][_0xc282b3(0x17f)](_0x48bd43['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x25171a['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x1ed5e0['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x282627['a']),_0x5a40e1['default'][_0xc282b3(0x17f)](_0x5e9fb1['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x4618bd['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x2c54a7['a']),_0x5a40e1['default']['use'](_0x449c21['a']),_0x5a40e1['default']['use'](_0x296775['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x47c598['a']),_0x5a40e1[_0xc282b3(0x223)]['use'](_0x227e30['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x406ccd['a']),_0x5a40e1['default'][_0xc282b3(0x17f)](_0x87b17f['a']),_0x5a40e1[_0xc282b3(0x223)]['use'](_0x1c2ac3['a']),_0x5a40e1[_0xc282b3(0x223)]['use'](_0x22457e['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x17f)](_0x429a26['a']),_0x5a40e1[_0xc282b3(0x223)][_0xc282b3(0x483)](_0x35040c['a'][_0xc282b3(0x237)],_0x35040c['a']),_0x288dac['a'][_0xc282b3(0x17f)](_0xee074d['a']),new _0x5a40e1[(_0xc282b3(0x223))]({'render':_0x41d53e=>_0x41d53e(_0xdd6047),'router':_0x36bc6f})[_0xc282b3(0x4bd)]('#app');},'5f25':function(_0x162877,_0xa46f9f,_0x4148a7){},'6c42':function(_0x411df8,_0x3d27a4,_0x43bf46){},0x1d63:function(_0x49a009){const _0x3636ae=_0x54a9;_0x49a009[_0x3636ae(0x256)]=JSON[_0x3636ae(0x1d4)]('{\x22text\x22:{\x22content\x22:\x22Déjà\x20Vu\x22,\x22fontSize\x22:629,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#372923\x22,\x22mode\x22:\x22constrain\x22,\x22padding\x22:139,\x22dy\x22:123},\x22background\x22:{\x22type\x22:\x22wave\x22,\x22color\x22:\x22#e97e18\x22,\x22mode\x22:\x22pattern\x22,\x22foregroundColor\x22:\x22#efd496\x22,\x22lineWidth\x22:30,\x22width\x22:130,\x22height\x22:130,\x22arcRadius\x22:30,\x22rotation\x22:29}}');},0x1e6a:function(_0x5d3271){const _0x3b71a7=_0x54a9;_0x5d3271[_0x3b71a7(0x256)]=JSON['parse'](_0x3b71a7(0x4b2));},0x1eca:function(_0x1741b1,_0x30e211,_0x3d1b27){},0x1ed6:function(_0x18f44e){const _0x22bae1=_0x54a9;_0x18f44e[_0x22bae1(0x256)]=JSON['parse'](_0x22bae1(0x467));},'79f6':function(_0x193098,_0x10c5e1,_0x569bdd){},'7dca':function(_0x1f18ba){const _0x39ddcf=_0x54a9;_0x1f18ba[_0x39ddcf(0x256)]=JSON[_0x39ddcf(0x1d4)]('{\x22text\x22:{\x22content\x22:\x22Not\x20from\x20hammer\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#ecdc75\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#8c9ed9\x22,\x22mode\x22:\x22pattern\x22}}');},'80cf':function(_0x495404,_0x5e5349,_0x5a341b){},0x20cf:function(_0x4f7811,_0x1b6168,_0x174574){},0x2308:function(_0x3c5c0c,_0x3c1323,_0x458262){},'8ae6':function(_0x51c771,_0x3b945a,_0x538792){},'8bc9':function(_0xd68c28){const _0x5dea51=_0x54a9;_0xd68c28[_0x5dea51(0x256)]=JSON['parse']('{\x22text\x22:{\x22content\x22:\x22🌶️🐔\x22,\x22fontSize\x22:197,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#000\x22,\x22mode\x22:\x22none\x22,\x22padding\x22:0,\x22dy\x22:0},\x22background\x22:{\x22type\x22:\x22none\x22,\x22color\x22:\x22#F8BA03\x22,\x22mode\x22:\x22pattern\x22}}');},'9bef':function(_0xc5c9b9){const _0x206b0d=_0x54a9;_0xc5c9b9['exports']=JSON[_0x206b0d(0x1d4)](_0x206b0d(0x405));},'9e79':function(_0x2adcfd){const _0x292e6a=_0x54a9;_0x2adcfd[_0x292e6a(0x256)]=JSON[_0x292e6a(0x1d4)](_0x292e6a(0x49d));},'a5de':function(_0x1ff3bd,_0x73898,_0x56e4da){'use strict';_0x56e4da('1b79');},'a753':function(_0x195ce7){const _0x529f24=_0x54a9;_0x195ce7[_0x529f24(0x256)]=JSON[_0x529f24(0x1d4)](_0x529f24(0x3b5));},'a8c9':function(_0x36ffd9,_0x297c63,_0x1c2454){'use strict';const _0x406e=_0x54a9;_0x1c2454(_0x406e(0x267));},'aa79':function(_0x33f153,_0x17782c,_0x2f4ac3){const _0x4e5b04=_0x54a9;_0x33f153[_0x4e5b04(0x256)]=_0x4e5b04(0x511);},'abb8':function(_0x155158,_0x3f5250,_0x5e69cb){'use strict';const _0x44a83a=_0x54a9;_0x5e69cb(_0x44a83a(0x569));},'af95':function(_0x50009b,_0x23ff0b,_0x277f2f){'use strict';const _0x49d710=_0x54a9;_0x277f2f(_0x49d710(0x51f));},'b15c':function(_0x3e571a,_0x23971a,_0x46364f){},'b206':function(_0x2a05e4){const _0x23797a=_0x54a9;_0x2a05e4[_0x23797a(0x256)]=JSON[_0x23797a(0x1d4)](_0x23797a(0x4fe));},'bcb9':function(_0x22e4fb){const _0x4b0fec=_0x54a9;_0x22e4fb[_0x4b0fec(0x256)]=JSON[_0x4b0fec(0x1d4)]('{\x22text\x22:{\x22content\x22:\x22o(￣▽￣)ｄ\x22,\x22fontSize\x22:200,\x22fontFamily\x22:\x22Luckiest\x20Guy\x22,\x22fontURL\x22:\x22./fonts/luckiest_guy.woff2\x22,\x22type\x22:\x22none\x22,\x22color\x22:\x22#fff\x22,\x22mode\x22:\x22autoFit\x22,\x22padding\x22:0,\x22dy\x22:30},\x22background\x22:{\x22mode\x22:\x22image\x22,\x22imageURL\x22:\x22https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439435287.webp\x22}}');},'bd6d':function(_0x2b3d7a){const _0x4a3044=_0x54a9;_0x2b3d7a[_0x4a3044(0x256)]=JSON[_0x4a3044(0x1d4)](_0x4a3044(0x4b8));},'c405':function(_0x5b78aa,_0x1af51e,_0x3657cc){},'c4d9':function(_0x5e51ff,_0x889ba3,_0x29c6db){'use strict';const _0x221116=_0x54a9;_0x29c6db(_0x221116(0x285));},'c604':function(_0x9907e2){const _0x1acd33=_0x54a9;_0x9907e2[_0x1acd33(0x256)]=JSON[_0x1acd33(0x1d4)]('{\x22Smileys\x20&\x20Emotion\x22:[{\x22emoji\x22:\x22😀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grinning\x20face\x22,\x22slug\x22:\x22grinning_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grinning\x20face\x20with\x20big\x20eyes\x22,\x22slug\x22:\x22grinning_face_with_big_eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grinning\x20face\x20with\x20smiling\x20eyes\x22,\x22slug\x22:\x22grinning_face_with_smiling_eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22beaming\x20face\x20with\x20smiling\x20eyes\x22,\x22slug\x22:\x22beaming_face_with_smiling_eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grinning\x20squinting\x20face\x22,\x22slug\x22:\x22grinning_squinting_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grinning\x20face\x20with\x20sweat\x22,\x22slug\x22:\x22grinning_face_with_sweat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rolling\x20on\x20the\x20floor\x20laughing\x22,\x22slug\x22:\x22rolling_on_the_floor_laughing\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22😂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20tears\x20of\x20joy\x22,\x22slug\x22:\x22face_with_tears_of_joy\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22slightly\x20smiling\x20face\x22,\x22slug\x22:\x22slightly_smiling_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🙃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22upside-down\x20face\x22,\x22slug\x22:\x22upside_down_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22winking\x20face\x22,\x22slug\x22:\x22winking_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smiling\x20face\x20with\x20smiling\x20eyes\x22,\x22slug\x22:\x22smiling_face_with_smiling_eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smiling\x20face\x20with\x20halo\x22,\x22slug\x22:\x22smiling_face_with_halo\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🥰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smiling\x20face\x20with\x20hearts\x22,\x22slug\x22:\x22smiling_face_with_hearts\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22😍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smiling\x20face\x20with\x20heart-eyes\x22,\x22slug\x22:\x22smiling_face_with_heart_eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22star-struck\x22,\x22slug\x22:\x22star_struck\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22😘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20blowing\x20a\x20kiss\x22,\x22slug\x22:\x22face_blowing_a_kiss\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kissing\x20face\x22,\x22slug\x22:\x22kissing_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🙂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smiling\x20face\x22,\x22slug\x22:\x22smiling_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kissing\x20face\x20with\x20closed\x20eyes\x22,\x22slug\x22:\x22kissing_face_with_closed_eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kissing\x20face\x20with\x20smiling\x20eyes\x22,\x22slug\x22:\x22kissing_face_with_smiling_eyes\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20savoring\x20food\x22,\x22slug\x22:\x22face_savoring_food\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20tongue\x22,\x22slug\x22:\x22face_with_tongue\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22winking\x20face\x20with\x20tongue\x22,\x22slug\x22:\x22winking_face_with_tongue\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22zany\x20face\x22,\x22slug\x22:\x22zany_face\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22😝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22squinting\x20face\x20with\x20tongue\x22,\x22slug\x22:\x22squinting_face_with_tongue\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22money-mouth\x20face\x22,\x22slug\x22:\x22money_mouth_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🤗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hugging\x20face\x22,\x22slug\x22:\x22hugging_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🤭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20hand\x20over\x20mouth\x22,\x22slug\x22:\x22face_with_hand_over_mouth\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🤫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shushing\x20face\x22,\x22slug\x22:\x22shushing_face\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🤔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22thinking\x20face\x22,\x22slug\x22:\x22thinking_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🤐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22zipper-mouth\x20face\x22,\x22slug\x22:\x22zipper_mouth_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🤨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20raised\x20eyebrow\x22,\x22slug\x22:\x22face_with_raised_eyebrow\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22😐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22neutral\x20face\x22,\x22slug\x22:\x22neutral_face\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22😑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22expressionless\x20face\x22,\x22slug\x22:\x22expressionless_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20without\x20mouth\x22,\x22slug\x22:\x22face_without_mouth\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😶‍🌫️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20in\x20clouds\x22,\x22slug\x22:\x22face_in_clouds\x22,\x22unicode_version\x22:\x2213.1\x22,\x22emoji_version\x22:\x2213.1\x22},{\x22emoji\x22:\x22😏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smirking\x20face\x22,\x22slug\x22:\x22smirking_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22unamused\x20face\x22,\x22slug\x22:\x22unamused_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20rolling\x20eyes\x22,\x22slug\x22:\x22face_with_rolling_eyes\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grimacing\x20face\x22,\x22slug\x22:\x22grimacing_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😮‍💨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20exhaling\x22,\x22slug\x22:\x22face_exhaling\x22,\x22unicode_version\x22:\x2213.1\x22,\x22emoji_version\x22:\x2213.1\x22},{\x22emoji\x22:\x22🤥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lying\x20face\x22,\x22slug\x22:\x22lying_face\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22😌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22relieved\x20face\x22,\x22slug\x22:\x22relieved_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pensive\x20face\x22,\x22slug\x22:\x22pensive_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sleepy\x20face\x22,\x22slug\x22:\x22sleepy_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22drooling\x20face\x22,\x22slug\x22:\x22drooling_face\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22😴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sleeping\x20face\x22,\x22slug\x22:\x22sleeping_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20medical\x20mask\x22,\x22slug\x22:\x22face_with_medical_mask\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20thermometer\x22,\x22slug\x22:\x22face_with_thermometer\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🤕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20head-bandage\x22,\x22slug\x22:\x22face_with_head_bandage\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🤢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22nauseated\x20face\x22,\x22slug\x22:\x22nauseated_face\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20vomiting\x22,\x22slug\x22:\x22face_vomiting\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🤧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sneezing\x20face\x22,\x22slug\x22:\x22sneezing_face\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hot\x20face\x22,\x22slug\x22:\x22hot_face\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🥶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cold\x20face\x22,\x22slug\x22:\x22cold_face\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🥴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22woozy\x20face\x22,\x22slug\x22:\x22woozy_face\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22😵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22knocked-out\x20face\x22,\x22slug\x22:\x22knocked_out_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😵‍💫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20spiral\x20eyes\x22,\x22slug\x22:\x22face_with_spiral_eyes\x22,\x22unicode_version\x22:\x2213.1\x22,\x22emoji_version\x22:\x2213.1\x22},{\x22emoji\x22:\x22🤯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22exploding\x20head\x22,\x22slug\x22:\x22exploding_head\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🤠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cowboy\x20hat\x20face\x22,\x22slug\x22:\x22cowboy_hat_face\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22partying\x20face\x22,\x22slug\x22:\x22partying_face\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22😎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smiling\x20face\x20with\x20sunglasses\x22,\x22slug\x22:\x22smiling_face_with_sunglasses\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🤓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22nerd\x20face\x22,\x22slug\x22:\x22nerd_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🧐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20monocle\x22,\x22slug\x22:\x22face_with_monocle\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22😕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22confused\x20face\x22,\x22slug\x22:\x22confused_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22worried\x20face\x22,\x22slug\x22:\x22worried_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🙁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22slightly\x20frowning\x20face\x22,\x22slug\x22:\x22slightly_frowning_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22☹️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22frowning\x20face\x22,\x22slug\x22:\x22frowning_face\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22😮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20open\x20mouth\x22,\x22slug\x22:\x22face_with_open_mouth\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hushed\x20face\x22,\x22slug\x22:\x22hushed_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22astonished\x20face\x22,\x22slug\x22:\x22astonished_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flushed\x20face\x22,\x22slug\x22:\x22flushed_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pleading\x20face\x22,\x22slug\x22:\x22pleading_face\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22😦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22frowning\x20face\x20with\x20open\x20mouth\x22,\x22slug\x22:\x22frowning_face_with_open_mouth\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22anguished\x20face\x22,\x22slug\x22:\x22anguished_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fearful\x20face\x22,\x22slug\x22:\x22fearful_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22anxious\x20face\x20with\x20sweat\x22,\x22slug\x22:\x22anxious_face_with_sweat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sad\x20but\x20relieved\x20face\x22,\x22slug\x22:\x22sad_but_relieved_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crying\x20face\x22,\x22slug\x22:\x22crying_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22loudly\x20crying\x20face\x22,\x22slug\x22:\x22loudly_crying_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20screaming\x20in\x20fear\x22,\x22slug\x22:\x22face_screaming_in_fear\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22confounded\x20face\x22,\x22slug\x22:\x22confounded_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22persevering\x20face\x22,\x22slug\x22:\x22persevering_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22disappointed\x20face\x22,\x22slug\x22:\x22disappointed_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22downcast\x20face\x20with\x20sweat\x22,\x22slug\x22:\x22downcast_face_with_sweat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22weary\x20face\x22,\x22slug\x22:\x22weary_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tired\x20face\x22,\x22slug\x22:\x22tired_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22yawning\x20face\x22,\x22slug\x22:\x22yawning_face\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22😤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20steam\x20from\x20nose\x22,\x22slug\x22:\x22face_with_steam_from_nose\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pouting\x20face\x22,\x22slug\x22:\x22pouting_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22angry\x20face\x22,\x22slug\x22:\x22angry_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22face\x20with\x20symbols\x20on\x20mouth\x22,\x22slug\x22:\x22face_with_symbols_on_mouth\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22😈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smiling\x20face\x20with\x20horns\x22,\x22slug\x22:\x22smiling_face_with_horns\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22👿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22angry\x20face\x20with\x20horns\x22,\x22slug\x22:\x22angry_face_with_horns\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22skull\x22,\x22slug\x22:\x22skull\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☠️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22skull\x20and\x20crossbones\x22,\x22slug\x22:\x22skull_and_crossbones\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22💩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pile\x20of\x20poo\x22,\x22slug\x22:\x22pile_of_poo\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22clown\x20face\x22,\x22slug\x22:\x22clown_face\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22👹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ogre\x22,\x22slug\x22:\x22ogre\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22goblin\x22,\x22slug\x22:\x22goblin\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ghost\x22,\x22slug\x22:\x22ghost\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22alien\x22,\x22slug\x22:\x22alien\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22alien\x20monster\x22,\x22slug\x22:\x22alien_monster\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22robot\x22,\x22slug\x22:\x22robot\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22😺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grinning\x20cat\x22,\x22slug\x22:\x22grinning_cat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grinning\x20cat\x20with\x20smiling\x20eyes\x22,\x22slug\x22:\x22grinning_cat_with_smiling_eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cat\x20with\x20tears\x20of\x20joy\x22,\x22slug\x22:\x22cat_with_tears_of_joy\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22smiling\x20cat\x20with\x20heart-eyes\x22,\x22slug\x22:\x22smiling_cat_with_heart_eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cat\x20with\x20wry\x20smile\x22,\x22slug\x22:\x22cat_with_wry_smile\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kissing\x20cat\x22,\x22slug\x22:\x22kissing_cat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22weary\x20cat\x22,\x22slug\x22:\x22weary_cat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crying\x20cat\x22,\x22slug\x22:\x22crying_cat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22😾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pouting\x20cat\x22,\x22slug\x22:\x22pouting_cat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22see-no-evil\x20monkey\x22,\x22slug\x22:\x22see_no_evil_monkey\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hear-no-evil\x20monkey\x22,\x22slug\x22:\x22hear_no_evil_monkey\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22speak-no-evil\x20monkey\x22,\x22slug\x22:\x22speak_no_evil_monkey\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kiss\x20mark\x22,\x22slug\x22:\x22kiss_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22love\x20letter\x22,\x22slug\x22:\x22love_letter\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22heart\x20with\x20arrow\x22,\x22slug\x22:\x22heart_with_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22heart\x20with\x20ribbon\x22,\x22slug\x22:\x22heart_with_ribbon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sparkling\x20heart\x22,\x22slug\x22:\x22sparkling_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22growing\x20heart\x22,\x22slug\x22:\x22growing_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22beating\x20heart\x22,\x22slug\x22:\x22beating_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22revolving\x20hearts\x22,\x22slug\x22:\x22revolving_hearts\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22two\x20hearts\x22,\x22slug\x22:\x22two_hearts\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22heart\x20decoration\x22,\x22slug\x22:\x22heart_decoration\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❣️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22heart\x20exclamation\x22,\x22slug\x22:\x22heart_exclamation\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22💔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22broken\x20heart\x22,\x22slug\x22:\x22broken_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❤️‍🔥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22heart\x20on\x20fire\x22,\x22slug\x22:\x22heart_on_fire\x22,\x22unicode_version\x22:\x2213.1\x22,\x22emoji_version\x22:\x2213.1\x22},{\x22emoji\x22:\x22❤️‍🩹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mending\x20heart\x22,\x22slug\x22:\x22mending_heart\x22,\x22unicode_version\x22:\x2213.1\x22,\x22emoji_version\x22:\x2213.1\x22},{\x22emoji\x22:\x22❤️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20heart\x22,\x22slug\x22:\x22red_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22orange\x20heart\x22,\x22slug\x22:\x22orange_heart\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22💛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22yellow\x20heart\x22,\x22slug\x22:\x22yellow_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22green\x20heart\x22,\x22slug\x22:\x22green_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22blue\x20heart\x22,\x22slug\x22:\x22blue_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22purple\x20heart\x22,\x22slug\x22:\x22purple_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22brown\x20heart\x22,\x22slug\x22:\x22brown_heart\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🖤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20heart\x22,\x22slug\x22:\x22black_heart\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20heart\x22,\x22slug\x22:\x22white_heart\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22💯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hundred\x20points\x22,\x22slug\x22:\x22hundred_points\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22anger\x20symbol\x22,\x22slug\x22:\x22anger_symbol\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22collision\x22,\x22slug\x22:\x22collision\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dizzy\x22,\x22slug\x22:\x22dizzy\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sweat\x20droplets\x22,\x22slug\x22:\x22sweat_droplets\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dashing\x20away\x22,\x22slug\x22:\x22dashing_away\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕳️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hole\x22,\x22slug\x22:\x22hole\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22💣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bomb\x22,\x22slug\x22:\x22bomb\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22speech\x20balloon\x22,\x22slug\x22:\x22speech_balloon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👁️‍🗨️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eye\x20in\x20speech\x20bubble\x22,\x22slug\x22:\x22eye_in_speech_bubble\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🗨️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22left\x20speech\x20bubble\x22,\x22slug\x22:\x22left_speech_bubble\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🗯️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22right\x20anger\x20bubble\x22,\x22slug\x22:\x22right_anger_bubble\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22💭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22thought\x20balloon\x22,\x22slug\x22:\x22thought_balloon\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22💤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22zzz\x22,\x22slug\x22:\x22zzz\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22}],\x22People\x20&\x20Body\x22:[{\x22emoji\x22:\x22👋\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22waving\x20hand\x22,\x22slug\x22:\x22waving_hand\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤚\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22raised\x20back\x20of\x20hand\x22,\x22slug\x22:\x22raised_back_of_hand\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🖐️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22hand\x20with\x20fingers\x20splayed\x22,\x22slug\x22:\x22hand_with_fingers_splayed\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22✋\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22raised\x20hand\x22,\x22slug\x22:\x22raised_hand\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🖖\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22vulcan\x20salute\x22,\x22slug\x22:\x22vulcan_salute\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22👌\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22OK\x20hand\x22,\x22slug\x22:\x22ok_hand\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤏\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22pinching\x20hand\x22,\x22slug\x22:\x22pinching_hand\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22✌️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22victory\x20hand\x22,\x22slug\x22:\x22victory_hand\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤞\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22crossed\x20fingers\x22,\x22slug\x22:\x22crossed_fingers\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤟\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22love-you\x20gesture\x22,\x22slug\x22:\x22love_you_gesture\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🤘\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22sign\x20of\x20the\x20horns\x22,\x22slug\x22:\x22sign_of_the_horns\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🤙\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22call\x20me\x20hand\x22,\x22slug\x22:\x22call_me_hand\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22👈\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22backhand\x20index\x20pointing\x20left\x22,\x22slug\x22:\x22backhand_index_pointing_left\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👉\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22backhand\x20index\x20pointing\x20right\x22,\x22slug\x22:\x22backhand_index_pointing_right\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👆\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22backhand\x20index\x20pointing\x20up\x22,\x22slug\x22:\x22backhand_index_pointing_up\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🖕\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22middle\x20finger\x22,\x22slug\x22:\x22middle_finger\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22👇\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22backhand\x20index\x20pointing\x20down\x22,\x22slug\x22:\x22backhand_index_pointing_down\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☝️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22index\x20pointing\x20up\x22,\x22slug\x22:\x22index_pointing_up\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👍\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22thumbs\x20up\x22,\x22slug\x22:\x22thumbs_up\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👎\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22thumbs\x20down\x22,\x22slug\x22:\x22thumbs_down\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✊\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22raised\x20fist\x22,\x22slug\x22:\x22raised_fist\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👊\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22oncoming\x20fist\x22,\x22slug\x22:\x22oncoming_fist\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤛\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22left-facing\x20fist\x22,\x22slug\x22:\x22left_facing_fist\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤜\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22right-facing\x20fist\x22,\x22slug\x22:\x22right_facing_fist\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22👏\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22clapping\x20hands\x22,\x22slug\x22:\x22clapping_hands\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙌\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22raising\x20hands\x22,\x22slug\x22:\x22raising_hands\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👐\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22open\x20hands\x22,\x22slug\x22:\x22open_hands\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤲\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22palms\x20up\x20together\x22,\x22slug\x22:\x22palms_up_together\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🤝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22handshake\x22,\x22slug\x22:\x22handshake\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🙏\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22folded\x20hands\x22,\x22slug\x22:\x22folded_hands\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✍️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22writing\x20hand\x22,\x22slug\x22:\x22writing_hand\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22💅\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22nail\x20polish\x22,\x22slug\x22:\x22nail_polish\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤳\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22selfie\x22,\x22slug\x22:\x22selfie\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22💪\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22flexed\x20biceps\x22,\x22slug\x22:\x22flexed_biceps\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mechanical\x20arm\x22,\x22slug\x22:\x22mechanical_arm\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🦿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mechanical\x20leg\x22,\x22slug\x22:\x22mechanical_leg\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🦵\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22leg\x22,\x22slug\x22:\x22leg\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦶\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22foot\x22,\x22slug\x22:\x22foot\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22👂\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22ear\x22,\x22slug\x22:\x22ear\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦻\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22ear\x20with\x20hearing\x20aid\x22,\x22slug\x22:\x22ear_with_hearing_aid\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22👃\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22nose\x22,\x22slug\x22:\x22nose\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22brain\x22,\x22slug\x22:\x22brain\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🦷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tooth\x22,\x22slug\x22:\x22tooth\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bone\x22,\x22slug\x22:\x22bone\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22👀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eyes\x22,\x22slug\x22:\x22eyes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👁️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eye\x22,\x22slug\x22:\x22eye\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22👅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tongue\x22,\x22slug\x22:\x22tongue\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mouth\x22,\x22slug\x22:\x22mouth\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👶\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22baby\x22,\x22slug\x22:\x22baby\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧒\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22child\x22,\x22slug\x22:\x22child\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22👦\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22boy\x22,\x22slug\x22:\x22boy\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👧\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22girl\x22,\x22slug\x22:\x22girl\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧑\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22person\x22,\x22slug\x22:\x22person\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22👱\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20blond\x20hair\x22,\x22slug\x22:\x22person_blond_hair\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👨\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22man\x22,\x22slug\x22:\x22man\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧔\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22person\x20beard\x22,\x22slug\x22:\x22person_beard\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧔‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22man\x20beard\x22,\x22slug\x22:\x22man_beard\x22,\x22unicode_version\x22:\x2213.1\x22,\x22emoji_version\x22:\x2213.1\x22},{\x22emoji\x22:\x22🧔‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22woman\x20beard\x22,\x22slug\x22:\x22woman_beard\x22,\x22unicode_version\x22:\x2213.1\x22,\x22emoji_version\x22:\x2213.1\x22},{\x22emoji\x22:\x22👨‍🦰\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22man\x20red\x20hair\x22,\x22slug\x22:\x22man_red_hair\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22👨‍🦱\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22man\x20curly\x20hair\x22,\x22slug\x22:\x22man_curly_hair\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22👨‍🦳\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22man\x20white\x20hair\x22,\x22slug\x22:\x22man_white_hair\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22👨‍🦲\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22man\x20bald\x22,\x22slug\x22:\x22man_bald\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22👩\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22woman\x22,\x22slug\x22:\x22woman\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👩‍🦰\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22woman\x20red\x20hair\x22,\x22slug\x22:\x22woman_red_hair\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧑‍🦰\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22person\x20red\x20hair\x22,\x22slug\x22:\x22person_red_hair\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👩‍🦱\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22woman\x20curly\x20hair\x22,\x22slug\x22:\x22woman_curly_hair\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧑‍🦱\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22person\x20curly\x20hair\x22,\x22slug\x22:\x22person_curly_hair\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👩‍🦳\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22woman\x20white\x20hair\x22,\x22slug\x22:\x22woman_white_hair\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧑‍🦳\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22person\x20white\x20hair\x22,\x22slug\x22:\x22person_white_hair\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👩‍🦲\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22woman\x20bald\x22,\x22slug\x22:\x22woman_bald\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧑‍🦲\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22person\x20bald\x22,\x22slug\x22:\x22person_bald\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👱‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20blond\x20hair\x22,\x22slug\x22:\x22woman_blond_hair\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👱‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20blond\x20hair\x22,\x22slug\x22:\x22man_blond_hair\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧓\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22older\x20person\x22,\x22slug\x22:\x22older_person\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22👴\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22old\x20man\x22,\x22slug\x22:\x22old_man\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👵\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22old\x20woman\x22,\x22slug\x22:\x22old_woman\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙍\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20frowning\x22,\x22slug\x22:\x22person_frowning\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙍‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20frowning\x22,\x22slug\x22:\x22man_frowning\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙍‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20frowning\x22,\x22slug\x22:\x22woman_frowning\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙎\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20pouting\x22,\x22slug\x22:\x22person_pouting\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙎‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20pouting\x22,\x22slug\x22:\x22man_pouting\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙎‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20pouting\x22,\x22slug\x22:\x22woman_pouting\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙅\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20gesturing\x20NO\x22,\x22slug\x22:\x22person_gesturing_no\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙅‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20gesturing\x20NO\x22,\x22slug\x22:\x22man_gesturing_no\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙅‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20gesturing\x20NO\x22,\x22slug\x22:\x22woman_gesturing_no\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙆\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20gesturing\x20OK\x22,\x22slug\x22:\x22person_gesturing_ok\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙆‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20gesturing\x20OK\x22,\x22slug\x22:\x22man_gesturing_ok\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙆‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20gesturing\x20OK\x22,\x22slug\x22:\x22woman_gesturing_ok\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22💁\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20tipping\x20hand\x22,\x22slug\x22:\x22person_tipping_hand\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💁‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20tipping\x20hand\x22,\x22slug\x22:\x22man_tipping_hand\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22💁‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20tipping\x20hand\x22,\x22slug\x22:\x22woman_tipping_hand\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙋\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20raising\x20hand\x22,\x22slug\x22:\x22person_raising_hand\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙋‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20raising\x20hand\x22,\x22slug\x22:\x22man_raising_hand\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙋‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20raising\x20hand\x22,\x22slug\x22:\x22woman_raising_hand\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧏\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22deaf\x20person\x22,\x22slug\x22:\x22deaf_person\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧏‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22deaf\x20man\x22,\x22slug\x22:\x22deaf_man\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧏‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22deaf\x20woman\x22,\x22slug\x22:\x22deaf_woman\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🙇\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20bowing\x22,\x22slug\x22:\x22person_bowing\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🙇‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20bowing\x22,\x22slug\x22:\x22man_bowing\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🙇‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20bowing\x22,\x22slug\x22:\x22woman_bowing\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤦\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22person\x20facepalming\x22,\x22slug\x22:\x22person_facepalming\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤦‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20facepalming\x22,\x22slug\x22:\x22man_facepalming\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤦‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20facepalming\x22,\x22slug\x22:\x22woman_facepalming\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤷\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22person\x20shrugging\x22,\x22slug\x22:\x22person_shrugging\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤷‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20shrugging\x22,\x22slug\x22:\x22man_shrugging\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤷‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20shrugging\x22,\x22slug\x22:\x22woman_shrugging\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍⚕️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22health\x20worker\x22,\x22slug\x22:\x22health_worker\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍⚕️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20health\x20worker\x22,\x22slug\x22:\x22man_health_worker\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍⚕️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20health\x20worker\x22,\x22slug\x22:\x22woman_health_worker\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🎓\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22student\x22,\x22slug\x22:\x22student\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🎓\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20student\x22,\x22slug\x22:\x22man_student\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🎓\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20student\x22,\x22slug\x22:\x22woman_student\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🏫\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22teacher\x22,\x22slug\x22:\x22teacher\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🏫\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20teacher\x22,\x22slug\x22:\x22man_teacher\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🏫\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20teacher\x22,\x22slug\x22:\x22woman_teacher\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍⚖️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22judge\x22,\x22slug\x22:\x22judge\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍⚖️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20judge\x22,\x22slug\x22:\x22man_judge\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍⚖️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20judge\x22,\x22slug\x22:\x22woman_judge\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🌾\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22farmer\x22,\x22slug\x22:\x22farmer\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🌾\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20farmer\x22,\x22slug\x22:\x22man_farmer\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🌾\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20farmer\x22,\x22slug\x22:\x22woman_farmer\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🍳\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22cook\x22,\x22slug\x22:\x22cook\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🍳\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20cook\x22,\x22slug\x22:\x22man_cook\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🍳\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20cook\x22,\x22slug\x22:\x22woman_cook\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🔧\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22mechanic\x22,\x22slug\x22:\x22mechanic\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🔧\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20mechanic\x22,\x22slug\x22:\x22man_mechanic\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🔧\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20mechanic\x22,\x22slug\x22:\x22woman_mechanic\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🏭\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22factory\x20worker\x22,\x22slug\x22:\x22factory_worker\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🏭\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20factory\x20worker\x22,\x22slug\x22:\x22man_factory_worker\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🏭\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20factory\x20worker\x22,\x22slug\x22:\x22woman_factory_worker\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍💼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22office\x20worker\x22,\x22slug\x22:\x22office_worker\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍💼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20office\x20worker\x22,\x22slug\x22:\x22man_office_worker\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍💼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20office\x20worker\x22,\x22slug\x22:\x22woman_office_worker\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🔬\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22scientist\x22,\x22slug\x22:\x22scientist\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🔬\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20scientist\x22,\x22slug\x22:\x22man_scientist\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🔬\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20scientist\x22,\x22slug\x22:\x22woman_scientist\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍💻\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22technologist\x22,\x22slug\x22:\x22technologist\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍💻\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20technologist\x22,\x22slug\x22:\x22man_technologist\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍💻\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20technologist\x22,\x22slug\x22:\x22woman_technologist\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🎤\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22singer\x22,\x22slug\x22:\x22singer\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🎤\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20singer\x22,\x22slug\x22:\x22man_singer\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🎤\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20singer\x22,\x22slug\x22:\x22woman_singer\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🎨\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22artist\x22,\x22slug\x22:\x22artist\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🎨\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20artist\x22,\x22slug\x22:\x22man_artist\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🎨\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20artist\x22,\x22slug\x22:\x22woman_artist\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍✈️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22pilot\x22,\x22slug\x22:\x22pilot\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍✈️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20pilot\x22,\x22slug\x22:\x22man_pilot\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍✈️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20pilot\x22,\x22slug\x22:\x22woman_pilot\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🚀\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22astronaut\x22,\x22slug\x22:\x22astronaut\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🚀\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20astronaut\x22,\x22slug\x22:\x22man_astronaut\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🚀\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20astronaut\x22,\x22slug\x22:\x22woman_astronaut\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧑‍🚒\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22firefighter\x22,\x22slug\x22:\x22firefighter\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🚒\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20firefighter\x22,\x22slug\x22:\x22man_firefighter\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍🚒\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20firefighter\x22,\x22slug\x22:\x22woman_firefighter\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👮\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22police\x20officer\x22,\x22slug\x22:\x22police_officer\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👮‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20police\x20officer\x22,\x22slug\x22:\x22man_police_officer\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👮‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20police\x20officer\x22,\x22slug\x22:\x22woman_police_officer\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🕵️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x222.0\x22,\x22name\x22:\x22detective\x22,\x22slug\x22:\x22detective\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕵️‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20detective\x22,\x22slug\x22:\x22man_detective\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🕵️‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20detective\x22,\x22slug\x22:\x22woman_detective\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22💂\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22guard\x22,\x22slug\x22:\x22guard\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💂‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20guard\x22,\x22slug\x22:\x22man_guard\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22💂‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20guard\x22,\x22slug\x22:\x22woman_guard\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👷\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22construction\x20worker\x22,\x22slug\x22:\x22construction_worker\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👷‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20construction\x20worker\x22,\x22slug\x22:\x22man_construction_worker\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👷‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20construction\x20worker\x22,\x22slug\x22:\x22woman_construction_worker\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤴\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22prince\x22,\x22slug\x22:\x22prince\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22👸\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22princess\x22,\x22slug\x22:\x22princess\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👳\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20wearing\x20turban\x22,\x22slug\x22:\x22person_wearing_turban\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👳‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20wearing\x20turban\x22,\x22slug\x22:\x22man_wearing_turban\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👳‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20wearing\x20turban\x22,\x22slug\x22:\x22woman_wearing_turban\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👲\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20with\x20skullcap\x22,\x22slug\x22:\x22person_with_skullcap\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧕\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22woman\x20with\x20headscarf\x22,\x22slug\x22:\x22woman_with_headscarf\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🤵\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22person\x20in\x20tuxedo\x22,\x22slug\x22:\x22person_in_tuxedo\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤵‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.0\x22,\x22name\x22:\x22man\x20in\x20tuxedo\x22,\x22slug\x22:\x22man_in_tuxedo\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22🤵‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.0\x22,\x22name\x22:\x22woman\x20in\x20tuxedo\x22,\x22slug\x22:\x22woman_in_tuxedo\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22👰\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20with\x20veil\x22,\x22slug\x22:\x22person_with_veil\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👰‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.0\x22,\x22name\x22:\x22man\x20with\x20veil\x22,\x22slug\x22:\x22man_with_veil\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22👰‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.0\x22,\x22name\x22:\x22woman\x20with\x20veil\x22,\x22slug\x22:\x22woman_with_veil\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22🤰\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22pregnant\x20woman\x22,\x22slug\x22:\x22pregnant_woman\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤱\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22breast-feeding\x22,\x22slug\x22:\x22breast_feeding\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22👩‍🍼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.0\x22,\x22name\x22:\x22woman\x20feeding\x20baby\x22,\x22slug\x22:\x22woman_feeding_baby\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22👨‍🍼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.0\x22,\x22name\x22:\x22man\x20feeding\x20baby\x22,\x22slug\x22:\x22man_feeding_baby\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22🧑‍🍼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.0\x22,\x22name\x22:\x22person\x20feeding\x20baby\x22,\x22slug\x22:\x22person_feeding_baby\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22👼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22baby\x20angel\x22,\x22slug\x22:\x22baby_angel\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎅\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22Santa\x20Claus\x22,\x22slug\x22:\x22santa_claus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤶\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22Mrs.\x20Claus\x22,\x22slug\x22:\x22mrs_claus\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🧑‍🎄\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.0\x22,\x22name\x22:\x22mx\x20claus\x22,\x22slug\x22:\x22mx_claus\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22🦸\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22superhero\x22,\x22slug\x22:\x22superhero\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦸‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22man\x20superhero\x22,\x22slug\x22:\x22man_superhero\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦸‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22woman\x20superhero\x22,\x22slug\x22:\x22woman_superhero\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦹\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22supervillain\x22,\x22slug\x22:\x22supervillain\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦹‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22man\x20supervillain\x22,\x22slug\x22:\x22man_supervillain\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦹‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2211.0\x22,\x22name\x22:\x22woman\x20supervillain\x22,\x22slug\x22:\x22woman_supervillain\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧙\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22mage\x22,\x22slug\x22:\x22mage\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧙‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22man\x20mage\x22,\x22slug\x22:\x22man_mage\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧙‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22woman\x20mage\x22,\x22slug\x22:\x22woman_mage\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧚\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22fairy\x22,\x22slug\x22:\x22fairy\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧚‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22man\x20fairy\x22,\x22slug\x22:\x22man_fairy\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧚‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22woman\x20fairy\x22,\x22slug\x22:\x22woman_fairy\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧛\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22vampire\x22,\x22slug\x22:\x22vampire\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧛‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22man\x20vampire\x22,\x22slug\x22:\x22man_vampire\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧛‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22woman\x20vampire\x22,\x22slug\x22:\x22woman_vampire\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧜\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22merperson\x22,\x22slug\x22:\x22merperson\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧜‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22merman\x22,\x22slug\x22:\x22merman\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧜‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22mermaid\x22,\x22slug\x22:\x22mermaid\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧝\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22elf\x22,\x22slug\x22:\x22elf\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧝‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22man\x20elf\x22,\x22slug\x22:\x22man_elf\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧝‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22woman\x20elf\x22,\x22slug\x22:\x22woman_elf\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22genie\x22,\x22slug\x22:\x22genie\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧞‍♂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22man\x20genie\x22,\x22slug\x22:\x22man_genie\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧞‍♀️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22woman\x20genie\x22,\x22slug\x22:\x22woman_genie\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22zombie\x22,\x22slug\x22:\x22zombie\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧟‍♂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22man\x20zombie\x22,\x22slug\x22:\x22man_zombie\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧟‍♀️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22woman\x20zombie\x22,\x22slug\x22:\x22woman_zombie\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22💆\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20getting\x20massage\x22,\x22slug\x22:\x22person_getting_massage\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💆‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20getting\x20massage\x22,\x22slug\x22:\x22man_getting_massage\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22💆‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20getting\x20massage\x22,\x22slug\x22:\x22woman_getting_massage\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22💇\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20getting\x20haircut\x22,\x22slug\x22:\x22person_getting_haircut\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💇‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20getting\x20haircut\x22,\x22slug\x22:\x22man_getting_haircut\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22💇‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20getting\x20haircut\x22,\x22slug\x22:\x22woman_getting_haircut\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🚶\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20walking\x22,\x22slug\x22:\x22person_walking\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚶‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20walking\x22,\x22slug\x22:\x22man_walking\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🚶‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20walking\x22,\x22slug\x22:\x22woman_walking\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧍\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22person\x20standing\x22,\x22slug\x22:\x22person_standing\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧍‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22man\x20standing\x22,\x22slug\x22:\x22man_standing\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧍‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22woman\x20standing\x22,\x22slug\x22:\x22woman_standing\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧎\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22person\x20kneeling\x22,\x22slug\x22:\x22person_kneeling\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧎‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22man\x20kneeling\x22,\x22slug\x22:\x22man_kneeling\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧎‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22woman\x20kneeling\x22,\x22slug\x22:\x22woman_kneeling\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧑‍🦯\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22person\x20with\x20white\x20cane\x22,\x22slug\x22:\x22person_with_white_cane\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🦯\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22man\x20with\x20white\x20cane\x22,\x22slug\x22:\x22man_with_white_cane\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22👩‍🦯\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22woman\x20with\x20white\x20cane\x22,\x22slug\x22:\x22woman_with_white_cane\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧑‍🦼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22person\x20in\x20motorized\x20wheelchair\x22,\x22slug\x22:\x22person_in_motorized_wheelchair\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🦼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22man\x20in\x20motorized\x20wheelchair\x22,\x22slug\x22:\x22man_in_motorized_wheelchair\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22👩‍🦼\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22woman\x20in\x20motorized\x20wheelchair\x22,\x22slug\x22:\x22woman_in_motorized_wheelchair\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧑‍🦽\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.1\x22,\x22name\x22:\x22person\x20in\x20manual\x20wheelchair\x22,\x22slug\x22:\x22person_in_manual_wheelchair\x22,\x22unicode_version\x22:\x2212.1\x22,\x22emoji_version\x22:\x2212.1\x22},{\x22emoji\x22:\x22👨‍🦽\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22man\x20in\x20manual\x20wheelchair\x22,\x22slug\x22:\x22man_in_manual_wheelchair\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22👩‍🦽\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22woman\x20in\x20manual\x20wheelchair\x22,\x22slug\x22:\x22woman_in_manual_wheelchair\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🏃\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20running\x22,\x22slug\x22:\x22person_running\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏃‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20running\x22,\x22slug\x22:\x22man_running\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏃‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20running\x22,\x22slug\x22:\x22woman_running\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22💃\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22woman\x20dancing\x22,\x22slug\x22:\x22woman_dancing\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕺\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22man\x20dancing\x22,\x22slug\x22:\x22man_dancing\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🕴️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22person\x20in\x20suit\x20levitating\x22,\x22slug\x22:\x22person_in_suit_levitating\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22👯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22people\x20with\x20bunny\x20ears\x22,\x22slug\x22:\x22people_with_bunny_ears\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👯‍♂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22men\x20with\x20bunny\x20ears\x22,\x22slug\x22:\x22men_with_bunny_ears\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👯‍♀️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22women\x20with\x20bunny\x20ears\x22,\x22slug\x22:\x22women_with_bunny_ears\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧖\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22person\x20in\x20steamy\x20room\x22,\x22slug\x22:\x22person_in_steamy_room\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧖‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22man\x20in\x20steamy\x20room\x22,\x22slug\x22:\x22man_in_steamy_room\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧖‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22woman\x20in\x20steamy\x20room\x22,\x22slug\x22:\x22woman_in_steamy_room\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧗\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22person\x20climbing\x22,\x22slug\x22:\x22person_climbing\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧗‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22man\x20climbing\x22,\x22slug\x22:\x22man_climbing\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧗‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22woman\x20climbing\x22,\x22slug\x22:\x22woman_climbing\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🤺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22person\x20fencing\x22,\x22slug\x22:\x22person_fencing\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🏇\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22horse\x20racing\x22,\x22slug\x22:\x22horse_racing\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⛷️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22skier\x22,\x22slug\x22:\x22skier\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏂\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22snowboarder\x22,\x22slug\x22:\x22snowboarder\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏌️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22person\x20golfing\x22,\x22slug\x22:\x22person_golfing\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏌️‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20golfing\x22,\x22slug\x22:\x22man_golfing\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏌️‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20golfing\x22,\x22slug\x22:\x22woman_golfing\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏄\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20surfing\x22,\x22slug\x22:\x22person_surfing\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏄‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20surfing\x22,\x22slug\x22:\x22man_surfing\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏄‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20surfing\x22,\x22slug\x22:\x22woman_surfing\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🚣\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20rowing\x20boat\x22,\x22slug\x22:\x22person_rowing_boat\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚣‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20rowing\x20boat\x22,\x22slug\x22:\x22man_rowing_boat\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🚣‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20rowing\x20boat\x22,\x22slug\x22:\x22woman_rowing_boat\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏊\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20swimming\x22,\x22slug\x22:\x22person_swimming\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏊‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20swimming\x22,\x22slug\x22:\x22man_swimming\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏊‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20swimming\x22,\x22slug\x22:\x22woman_swimming\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22⛹️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x222.0\x22,\x22name\x22:\x22person\x20bouncing\x20ball\x22,\x22slug\x22:\x22person_bouncing_ball\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⛹️‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20bouncing\x20ball\x22,\x22slug\x22:\x22man_bouncing_ball\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22⛹️‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20bouncing\x20ball\x22,\x22slug\x22:\x22woman_bouncing_ball\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏋️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x222.0\x22,\x22name\x22:\x22person\x20lifting\x20weights\x22,\x22slug\x22:\x22person_lifting_weights\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏋️‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20lifting\x20weights\x22,\x22slug\x22:\x22man_lifting_weights\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏋️‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20lifting\x20weights\x22,\x22slug\x22:\x22woman_lifting_weights\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🚴\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20biking\x22,\x22slug\x22:\x22person_biking\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚴‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20biking\x22,\x22slug\x22:\x22man_biking\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🚴‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20biking\x22,\x22slug\x22:\x22woman_biking\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🚵\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20mountain\x20biking\x22,\x22slug\x22:\x22person_mountain_biking\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚵‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20mountain\x20biking\x22,\x22slug\x22:\x22man_mountain_biking\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🚵‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20mountain\x20biking\x22,\x22slug\x22:\x22woman_mountain_biking\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤸\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22person\x20cartwheeling\x22,\x22slug\x22:\x22person_cartwheeling\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤸‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20cartwheeling\x22,\x22slug\x22:\x22man_cartwheeling\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤸‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20cartwheeling\x22,\x22slug\x22:\x22woman_cartwheeling\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22people\x20wrestling\x22,\x22slug\x22:\x22people_wrestling\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤼‍♂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22men\x20wrestling\x22,\x22slug\x22:\x22men_wrestling\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤼‍♀️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22women\x20wrestling\x22,\x22slug\x22:\x22women_wrestling\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤽\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22person\x20playing\x20water\x20polo\x22,\x22slug\x22:\x22person_playing_water_polo\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤽‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20playing\x20water\x20polo\x22,\x22slug\x22:\x22man_playing_water_polo\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤽‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20playing\x20water\x20polo\x22,\x22slug\x22:\x22woman_playing_water_polo\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤾\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22person\x20playing\x20handball\x22,\x22slug\x22:\x22person_playing_handball\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤾‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20playing\x20handball\x22,\x22slug\x22:\x22man_playing_handball\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤾‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20playing\x20handball\x22,\x22slug\x22:\x22woman_playing_handball\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤹\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x223.0\x22,\x22name\x22:\x22person\x20juggling\x22,\x22slug\x22:\x22person_juggling\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🤹‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22man\x20juggling\x22,\x22slug\x22:\x22man_juggling\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🤹‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22woman\x20juggling\x22,\x22slug\x22:\x22woman_juggling\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🧘\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22person\x20in\x20lotus\x20position\x22,\x22slug\x22:\x22person_in_lotus_position\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧘‍♂️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22man\x20in\x20lotus\x20position\x22,\x22slug\x22:\x22man_in_lotus_position\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧘‍♀️\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x225.0\x22,\x22name\x22:\x22woman\x20in\x20lotus\x20position\x22,\x22slug\x22:\x22woman_in_lotus_position\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🛀\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x221.0\x22,\x22name\x22:\x22person\x20taking\x20bath\x22,\x22slug\x22:\x22person_taking_bath\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛌\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x224.0\x22,\x22name\x22:\x22person\x20in\x20bed\x22,\x22slug\x22:\x22person_in_bed\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🧑‍🤝‍🧑\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22people\x20holding\x20hands\x22,\x22slug\x22:\x22people_holding_hands\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22👭\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22women\x20holding\x20hands\x22,\x22slug\x22:\x22women_holding_hands\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22👫\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22woman\x20and\x20man\x20holding\x20hands\x22,\x22slug\x22:\x22woman_and_man_holding_hands\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👬\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2212.0\x22,\x22name\x22:\x22men\x20holding\x20hands\x22,\x22slug\x22:\x22men_holding_hands\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22💏\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22kiss\x22,\x22slug\x22:\x22kiss\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👩‍❤️‍💋‍👨\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22kiss\x20woman,\x20man\x22,\x22slug\x22:\x22kiss_woman_man\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍❤️‍💋‍👨\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22kiss\x20man,\x20man\x22,\x22slug\x22:\x22kiss_man_man\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👩‍❤️‍💋‍👩\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22kiss\x20woman,\x20woman\x22,\x22slug\x22:\x22kiss_woman_woman\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22💑\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22couple\x20with\x20heart\x22,\x22slug\x22:\x22couple_with_heart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👩‍❤️‍👨\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22couple\x20with\x20heart\x20woman,\x20man\x22,\x22slug\x22:\x22couple_with_heart_woman_man\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍❤️‍👨\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22couple\x20with\x20heart\x20man,\x20man\x22,\x22slug\x22:\x22couple_with_heart_man_man\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👩‍❤️‍👩\x22,\x22skin_tone_support\x22:true,\x22skin_tone_support_unicode_version\x22:\x2213.1\x22,\x22name\x22:\x22couple\x20with\x20heart\x20woman,\x20woman\x22,\x22slug\x22:\x22couple_with_heart_woman_woman\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x22,\x22slug\x22:\x22family\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👨‍👩‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20woman,\x20boy\x22,\x22slug\x22:\x22family_man_woman_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👩‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20woman,\x20girl\x22,\x22slug\x22:\x22family_man_woman_girl\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👩‍👧‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20woman,\x20girl,\x20boy\x22,\x22slug\x22:\x22family_man_woman_girl_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👩‍👦‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20woman,\x20boy,\x20boy\x22,\x22slug\x22:\x22family_man_woman_boy_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👩‍👧‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20woman,\x20girl,\x20girl\x22,\x22slug\x22:\x22family_man_woman_girl_girl\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👨‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20man,\x20boy\x22,\x22slug\x22:\x22family_man_man_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👨‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20man,\x20girl\x22,\x22slug\x22:\x22family_man_man_girl\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👨‍👧‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20man,\x20girl,\x20boy\x22,\x22slug\x22:\x22family_man_man_girl_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👨‍👦‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20man,\x20boy,\x20boy\x22,\x22slug\x22:\x22family_man_man_boy_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👨‍👧‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20man,\x20girl,\x20girl\x22,\x22slug\x22:\x22family_man_man_girl_girl\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👩‍👩‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20woman,\x20boy\x22,\x22slug\x22:\x22family_woman_woman_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👩‍👩‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20woman,\x20girl\x22,\x22slug\x22:\x22family_woman_woman_girl\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👩‍👩‍👧‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20woman,\x20girl,\x20boy\x22,\x22slug\x22:\x22family_woman_woman_girl_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👩‍👩‍👦‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20woman,\x20boy,\x20boy\x22,\x22slug\x22:\x22family_woman_woman_boy_boy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👩‍👩‍👧‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20woman,\x20girl,\x20girl\x22,\x22slug\x22:\x22family_woman_woman_girl_girl\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22👨‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20boy\x22,\x22slug\x22:\x22family_man_boy\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👨‍👦‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20boy,\x20boy\x22,\x22slug\x22:\x22family_man_boy_boy\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👨‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20girl\x22,\x22slug\x22:\x22family_man_girl\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👨‍👧‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20girl,\x20boy\x22,\x22slug\x22:\x22family_man_girl_boy\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👨‍👧‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20man,\x20girl,\x20girl\x22,\x22slug\x22:\x22family_man_girl_girl\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20boy\x22,\x22slug\x22:\x22family_woman_boy\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍👦‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20boy,\x20boy\x22,\x22slug\x22:\x22family_woman_boy_boy\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20girl\x22,\x22slug\x22:\x22family_woman_girl\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍👧‍👦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20girl,\x20boy\x22,\x22slug\x22:\x22family_woman_girl_boy\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22👩‍👧‍👧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22family\x20woman,\x20girl,\x20girl\x22,\x22slug\x22:\x22family_woman_girl_girl\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🗣️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22speaking\x20head\x22,\x22slug\x22:\x22speaking_head\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22👤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bust\x20in\x20silhouette\x22,\x22slug\x22:\x22bust_in_silhouette\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22busts\x20in\x20silhouette\x22,\x22slug\x22:\x22busts_in_silhouette\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22👣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22footprints\x22,\x22slug\x22:\x22footprints\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22}],\x22Animals\x20&\x20Nature\x22:[{\x22emoji\x22:\x22🐵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22monkey\x20face\x22,\x22slug\x22:\x22monkey_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22monkey\x22,\x22slug\x22:\x22monkey\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22gorilla\x22,\x22slug\x22:\x22gorilla\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22orangutan\x22,\x22slug\x22:\x22orangutan\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🐶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dog\x20face\x22,\x22slug\x22:\x22dog_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dog\x22,\x22slug\x22:\x22dog\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🦮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22guide\x20dog\x22,\x22slug\x22:\x22guide_dog\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🐕‍🦺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22service\x20dog\x22,\x22slug\x22:\x22service_dog\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🐩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22poodle\x22,\x22slug\x22:\x22poodle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wolf\x22,\x22slug\x22:\x22wolf\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fox\x22,\x22slug\x22:\x22fox\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22raccoon\x22,\x22slug\x22:\x22raccoon\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🐱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cat\x20face\x22,\x22slug\x22:\x22cat_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cat\x22,\x22slug\x22:\x22cat\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🐈‍⬛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20cat\x22,\x22slug\x22:\x22black_cat\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22🦁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lion\x22,\x22slug\x22:\x22lion\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tiger\x20face\x22,\x22slug\x22:\x22tiger_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tiger\x22,\x22slug\x22:\x22tiger\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22leopard\x22,\x22slug\x22:\x22leopard\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22horse\x20face\x22,\x22slug\x22:\x22horse_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22horse\x22,\x22slug\x22:\x22horse\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22unicorn\x22,\x22slug\x22:\x22unicorn\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🦓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22zebra\x22,\x22slug\x22:\x22zebra\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🦌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22deer\x22,\x22slug\x22:\x22deer\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🐮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cow\x20face\x22,\x22slug\x22:\x22cow_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ox\x22,\x22slug\x22:\x22ox\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22water\x20buffalo\x22,\x22slug\x22:\x22water_buffalo\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cow\x22,\x22slug\x22:\x22cow\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pig\x20face\x22,\x22slug\x22:\x22pig_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pig\x22,\x22slug\x22:\x22pig\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22boar\x22,\x22slug\x22:\x22boar\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pig\x20nose\x22,\x22slug\x22:\x22pig_nose\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ram\x22,\x22slug\x22:\x22ram\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ewe\x22,\x22slug\x22:\x22ewe\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22goat\x22,\x22slug\x22:\x22goat\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22camel\x22,\x22slug\x22:\x22camel\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22two-hump\x20camel\x22,\x22slug\x22:\x22two_hump_camel\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22llama\x22,\x22slug\x22:\x22llama\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22giraffe\x22,\x22slug\x22:\x22giraffe\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🐘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22elephant\x22,\x22slug\x22:\x22elephant\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rhinoceros\x22,\x22slug\x22:\x22rhinoceros\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hippopotamus\x22,\x22slug\x22:\x22hippopotamus\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🐭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mouse\x20face\x22,\x22slug\x22:\x22mouse_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mouse\x22,\x22slug\x22:\x22mouse\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rat\x22,\x22slug\x22:\x22rat\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hamster\x22,\x22slug\x22:\x22hamster\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rabbit\x20face\x22,\x22slug\x22:\x22rabbit_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rabbit\x22,\x22slug\x22:\x22rabbit\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐿️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chipmunk\x22,\x22slug\x22:\x22chipmunk\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🦔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hedgehog\x22,\x22slug\x22:\x22hedgehog\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🦇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bat\x22,\x22slug\x22:\x22bat\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🐻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bear\x22,\x22slug\x22:\x22bear\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐻‍❄️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22polar\x20bear\x22,\x22slug\x22:\x22polar_bear\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22🐨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22koala\x22,\x22slug\x22:\x22koala\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22panda\x22,\x22slug\x22:\x22panda\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sloth\x22,\x22slug\x22:\x22sloth\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🦦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22otter\x22,\x22slug\x22:\x22otter\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🦨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22skunk\x22,\x22slug\x22:\x22skunk\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🦘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kangaroo\x22,\x22slug\x22:\x22kangaroo\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22badger\x22,\x22slug\x22:\x22badger\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🐾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22paw\x20prints\x22,\x22slug\x22:\x22paw_prints\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22turkey\x22,\x22slug\x22:\x22turkey\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chicken\x22,\x22slug\x22:\x22chicken\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rooster\x22,\x22slug\x22:\x22rooster\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hatching\x20chick\x22,\x22slug\x22:\x22hatching_chick\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22baby\x20chick\x22,\x22slug\x22:\x22baby_chick\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22front-facing\x20baby\x20chick\x22,\x22slug\x22:\x22front_facing_baby_chick\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bird\x22,\x22slug\x22:\x22bird\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22penguin\x22,\x22slug\x22:\x22penguin\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕊️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dove\x22,\x22slug\x22:\x22dove\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🦅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eagle\x22,\x22slug\x22:\x22eagle\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22duck\x22,\x22slug\x22:\x22duck\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22swan\x22,\x22slug\x22:\x22swan\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22owl\x22,\x22slug\x22:\x22owl\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flamingo\x22,\x22slug\x22:\x22flamingo\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🦚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22peacock\x22,\x22slug\x22:\x22peacock\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22parrot\x22,\x22slug\x22:\x22parrot\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🐸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22frog\x22,\x22slug\x22:\x22frog\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crocodile\x22,\x22slug\x22:\x22crocodile\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22turtle\x22,\x22slug\x22:\x22turtle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lizard\x22,\x22slug\x22:\x22lizard\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🐍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22snake\x22,\x22slug\x22:\x22snake\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dragon\x20face\x22,\x22slug\x22:\x22dragon_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dragon\x22,\x22slug\x22:\x22dragon\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🦕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sauropod\x22,\x22slug\x22:\x22sauropod\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🦖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22T-Rex\x22,\x22slug\x22:\x22t_rex\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🐳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spouting\x20whale\x22,\x22slug\x22:\x22spouting_whale\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22whale\x22,\x22slug\x22:\x22whale\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🐬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dolphin\x22,\x22slug\x22:\x22dolphin\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fish\x22,\x22slug\x22:\x22fish\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tropical\x20fish\x22,\x22slug\x22:\x22tropical_fish\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22blowfish\x22,\x22slug\x22:\x22blowfish\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shark\x22,\x22slug\x22:\x22shark\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🐙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22octopus\x22,\x22slug\x22:\x22octopus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spiral\x20shell\x22,\x22slug\x22:\x22spiral_shell\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22snail\x22,\x22slug\x22:\x22snail\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22butterfly\x22,\x22slug\x22:\x22butterfly\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🐛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bug\x22,\x22slug\x22:\x22bug\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ant\x22,\x22slug\x22:\x22ant\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22honeybee\x22,\x22slug\x22:\x22honeybee\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🐞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lady\x20beetle\x22,\x22slug\x22:\x22lady_beetle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🦗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cricket\x22,\x22slug\x22:\x22cricket\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🕷️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spider\x22,\x22slug\x22:\x22spider\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕸️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spider\x20web\x22,\x22slug\x22:\x22spider_web\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🦂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22scorpion\x22,\x22slug\x22:\x22scorpion\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🦟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mosquito\x22,\x22slug\x22:\x22mosquito\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22microbe\x22,\x22slug\x22:\x22microbe\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22💐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bouquet\x22,\x22slug\x22:\x22bouquet\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cherry\x20blossom\x22,\x22slug\x22:\x22cherry_blossom\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20flower\x22,\x22slug\x22:\x22white_flower\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏵️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rosette\x22,\x22slug\x22:\x22rosette\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rose\x22,\x22slug\x22:\x22rose\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wilted\x20flower\x22,\x22slug\x22:\x22wilted_flower\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🌺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hibiscus\x22,\x22slug\x22:\x22hibiscus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sunflower\x22,\x22slug\x22:\x22sunflower\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22blossom\x22,\x22slug\x22:\x22blossom\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tulip\x22,\x22slug\x22:\x22tulip\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22seedling\x22,\x22slug\x22:\x22seedling\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22evergreen\x20tree\x22,\x22slug\x22:\x22evergreen_tree\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22deciduous\x20tree\x22,\x22slug\x22:\x22deciduous_tree\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22palm\x20tree\x22,\x22slug\x22:\x22palm_tree\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cactus\x22,\x22slug\x22:\x22cactus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sheaf\x20of\x20rice\x22,\x22slug\x22:\x22sheaf_of_rice\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22herb\x22,\x22slug\x22:\x22herb\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☘️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shamrock\x22,\x22slug\x22:\x22shamrock\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🍀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22four\x20leaf\x20clover\x22,\x22slug\x22:\x22four_leaf_clover\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22maple\x20leaf\x22,\x22slug\x22:\x22maple_leaf\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fallen\x20leaf\x22,\x22slug\x22:\x22fallen_leaf\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22leaf\x20fluttering\x20in\x20wind\x22,\x22slug\x22:\x22leaf_fluttering_in_wind\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22}],\x22Food\x20&\x20Drink\x22:[{\x22emoji\x22:\x22🍇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22grapes\x22,\x22slug\x22:\x22grapes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22melon\x22,\x22slug\x22:\x22melon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22watermelon\x22,\x22slug\x22:\x22watermelon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tangerine\x22,\x22slug\x22:\x22tangerine\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lemon\x22,\x22slug\x22:\x22lemon\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🍌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22banana\x22,\x22slug\x22:\x22banana\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pineapple\x22,\x22slug\x22:\x22pineapple\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mango\x22,\x22slug\x22:\x22mango\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🍎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20apple\x22,\x22slug\x22:\x22red_apple\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22green\x20apple\x22,\x22slug\x22:\x22green_apple\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pear\x22,\x22slug\x22:\x22pear\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🍑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22peach\x22,\x22slug\x22:\x22peach\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cherries\x22,\x22slug\x22:\x22cherries\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22strawberry\x22,\x22slug\x22:\x22strawberry\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kiwi\x20fruit\x22,\x22slug\x22:\x22kiwi_fruit\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🍅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tomato\x22,\x22slug\x22:\x22tomato\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22coconut\x22,\x22slug\x22:\x22coconut\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🥑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22avocado\x22,\x22slug\x22:\x22avocado\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🍆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eggplant\x22,\x22slug\x22:\x22eggplant\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22potato\x22,\x22slug\x22:\x22potato\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22carrot\x22,\x22slug\x22:\x22carrot\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🌽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ear\x20of\x20corn\x22,\x22slug\x22:\x22ear_of_corn\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌶️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hot\x20pepper\x22,\x22slug\x22:\x22hot_pepper\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🥒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cucumber\x22,\x22slug\x22:\x22cucumber\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22leafy\x20green\x22,\x22slug\x22:\x22leafy_green\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🥦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22broccoli\x22,\x22slug\x22:\x22broccoli\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22garlic\x22,\x22slug\x22:\x22garlic\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22onion\x22,\x22slug\x22:\x22onion\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🍄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mushroom\x22,\x22slug\x22:\x22mushroom\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22peanuts\x22,\x22slug\x22:\x22peanuts\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🌰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chestnut\x22,\x22slug\x22:\x22chestnut\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bread\x22,\x22slug\x22:\x22bread\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22croissant\x22,\x22slug\x22:\x22croissant\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22baguette\x20bread\x22,\x22slug\x22:\x22baguette_bread\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pretzel\x22,\x22slug\x22:\x22pretzel\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🥯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bagel\x22,\x22slug\x22:\x22bagel\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🥞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pancakes\x22,\x22slug\x22:\x22pancakes\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🧇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22waffle\x22,\x22slug\x22:\x22waffle\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cheese\x20wedge\x22,\x22slug\x22:\x22cheese_wedge\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🍖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22meat\x20on\x20bone\x22,\x22slug\x22:\x22meat_on_bone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22poultry\x20leg\x22,\x22slug\x22:\x22poultry_leg\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cut\x20of\x20meat\x22,\x22slug\x22:\x22cut_of_meat\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🥓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bacon\x22,\x22slug\x22:\x22bacon\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🍔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hamburger\x22,\x22slug\x22:\x22hamburger\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22french\x20fries\x22,\x22slug\x22:\x22french_fries\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pizza\x22,\x22slug\x22:\x22pizza\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hot\x20dog\x22,\x22slug\x22:\x22hot_dog\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🥪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sandwich\x22,\x22slug\x22:\x22sandwich\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🌮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22taco\x22,\x22slug\x22:\x22taco\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22burrito\x22,\x22slug\x22:\x22burrito\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🥙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22stuffed\x20flatbread\x22,\x22slug\x22:\x22stuffed_flatbread\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🧆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22falafel\x22,\x22slug\x22:\x22falafel\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🥚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22egg\x22,\x22slug\x22:\x22egg\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🍳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cooking\x22,\x22slug\x22:\x22cooking\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shallow\x20pan\x20of\x20food\x22,\x22slug\x22:\x22shallow_pan_of_food\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🍲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pot\x20of\x20food\x22,\x22slug\x22:\x22pot_of_food\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bowl\x20with\x20spoon\x22,\x22slug\x22:\x22bowl_with_spoon\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🥗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22green\x20salad\x22,\x22slug\x22:\x22green_salad\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🍿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22popcorn\x22,\x22slug\x22:\x22popcorn\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🧈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22butter\x22,\x22slug\x22:\x22butter\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22salt\x22,\x22slug\x22:\x22salt\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🥫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22canned\x20food\x22,\x22slug\x22:\x22canned_food\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🍱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bento\x20box\x22,\x22slug\x22:\x22bento_box\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rice\x20cracker\x22,\x22slug\x22:\x22rice_cracker\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rice\x20ball\x22,\x22slug\x22:\x22rice_ball\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cooked\x20rice\x22,\x22slug\x22:\x22cooked_rice\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22curry\x20rice\x22,\x22slug\x22:\x22curry_rice\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22steaming\x20bowl\x22,\x22slug\x22:\x22steaming_bowl\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spaghetti\x22,\x22slug\x22:\x22spaghetti\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22roasted\x20sweet\x20potato\x22,\x22slug\x22:\x22roasted_sweet_potato\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22oden\x22,\x22slug\x22:\x22oden\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sushi\x22,\x22slug\x22:\x22sushi\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fried\x20shrimp\x22,\x22slug\x22:\x22fried_shrimp\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fish\x20cake\x20with\x20swirl\x22,\x22slug\x22:\x22fish_cake_with_swirl\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22moon\x20cake\x22,\x22slug\x22:\x22moon_cake\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🍡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dango\x22,\x22slug\x22:\x22dango\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dumpling\x22,\x22slug\x22:\x22dumpling\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🥠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fortune\x20cookie\x22,\x22slug\x22:\x22fortune_cookie\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🥡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22takeout\x20box\x22,\x22slug\x22:\x22takeout_box\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🦀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crab\x22,\x22slug\x22:\x22crab\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🦞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lobster\x22,\x22slug\x22:\x22lobster\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shrimp\x22,\x22slug\x22:\x22shrimp\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22squid\x22,\x22slug\x22:\x22squid\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22oyster\x22,\x22slug\x22:\x22oyster\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🍦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22soft\x20ice\x20cream\x22,\x22slug\x22:\x22soft_ice_cream\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shaved\x20ice\x22,\x22slug\x22:\x22shaved_ice\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ice\x20cream\x22,\x22slug\x22:\x22ice_cream\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22doughnut\x22,\x22slug\x22:\x22doughnut\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cookie\x22,\x22slug\x22:\x22cookie\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22birthday\x20cake\x22,\x22slug\x22:\x22birthday_cake\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shortcake\x22,\x22slug\x22:\x22shortcake\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cupcake\x22,\x22slug\x22:\x22cupcake\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🥧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pie\x22,\x22slug\x22:\x22pie\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🍫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chocolate\x20bar\x22,\x22slug\x22:\x22chocolate_bar\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22candy\x22,\x22slug\x22:\x22candy\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lollipop\x22,\x22slug\x22:\x22lollipop\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22custard\x22,\x22slug\x22:\x22custard\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22honey\x20pot\x22,\x22slug\x22:\x22honey_pot\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22baby\x20bottle\x22,\x22slug\x22:\x22baby_bottle\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🥛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22glass\x20of\x20milk\x22,\x22slug\x22:\x22glass_of_milk\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22☕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hot\x20beverage\x22,\x22slug\x22:\x22hot_beverage\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22teacup\x20without\x20handle\x22,\x22slug\x22:\x22teacup_without_handle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sake\x22,\x22slug\x22:\x22sake\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bottle\x20with\x20popping\x20cork\x22,\x22slug\x22:\x22bottle_with_popping_cork\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🍷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wine\x20glass\x22,\x22slug\x22:\x22wine_glass\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cocktail\x20glass\x22,\x22slug\x22:\x22cocktail_glass\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tropical\x20drink\x22,\x22slug\x22:\x22tropical_drink\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22beer\x20mug\x22,\x22slug\x22:\x22beer_mug\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🍻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22clinking\x20beer\x20mugs\x22,\x22slug\x22:\x22clinking_beer_mugs\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22clinking\x20glasses\x22,\x22slug\x22:\x22clinking_glasses\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tumbler\x20glass\x22,\x22slug\x22:\x22tumbler_glass\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cup\x20with\x20straw\x22,\x22slug\x22:\x22cup_with_straw\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22beverage\x20box\x22,\x22slug\x22:\x22beverage_box\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mate\x22,\x22slug\x22:\x22mate\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ice\x22,\x22slug\x22:\x22ice\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🥢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chopsticks\x22,\x22slug\x22:\x22chopsticks\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🍽️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fork\x20and\x20knife\x20with\x20plate\x22,\x22slug\x22:\x22fork_and_knife_with_plate\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🍴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fork\x20and\x20knife\x22,\x22slug\x22:\x22fork_and_knife\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spoon\x22,\x22slug\x22:\x22spoon\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🔪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kitchen\x20knife\x22,\x22slug\x22:\x22kitchen_knife\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22amphora\x22,\x22slug\x22:\x22amphora\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22}],\x22Travel\x20&\x20Places\x22:[{\x22emoji\x22:\x22🌍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22globe\x20showing\x20Europe-Africa\x22,\x22slug\x22:\x22globe_showing_europe_africa\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22globe\x20showing\x20Americas\x22,\x22slug\x22:\x22globe_showing_americas\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22globe\x20showing\x20Asia-Australia\x22,\x22slug\x22:\x22globe_showing_asia_australia\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22globe\x20with\x20meridians\x22,\x22slug\x22:\x22globe_with_meridians\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🗺️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22world\x20map\x22,\x22slug\x22:\x22world_map\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🗾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22map\x20of\x20Japan\x22,\x22slug\x22:\x22map_of_japan\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22compass\x22,\x22slug\x22:\x22compass\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🏔️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22snow-capped\x20mountain\x22,\x22slug\x22:\x22snow_capped_mountain\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⛰️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mountain\x22,\x22slug\x22:\x22mountain\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22volcano\x22,\x22slug\x22:\x22volcano\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mount\x20fuji\x22,\x22slug\x22:\x22mount_fuji\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏕️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22camping\x22,\x22slug\x22:\x22camping\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏖️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22beach\x20with\x20umbrella\x22,\x22slug\x22:\x22beach_with_umbrella\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏜️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22desert\x22,\x22slug\x22:\x22desert\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏝️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22desert\x20island\x22,\x22slug\x22:\x22desert_island\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏞️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22national\x20park\x22,\x22slug\x22:\x22national_park\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏟️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22stadium\x22,\x22slug\x22:\x22stadium\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏛️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22classical\x20building\x22,\x22slug\x22:\x22classical_building\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏗️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22building\x20construction\x22,\x22slug\x22:\x22building_construction\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🧱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22brick\x22,\x22slug\x22:\x22brick\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🏘️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22houses\x22,\x22slug\x22:\x22houses\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏚️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22derelict\x20house\x22,\x22slug\x22:\x22derelict_house\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22house\x22,\x22slug\x22:\x22house\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22house\x20with\x20garden\x22,\x22slug\x22:\x22house_with_garden\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22office\x20building\x22,\x22slug\x22:\x22office_building\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20post\x20office\x22,\x22slug\x22:\x22japanese_post_office\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22post\x20office\x22,\x22slug\x22:\x22post_office\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🏥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hospital\x22,\x22slug\x22:\x22hospital\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bank\x22,\x22slug\x22:\x22bank\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hotel\x22,\x22slug\x22:\x22hotel\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22love\x20hotel\x22,\x22slug\x22:\x22love_hotel\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22convenience\x20store\x22,\x22slug\x22:\x22convenience_store\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22school\x22,\x22slug\x22:\x22school\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22department\x20store\x22,\x22slug\x22:\x22department_store\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22factory\x22,\x22slug\x22:\x22factory\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20castle\x22,\x22slug\x22:\x22japanese_castle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22castle\x22,\x22slug\x22:\x22castle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wedding\x22,\x22slug\x22:\x22wedding\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Tokyo\x20tower\x22,\x22slug\x22:\x22tokyo_tower\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Statue\x20of\x20Liberty\x22,\x22slug\x22:\x22statue_of_liberty\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22church\x22,\x22slug\x22:\x22church\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mosque\x22,\x22slug\x22:\x22mosque\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hindu\x20temple\x22,\x22slug\x22:\x22hindu_temple\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🕍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22synagogue\x22,\x22slug\x22:\x22synagogue\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⛩️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shinto\x20shrine\x22,\x22slug\x22:\x22shinto_shrine\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kaaba\x22,\x22slug\x22:\x22kaaba\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⛲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fountain\x22,\x22slug\x22:\x22fountain\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tent\x22,\x22slug\x22:\x22tent\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22foggy\x22,\x22slug\x22:\x22foggy\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22night\x20with\x20stars\x22,\x22slug\x22:\x22night_with_stars\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏙️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cityscape\x22,\x22slug\x22:\x22cityscape\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sunrise\x20over\x20mountains\x22,\x22slug\x22:\x22sunrise_over_mountains\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sunrise\x22,\x22slug\x22:\x22sunrise\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cityscape\x20at\x20dusk\x22,\x22slug\x22:\x22cityscape_at_dusk\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sunset\x22,\x22slug\x22:\x22sunset\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bridge\x20at\x20night\x22,\x22slug\x22:\x22bridge_at_night\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♨️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hot\x20springs\x22,\x22slug\x22:\x22hot_springs\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22carousel\x20horse\x22,\x22slug\x22:\x22carousel_horse\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ferris\x20wheel\x22,\x22slug\x22:\x22ferris_wheel\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22roller\x20coaster\x22,\x22slug\x22:\x22roller_coaster\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22barber\x20pole\x22,\x22slug\x22:\x22barber_pole\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22circus\x20tent\x22,\x22slug\x22:\x22circus_tent\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22locomotive\x22,\x22slug\x22:\x22locomotive\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22railway\x20car\x22,\x22slug\x22:\x22railway_car\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22high-speed\x20train\x22,\x22slug\x22:\x22high_speed_train\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bullet\x20train\x22,\x22slug\x22:\x22bullet_train\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22train\x22,\x22slug\x22:\x22train\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22metro\x22,\x22slug\x22:\x22metro\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22light\x20rail\x22,\x22slug\x22:\x22light_rail\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22station\x22,\x22slug\x22:\x22station\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tram\x22,\x22slug\x22:\x22tram\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22monorail\x22,\x22slug\x22:\x22monorail\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mountain\x20railway\x22,\x22slug\x22:\x22mountain_railway\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tram\x20car\x22,\x22slug\x22:\x22tram_car\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bus\x22,\x22slug\x22:\x22bus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22oncoming\x20bus\x22,\x22slug\x22:\x22oncoming_bus\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🚎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22trolleybus\x22,\x22slug\x22:\x22trolleybus\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22minibus\x22,\x22slug\x22:\x22minibus\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ambulance\x22,\x22slug\x22:\x22ambulance\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fire\x20engine\x22,\x22slug\x22:\x22fire_engine\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22police\x20car\x22,\x22slug\x22:\x22police_car\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22oncoming\x20police\x20car\x22,\x22slug\x22:\x22oncoming_police_car\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🚕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22taxi\x22,\x22slug\x22:\x22taxi\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22oncoming\x20taxi\x22,\x22slug\x22:\x22oncoming_taxi\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22automobile\x22,\x22slug\x22:\x22automobile\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22oncoming\x20automobile\x22,\x22slug\x22:\x22oncoming_automobile\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🚙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sport\x20utility\x20vehicle\x22,\x22slug\x22:\x22sport_utility_vehicle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22delivery\x20truck\x22,\x22slug\x22:\x22delivery_truck\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22articulated\x20lorry\x22,\x22slug\x22:\x22articulated_lorry\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tractor\x22,\x22slug\x22:\x22tractor\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🏎️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22racing\x20car\x22,\x22slug\x22:\x22racing_car\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏍️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22motorcycle\x22,\x22slug\x22:\x22motorcycle\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🛵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22motor\x20scooter\x22,\x22slug\x22:\x22motor_scooter\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🦽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22manual\x20wheelchair\x22,\x22slug\x22:\x22manual_wheelchair\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🦼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22motorized\x20wheelchair\x22,\x22slug\x22:\x22motorized_wheelchair\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🛺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22auto\x20rickshaw\x22,\x22slug\x22:\x22auto_rickshaw\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🚲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bicycle\x22,\x22slug\x22:\x22bicycle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kick\x20scooter\x22,\x22slug\x22:\x22kick_scooter\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🛹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22skateboard\x22,\x22slug\x22:\x22skateboard\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🚏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bus\x20stop\x22,\x22slug\x22:\x22bus_stop\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛣️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22motorway\x22,\x22slug\x22:\x22motorway\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🛤️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22railway\x20track\x22,\x22slug\x22:\x22railway_track\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🛢️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22oil\x20drum\x22,\x22slug\x22:\x22oil_drum\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⛽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fuel\x20pump\x22,\x22slug\x22:\x22fuel_pump\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22police\x20car\x20light\x22,\x22slug\x22:\x22police_car_light\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22horizontal\x20traffic\x20light\x22,\x22slug\x22:\x22horizontal_traffic_light\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22vertical\x20traffic\x20light\x22,\x22slug\x22:\x22vertical_traffic_light\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22stop\x20sign\x22,\x22slug\x22:\x22stop_sign\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🚧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22construction\x22,\x22slug\x22:\x22construction\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⚓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22anchor\x22,\x22slug\x22:\x22anchor\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sailboat\x22,\x22slug\x22:\x22sailboat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22canoe\x22,\x22slug\x22:\x22canoe\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🚤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22speedboat\x22,\x22slug\x22:\x22speedboat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛳️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22passenger\x20ship\x22,\x22slug\x22:\x22passenger_ship\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⛴️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ferry\x22,\x22slug\x22:\x22ferry\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🛥️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22motor\x20boat\x22,\x22slug\x22:\x22motor_boat\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🚢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ship\x22,\x22slug\x22:\x22ship\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✈️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22airplane\x22,\x22slug\x22:\x22airplane\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛩️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22small\x20airplane\x22,\x22slug\x22:\x22small_airplane\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🛫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22airplane\x20departure\x22,\x22slug\x22:\x22airplane_departure\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22airplane\x20arrival\x22,\x22slug\x22:\x22airplane_arrival\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🪂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22parachute\x22,\x22slug\x22:\x22parachute\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22💺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22seat\x22,\x22slug\x22:\x22seat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22helicopter\x22,\x22slug\x22:\x22helicopter\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22suspension\x20railway\x22,\x22slug\x22:\x22suspension_railway\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mountain\x20cableway\x22,\x22slug\x22:\x22mountain_cableway\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22aerial\x20tramway\x22,\x22slug\x22:\x22aerial_tramway\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛰️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22satellite\x22,\x22slug\x22:\x22satellite\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🚀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rocket\x22,\x22slug\x22:\x22rocket\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flying\x20saucer\x22,\x22slug\x22:\x22flying_saucer\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🛎️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bellhop\x20bell\x22,\x22slug\x22:\x22bellhop_bell\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🧳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22luggage\x22,\x22slug\x22:\x22luggage\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22⌛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hourglass\x20done\x22,\x22slug\x22:\x22hourglass_done\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hourglass\x20not\x20done\x22,\x22slug\x22:\x22hourglass_not_done\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⌚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22watch\x22,\x22slug\x22:\x22watch\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22alarm\x20clock\x22,\x22slug\x22:\x22alarm_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏱️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22stopwatch\x22,\x22slug\x22:\x22stopwatch\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⏲️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22timer\x20clock\x22,\x22slug\x22:\x22timer_clock\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🕰️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mantelpiece\x20clock\x22,\x22slug\x22:\x22mantelpiece_clock\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22twelve\x20o’clock\x22,\x22slug\x22:\x22twelve_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22twelve-thirty\x22,\x22slug\x22:\x22twelve_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22one\x20o’clock\x22,\x22slug\x22:\x22one_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22one-thirty\x22,\x22slug\x22:\x22one_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22two\x20o’clock\x22,\x22slug\x22:\x22two_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22two-thirty\x22,\x22slug\x22:\x22two_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22three\x20o’clock\x22,\x22slug\x22:\x22three_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22three-thirty\x22,\x22slug\x22:\x22three_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22four\x20o’clock\x22,\x22slug\x22:\x22four_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22four-thirty\x22,\x22slug\x22:\x22four_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22five\x20o’clock\x22,\x22slug\x22:\x22five_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22five-thirty\x22,\x22slug\x22:\x22five_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22six\x20o’clock\x22,\x22slug\x22:\x22six_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22six-thirty\x22,\x22slug\x22:\x22six_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22seven\x20o’clock\x22,\x22slug\x22:\x22seven_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22seven-thirty\x22,\x22slug\x22:\x22seven_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eight\x20o’clock\x22,\x22slug\x22:\x22eight_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eight-thirty\x22,\x22slug\x22:\x22eight_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22nine\x20o’clock\x22,\x22slug\x22:\x22nine_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22nine-thirty\x22,\x22slug\x22:\x22nine_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ten\x20o’clock\x22,\x22slug\x22:\x22ten_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ten-thirty\x22,\x22slug\x22:\x22ten_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🕚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eleven\x20o’clock\x22,\x22slug\x22:\x22eleven_o_clock\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eleven-thirty\x22,\x22slug\x22:\x22eleven_thirty\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22new\x20moon\x22,\x22slug\x22:\x22new_moon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22waxing\x20crescent\x20moon\x22,\x22slug\x22:\x22waxing_crescent_moon\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22first\x20quarter\x20moon\x22,\x22slug\x22:\x22first_quarter_moon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22waxing\x20gibbous\x20moon\x22,\x22slug\x22:\x22waxing_gibbous_moon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22full\x20moon\x22,\x22slug\x22:\x22full_moon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22waning\x20gibbous\x20moon\x22,\x22slug\x22:\x22waning_gibbous_moon\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22last\x20quarter\x20moon\x22,\x22slug\x22:\x22last_quarter_moon\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22waning\x20crescent\x20moon\x22,\x22slug\x22:\x22waning_crescent_moon\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crescent\x20moon\x22,\x22slug\x22:\x22crescent_moon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22new\x20moon\x20face\x22,\x22slug\x22:\x22new_moon_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22first\x20quarter\x20moon\x20face\x22,\x22slug\x22:\x22first_quarter_moon_face\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22last\x20quarter\x20moon\x20face\x22,\x22slug\x22:\x22last_quarter_moon_face\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌡️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22thermometer\x22,\x22slug\x22:\x22thermometer\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22☀️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sun\x22,\x22slug\x22:\x22sun\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22full\x20moon\x20face\x22,\x22slug\x22:\x22full_moon_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🌞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sun\x20with\x20face\x22,\x22slug\x22:\x22sun_with_face\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🪐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ringed\x20planet\x22,\x22slug\x22:\x22ringed_planet\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22⭐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22star\x22,\x22slug\x22:\x22star\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22glowing\x20star\x22,\x22slug\x22:\x22glowing_star\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shooting\x20star\x22,\x22slug\x22:\x22shooting_star\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22milky\x20way\x22,\x22slug\x22:\x22milky_way\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☁️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cloud\x22,\x22slug\x22:\x22cloud\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sun\x20behind\x20cloud\x22,\x22slug\x22:\x22sun_behind_cloud\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛈️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cloud\x20with\x20lightning\x20and\x20rain\x22,\x22slug\x22:\x22cloud_with_lightning_and_rain\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌤️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sun\x20behind\x20small\x20cloud\x22,\x22slug\x22:\x22sun_behind_small_cloud\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌥️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sun\x20behind\x20large\x20cloud\x22,\x22slug\x22:\x22sun_behind_large_cloud\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌦️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sun\x20behind\x20rain\x20cloud\x22,\x22slug\x22:\x22sun_behind_rain_cloud\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌧️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cloud\x20with\x20rain\x22,\x22slug\x22:\x22cloud_with_rain\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌨️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cloud\x20with\x20snow\x22,\x22slug\x22:\x22cloud_with_snow\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌩️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cloud\x20with\x20lightning\x22,\x22slug\x22:\x22cloud_with_lightning\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌪️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tornado\x22,\x22slug\x22:\x22tornado\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌫️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fog\x22,\x22slug\x22:\x22fog\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌬️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wind\x20face\x22,\x22slug\x22:\x22wind_face\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🌀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cyclone\x22,\x22slug\x22:\x22cyclone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rainbow\x22,\x22slug\x22:\x22rainbow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22closed\x20umbrella\x22,\x22slug\x22:\x22closed_umbrella\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22umbrella\x22,\x22slug\x22:\x22umbrella\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22☔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22umbrella\x20with\x20rain\x20drops\x22,\x22slug\x22:\x22umbrella_with_rain_drops\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛱️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22umbrella\x20on\x20ground\x22,\x22slug\x22:\x22umbrella_on_ground\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⚡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22high\x20voltage\x22,\x22slug\x22:\x22high_voltage\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❄️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22snowflake\x22,\x22slug\x22:\x22snowflake\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☃️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22snowman\x22,\x22slug\x22:\x22snowman\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⛄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22snowman\x20without\x20snow\x22,\x22slug\x22:\x22snowman_without_snow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☄️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22comet\x22,\x22slug\x22:\x22comet\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fire\x22,\x22slug\x22:\x22fire\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22droplet\x22,\x22slug\x22:\x22droplet\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🌊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22water\x20wave\x22,\x22slug\x22:\x22water_wave\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22}],\x22Activities\x22:[{\x22emoji\x22:\x22🎃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22jack-o-lantern\x22,\x22slug\x22:\x22jack_o_lantern\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Christmas\x20tree\x22,\x22slug\x22:\x22christmas_tree\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fireworks\x22,\x22slug\x22:\x22fireworks\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sparkler\x22,\x22slug\x22:\x22sparkler\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22firecracker\x22,\x22slug\x22:\x22firecracker\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22✨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sparkles\x22,\x22slug\x22:\x22sparkles\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22balloon\x22,\x22slug\x22:\x22balloon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22party\x20popper\x22,\x22slug\x22:\x22party_popper\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22confetti\x20ball\x22,\x22slug\x22:\x22confetti_ball\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tanabata\x20tree\x22,\x22slug\x22:\x22tanabata_tree\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pine\x20decoration\x22,\x22slug\x22:\x22pine_decoration\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20dolls\x22,\x22slug\x22:\x22japanese_dolls\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22carp\x20streamer\x22,\x22slug\x22:\x22carp_streamer\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wind\x20chime\x22,\x22slug\x22:\x22wind_chime\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22moon\x20viewing\x20ceremony\x22,\x22slug\x22:\x22moon_viewing_ceremony\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20envelope\x22,\x22slug\x22:\x22red_envelope\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🎀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ribbon\x22,\x22slug\x22:\x22ribbon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wrapped\x20gift\x22,\x22slug\x22:\x22wrapped_gift\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎗️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22reminder\x20ribbon\x22,\x22slug\x22:\x22reminder_ribbon\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎟️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22admission\x20tickets\x22,\x22slug\x22:\x22admission_tickets\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ticket\x22,\x22slug\x22:\x22ticket\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎖️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22military\x20medal\x22,\x22slug\x22:\x22military_medal\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22trophy\x22,\x22slug\x22:\x22trophy\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sports\x20medal\x22,\x22slug\x22:\x22sports_medal\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🥇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x221st\x20place\x20medal\x22,\x22slug\x22:\x221st_place_medal\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x222nd\x20place\x20medal\x22,\x22slug\x22:\x222nd_place_medal\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x223rd\x20place\x20medal\x22,\x22slug\x22:\x223rd_place_medal\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22⚽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22soccer\x20ball\x22,\x22slug\x22:\x22soccer_ball\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⚾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22baseball\x22,\x22slug\x22:\x22baseball\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22softball\x22,\x22slug\x22:\x22softball\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🏀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22basketball\x22,\x22slug\x22:\x22basketball\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22volleyball\x22,\x22slug\x22:\x22volleyball\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🏈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22american\x20football\x22,\x22slug\x22:\x22american_football\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rugby\x20football\x22,\x22slug\x22:\x22rugby_football\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🎾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tennis\x22,\x22slug\x22:\x22tennis\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flying\x20disc\x22,\x22slug\x22:\x22flying_disc\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🎳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bowling\x22,\x22slug\x22:\x22bowling\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cricket\x20game\x22,\x22slug\x22:\x22cricket_game\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🏑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22field\x20hockey\x22,\x22slug\x22:\x22field_hockey\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🏒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ice\x20hockey\x22,\x22slug\x22:\x22ice_hockey\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🥍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lacrosse\x22,\x22slug\x22:\x22lacrosse\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🏓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ping\x20pong\x22,\x22slug\x22:\x22ping_pong\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🏸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22badminton\x22,\x22slug\x22:\x22badminton\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🥊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22boxing\x20glove\x22,\x22slug\x22:\x22boxing_glove\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22martial\x20arts\x20uniform\x22,\x22slug\x22:\x22martial_arts_uniform\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🥅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22goal\x20net\x22,\x22slug\x22:\x22goal_net\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22⛳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20in\x20hole\x22,\x22slug\x22:\x22flag_in_hole\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛸️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ice\x20skate\x22,\x22slug\x22:\x22ice_skate\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fishing\x20pole\x22,\x22slug\x22:\x22fishing_pole\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🤿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22diving\x20mask\x22,\x22slug\x22:\x22diving_mask\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🎽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22running\x20shirt\x22,\x22slug\x22:\x22running_shirt\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22skis\x22,\x22slug\x22:\x22skis\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sled\x22,\x22slug\x22:\x22sled\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🥌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22curling\x20stone\x22,\x22slug\x22:\x22curling_stone\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🎯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bullseye\x22,\x22slug\x22:\x22bullseye\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🪀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22yo-yo\x22,\x22slug\x22:\x22yo_yo\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🪁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kite\x22,\x22slug\x22:\x22kite\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🎱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pool\x208\x20ball\x22,\x22slug\x22:\x22pool_8_ball\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crystal\x20ball\x22,\x22slug\x22:\x22crystal_ball\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22nazar\x20amulet\x22,\x22slug\x22:\x22nazar_amulet\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🎮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22video\x20game\x22,\x22slug\x22:\x22video_game\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕹️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22joystick\x22,\x22slug\x22:\x22joystick\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22slot\x20machine\x22,\x22slug\x22:\x22slot_machine\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22game\x20die\x22,\x22slug\x22:\x22game_die\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22puzzle\x20piece\x22,\x22slug\x22:\x22puzzle_piece\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22teddy\x20bear\x22,\x22slug\x22:\x22teddy_bear\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22♠️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spade\x20suit\x22,\x22slug\x22:\x22spade_suit\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♥️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22heart\x20suit\x22,\x22slug\x22:\x22heart_suit\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♦️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22diamond\x20suit\x22,\x22slug\x22:\x22diamond_suit\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♣️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22club\x20suit\x22,\x22slug\x22:\x22club_suit\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♟️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chess\x20pawn\x22,\x22slug\x22:\x22chess_pawn\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🃏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22joker\x22,\x22slug\x22:\x22joker\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🀄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mahjong\x20red\x20dragon\x22,\x22slug\x22:\x22mahjong_red_dragon\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flower\x20playing\x20cards\x22,\x22slug\x22:\x22flower_playing_cards\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22performing\x20arts\x22,\x22slug\x22:\x22performing_arts\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🖼️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22framed\x20picture\x22,\x22slug\x22:\x22framed_picture\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22artist\x20palette\x22,\x22slug\x22:\x22artist_palette\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22thread\x22,\x22slug\x22:\x22thread\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22yarn\x22,\x22slug\x22:\x22yarn\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22}],\x22Objects\x22:[{\x22emoji\x22:\x22👓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22glasses\x22,\x22slug\x22:\x22glasses\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕶️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sunglasses\x22,\x22slug\x22:\x22sunglasses\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🥽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22goggles\x22,\x22slug\x22:\x22goggles\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🥼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lab\x20coat\x22,\x22slug\x22:\x22lab_coat\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🦺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22safety\x20vest\x22,\x22slug\x22:\x22safety_vest\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22👔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22necktie\x22,\x22slug\x22:\x22necktie\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22t-shirt\x22,\x22slug\x22:\x22t_shirt\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22jeans\x22,\x22slug\x22:\x22jeans\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22scarf\x22,\x22slug\x22:\x22scarf\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22gloves\x22,\x22slug\x22:\x22gloves\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22coat\x22,\x22slug\x22:\x22coat\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🧦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22socks\x22,\x22slug\x22:\x22socks\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22👗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dress\x22,\x22slug\x22:\x22dress\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22kimono\x22,\x22slug\x22:\x22kimono\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sari\x22,\x22slug\x22:\x22sari\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🩱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22one-piece\x20swimsuit\x22,\x22slug\x22:\x22one_piece_swimsuit\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🩲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22briefs\x22,\x22slug\x22:\x22briefs\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🩳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shorts\x22,\x22slug\x22:\x22shorts\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22👙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bikini\x22,\x22slug\x22:\x22bikini\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22woman’s\x20clothes\x22,\x22slug\x22:\x22woman_s_clothes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22purse\x22,\x22slug\x22:\x22purse\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22handbag\x22,\x22slug\x22:\x22handbag\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22clutch\x20bag\x22,\x22slug\x22:\x22clutch_bag\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛍️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shopping\x20bags\x22,\x22slug\x22:\x22shopping_bags\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22backpack\x22,\x22slug\x22:\x22backpack\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22man’s\x20shoe\x22,\x22slug\x22:\x22man_s_shoe\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22running\x20shoe\x22,\x22slug\x22:\x22running_shoe\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🥾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hiking\x20boot\x22,\x22slug\x22:\x22hiking_boot\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🥿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flat\x20shoe\x22,\x22slug\x22:\x22flat_shoe\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22👠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22high-heeled\x20shoe\x22,\x22slug\x22:\x22high_heeled_shoe\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22woman’s\x20sandal\x22,\x22slug\x22:\x22woman_s_sandal\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🩰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ballet\x20shoes\x22,\x22slug\x22:\x22ballet_shoes\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22👢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22woman’s\x20boot\x22,\x22slug\x22:\x22woman_s_boot\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crown\x22,\x22slug\x22:\x22crown\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22👒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22woman’s\x20hat\x22,\x22slug\x22:\x22woman_s_hat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22top\x20hat\x22,\x22slug\x22:\x22top_hat\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22graduation\x20cap\x22,\x22slug\x22:\x22graduation_cap\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22billed\x20cap\x22,\x22slug\x22:\x22billed_cap\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22⛑️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rescue\x20worker’s\x20helmet\x22,\x22slug\x22:\x22rescue_worker_s_helmet\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22prayer\x20beads\x22,\x22slug\x22:\x22prayer_beads\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22💄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lipstick\x22,\x22slug\x22:\x22lipstick\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ring\x22,\x22slug\x22:\x22ring\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22gem\x20stone\x22,\x22slug\x22:\x22gem_stone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22muted\x20speaker\x22,\x22slug\x22:\x22muted_speaker\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22speaker\x20low\x20volume\x22,\x22slug\x22:\x22speaker_low_volume\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🔉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22speaker\x20medium\x20volume\x22,\x22slug\x22:\x22speaker_medium_volume\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22speaker\x20high\x20volume\x22,\x22slug\x22:\x22speaker_high_volume\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22loudspeaker\x22,\x22slug\x22:\x22loudspeaker\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22megaphone\x22,\x22slug\x22:\x22megaphone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22postal\x20horn\x22,\x22slug\x22:\x22postal_horn\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bell\x22,\x22slug\x22:\x22bell\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bell\x20with\x20slash\x22,\x22slug\x22:\x22bell_with_slash\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🎼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22musical\x20score\x22,\x22slug\x22:\x22musical_score\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22musical\x20note\x22,\x22slug\x22:\x22musical_note\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22musical\x20notes\x22,\x22slug\x22:\x22musical_notes\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎙️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22studio\x20microphone\x22,\x22slug\x22:\x22studio_microphone\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎚️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22level\x20slider\x22,\x22slug\x22:\x22level_slider\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎛️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22control\x20knobs\x22,\x22slug\x22:\x22control_knobs\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22microphone\x22,\x22slug\x22:\x22microphone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22headphone\x22,\x22slug\x22:\x22headphone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22radio\x22,\x22slug\x22:\x22radio\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22saxophone\x22,\x22slug\x22:\x22saxophone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22guitar\x22,\x22slug\x22:\x22guitar\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22musical\x20keyboard\x22,\x22slug\x22:\x22musical_keyboard\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22trumpet\x22,\x22slug\x22:\x22trumpet\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22violin\x22,\x22slug\x22:\x22violin\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🪕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22banjo\x22,\x22slug\x22:\x22banjo\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🥁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22drum\x22,\x22slug\x22:\x22drum\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22📱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mobile\x20phone\x22,\x22slug\x22:\x22mobile_phone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mobile\x20phone\x20with\x20arrow\x22,\x22slug\x22:\x22mobile_phone_with_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☎️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22telephone\x22,\x22slug\x22:\x22telephone\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22telephone\x20receiver\x22,\x22slug\x22:\x22telephone_receiver\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pager\x22,\x22slug\x22:\x22pager\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fax\x20machine\x22,\x22slug\x22:\x22fax_machine\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22battery\x22,\x22slug\x22:\x22battery\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22electric\x20plug\x22,\x22slug\x22:\x22electric_plug\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22laptop\x22,\x22slug\x22:\x22laptop\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🖥️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22desktop\x20computer\x22,\x22slug\x22:\x22desktop_computer\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🖨️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22printer\x22,\x22slug\x22:\x22printer\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⌨️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keyboard\x22,\x22slug\x22:\x22keyboard\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🖱️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22computer\x20mouse\x22,\x22slug\x22:\x22computer_mouse\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🖲️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22trackball\x22,\x22slug\x22:\x22trackball\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22💽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22computer\x20disk\x22,\x22slug\x22:\x22computer_disk\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22floppy\x20disk\x22,\x22slug\x22:\x22floppy_disk\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22optical\x20disk\x22,\x22slug\x22:\x22optical_disk\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dvd\x22,\x22slug\x22:\x22dvd\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22abacus\x22,\x22slug\x22:\x22abacus\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🎥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22movie\x20camera\x22,\x22slug\x22:\x22movie_camera\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎞️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22film\x20frames\x22,\x22slug\x22:\x22film_frames\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📽️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22film\x20projector\x22,\x22slug\x22:\x22film_projector\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🎬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22clapper\x20board\x22,\x22slug\x22:\x22clapper_board\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22television\x22,\x22slug\x22:\x22television\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22camera\x22,\x22slug\x22:\x22camera\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22camera\x20with\x20flash\x22,\x22slug\x22:\x22camera_with_flash\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22📹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22video\x20camera\x22,\x22slug\x22:\x22video_camera\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22videocassette\x22,\x22slug\x22:\x22videocassette\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22magnifying\x20glass\x20tilted\x20left\x22,\x22slug\x22:\x22magnifying_glass_tilted_left\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22magnifying\x20glass\x20tilted\x20right\x22,\x22slug\x22:\x22magnifying_glass_tilted_right\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🕯️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22candle\x22,\x22slug\x22:\x22candle\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22💡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22light\x20bulb\x22,\x22slug\x22:\x22light_bulb\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flashlight\x22,\x22slug\x22:\x22flashlight\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20paper\x20lantern\x22,\x22slug\x22:\x22red_paper_lantern\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🪔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22diya\x20lamp\x22,\x22slug\x22:\x22diya_lamp\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22📔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22notebook\x20with\x20decorative\x20cover\x22,\x22slug\x22:\x22notebook_with_decorative_cover\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22closed\x20book\x22,\x22slug\x22:\x22closed_book\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22open\x20book\x22,\x22slug\x22:\x22open_book\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22green\x20book\x22,\x22slug\x22:\x22green_book\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22blue\x20book\x22,\x22slug\x22:\x22blue_book\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22orange\x20book\x22,\x22slug\x22:\x22orange_book\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22books\x22,\x22slug\x22:\x22books\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22notebook\x22,\x22slug\x22:\x22notebook\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ledger\x22,\x22slug\x22:\x22ledger\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22page\x20with\x20curl\x22,\x22slug\x22:\x22page_with_curl\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22scroll\x22,\x22slug\x22:\x22scroll\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22page\x20facing\x20up\x22,\x22slug\x22:\x22page_facing_up\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22newspaper\x22,\x22slug\x22:\x22newspaper\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗞️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rolled-up\x20newspaper\x22,\x22slug\x22:\x22rolled_up_newspaper\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bookmark\x20tabs\x22,\x22slug\x22:\x22bookmark_tabs\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bookmark\x22,\x22slug\x22:\x22bookmark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏷️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22label\x22,\x22slug\x22:\x22label\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22💰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22money\x20bag\x22,\x22slug\x22:\x22money_bag\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22yen\x20banknote\x22,\x22slug\x22:\x22yen_banknote\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dollar\x20banknote\x22,\x22slug\x22:\x22dollar_banknote\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22euro\x20banknote\x22,\x22slug\x22:\x22euro_banknote\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22💷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pound\x20banknote\x22,\x22slug\x22:\x22pound_banknote\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22💸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22money\x20with\x20wings\x22,\x22slug\x22:\x22money_with_wings\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22credit\x20card\x22,\x22slug\x22:\x22credit_card\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🧾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22receipt\x22,\x22slug\x22:\x22receipt\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22💹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chart\x20increasing\x20with\x20yen\x22,\x22slug\x22:\x22chart_increasing_with_yen\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✉️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22envelope\x22,\x22slug\x22:\x22envelope\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22e-mail\x22,\x22slug\x22:\x22e_mail\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22incoming\x20envelope\x22,\x22slug\x22:\x22incoming_envelope\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22envelope\x20with\x20arrow\x22,\x22slug\x22:\x22envelope_with_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22outbox\x20tray\x22,\x22slug\x22:\x22outbox_tray\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22inbox\x20tray\x22,\x22slug\x22:\x22inbox_tray\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22package\x22,\x22slug\x22:\x22package\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22closed\x20mailbox\x20with\x20raised\x20flag\x22,\x22slug\x22:\x22closed_mailbox_with_raised_flag\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22closed\x20mailbox\x20with\x20lowered\x20flag\x22,\x22slug\x22:\x22closed_mailbox_with_lowered_flag\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22open\x20mailbox\x20with\x20raised\x20flag\x22,\x22slug\x22:\x22open_mailbox_with_raised_flag\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22open\x20mailbox\x20with\x20lowered\x20flag\x22,\x22slug\x22:\x22open_mailbox_with_lowered_flag\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22postbox\x22,\x22slug\x22:\x22postbox\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗳️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ballot\x20box\x20with\x20ballot\x22,\x22slug\x22:\x22ballot_box_with_ballot\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22✏️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pencil\x22,\x22slug\x22:\x22pencil\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✒️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20nib\x22,\x22slug\x22:\x22black_nib\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🖋️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fountain\x20pen\x22,\x22slug\x22:\x22fountain_pen\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🖊️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pen\x22,\x22slug\x22:\x22pen\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🖌️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22paintbrush\x22,\x22slug\x22:\x22paintbrush\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🖍️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crayon\x22,\x22slug\x22:\x22crayon\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22memo\x22,\x22slug\x22:\x22memo\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22briefcase\x22,\x22slug\x22:\x22briefcase\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22file\x20folder\x22,\x22slug\x22:\x22file_folder\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22open\x20file\x20folder\x22,\x22slug\x22:\x22open_file_folder\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22card\x20index\x20dividers\x22,\x22slug\x22:\x22card_index_dividers\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22calendar\x22,\x22slug\x22:\x22calendar\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22tear-off\x20calendar\x22,\x22slug\x22:\x22tear_off_calendar\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗒️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spiral\x20notepad\x22,\x22slug\x22:\x22spiral_notepad\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🗓️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22spiral\x20calendar\x22,\x22slug\x22:\x22spiral_calendar\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📇\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22card\x20index\x22,\x22slug\x22:\x22card_index\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chart\x20increasing\x22,\x22slug\x22:\x22chart_increasing\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chart\x20decreasing\x22,\x22slug\x22:\x22chart_decreasing\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bar\x20chart\x22,\x22slug\x22:\x22bar_chart\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22clipboard\x22,\x22slug\x22:\x22clipboard\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pushpin\x22,\x22slug\x22:\x22pushpin\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22round\x20pushpin\x22,\x22slug\x22:\x22round_pushpin\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22paperclip\x22,\x22slug\x22:\x22paperclip\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🖇️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22linked\x20paperclips\x22,\x22slug\x22:\x22linked_paperclips\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22📏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22straight\x20ruler\x22,\x22slug\x22:\x22straight_ruler\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22triangular\x20ruler\x22,\x22slug\x22:\x22triangular_ruler\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22scissors\x22,\x22slug\x22:\x22scissors\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗃️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22card\x20file\x20box\x22,\x22slug\x22:\x22card_file_box\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🗄️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22file\x20cabinet\x22,\x22slug\x22:\x22file_cabinet\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🗑️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wastebasket\x22,\x22slug\x22:\x22wastebasket\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🔒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22locked\x22,\x22slug\x22:\x22locked\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22unlocked\x22,\x22slug\x22:\x22unlocked\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22locked\x20with\x20pen\x22,\x22slug\x22:\x22locked_with_pen\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22locked\x20with\x20key\x22,\x22slug\x22:\x22locked_with_key\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22key\x22,\x22slug\x22:\x22key\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🗝️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22old\x20key\x22,\x22slug\x22:\x22old_key\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🔨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hammer\x22,\x22slug\x22:\x22hammer\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🪓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22axe\x22,\x22slug\x22:\x22axe\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22⛏️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pick\x22,\x22slug\x22:\x22pick\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⚒️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hammer\x20and\x20pick\x22,\x22slug\x22:\x22hammer_and_pick\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛠️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hammer\x20and\x20wrench\x22,\x22slug\x22:\x22hammer_and_wrench\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🗡️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dagger\x22,\x22slug\x22:\x22dagger\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⚔️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crossed\x20swords\x22,\x22slug\x22:\x22crossed_swords\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22water\x20pistol\x22,\x22slug\x22:\x22water_pistol\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bow\x20and\x20arrow\x22,\x22slug\x22:\x22bow_and_arrow\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛡️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shield\x22,\x22slug\x22:\x22shield\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🔧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wrench\x22,\x22slug\x22:\x22wrench\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22nut\x20and\x20bolt\x22,\x22slug\x22:\x22nut_and_bolt\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⚙️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22gear\x22,\x22slug\x22:\x22gear\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🗜️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22clamp\x22,\x22slug\x22:\x22clamp\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⚖️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22balance\x20scale\x22,\x22slug\x22:\x22balance_scale\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🦯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20cane\x22,\x22slug\x22:\x22white_cane\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🔗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22link\x22,\x22slug\x22:\x22link\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛓️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chains\x22,\x22slug\x22:\x22chains\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🧰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22toolbox\x22,\x22slug\x22:\x22toolbox\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22magnet\x22,\x22slug\x22:\x22magnet\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22⚗️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22alembic\x22,\x22slug\x22:\x22alembic\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🧪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22test\x20tube\x22,\x22slug\x22:\x22test_tube\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22petri\x20dish\x22,\x22slug\x22:\x22petri_dish\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dna\x22,\x22slug\x22:\x22dna\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🔬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22microscope\x22,\x22slug\x22:\x22microscope\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22telescope\x22,\x22slug\x22:\x22telescope\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22📡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22satellite\x20antenna\x22,\x22slug\x22:\x22satellite_antenna\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22syringe\x22,\x22slug\x22:\x22syringe\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🩸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22drop\x20of\x20blood\x22,\x22slug\x22:\x22drop_of_blood\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22💊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pill\x22,\x22slug\x22:\x22pill\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🩹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22adhesive\x20bandage\x22,\x22slug\x22:\x22adhesive_bandage\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🩺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22stethoscope\x22,\x22slug\x22:\x22stethoscope\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🚪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22door\x22,\x22slug\x22:\x22door\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛏️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bed\x22,\x22slug\x22:\x22bed\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🛋️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22couch\x20and\x20lamp\x22,\x22slug\x22:\x22couch_and_lamp\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🪑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chair\x22,\x22slug\x22:\x22chair\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🚽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22toilet\x22,\x22slug\x22:\x22toilet\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shower\x22,\x22slug\x22:\x22shower\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bathtub\x22,\x22slug\x22:\x22bathtub\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🪒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22razor\x22,\x22slug\x22:\x22razor\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🧴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22lotion\x20bottle\x22,\x22slug\x22:\x22lotion_bottle\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22safety\x20pin\x22,\x22slug\x22:\x22safety_pin\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22broom\x22,\x22slug\x22:\x22broom\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22basket\x22,\x22slug\x22:\x22basket\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22roll\x20of\x20paper\x22,\x22slug\x22:\x22roll_of_paper\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22soap\x22,\x22slug\x22:\x22soap\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sponge\x22,\x22slug\x22:\x22sponge\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🧯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fire\x20extinguisher\x22,\x22slug\x22:\x22fire_extinguisher\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🛒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shopping\x20cart\x22,\x22slug\x22:\x22shopping_cart\x22,\x22unicode_version\x22:\x223.0\x22,\x22emoji_version\x22:\x223.0\x22},{\x22emoji\x22:\x22🚬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cigarette\x22,\x22slug\x22:\x22cigarette\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⚰️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22coffin\x22,\x22slug\x22:\x22coffin\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⚱️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22funeral\x20urn\x22,\x22slug\x22:\x22funeral_urn\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🗿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22moai\x22,\x22slug\x22:\x22moai\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22}],\x22Symbols\x22:[{\x22emoji\x22:\x22🏧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ATM\x20sign\x22,\x22slug\x22:\x22atm_sign\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22litter\x20in\x20bin\x20sign\x22,\x22slug\x22:\x22litter_in_bin_sign\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22potable\x20water\x22,\x22slug\x22:\x22potable_water\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22♿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wheelchair\x20symbol\x22,\x22slug\x22:\x22wheelchair_symbol\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22men’s\x20room\x22,\x22slug\x22:\x22men_s_room\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22women’s\x20room\x22,\x22slug\x22:\x22women_s_room\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22restroom\x22,\x22slug\x22:\x22restroom\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22baby\x20symbol\x22,\x22slug\x22:\x22baby_symbol\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22water\x20closet\x22,\x22slug\x22:\x22water_closet\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22passport\x20control\x22,\x22slug\x22:\x22passport_control\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22customs\x22,\x22slug\x22:\x22customs\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22baggage\x20claim\x22,\x22slug\x22:\x22baggage_claim\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🛅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22left\x20luggage\x22,\x22slug\x22:\x22left_luggage\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⚠️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22warning\x22,\x22slug\x22:\x22warning\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22children\x20crossing\x22,\x22slug\x22:\x22children_crossing\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⛔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22no\x20entry\x22,\x22slug\x22:\x22no_entry\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22prohibited\x22,\x22slug\x22:\x22prohibited\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22no\x20bicycles\x22,\x22slug\x22:\x22no_bicycles\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22no\x20smoking\x22,\x22slug\x22:\x22no_smoking\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22no\x20littering\x22,\x22slug\x22:\x22no_littering\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22non-potable\x20water\x22,\x22slug\x22:\x22non_potable_water\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🚷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22no\x20pedestrians\x22,\x22slug\x22:\x22no_pedestrians\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22📵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22no\x20mobile\x20phones\x22,\x22slug\x22:\x22no_mobile_phones\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔞\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22no\x20one\x20under\x20eighteen\x22,\x22slug\x22:\x22no_one_under_eighteen\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☢️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22radioactive\x22,\x22slug\x22:\x22radioactive\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22☣️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22biohazard\x22,\x22slug\x22:\x22biohazard\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⬆️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22up\x20arrow\x22,\x22slug\x22:\x22up_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22↗️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22up-right\x20arrow\x22,\x22slug\x22:\x22up_right_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22➡️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22right\x20arrow\x22,\x22slug\x22:\x22right_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22↘️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22down-right\x20arrow\x22,\x22slug\x22:\x22down_right_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⬇️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22down\x20arrow\x22,\x22slug\x22:\x22down_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22↙️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22down-left\x20arrow\x22,\x22slug\x22:\x22down_left_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⬅️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22left\x20arrow\x22,\x22slug\x22:\x22left_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22↖️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22up-left\x20arrow\x22,\x22slug\x22:\x22up_left_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22↕️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22up-down\x20arrow\x22,\x22slug\x22:\x22up_down_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22↔️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22left-right\x20arrow\x22,\x22slug\x22:\x22left_right_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22↩️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22right\x20arrow\x20curving\x20left\x22,\x22slug\x22:\x22right_arrow_curving_left\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22↪️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22left\x20arrow\x20curving\x20right\x22,\x22slug\x22:\x22left_arrow_curving_right\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⤴️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22right\x20arrow\x20curving\x20up\x22,\x22slug\x22:\x22right_arrow_curving_up\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⤵️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22right\x20arrow\x20curving\x20down\x22,\x22slug\x22:\x22right_arrow_curving_down\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔃\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22clockwise\x20vertical\x20arrows\x22,\x22slug\x22:\x22clockwise_vertical_arrows\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔄\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22counterclockwise\x20arrows\x20button\x22,\x22slug\x22:\x22counterclockwise_arrows_button\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22BACK\x20arrow\x22,\x22slug\x22:\x22back_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22END\x20arrow\x22,\x22slug\x22:\x22end_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ON!\x20arrow\x22,\x22slug\x22:\x22on_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22SOON\x20arrow\x22,\x22slug\x22:\x22soon_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔝\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22TOP\x20arrow\x22,\x22slug\x22:\x22top_arrow\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🛐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22place\x20of\x20worship\x22,\x22slug\x22:\x22place_of_worship\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22⚛️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22atom\x20symbol\x22,\x22slug\x22:\x22atom_symbol\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🕉️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22om\x22,\x22slug\x22:\x22om\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22✡️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22star\x20of\x20David\x22,\x22slug\x22:\x22star_of_david\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22☸️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wheel\x20of\x20dharma\x22,\x22slug\x22:\x22wheel_of_dharma\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22☯️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22yin\x20yang\x22,\x22slug\x22:\x22yin_yang\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22✝️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22latin\x20cross\x22,\x22slug\x22:\x22latin_cross\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22☦️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22orthodox\x20cross\x22,\x22slug\x22:\x22orthodox_cross\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22☪️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22star\x20and\x20crescent\x22,\x22slug\x22:\x22star_and_crescent\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22☮️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22peace\x20symbol\x22,\x22slug\x22:\x22peace_symbol\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🕎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22menorah\x22,\x22slug\x22:\x22menorah\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dotted\x20six-pointed\x20star\x22,\x22slug\x22:\x22dotted_six_pointed_star\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Aries\x22,\x22slug\x22:\x22aries\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♉\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Taurus\x22,\x22slug\x22:\x22taurus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♊\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Gemini\x22,\x22slug\x22:\x22gemini\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♋\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Cancer\x22,\x22slug\x22:\x22cancer\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Leo\x22,\x22slug\x22:\x22leo\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♍\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Virgo\x22,\x22slug\x22:\x22virgo\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Libra\x22,\x22slug\x22:\x22libra\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♏\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Scorpio\x22,\x22slug\x22:\x22scorpio\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Sagittarius\x22,\x22slug\x22:\x22sagittarius\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Capricorn\x22,\x22slug\x22:\x22capricorn\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Aquarius\x22,\x22slug\x22:\x22aquarius\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Pisces\x22,\x22slug\x22:\x22pisces\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⛎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Ophiuchus\x22,\x22slug\x22:\x22ophiuchus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔀\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22shuffle\x20tracks\x20button\x22,\x22slug\x22:\x22shuffle_tracks_button\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22repeat\x20button\x22,\x22slug\x22:\x22repeat_button\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔂\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22repeat\x20single\x20button\x22,\x22slug\x22:\x22repeat_single_button\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22▶️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22play\x20button\x22,\x22slug\x22:\x22play_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fast-forward\x20button\x22,\x22slug\x22:\x22fast_forward_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏭️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22next\x20track\x20button\x22,\x22slug\x22:\x22next_track_button\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⏯️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22play\x20or\x20pause\x20button\x22,\x22slug\x22:\x22play_or_pause_button\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22◀️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22reverse\x20button\x22,\x22slug\x22:\x22reverse_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fast\x20reverse\x20button\x22,\x22slug\x22:\x22fast_reverse_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏮️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22last\x20track\x20button\x22,\x22slug\x22:\x22last_track_button\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🔼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22upwards\x20button\x22,\x22slug\x22:\x22upwards_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fast\x20up\x20button\x22,\x22slug\x22:\x22fast_up_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22downwards\x20button\x22,\x22slug\x22:\x22downwards_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fast\x20down\x20button\x22,\x22slug\x22:\x22fast_down_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⏸️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pause\x20button\x22,\x22slug\x22:\x22pause_button\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⏹️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22stop\x20button\x22,\x22slug\x22:\x22stop_button\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⏺️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22record\x20button\x22,\x22slug\x22:\x22record_button\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22⏏️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eject\x20button\x22,\x22slug\x22:\x22eject_button\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🎦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cinema\x22,\x22slug\x22:\x22cinema\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22dim\x20button\x22,\x22slug\x22:\x22dim_button\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔆\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22bright\x20button\x22,\x22slug\x22:\x22bright_button\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22📶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22antenna\x20bars\x22,\x22slug\x22:\x22antenna_bars\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22vibration\x20mode\x22,\x22slug\x22:\x22vibration_mode\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22mobile\x20phone\x20off\x22,\x22slug\x22:\x22mobile_phone_off\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♀️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22female\x20sign\x22,\x22slug\x22:\x22female_sign\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22♂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22male\x20sign\x22,\x22slug\x22:\x22male_sign\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22⚧️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22transgender\x20symbol\x22,\x22slug\x22:\x22transgender_symbol\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22✖️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22multiply\x22,\x22slug\x22:\x22multiply\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22➕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22plus\x22,\x22slug\x22:\x22plus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22➖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22minus\x22,\x22slug\x22:\x22minus\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22➗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22divide\x22,\x22slug\x22:\x22divide\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22♾️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22infinity\x22,\x22slug\x22:\x22infinity\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22‼️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22double\x20exclamation\x20mark\x22,\x22slug\x22:\x22double_exclamation_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⁉️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22exclamation\x20question\x20mark\x22,\x22slug\x22:\x22exclamation_question_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20question\x20mark\x22,\x22slug\x22:\x22red_question_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20question\x20mark\x22,\x22slug\x22:\x22white_question_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20exclamation\x20mark\x22,\x22slug\x22:\x22white_exclamation_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20exclamation\x20mark\x22,\x22slug\x22:\x22red_exclamation_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22〰️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22wavy\x20dash\x22,\x22slug\x22:\x22wavy_dash\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22currency\x20exchange\x22,\x22slug\x22:\x22currency_exchange\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22heavy\x20dollar\x20sign\x22,\x22slug\x22:\x22heavy_dollar_sign\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⚕️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22medical\x20symbol\x22,\x22slug\x22:\x22medical_symbol\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22♻️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22recycling\x20symbol\x22,\x22slug\x22:\x22recycling_symbol\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⚜️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22fleur-de-lis\x22,\x22slug\x22:\x22fleur_de_lis\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🔱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22trident\x20emblem\x22,\x22slug\x22:\x22trident_emblem\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22📛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22name\x20badge\x22,\x22slug\x22:\x22name_badge\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20symbol\x20for\x20beginner\x22,\x22slug\x22:\x22japanese_symbol_for_beginner\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⭕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22hollow\x20red\x20circle\x22,\x22slug\x22:\x22hollow_red_circle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✅\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22check\x20mark\x20button\x22,\x22slug\x22:\x22check_mark_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22☑️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22check\x20box\x20with\x20check\x22,\x22slug\x22:\x22check_box_with_check\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✔️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22check\x20mark\x22,\x22slug\x22:\x22check_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cross\x20mark\x22,\x22slug\x22:\x22cross_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22cross\x20mark\x20button\x22,\x22slug\x22:\x22cross_mark_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22➰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22curly\x20loop\x22,\x22slug\x22:\x22curly_loop\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22➿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22double\x20curly\x20loop\x22,\x22slug\x22:\x22double_curly_loop\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22〽️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22part\x20alternation\x20mark\x22,\x22slug\x22:\x22part_alternation_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✳️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eight-spoked\x20asterisk\x22,\x22slug\x22:\x22eight_spoked_asterisk\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22✴️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22eight-pointed\x20star\x22,\x22slug\x22:\x22eight_pointed_star\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22❇️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22sparkle\x22,\x22slug\x22:\x22sparkle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22©️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22copyright\x22,\x22slug\x22:\x22copyright\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22®️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22registered\x22,\x22slug\x22:\x22registered\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22™️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22trade\x20mark\x22,\x22slug\x22:\x22trade_mark\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22#️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x20#\x22,\x22slug\x22:\x22keycap_\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22*️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x20*\x22,\x22slug\x22:\x22keycap_\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x220️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x200\x22,\x22slug\x22:\x22keycap_0\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x221️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x201\x22,\x22slug\x22:\x22keycap_1\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x222️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x202\x22,\x22slug\x22:\x22keycap_2\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x223️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x203\x22,\x22slug\x22:\x22keycap_3\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x224️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x204\x22,\x22slug\x22:\x22keycap_4\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x225️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x205\x22,\x22slug\x22:\x22keycap_5\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x226️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x206\x22,\x22slug\x22:\x22keycap_6\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x227️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x207\x22,\x22slug\x22:\x22keycap_7\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x228️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x208\x22,\x22slug\x22:\x22keycap_8\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x229️⃣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x209\x22,\x22slug\x22:\x22keycap_9\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔟\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22keycap\x2010\x22,\x22slug\x22:\x22keycap_10\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22input\x20latin\x20uppercase\x22,\x22slug\x22:\x22input_latin_uppercase\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22input\x20latin\x20lowercase\x22,\x22slug\x22:\x22input_latin_lowercase\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22input\x20numbers\x22,\x22slug\x22:\x22input_numbers\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22input\x20symbols\x22,\x22slug\x22:\x22input_symbols\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22input\x20latin\x20letters\x22,\x22slug\x22:\x22input_latin_letters\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🅰️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22A\x20button\x20(blood\x20type)\x22,\x22slug\x22:\x22a_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆎\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22AB\x20button\x20(blood\x20type)\x22,\x22slug\x22:\x22ab_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🅱️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22B\x20button\x20(blood\x20type)\x22,\x22slug\x22:\x22b_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22CL\x20button\x22,\x22slug\x22:\x22cl_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆒\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22COOL\x20button\x22,\x22slug\x22:\x22cool_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆓\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22FREE\x20button\x22,\x22slug\x22:\x22free_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22ℹ️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22information\x22,\x22slug\x22:\x22information\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆔\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22ID\x20button\x22,\x22slug\x22:\x22id_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22Ⓜ️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22circled\x20M\x22,\x22slug\x22:\x22circled_m\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆕\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22NEW\x20button\x22,\x22slug\x22:\x22new_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆖\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22NG\x20button\x22,\x22slug\x22:\x22ng_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🅾️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22O\x20button\x20(blood\x20type)\x22,\x22slug\x22:\x22o_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆗\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22OK\x20button\x22,\x22slug\x22:\x22ok_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🅿️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22P\x20button\x22,\x22slug\x22:\x22p_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22SOS\x20button\x22,\x22slug\x22:\x22sos_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆙\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22UP!\x20button\x22,\x22slug\x22:\x22up_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🆚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22VS\x20button\x22,\x22slug\x22:\x22vs_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“here”\x20button\x22,\x22slug\x22:\x22japanese_here_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈂️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“service\x20charge”\x20button\x22,\x22slug\x22:\x22japanese_service_charge_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈷️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“monthly\x20amount”\x20button\x22,\x22slug\x22:\x22japanese_monthly_amount_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“not\x20free\x20of\x20charge”\x20button\x22,\x22slug\x22:\x22japanese_not_free_of_charge_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“reserved”\x20button\x22,\x22slug\x22:\x22japanese_reserved_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🉐\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“bargain”\x20button\x22,\x22slug\x22:\x22japanese_bargain_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“discount”\x20button\x22,\x22slug\x22:\x22japanese_discount_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈚\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“free\x20of\x20charge”\x20button\x22,\x22slug\x22:\x22japanese_free_of_charge_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“prohibited”\x20button\x22,\x22slug\x22:\x22japanese_prohibited_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🉑\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“acceptable”\x20button\x22,\x22slug\x22:\x22japanese_acceptable_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“application”\x20button\x22,\x22slug\x22:\x22japanese_application_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“passing\x20grade”\x20button\x22,\x22slug\x22:\x22japanese_passing_grade_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“vacancy”\x20button\x22,\x22slug\x22:\x22japanese_vacancy_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22㊗️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“congratulations”\x20button\x22,\x22slug\x22:\x22japanese_congratulations_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22㊙️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“secret”\x20button\x22,\x22slug\x22:\x22japanese_secret_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“open\x20for\x20business”\x20button\x22,\x22slug\x22:\x22japanese_open_for_business_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🈵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22Japanese\x20“no\x20vacancy”\x20button\x22,\x22slug\x22:\x22japanese_no_vacancy_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20circle\x22,\x22slug\x22:\x22red_circle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🟠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22orange\x20circle\x22,\x22slug\x22:\x22orange_circle\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟡\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22yellow\x20circle\x22,\x22slug\x22:\x22yellow_circle\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟢\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22green\x20circle\x22,\x22slug\x22:\x22green_circle\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🔵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22blue\x20circle\x22,\x22slug\x22:\x22blue_circle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🟣\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22purple\x20circle\x22,\x22slug\x22:\x22purple_circle\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟤\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22brown\x20circle\x22,\x22slug\x22:\x22brown_circle\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22⚫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20circle\x22,\x22slug\x22:\x22black_circle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⚪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20circle\x22,\x22slug\x22:\x22white_circle\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🟥\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20square\x22,\x22slug\x22:\x22red_square\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22orange\x20square\x22,\x22slug\x22:\x22orange_square\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22yellow\x20square\x22,\x22slug\x22:\x22yellow_square\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22green\x20square\x22,\x22slug\x22:\x22green_square\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22blue\x20square\x22,\x22slug\x22:\x22blue_square\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22purple\x20square\x22,\x22slug\x22:\x22purple_square\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22🟫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22brown\x20square\x22,\x22slug\x22:\x22brown_square\x22,\x22unicode_version\x22:\x2212.0\x22,\x22emoji_version\x22:\x2212.0\x22},{\x22emoji\x22:\x22⬛\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20large\x20square\x22,\x22slug\x22:\x22black_large_square\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22⬜\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20large\x20square\x22,\x22slug\x22:\x22white_large_square\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22◼️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20medium\x20square\x22,\x22slug\x22:\x22black_medium_square\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22◻️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20medium\x20square\x22,\x22slug\x22:\x22white_medium_square\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22◾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20medium-small\x20square\x22,\x22slug\x22:\x22black_medium_small_square\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22◽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20medium-small\x20square\x22,\x22slug\x22:\x22white_medium_small_square\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22▪️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20small\x20square\x22,\x22slug\x22:\x22black_small_square\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22▫️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20small\x20square\x22,\x22slug\x22:\x22white_small_square\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22large\x20orange\x20diamond\x22,\x22slug\x22:\x22large_orange_diamond\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22large\x20blue\x20diamond\x22,\x22slug\x22:\x22large_blue_diamond\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22small\x20orange\x20diamond\x22,\x22slug\x22:\x22small_orange_diamond\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22small\x20blue\x20diamond\x22,\x22slug\x22:\x22small_blue_diamond\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20triangle\x20pointed\x20up\x22,\x22slug\x22:\x22red_triangle_pointed_up\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22red\x20triangle\x20pointed\x20down\x22,\x22slug\x22:\x22red_triangle_pointed_down\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22💠\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22diamond\x20with\x20a\x20dot\x22,\x22slug\x22:\x22diamond_with_a_dot\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔘\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22radio\x20button\x22,\x22slug\x22:\x22radio_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20square\x20button\x22,\x22slug\x22:\x22white_square_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🔲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20square\x20button\x22,\x22slug\x22:\x22black_square_button\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22}],\x22Flags\x22:[{\x22emoji\x22:\x22🏁\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22chequered\x20flag\x22,\x22slug\x22:\x22chequered_flag\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🚩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22triangular\x20flag\x22,\x22slug\x22:\x22triangular_flag\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🎌\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22crossed\x20flags\x22,\x22slug\x22:\x22crossed_flags\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🏴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22black\x20flag\x22,\x22slug\x22:\x22black_flag\x22,\x22unicode_version\x22:\x221.0\x22,\x22emoji_version\x22:\x221.0\x22},{\x22emoji\x22:\x22🏳️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22white\x20flag\x22,\x22slug\x22:\x22white_flag\x22,\x22unicode_version\x22:\x220.7\x22,\x22emoji_version\x22:\x220.7\x22},{\x22emoji\x22:\x22🏳️‍🌈\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22rainbow\x20flag\x22,\x22slug\x22:\x22rainbow_flag\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🏳️‍⚧️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22transgender\x20flag\x22,\x22slug\x22:\x22transgender_flag\x22,\x22unicode_version\x22:\x2213.0\x22,\x22emoji_version\x22:\x2213.0\x22},{\x22emoji\x22:\x22🏴‍☠️\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22pirate\x20flag\x22,\x22slug\x22:\x22pirate_flag\x22,\x22unicode_version\x22:\x2211.0\x22,\x22emoji_version\x22:\x2211.0\x22},{\x22emoji\x22:\x22🇦🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Ascension\x20Island\x22,\x22slug\x22:\x22flag_ascension_island\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Andorra\x22,\x22slug\x22:\x22flag_andorra\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20United\x20Arab\x20Emirates\x22,\x22slug\x22:\x22flag_united_arab_emirates\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Afghanistan\x22,\x22slug\x22:\x22flag_afghanistan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Antigua\x20&\x20Barbuda\x22,\x22slug\x22:\x22flag_antigua_barbuda\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Anguilla\x22,\x22slug\x22:\x22flag_anguilla\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Albania\x22,\x22slug\x22:\x22flag_albania\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Armenia\x22,\x22slug\x22:\x22flag_armenia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Angola\x22,\x22slug\x22:\x22flag_angola\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Antarctica\x22,\x22slug\x22:\x22flag_antarctica\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Argentina\x22,\x22slug\x22:\x22flag_argentina\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20American\x20Samoa\x22,\x22slug\x22:\x22flag_american_samoa\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Austria\x22,\x22slug\x22:\x22flag_austria\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Australia\x22,\x22slug\x22:\x22flag_australia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Aruba\x22,\x22slug\x22:\x22flag_aruba\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Åland\x20Islands\x22,\x22slug\x22:\x22flag_aland_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇦🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Azerbaijan\x22,\x22slug\x22:\x22flag_azerbaijan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bosnia\x20&\x20Herzegovina\x22,\x22slug\x22:\x22flag_bosnia_herzegovina\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Barbados\x22,\x22slug\x22:\x22flag_barbados\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bangladesh\x22,\x22slug\x22:\x22flag_bangladesh\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Belgium\x22,\x22slug\x22:\x22flag_belgium\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Burkina\x20Faso\x22,\x22slug\x22:\x22flag_burkina_faso\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bulgaria\x22,\x22slug\x22:\x22flag_bulgaria\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bahrain\x22,\x22slug\x22:\x22flag_bahrain\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Burundi\x22,\x22slug\x22:\x22flag_burundi\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Benin\x22,\x22slug\x22:\x22flag_benin\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20St.\x20Barthélemy\x22,\x22slug\x22:\x22flag_st_barthelemy\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bermuda\x22,\x22slug\x22:\x22flag_bermuda\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Brunei\x22,\x22slug\x22:\x22flag_brunei\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bolivia\x22,\x22slug\x22:\x22flag_bolivia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Caribbean\x20Netherlands\x22,\x22slug\x22:\x22flag_caribbean_netherlands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Brazil\x22,\x22slug\x22:\x22flag_brazil\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bahamas\x22,\x22slug\x22:\x22flag_bahamas\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bhutan\x22,\x22slug\x22:\x22flag_bhutan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Bouvet\x20Island\x22,\x22slug\x22:\x22flag_bouvet_island\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Botswana\x22,\x22slug\x22:\x22flag_botswana\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Belarus\x22,\x22slug\x22:\x22flag_belarus\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇧🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Belize\x22,\x22slug\x22:\x22flag_belize\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Canada\x22,\x22slug\x22:\x22flag_canada\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Cocos\x20(Keeling)\x20Islands\x22,\x22slug\x22:\x22flag_cocos_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Congo\x20-\x20Kinshasa\x22,\x22slug\x22:\x22flag_congo_kinshasa\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Central\x20African\x20Republic\x22,\x22slug\x22:\x22flag_central_african_republic\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Congo\x20-\x20Brazzaville\x22,\x22slug\x22:\x22flag_congo_brazzaville\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Switzerland\x22,\x22slug\x22:\x22flag_switzerland\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Côte\x20d’Ivoire\x22,\x22slug\x22:\x22flag_cote_d_ivoire\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Cook\x20Islands\x22,\x22slug\x22:\x22flag_cook_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Chile\x22,\x22slug\x22:\x22flag_chile\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Cameroon\x22,\x22slug\x22:\x22flag_cameroon\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20China\x22,\x22slug\x22:\x22flag_china\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇨🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Colombia\x22,\x22slug\x22:\x22flag_colombia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Clipperton\x20Island\x22,\x22slug\x22:\x22flag_clipperton_island\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Costa\x20Rica\x22,\x22slug\x22:\x22flag_costa_rica\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Cuba\x22,\x22slug\x22:\x22flag_cuba\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Cape\x20Verde\x22,\x22slug\x22:\x22flag_cape_verde\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Curaçao\x22,\x22slug\x22:\x22flag_curacao\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Christmas\x20Island\x22,\x22slug\x22:\x22flag_christmas_island\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Cyprus\x22,\x22slug\x22:\x22flag_cyprus\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇨🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Czechia\x22,\x22slug\x22:\x22flag_czechia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇩🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Germany\x22,\x22slug\x22:\x22flag_germany\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇩🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Diego\x20Garcia\x22,\x22slug\x22:\x22flag_diego_garcia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇩🇯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Djibouti\x22,\x22slug\x22:\x22flag_djibouti\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇩🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Denmark\x22,\x22slug\x22:\x22flag_denmark\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇩🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Dominica\x22,\x22slug\x22:\x22flag_dominica\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇩🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Dominican\x20Republic\x22,\x22slug\x22:\x22flag_dominican_republic\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇩🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Algeria\x22,\x22slug\x22:\x22flag_algeria\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇪🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Ceuta\x20&\x20Melilla\x22,\x22slug\x22:\x22flag_ceuta_melilla\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇪🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Ecuador\x22,\x22slug\x22:\x22flag_ecuador\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇪🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Estonia\x22,\x22slug\x22:\x22flag_estonia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇪🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Egypt\x22,\x22slug\x22:\x22flag_egypt\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇪🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Western\x20Sahara\x22,\x22slug\x22:\x22flag_western_sahara\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇪🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Eritrea\x22,\x22slug\x22:\x22flag_eritrea\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇪🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Spain\x22,\x22slug\x22:\x22flag_spain\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇪🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Ethiopia\x22,\x22slug\x22:\x22flag_ethiopia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇪🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20European\x20Union\x22,\x22slug\x22:\x22flag_european_union\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇫🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Finland\x22,\x22slug\x22:\x22flag_finland\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇫🇯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Fiji\x22,\x22slug\x22:\x22flag_fiji\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇫🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Falkland\x20Islands\x22,\x22slug\x22:\x22flag_falkland_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇫🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Micronesia\x22,\x22slug\x22:\x22flag_micronesia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇫🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Faroe\x20Islands\x22,\x22slug\x22:\x22flag_faroe_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇫🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20France\x22,\x22slug\x22:\x22flag_france\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇬🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Gabon\x22,\x22slug\x22:\x22flag_gabon\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20United\x20Kingdom\x22,\x22slug\x22:\x22flag_united_kingdom\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇬🇩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Grenada\x22,\x22slug\x22:\x22flag_grenada\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Georgia\x22,\x22slug\x22:\x22flag_georgia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20French\x20Guiana\x22,\x22slug\x22:\x22flag_french_guiana\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Guernsey\x22,\x22slug\x22:\x22flag_guernsey\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Ghana\x22,\x22slug\x22:\x22flag_ghana\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Gibraltar\x22,\x22slug\x22:\x22flag_gibraltar\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Greenland\x22,\x22slug\x22:\x22flag_greenland\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Gambia\x22,\x22slug\x22:\x22flag_gambia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Guinea\x22,\x22slug\x22:\x22flag_guinea\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Guadeloupe\x22,\x22slug\x22:\x22flag_guadeloupe\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Equatorial\x20Guinea\x22,\x22slug\x22:\x22flag_equatorial_guinea\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Greece\x22,\x22slug\x22:\x22flag_greece\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20South\x20Georgia\x20&\x20South\x20Sandwich\x20Islands\x22,\x22slug\x22:\x22flag_south_georgia_south_sandwich_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Guatemala\x22,\x22slug\x22:\x22flag_guatemala\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Guam\x22,\x22slug\x22:\x22flag_guam\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Guinea-Bissau\x22,\x22slug\x22:\x22flag_guinea_bissau\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇬🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Guyana\x22,\x22slug\x22:\x22flag_guyana\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇭🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Hong\x20Kong\x20SAR\x20China\x22,\x22slug\x22:\x22flag_hong_kong_sar_china\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇭🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Heard\x20&\x20McDonald\x20Islands\x22,\x22slug\x22:\x22flag_heard_mcdonald_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇭🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Honduras\x22,\x22slug\x22:\x22flag_honduras\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇭🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Croatia\x22,\x22slug\x22:\x22flag_croatia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇭🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Haiti\x22,\x22slug\x22:\x22flag_haiti\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇭🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Hungary\x22,\x22slug\x22:\x22flag_hungary\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Canary\x20Islands\x22,\x22slug\x22:\x22flag_canary_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Indonesia\x22,\x22slug\x22:\x22flag_indonesia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Ireland\x22,\x22slug\x22:\x22flag_ireland\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Israel\x22,\x22slug\x22:\x22flag_israel\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Isle\x20of\x20Man\x22,\x22slug\x22:\x22flag_isle_of_man\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20India\x22,\x22slug\x22:\x22flag_india\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20British\x20Indian\x20Ocean\x20Territory\x22,\x22slug\x22:\x22flag_british_indian_ocean_territory\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Iraq\x22,\x22slug\x22:\x22flag_iraq\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Iran\x22,\x22slug\x22:\x22flag_iran\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Iceland\x22,\x22slug\x22:\x22flag_iceland\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇮🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Italy\x22,\x22slug\x22:\x22flag_italy\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇯🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Jersey\x22,\x22slug\x22:\x22flag_jersey\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇯🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Jamaica\x22,\x22slug\x22:\x22flag_jamaica\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇯🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Jordan\x22,\x22slug\x22:\x22flag_jordan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇯🇵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Japan\x22,\x22slug\x22:\x22flag_japan\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇰🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Kenya\x22,\x22slug\x22:\x22flag_kenya\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Kyrgyzstan\x22,\x22slug\x22:\x22flag_kyrgyzstan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Cambodia\x22,\x22slug\x22:\x22flag_cambodia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Kiribati\x22,\x22slug\x22:\x22flag_kiribati\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Comoros\x22,\x22slug\x22:\x22flag_comoros\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20St.\x20Kitts\x20&\x20Nevis\x22,\x22slug\x22:\x22flag_st_kitts_nevis\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20North\x20Korea\x22,\x22slug\x22:\x22flag_north_korea\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20South\x20Korea\x22,\x22slug\x22:\x22flag_south_korea\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇰🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Kuwait\x22,\x22slug\x22:\x22flag_kuwait\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Cayman\x20Islands\x22,\x22slug\x22:\x22flag_cayman_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇰🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Kazakhstan\x22,\x22slug\x22:\x22flag_kazakhstan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Laos\x22,\x22slug\x22:\x22flag_laos\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Lebanon\x22,\x22slug\x22:\x22flag_lebanon\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20St.\x20Lucia\x22,\x22slug\x22:\x22flag_st_lucia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Liechtenstein\x22,\x22slug\x22:\x22flag_liechtenstein\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Sri\x20Lanka\x22,\x22slug\x22:\x22flag_sri_lanka\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Liberia\x22,\x22slug\x22:\x22flag_liberia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Lesotho\x22,\x22slug\x22:\x22flag_lesotho\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Lithuania\x22,\x22slug\x22:\x22flag_lithuania\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Luxembourg\x22,\x22slug\x22:\x22flag_luxembourg\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Latvia\x22,\x22slug\x22:\x22flag_latvia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇱🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Libya\x22,\x22slug\x22:\x22flag_libya\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Morocco\x22,\x22slug\x22:\x22flag_morocco\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Monaco\x22,\x22slug\x22:\x22flag_monaco\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Moldova\x22,\x22slug\x22:\x22flag_moldova\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Montenegro\x22,\x22slug\x22:\x22flag_montenegro\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20St.\x20Martin\x22,\x22slug\x22:\x22flag_st_martin\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Madagascar\x22,\x22slug\x22:\x22flag_madagascar\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Marshall\x20Islands\x22,\x22slug\x22:\x22flag_marshall_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20North\x20Macedonia\x22,\x22slug\x22:\x22flag_north_macedonia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Mali\x22,\x22slug\x22:\x22flag_mali\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Myanmar\x20(Burma)\x22,\x22slug\x22:\x22flag_myanmar\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Mongolia\x22,\x22slug\x22:\x22flag_mongolia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Macao\x20SAR\x20China\x22,\x22slug\x22:\x22flag_macao_sar_china\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Northern\x20Mariana\x20Islands\x22,\x22slug\x22:\x22flag_northern_mariana_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇶\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Martinique\x22,\x22slug\x22:\x22flag_martinique\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Mauritania\x22,\x22slug\x22:\x22flag_mauritania\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Montserrat\x22,\x22slug\x22:\x22flag_montserrat\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Malta\x22,\x22slug\x22:\x22flag_malta\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Mauritius\x22,\x22slug\x22:\x22flag_mauritius\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Maldives\x22,\x22slug\x22:\x22flag_maldives\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Malawi\x22,\x22slug\x22:\x22flag_malawi\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Mexico\x22,\x22slug\x22:\x22flag_mexico\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Malaysia\x22,\x22slug\x22:\x22flag_malaysia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇲🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Mozambique\x22,\x22slug\x22:\x22flag_mozambique\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Namibia\x22,\x22slug\x22:\x22flag_namibia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20New\x20Caledonia\x22,\x22slug\x22:\x22flag_new_caledonia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Niger\x22,\x22slug\x22:\x22flag_niger\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Norfolk\x20Island\x22,\x22slug\x22:\x22flag_norfolk_island\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Nigeria\x22,\x22slug\x22:\x22flag_nigeria\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Nicaragua\x22,\x22slug\x22:\x22flag_nicaragua\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Netherlands\x22,\x22slug\x22:\x22flag_netherlands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Norway\x22,\x22slug\x22:\x22flag_norway\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇵\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Nepal\x22,\x22slug\x22:\x22flag_nepal\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Nauru\x22,\x22slug\x22:\x22flag_nauru\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Niue\x22,\x22slug\x22:\x22flag_niue\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇳🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20New\x20Zealand\x22,\x22slug\x22:\x22flag_new_zealand\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇴🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Oman\x22,\x22slug\x22:\x22flag_oman\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Panama\x22,\x22slug\x22:\x22flag_panama\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Peru\x22,\x22slug\x22:\x22flag_peru\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20French\x20Polynesia\x22,\x22slug\x22:\x22flag_french_polynesia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Papua\x20New\x20Guinea\x22,\x22slug\x22:\x22flag_papua_new_guinea\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Philippines\x22,\x22slug\x22:\x22flag_philippines\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Pakistan\x22,\x22slug\x22:\x22flag_pakistan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Poland\x22,\x22slug\x22:\x22flag_poland\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20St.\x20Pierre\x20&\x20Miquelon\x22,\x22slug\x22:\x22flag_st_pierre_miquelon\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Pitcairn\x20Islands\x22,\x22slug\x22:\x22flag_pitcairn_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Puerto\x20Rico\x22,\x22slug\x22:\x22flag_puerto_rico\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Palestinian\x20Territories\x22,\x22slug\x22:\x22flag_palestinian_territories\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Portugal\x22,\x22slug\x22:\x22flag_portugal\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Palau\x22,\x22slug\x22:\x22flag_palau\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇵🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Paraguay\x22,\x22slug\x22:\x22flag_paraguay\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇶🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Qatar\x22,\x22slug\x22:\x22flag_qatar\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇷🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Réunion\x22,\x22slug\x22:\x22flag_reunion\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇷🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Romania\x22,\x22slug\x22:\x22flag_romania\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇷🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Serbia\x22,\x22slug\x22:\x22flag_serbia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇷🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Russia\x22,\x22slug\x22:\x22flag_russia\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇷🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Rwanda\x22,\x22slug\x22:\x22flag_rwanda\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Saudi\x20Arabia\x22,\x22slug\x22:\x22flag_saudi_arabia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇧\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Solomon\x20Islands\x22,\x22slug\x22:\x22flag_solomon_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Seychelles\x22,\x22slug\x22:\x22flag_seychelles\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Sudan\x22,\x22slug\x22:\x22flag_sudan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Sweden\x22,\x22slug\x22:\x22flag_sweden\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Singapore\x22,\x22slug\x22:\x22flag_singapore\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20St.\x20Helena\x22,\x22slug\x22:\x22flag_st_helena\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Slovenia\x22,\x22slug\x22:\x22flag_slovenia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Svalbard\x20&\x20Jan\x20Mayen\x22,\x22slug\x22:\x22flag_svalbard_jan_mayen\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Slovakia\x22,\x22slug\x22:\x22flag_slovakia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Sierra\x20Leone\x22,\x22slug\x22:\x22flag_sierra_leone\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20San\x20Marino\x22,\x22slug\x22:\x22flag_san_marino\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Senegal\x22,\x22slug\x22:\x22flag_senegal\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Somalia\x22,\x22slug\x22:\x22flag_somalia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Suriname\x22,\x22slug\x22:\x22flag_suriname\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20South\x20Sudan\x22,\x22slug\x22:\x22flag_south_sudan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20São\x20Tomé\x20&\x20Príncipe\x22,\x22slug\x22:\x22flag_sao_tome_principe\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20El\x20Salvador\x22,\x22slug\x22:\x22flag_el_salvador\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇽\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Sint\x20Maarten\x22,\x22slug\x22:\x22flag_sint_maarten\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Syria\x22,\x22slug\x22:\x22flag_syria\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇸🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Eswatini\x22,\x22slug\x22:\x22flag_eswatini\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Tristan\x20da\x20Cunha\x22,\x22slug\x22:\x22flag_tristan_da_cunha\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Turks\x20&\x20Caicos\x20Islands\x22,\x22slug\x22:\x22flag_turks_caicos_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇩\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Chad\x22,\x22slug\x22:\x22flag_chad\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20French\x20Southern\x20Territories\x22,\x22slug\x22:\x22flag_french_southern_territories\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Togo\x22,\x22slug\x22:\x22flag_togo\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇭\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Thailand\x22,\x22slug\x22:\x22flag_thailand\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇯\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Tajikistan\x22,\x22slug\x22:\x22flag_tajikistan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Tokelau\x22,\x22slug\x22:\x22flag_tokelau\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇱\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Timor-Leste\x22,\x22slug\x22:\x22flag_timor_leste\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Turkmenistan\x22,\x22slug\x22:\x22flag_turkmenistan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Tunisia\x22,\x22slug\x22:\x22flag_tunisia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇴\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Tonga\x22,\x22slug\x22:\x22flag_tonga\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇷\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Turkey\x22,\x22slug\x22:\x22flag_turkey\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Trinidad\x20&\x20Tobago\x22,\x22slug\x22:\x22flag_trinidad_tobago\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇻\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Tuvalu\x22,\x22slug\x22:\x22flag_tuvalu\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Taiwan\x22,\x22slug\x22:\x22flag_taiwan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇹🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Tanzania\x22,\x22slug\x22:\x22flag_tanzania\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇺🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Ukraine\x22,\x22slug\x22:\x22flag_ukraine\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇺🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Uganda\x22,\x22slug\x22:\x22flag_uganda\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇺🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20U.S.\x20Outlying\x20Islands\x22,\x22slug\x22:\x22flag_u_s_outlying_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇺🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20United\x20Nations\x22,\x22slug\x22:\x22flag_united_nations\x22,\x22unicode_version\x22:\x224.0\x22,\x22emoji_version\x22:\x224.0\x22},{\x22emoji\x22:\x22🇺🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20United\x20States\x22,\x22slug\x22:\x22flag_united_states\x22,\x22unicode_version\x22:\x220.6\x22,\x22emoji_version\x22:\x220.6\x22},{\x22emoji\x22:\x22🇺🇾\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Uruguay\x22,\x22slug\x22:\x22flag_uruguay\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇺🇿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Uzbekistan\x22,\x22slug\x22:\x22flag_uzbekistan\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇻🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Vatican\x20City\x22,\x22slug\x22:\x22flag_vatican_city\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇻🇨\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20St.\x20Vincent\x20&\x20Grenadines\x22,\x22slug\x22:\x22flag_st_vincent_grenadines\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇻🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Venezuela\x22,\x22slug\x22:\x22flag_venezuela\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇻🇬\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20British\x20Virgin\x20Islands\x22,\x22slug\x22:\x22flag_british_virgin_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇻🇮\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20U.S.\x20Virgin\x20Islands\x22,\x22slug\x22:\x22flag_u_s_virgin_islands\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇻🇳\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Vietnam\x22,\x22slug\x22:\x22flag_vietnam\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇻🇺\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Vanuatu\x22,\x22slug\x22:\x22flag_vanuatu\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇼🇫\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Wallis\x20&\x20Futuna\x22,\x22slug\x22:\x22flag_wallis_futuna\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇼🇸\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Samoa\x22,\x22slug\x22:\x22flag_samoa\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇽🇰\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Kosovo\x22,\x22slug\x22:\x22flag_kosovo\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇾🇪\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Yemen\x22,\x22slug\x22:\x22flag_yemen\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇾🇹\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Mayotte\x22,\x22slug\x22:\x22flag_mayotte\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇿🇦\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20South\x20Africa\x22,\x22slug\x22:\x22flag_south_africa\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇿🇲\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Zambia\x22,\x22slug\x22:\x22flag_zambia\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🇿🇼\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Zimbabwe\x22,\x22slug\x22:\x22flag_zimbabwe\x22,\x22unicode_version\x22:\x222.0\x22,\x22emoji_version\x22:\x222.0\x22},{\x22emoji\x22:\x22🏴󠁧󠁢󠁥󠁮󠁧󠁿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20England\x22,\x22slug\x22:\x22flag_england\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🏴󠁧󠁢󠁳󠁣󠁴󠁿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Scotland\x22,\x22slug\x22:\x22flag_scotland\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22},{\x22emoji\x22:\x22🏴󠁧󠁢󠁷󠁬󠁳󠁿\x22,\x22skin_tone_support\x22:false,\x22name\x22:\x22flag\x20Wales\x22,\x22slug\x22:\x22flag_wales\x22,\x22unicode_version\x22:\x225.0\x22,\x22emoji_version\x22:\x225.0\x22}]}');},'d751':function(_0x5a8c25){const _0x54a60b=_0x54a9;_0x5a8c25[_0x54a60b(0x256)]=JSON[_0x54a60b(0x1d4)](_0x54a60b(0x338));},'e357':function(_0x4b2bf5,_0x37ed3a,_0x408730){'use strict';const _0x505f65=_0x54a9;_0x408730(_0x505f65(0x385));},'e415':function(_0x4580e8,_0x4619ab,_0x1355d7){'use strict';const _0x70ed90=_0x54a9;_0x1355d7(_0x70ed90(0x34e));},'e6d5':function(_0x39a7eb,_0x1ccf08,_0x4e8adb){'use strict';const _0x2c016c=_0x54a9;_0x4e8adb(_0x2c016c(0x245));},'e753':function(_0x38be61,_0x2290ea,_0x260e16){'use strict';const _0xe9b663=_0x54a9;_0x260e16(_0xe9b663(0x23e));},'f1e9':function(_0x3ceda6,_0x36086a,_0x444cc5){},'f215':function(_0x241672){const _0x2ce6e7=_0x54a9;_0x241672['exports']=JSON[_0x2ce6e7(0x1d4)](_0x2ce6e7(0x210));},'f36a':function(_0x2194fc,_0x15ba9a,_0x26aace){'use strict';const _0x410bc7=_0x54a9;_0x26aace(_0x410bc7(0x2fc));},'f46a':function(_0x151157,_0x35a1ed,_0x2d1924){'use strict';_0x2d1924('f1e9');},'f49d':function(_0x42278c){const _0x2a8c06=_0x54a9;_0x42278c[_0x2a8c06(0x256)]=JSON[_0x2a8c06(0x1d4)](_0x2a8c06(0x45f));},'fa59':function(_0x34ec14){const _0x19cac9=_0x54a9;_0x34ec14[_0x19cac9(0x256)]=JSON[_0x19cac9(0x1d4)](_0x19cac9(0x4eb));},'fc19':function(_0x515e35){const _0x447164=_0x54a9;_0x515e35[_0x447164(0x256)]=JSON[_0x447164(0x1d4)](_0x447164(0x2a5));},'fd84':function(_0x42c5cd,_0xae3f7f,_0x3169b9){},'fdc6':function(_0x4399f8){const _0x164112=_0x54a9;_0x4399f8[_0x164112(0x256)]=JSON[_0x164112(0x1d4)](_0x164112(0x46f));},'fe82':function(_0xa9fdc3){const _0x4c701a=_0x54a9;_0xa9fdc3[_0x4c701a(0x256)]=JSON[_0x4c701a(0x1d4)](_0x4c701a(0x346));}}));
+(function(e) {
+    function o(o) {
+        for (var i, t, a = o[0], _ = o[1], u = o[2], m = 0, p = []; m < a.length; m++)
+            t = a[m],
+            Object.prototype.hasOwnProperty.call(s, t) && s[t] && p.push(s[t][0]),
+            s[t] = 0;
+        for (i in _)
+            Object.prototype.hasOwnProperty.call(_, i) && (e[i] = _[i]);
+        l && l(o);
+        while (p.length)
+            p.shift()();
+        return r.push.apply(r, u || []),
+        n()
+    }
+    function n() {
+        for (var e, o = 0; o < r.length; o++) {
+            for (var n = r[o], i = !0, a = 1; a < n.length; a++) {
+                var _ = n[a];
+                0 !== s[_] && (i = !1)
+            }
+            i && (r.splice(o--, 1),
+            e = t(t.s = n[0]))
+        }
+        return e
+    }
+    var i = {}
+      , s = {
+        app: 0
+    }
+      , r = [];
+    function t(o) {
+        if (i[o])
+            return i[o].exports;
+        var n = i[o] = {
+            i: o,
+            l: !1,
+            exports: {}
+        };
+        return e[o].call(n.exports, n, n.exports, t),
+        n.l = !0,
+        n.exports
+    }
+    t.m = e,
+    t.c = i,
+    t.d = function(e, o, n) {
+        t.o(e, o) || Object.defineProperty(e, o, {
+            enumerable: !0,
+            get: n
+        })
+    }
+    ,
+    t.r = function(e) {
+        "undefined" !== typeof Symbol && Symbol.toStringTag && Object.defineProperty(e, Symbol.toStringTag, {
+            value: "Module"
+        }),
+        Object.defineProperty(e, "__esModule", {
+            value: !0
+        })
+    }
+    ,
+    t.t = function(e, o) {
+        if (1 & o && (e = t(e)),
+        8 & o)
+            return e;
+        if (4 & o && "object" === typeof e && e && e.__esModule)
+            return e;
+        var n = Object.create(null);
+        if (t.r(n),
+        Object.defineProperty(n, "default", {
+            enumerable: !0,
+            value: e
+        }),
+        2 & o && "string" != typeof e)
+            for (var i in e)
+                t.d(n, i, function(o) {
+                    return e[o]
+                }
+                .bind(null, i));
+        return n
+    }
+    ,
+    t.n = function(e) {
+        var o = e && e.__esModule ? function() {
+            return e["default"]
+        }
+        : function() {
+            return e
+        }
+        ;
+        return t.d(o, "a", o),
+        o
+    }
+    ,
+    t.o = function(e, o) {
+        return Object.prototype.hasOwnProperty.call(e, o)
+    }
+    ,
+    t.p = "/colorfu/";
+    var a = window["webpackJsonp"] = window["webpackJsonp"] || []
+      , _ = a.push.bind(a);
+    a.push = o,
+    a = a.slice();
+    for (var u = 0; u < a.length; u++)
+        o(a[u]);
+    var l = _;
+    r.push([0, "chunk-vendors"]),
+    n()
+}
+)({
+    0: function(e, o, n) {
+        e.exports = n("56d7")
+    },
+    "086e": function(e, o, n) {},
+    "0a1b": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Have a nice day. 🌞","fontSize":114,"fontFamily":"Hannotate SC","type":"dot","color":"#0081FF","mode":"none","padding":0,"dy":22,"fillColor":"#9ACDFF","size":30,"strokeColor":"#8EC7FF","lineWidth":2,"width":50,"height":50,"rotation":45,"foregroundColor":"#FFD700","arcRadius":1},"background":{"type":"wave","color":"#FFF2C3","mode":"pattern","foregroundColor":"#FFEEB1","lineWidth":4,"width":60,"rotation":0,"fillColor":"#F1F9E3","size":35,"strokeColor":"#DCEDC1","height":50,"arcRadius":14}}')
+    },
+    "0cf1": function(e, o, n) {
+        "use strict";
+        n("80cf")
+    },
+    "0d74": function(e, o, n) {
+        "use strict";
+        n("b15c")
+    },
+    "0f57": function(e, o, n) {
+        "use strict";
+        n("4cc9")
+    },
+    1477: function(e, o, n) {},
+    1693: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"保持好心情 ♪","fontSize":122,"fontFamily":"Wawati SC","type":"dot","color":"#3281E1","mode":"none","padding":0,"dy":0,"fillColor":"#FFFFFF","size":4,"strokeColor":"#FFFFFF","lineWidth":1,"width":18,"height":18,"rotation":3},"background":{"type":"dot","color":"#FFFFFF","mode":"pattern","foregroundColor":"#F2B6CC","lineWidth":1,"width":100,"rotation":45,"fillColor":"#E8F4F8","size":49,"strokeColor":"#E1F3F8","height":100,"arcRadius":13}}')
+    },
+    "177c": function(e, o, n) {
+        "use strict";
+        n("3e76")
+    },
+    "179b": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Good Night","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#fff","mode":"autoFit","padding":0,"dy":30},"background":{"mode":"image","imageURL":"https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439202510.webp"}}')
+    },
+    "196d": function(e, o, n) {
+        "use strict";
+        n("c405")
+    },
+    "1ac0": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Spring","fontSize":279,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#FFDC34","mode":"autoFit","padding":0,"dy":60},"background":{"type":"line","color":"#4DD599","mode":"pattern","foregroundColor":"#00918E","lineWidth":189,"width":204,"rotation":-22}}')
+    },
+    "1b79": function(e, o, n) {},
+    "1c64": function(e, o, n) {},
+    "1e2e": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"我有这脸\\n洗澡都不关门","fontSize":200,"fontFamily":"Wawati SC","type":"none","color":"#FFD460","mode":"autoFit","padding":0,"dy":0},"background":{"type":"none","color":"#ea5455","mode":"pattern"}}')
+    },
+    "1fee": function(e, o, n) {
+        "use strict";
+        n("39a5")
+    },
+    2118: function(e, o, n) {
+        e.exports = n.p + "fonts/luckiest_guy.woff2"
+    },
+    "32ca": function(e, o, n) {
+        "use strict";
+        n("377a")
+    },
+    "33cc": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Big world","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#fff","mode":"autoFit","padding":0,"dy":30},"background":{"mode":"image","imageURL":"https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439300868.webp"}}')
+    },
+    3585: function(e, o, n) {
+        "use strict";
+        n("1477")
+    },
+    "377a": function(e, o, n) {},
+    "385f": function(e, o, n) {},
+    "397a": function(e, o, n) {},
+    "39a5": function(e, o, n) {},
+    "3da8": function(e, o, n) {
+        "use strict";
+        n("5f25")
+    },
+    "3e76": function(e, o, n) {},
+    4004: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"w(๑•̀ㅂ•́)و✧","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"line","rotation":45,"width":25,"height":25,"foregroundColor":"#000","color":"#89E089","mode":"autoFit","lineWidth":1.5,"padding":0,"dy":30},"background":{"mode":"pattern","color":"#fff","foregroundColor":"#ddd","type":"line","width":50,"lineWidth":1.5,"rotation":0}}')
+    },
+    4088: function(e, o, n) {
+        "use strict";
+        n("7882")
+    },
+    4375: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"🍺 + 🍺 = 🍻","fontSize":197,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#000","mode":"none","padding":0,"dy":0},"background":{"type":"none","color":"#1977F3","mode":"pattern"}}')
+    },
+    "4a48": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"It\'s high noon","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#583d33","mode":"autoFit","padding":0,"dy":30},"background":{"type":"dot","color":"#9e3b37","mode":"pattern","fillColor":"#d87265","size":100,"strokeColor":"#d87265","lineWidth":1,"width":210,"height":210,"rotation":45}}')
+    },
+    "4cc9": function(e, o, n) {},
+    "535e": function(e) {
+        e.exports = JSON.parse('{"text":{"content":" I miss you. * ","fontSize":120,"fontFamily":"Xingkai SC","type":"dot","color":"#B5E4D0","mode":"none","padding":0,"dy":2,"fillColor":"#D2F6C5","size":37,"strokeColor":"#D2F6C5","lineWidth":1,"width":50,"height":50,"rotation":0},"background":{"type":"dot","color":"#DF6E97","mode":"pattern","foregroundColor":"#FEFFC8","lineWidth":1,"width":50,"height":50,"arcRadius":0,"rotation":45,"fillColor":"#E1A2B9","size":3,"strokeColor":"#E1A2B9"}}')
+    },
+    "56d7": function(e, o, n) {
+        "use strict";
+        n.r(o);
+        n("1ea3"),
+        n("bdaf");
+        var i = n("225f")
+          , s = n.n(i)
+          , r = (n("ac3b"),
+        n("2eeb"))
+          , t = n.n(r)
+          , a = (n("c615"),
+        n("7d96"))
+          , _ = n.n(a)
+          , u = (n("23e2"),
+        n("a1f5"))
+          , l = n.n(u)
+          , m = (n("eb3d"),
+        n("266d"))
+          , p = n.n(m)
+          , c = (n("d0a3"),
+        n("77df"))
+          , d = n.n(c)
+          , v = (n("cd52"),
+        n("affb"))
+          , g = n.n(v)
+          , f = (n("47f0"),
+        n("3549"))
+          , j = n.n(f)
+          , k = (n("6d6a"),
+        n("c3a8"))
+          , h = n.n(k)
+          , b = (n("ee4b"),
+        n("36f3"))
+          , w = n.n(b)
+          , y = (n("f673"),
+        n("b3a0"))
+          , S = n.n(y)
+          , x = (n("dc33"),
+        n("26fb"))
+          , C = n.n(x)
+          , F = (n("9fe7"),
+        n("060e"))
+          , z = n.n(F)
+          , L = (n("d8f4"),
+        n("2a87"))
+          , I = n.n(L)
+          , E = (n("961d"),
+        n("7135"))
+          , O = n.n(E)
+          , M = (n("ccb3"),
+        n("51e8"))
+          , D = n.n(M)
+          , B = (n("2876"),
+        n("ecc8"))
+          , T = n.n(B)
+          , N = (n("c117"),
+        n("a248"))
+          , R = n.n(N)
+          , W = (n("02b0"),
+        n("32ad"))
+          , H = n.n(W)
+          , P = (n("fe2a"),
+        n("3173"))
+          , U = n.n(P)
+          , A = (n("0cd6"),
+        n("0459"))
+          , q = n.n(A)
+          , Z = (n("fac9"),
+        n("bc58"))
+          , J = n.n(Z)
+          , G = (n("807c"),
+        n("d361"))
+          , $ = n.n(G)
+          , V = (n("9ff1"),
+        n("195b"))
+          , Y = n.n(V)
+          , X = (n("eab5"),
+        n("83b8"))
+          , K = n.n(X)
+          , Q = (n("ba35"),
+        n("3d7a"))
+          , ee = n.n(Q)
+          , oe = (n("5c76"),
+        n("d5aa"))
+          , ne = n.n(oe)
+          , ie = (n("2630"),
+        n("3b6b"))
+          , se = n.n(ie)
+          , re = (n("8dcf"),
+        n("0b00"))
+          , te = n.n(re)
+          , ae = (n("9524"),
+        n("7694"))
+          , _e = n.n(ae)
+          , ue = n("1f37")
+          , le = n("7a15")
+          , me = n.n(le)
+          , pe = (n("752d"),
+        function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                attrs: {
+                    id: "app"
+                }
+            }, [o("div", {
+                attrs: {
+                    id: "app-container"
+                }
+            }, [o("nav-header"), o("keep-alive", {
+                attrs: {
+                    exclude: "editor"
+                }
+            }, [o("router-view")], 1)], 1)])
+        }
+        )
+          , ce = []
+          , de = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "nav-header-container"
+            }, [o("span", {
+                staticClass: "nav-logo",
+                on: {
+                    click: e.goHome
+                }
+            }, [e._v("Lucky-Color")]), o("el-menu", {
+                attrs: {
+                    mode: "horizontal",
+                    router: !0,
+                    "default-active": e.path,
+                    "background-color": "#24292f",
+                    "text-color": "#ffffff",
+                    "active-text-color": "#999999"
+                }
+            }, [o("el-menu-item", {
+                attrs: {
+                    index: "/"
+                }
+            }
+            , [e._v("首页")]), o("el-menu-item", {
+                attrs: {
+                    index: "/editor"
+                }
+            }, [e._v("创作")]), o("el-menu-item", {
+                attrs: {
+                    index: "/about"
+                }
+            }, [e._v("关于")]), o("el-menu-item", {
+                attrs: {
+                    index: ""
+                }
+            }, [o("a", {
+                attrs: {
+                    href: "https://www.xiaoyu.ac.cn",
+                    target: "_blank"
+                }
+            }, [e._v("博客")])])], 1)], 1)
+        }
+          , ve = []
+          , ge = (n("149f"),
+        {
+            data() {
+                return {
+                    path: this.$router.currentRoute.path
+                }
+            },
+            watch: {
+                $route(e) {
+                    const {path: o} = e;
+                    this.path = o
+                }
+            },
+            methods: {
+                goHome() {
+                    this.$router.push("/")
+                }
+            }
+        })
+          , fe = ge
+          , je = (n("3585"),
+        n("e607"))
+          , ke = Object(je["a"])(fe, de, ve, !1, null, null, null)
+          , he = ke.exports
+          , be = {
+            name: "App",
+            components: {
+                NavHeader: he
+            }
+        }
+          , we = be
+          , ye = (n("32ca"),
+        Object(je["a"])(we, pe, ce, !1, null, null, null))
+          , Se = ye.exports
+          , xe = n("f038")
+          , Ce = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "home-container"
+            }, [o("div", {
+                staticClass: "top-container"
+            }, [o("div", {
+                staticClass: "top-text"
+            }, [o("h1", [e._v("所思即所获,所见即所得")]), o("p", [e._v(" 创建简约海报、壁纸只需动动手指")]), o("div", {
+                staticStyle: {
+                    display: "flex"
+                }
+            }, [o("el-button", {
+                attrs: {
+                    type: "primary"
+                },
+                on: {
+                    click: e.handleStarted
+                }
+            }, [e._v("GO")]), o("el-button", {
+                on: {
+                    click: e.handleStory
+                }
+            }, [e._v("About")])], 1)]), o("div", {
+                ref: "deviceContainer",
+                staticClass: "device-container"
+            }, [o("div", {
+                staticClass: "phone-container",
+                style: {
+                    transform: `scale(0.3, 0.3) translateX(${e.translateX}px)`,
+                    bottom: e.position.offsetY + "px",
+                    right: -e.position.offsetX + "px"
+                }
+            }, [o("div", {
+                staticClass: "device device-iphone-x device-spacegray screen-container transition"
+            }, [o("div", {
+                staticClass: "device-frame"
+            }, [o("el-carousel", {
+                style: {
+                    width: e.deviceSize.width + "px"
+                },
+                attrs: {
+                    height: e.deviceSize.height + "px"
+                }
+            }, e._l(e.phoneExamples, (function(n) {
+                return o("el-carousel-item", {
+                    key: n.mode
+                }, [o("div", {
+                    style: {
+                        cursor: e.progress >= 1 ? "pointer" : "default"
+                    },
+                    on: {
+                        click: function(o) {
+                            return e.handleSelectExample(n, "phone")
+                        }
+                    }
+                }, [o("wallpaper", {
+                    attrs: {
+                        options: n,
+                        width: e.deviceSize.width,
+                        height: e.deviceSize.height
+                    }
+                })], 1)])
+            }
+            )), 1)], 1), o("div", {
+                staticClass: "device-stripe transition"
+            }), o("div", {
+                staticClass: "device-header transition"
+            }), o("div", {
+                staticClass: "device-sensors transition"
+            }), o("div", {
+                staticClass: "device-btns transition"
+            }), o("div", {
+                staticClass: "device-power transition"
+            })])])])]), o("scale", {
+                attrs: {
+                    progress: e.macProgress,
+                    from: e.position.from,
+                    to: e.position.to,
+                    fixed: !0,
+                    offsetY: e.progress >= 1 ? 200 : 0
+                },
+                on: {
+                    onResize: e.handleResize
+                }
+            }, [o("device", {
+                attrs: {
+                    width: e.screenSize.width,
+                    height: e.screenSize.height
+                }
+            }, [o("el-carousel", {
+                style: {
+                    width: e.screenSize.width + "px"
+                },
+                attrs: {
+                    height: e.screenSize.height + "px"
+                }
+            }, e._l(e.examples, (function(n) {
+                return o("el-carousel-item", {
+                    key: n.mode
+                }, [o("div", {
+                    style: {
+                        cursor: e.progress >= 1 ? "pointer" : "default"
+                    },
+                    on: {
+                        click: function(o) {
+                            return e.handleSelectExample(n)
+                        }
+                    }
+                }, [o("wallpaper", {
+                    attrs: {
+                        options: n,
+                        width: e.screenSize.width,
+                        height: e.screenSize.height
+                    }
+                })], 1)])
+            }
+            )), 1)], 1)], 1), o("gallery", {
+                directives: [{
+                    name: "show",
+                    rawName: "v-show",
+                    value: e.progress > 0,
+                    expression: "progress > 0"
+                }]
+            })], 1)
+        }
+          , Fe = []
+          , ze = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                directives: [{
+                    name: "loading",
+                    rawName: "v-loading",
+                    value: e.loading,
+                    expression: "loading"
+                }],
+                class: {
+                    transition: e.animate
+                },
+                style: e.styleSize
+            }, [o("canvas", {
+                ref: "canvas",
+                class: {
+                    transition: e.animate
+                },
+                style: e.styleSize
+            })])
+        }
+          , Le = []
+          , Ie = (n("d3e8"),
+        n("f7a4"))
+          , Ee = n.n(Ie);
+        function Oe(e, o, n) {
+            const i = window.pixelRatio || 2;
+            e.height = n * i,
+            e.width = o * i;
+            const s = e.getContext("2d");
+            return s.scale(i, i),
+            s
+        }
+        function Me() {
+            return document.createElement("canvas")
+        }
+        function De(e, o, n, {backgroundColor: i, foregroundColor: s, lineWidth: r}) {
+            e.fillStyle = i,
+            e.fillRect(0, 0, o, n),
+            e.strokeStyle = s,
+            e.lineWidth = r,
+            e.beginPath(),
+            e.moveTo(o, 0),
+            e.lineTo(o, n),
+            e.stroke()
+        }
+        function Be(e, o, n, {backgroundColor: i, strokeColor: s, lineWidth: r, fillColor: t, size: a}) {
+            e.fillStyle = i,
+            e.fillRect(0, 0, o, n),
+            e.strokeStyle = s,
+            e.lineWidth = r,
+            e.fillStyle = t,
+            e.beginPath(),
+            e.arc(o / 2, n / 2, a / 2, 0, 2 * Math.PI),
+            e.fill(),
+            e.stroke()
+        }
+        n("662d");
+        function Te(e, o, n, {backgroundColor: i, foregroundColor: s, lineWidth: r, arcRadius: t}) {
+            e.fillStyle = i,
+            e.fillRect(0, 0, o, n),
+            e.strokeStyle = s,
+            e.lineWidth = r,
+            e.lineCap = "square";
+            const a = [{
+                x: 1 / 4 * -o,
+                y: n * (3 / 4)
+            }, {
+                x: o * (1 / 4),
+                y: n * (1 / 4)
+            }, {
+                x: o * (3 / 4),
+                y: n * (3 / 4)
+            }, {
+                x: o * (5 / 4),
+                y: n * (1 / 4)
+            }]
+              , _ = We(a, t)
+              , u = new Path2D(_);
+            e.stroke(u)
+        }
+        const Ne = (e,o,n)=>(e.y - o.y) * (e.x - n.x) == (e.y - n.y) * (e.x - o.x)
+          , Re = (e,o,n)=>{
+            const i = {
+                x: e.x - o.x,
+                y: e.y - o.y
+            }
+              , s = Math.sqrt(i.x * i.x + i.y * i.y)
+              , r = {
+                x: i.x / s,
+                y: i.y / s
+            };
+            return {
+                x: o.x + r.x * n,
+                y: o.y + r.y * n
+            }
+        }
+        ;
+        function We(e, o) {
+            const n = e.slice(1).reduce((e,n,i,s)=>{
+                let r = s[i + 1]
+                  , t = e[e.length - 1];
+                if (r && !Ne(t.point, n, r)) {
+                    let i = Re(t.point, n, o)
+                      , s = Re(r, n, o);
+                    return e.concat({
+                        point: n,
+                        s: `L ${i.x} ${i.y} S ${n.x} ${n.y} ${s.x} ${s.y} `
+                    })
+                }
+                return e.concat({
+                    point: n,
+                    s: `L ${n.x} ${n.y} `
+                })
+            }
+            , [{
+                point: e[0],
+                s: `M ${e[0].x} ${e[0].y} `
+            }]).map(e=>e.s).join("");
+            return n
+        }
+        function He(e, o, n, {backgroundColor: i, strokeColor: s, lineWidth: r, fillColor: t, size: a, staggered: _}) {
+            e.fillStyle = i,
+            e.fillRect(0, 0, o, n),
+            e.strokeStyle = s,
+            e.lineWidth = r,
+            e.fillStyle = t,
+            e.beginPath(),
+            _ ? (e.rect(o * (1 / 4) - a / 2, n * (1 / 4) - a / 2, a, a),
+            e.rect(o * (3 / 4) - a / 2, n * (3 / 4) - a / 2, a, a)) : (e.rect(o * (1 / 4) - a / 2, n * (1 / 4) - a / 2, a, a),
+            e.rect(o * (1 / 4) - a / 2, n * (3 / 4) - a / 2, a, a),
+            e.rect(o * (3 / 4) - a / 2, n * (3 / 4) - a / 2, a, a),
+            e.rect(o * (3 / 4) - a / 2, n * (1 / 4) - a / 2, a, a)),
+            e.fill(),
+            e.stroke()
+        }
+        function Pe(e, o, n, i, s) {
+            const r = (e - o) / (n - o);
+            return i * (1 - r) + s * r
+        }
+        function Ue(e, o, n) {
+            return Math.min(n, Math.max(o, e))
+        }
+        function Ae(e, o) {
+            const n = o * Math.PI / 180
+              , i = {
+                a: Math.cos(n) * e,
+                b: Math.sin(n) * e,
+                c: -Math.sin(n) * e,
+                d: Math.cos(n) * e,
+                e: 0,
+                f: 0
+            };
+            return i
+        }
+        function qe(e, {type: o, width: n=50, height: i=50, rotation: s=0, repetition: r="repeat", ...t}) {
+            const a = Me()
+              , _ = Oe(a, n, i);
+            switch (o) {
+            case "line":
+                De(_, n, i, t);
+                break;
+            case "dot":
+                Be(_, n, i, t);
+                break;
+            case "wave":
+                Te(_, n, i, t);
+                break;
+            case "square":
+                He(_, n, i, t);
+                break
+            }
+            const u = e.createPattern(a, r)
+              , l = Ae(.5, s);
+            return u.setTransform(l),
+            u
+        }
+        function Ze(e, o, n, i) {
+            const [s,r] = Ge(e, i)
+              , t = o / s * .8
+              , a = n / r
+              , _ = Math.min(t, a);
+            return i.fontSize * _
+        }
+        function Je(e, o) {
+            const n = Ve();
+            return n.style.fontSize = o.fontSize + "px",
+            n.style.fontFamily = o.fontFamily,
+            n.style.fontWeight = o.fontWeight,
+            n.style.fontStyle = o.fontStyle,
+            n.style.fontVariant = o.fontVariant,
+            n.innerHTML = e,
+            [n.clientWidth, n.clientHeight]
+        }
+        function Ge(e, o) {
+            const n = e.split("\n");
+            return n.reduce((e,n)=>{
+                const [i,s] = Je(n, o)
+                  , r = Math.max(e[0], i)
+                  , t = e[1] + s;
+                return [r, t]
+            }
+            , [-1 / 0, 0])
+        }
+        let $e;
+        function Ve() {
+            return $e || ($e = document.createElement("span"),
+            $e.style.visibility = "hidden",
+            $e.style.position = "absolute",
+            $e.style.display = "inline",
+            $e.style.left = "-10000px",
+            $e.style.top = "-10000px",
+            document.body.appendChild($e),
+            $e)
+        }
+        function Ye(e, o, n, i) {
+            const s = Oe(e, o, n)
+              , {text: r, background: t} = i;
+            Ke(s, o, n, t),
+            Qe(s, o, n, r)
+        }
+        function Xe(e) {
+            return !e || "none" === e
+        }
+        function Ke(e, o, n, {type: i, image: s, color: r, mode: t, ...a}) {
+            if ("image" === t)
+                eo(e, s, o, n);
+            else {
+                const s = Xe(i) ? r : qe(e, {
+                    backgroundColor: r,
+                    type: i,
+                    ...a
+                });
+                e.fillStyle = s,
+                e.fillRect(0, 0, o, n)
+            }
+        }
+        function Qe(e, o, n, {color: i, type: s, fontSize: r, fontFamily: t, content: a, mode: _="none", padding: u=50, dy: l=0, ...m}) {
+            const p = Xe(s) ? i : qe(e, {
+                backgroundColor: i,
+                type: s,
+                ...m
+            })
+              , c = o - 2 * u
+              , d = o - 2 * u
+              , v = "autoFit" === _ ? Ze(a, c, d, {
+                fontSize: 200,
+                fontFamily: t
+            }) : r;
+            e.font = `bolder ${v}px ${t}`,
+            e.textAlign = "center",
+            e.textBaseline = "middle",
+            e.fillStyle = p,
+            e.save();
+            const g = {
+                fontSize: v,
+                fontFamily: t
+            }
+              , f = o / 2
+              , j = n / 2 + l;
+            if ("constrain" === _) {
+                const [o,n] = Ge(a, g)
+                  , i = o > c ? c / o : 1
+                  , s = n > d ? d / n : 1;
+                e.translate(f, j),
+                e.scale(i, s),
+                e.translate(-f, -j)
+            }
+            oo(e, a, f, j, g),
+            e.restore()
+        }
+        function eo(e, o, n, i) {
+            const {width: s, height: r} = o
+              , t = r / s
+              , a = i / n;
+            let _, u;
+            t > a ? (_ = s,
+            u = _ * a) : (u = r,
+            _ = u / a);
+            const l = (s - _) / 2
+              , m = (r - u) / 2;
+            e.drawImage(o, l, m, _, u, 0, 0, n, i)
+        }
+        function oo(e, o, n, i, s) {
+            const r = o.split("\n")
+              , [,t] = Je(r[0], s)
+              , a = t * (r.length - 1)
+              , _ = i - a / 2;
+            for (let u = 0; u < r.length; u++) {
+                const o = r[u];
+                e.fillText(o, n, _ + u * t)
+            }
+        }
+        function no(e) {
+            const o = new Image;
+            return o.src = e,
+            new Promise((e,n)=>{
+                o.onload = function() {
+                    e(o)
+                }
+                ,
+                o.onerror = function() {
+                    n()
+                }
+            }
+            )
+        }
+        function io(e, o) {
+            return new FontFace(o,`url(${e})`).load()
+        }
+        function so(e, o, n) {
+            const i = o.split(".")
+              , s = i.pop()
+              , r = i.reduce((e,o)=>e[o], e);
+            ue["default"].set(r, s, n)
+        }
+        function ro(e, o) {
+            const n = o.split(".");
+            return n.reduce((e,o)=>e[o], e)
+        }
+        function to(e) {
+            return Array.isArray(e) ? [...e.map(to)] : void 0 === e || null === e || "object" !== typeof e ? e : Object.entries(e).reduce((e,[o,n])=>(e[o] = to(n),
+            e), {})
+        }
+        var ao = {
+            props: {
+                options: Object,
+                width: Number,
+                height: Number,
+                animate: {
+                    type: Boolean,
+                    default: !0
+                },
+                styleWidth: [Number, String],
+                styleHeight: [Number, String]
+            },
+            data() {
+                return {
+                    fontFace: void 0,
+                    image: void 0,
+                    loading: !1,
+                    rendering: !1
+                }
+            },
+            computed: {
+                styleSize() {
+                    const e = this.styleWidth || this.width
+                      , o = this.styleHeight || this.height
+                      , n = e=>"number" === typeof e ? e + "px" : e;
+                    return {
+                        width: n(e),
+                        height: n(o)
+                    }
+                }
+            },
+            mounted() {
+                this.render()
+            },
+            watch: {
+                options: {
+                    deep: !0,
+                    handler(e, o) {
+                        o.text.fontURL !== e.text.fontURL && (this.fontFace = void 0),
+                        o.background.imageURL !== e.background.imageURL && (this.image = void 0),
+                        this.render()
+                    }
+                },
+                width() {
+                    this.render()
+                },
+                height() {
+                    this.render()
+                }
+            },
+            methods: {
+                async render() {
+                    try {
+                        if (this.rendering)
+                            return;
+                        this.rendering = !0,
+                        await this.loadAssets();
+                        const e = to(this.options);
+                        this.image && (e.background.image = this.image),
+                        Ye(this.$refs.canvas, this.width, this.height, e),
+                        this.$emit("on-success", this.$refs.canvas),
+                        this.rendering = !1
+                    } catch (e) {
+                        Ee.a.error("Failed to draw!"),
+                        console.error(e),
+                        this.rendering = !1,
+                        this.loading = !1
+                    }
+                },
+                async loadAssets() {
+                    const {fontURL: e, fontFamily: o} = this.options.text
+                      , {imageURL: n} = this.options.background
+                      , i = e && (!this.fontFace || !this.fontFace.loaded)
+                      , s = n && !this.image;
+                    (i || s) && (this.loading = !0,
+                    this.fontFace = i ? await io(e, o) : this.fontFace,
+                    this.image = s ? await no(n) : this.image,
+                    this.loading = !1)
+                }
+            }
+        }
+          , _o = ao
+          , uo = (n("e357"),
+        Object(je["a"])(_o, ze, Le, !1, null, null, null))
+          , lo = uo.exports
+          , mo = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "device device-macbook device-spacegray screen-container transition",
+                style: e.transformStyles.container
+            }, [o("div", {
+                staticClass: "device-frame transition"
+            }, [o("div", {
+                staticClass: "transition",
+                style: e.transformStyles.content
+            }, [e._t("default")], 2)]), o("div", {
+                staticClass: "device-stripe transition"
+            }), o("div", {
+                staticClass: "device-header transition"
+            }), o("div", {
+                staticClass: "device-sensors transition"
+            }), o("div", {
+                staticClass: "device-btns transition"
+            }), o("div", {
+                staticClass: "device-power transition"
+            })])
+        }
+          , po = []
+          , co = {
+            props: {
+                src: String,
+                meta: Object,
+                width: Number,
+                height: Number
+            },
+            computed: {
+                transformStyles() {
+                    const e = 576
+                      , o = 360
+                      , n = 83
+                      , i = 29
+                      , s = this.width / e
+                      , r = this.height / o;
+                    return {
+                        container: {
+                            transformOrigin: `${n}px ${i}px`,
+                            transform: `translate(${-n}px, ${-i}px) scale(${s}, ${r})`
+                        },
+                        content: {
+                            transformOrigin: "left top",
+                            transform: `scale(${1 / s}, ${1 / r})`
+                        }
+                    }
+                }
+            }
+        }
+          , vo = co
+          , go = (n("af95"),
+        Object(je["a"])(vo, mo, po, !1, null, null, null))
+          , fo = go.exports
+          , jo = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                style: [e.fixed && {
+                    position: "absolute",
+                    left: e.transformed.x + "px",
+                    top: e.transformed.y + "px",
+                    zIndex: e.zIndex
+                }, {
+                    transformOrigin: "left top",
+                    transform: `scale(${e.transformed.scale}, ${e.transformed.scale})`,
+                    width: e.transformed.width + "px",
+                    height: e.transformed.height + "px"
+                }, e.styles]
+            }, [e._t("default")], 2)
+        }
+          , ko = []
+          , ho = {
+            props: {
+                from: {
+                    x: Number,
+                    y: Number,
+                    scale: Number
+                },
+                to: {
+                    x: Number,
+                    y: Number,
+                    scale: Number
+                },
+                progress: Number,
+                styles: Object,
+                fixed: {
+                    default: !1,
+                    type: Boolean
+                },
+                zIndex: {
+                    default: 10,
+                    type: Number
+                },
+                offsetY: Number
+            },
+            computed: {
+                transformed() {
+                    const {from: e, to: o=e, progress: n, fixed: i} = this
+                      , {x: s, y: r, scale: t} = e
+                      , {x: a, y: _, scale: u} = o
+                      , l = {
+                        ...i && {
+                            x: Pe(n, 0, 1, s, a)
+                        },
+                        ...i && {
+                            y: Pe(n, 0, 1, r, _) + this.offsetY
+                        },
+                        scale: Pe(n, 0, 1, t, u)
+                    };
+                    return l
+                }
+            }
+        }
+          , bo = ho
+          , wo = Object(je["a"])(bo, jo, ko, !1, null, null, null)
+          , yo = wo.exports;
+        const So = e=>({
+            data: ()=>({
+                scrollY: 0,
+                realScrollY: 0
+            }),
+            computed: {
+                progress() {
+                    return Pe(this.scrollY, 0, e, 0, 1)
+                }
+            },
+            methods: {
+                handleMousewheel() {
+                    const o = document.documentElement.scrollTop;
+                    this.scrollY = Ue(o, 0, e);
+                    const n = document.getElementById("app-container")
+                      , i = document.getElementById("app");
+                    o < e ? (i.style.width = "100%",
+                    i.style.height = window.innerHeight + e + "px",
+                    n.style.position = "fixed",
+                    n.style.width = "100%",
+                    n.style.marginTop = "0px") : (i.style.width = "auto",
+                    i.style.height = "auto",
+                    n.style.position = "static",
+                    n.style.marginTop = e + "px")
+                }
+            },
+            mounted() {
+                window.scrollTo(0, 0)
+            },
+            activated() {
+                const o = document.getElementById("app-container");
+                if (this.scrollY < e) {
+                    const n = document.getElementById("app");
+                    n.style.width = "100%",
+                    n.style.height = window.innerHeight + e + "px",
+                    o.style.position = "fixed",
+                    o.style.width = "100%",
+                    o.style.marginTop = "0px",
+                    window.scrollTo(0, this.scrollY)
+                } else {
+                    const o = document.getElementById("app-container");
+                    o.style.marginTop = e + "px",
+                    window.scrollTo(0, e)
+                }
+                window.addEventListener("wheel", this.handleMousewheel)
+            },
+            deactivated() {
+                window.scrollTo(0, 0);
+                const e = document.getElementById("app");
+                e.style.width = "auto",
+                e.style.height = "auto";
+                const o = document.getElementById("app-container");
+                o.style.position = "static",
+                o.style.marginTop = "0px",
+                window.removeEventListener("wheel", this.handleMousewheel)
+            }
+        })
+          , xo = ()=>({
+            data: ()=>({
+                windowWidth: window.innerWidth,
+                windowHeight: window.innerHeight
+            }),
+            methods: {
+                handleWindowResize() {
+                    this.windowWidth = window.innerWidth,
+                    this.windowHeight = window.innerHeight
+                }
+            },
+            mounted() {
+                window.addEventListener("resize", this.handleWindowResize)
+            },
+            destroyed() {
+                window.removeEventListener("resize", this.handleWindowResize)
+            }
+        })
+          , Co = e=>({
+            data() {
+                return {
+                    [e + "X"]: 0,
+                    [e + "Y"]: 0,
+                    [e + "Width"]: 0,
+                    [e + "Height"]: 0
+                }
+            },
+            mounted() {
+                const o = this.$refs[e];
+                if (!o)
+                    return;
+                const {top: n, left: i, right: s, bottom: r} = o.getBoundingClientRect();
+                this[e + "X"] = i,
+                this[e + "Y"] = n,
+                this[e + "Width"] = s - i,
+                this[e + "Height"] = r - n
+            }
+        });
+        var Fo = n("179b");
+        const zo = {
+            name: "Another Planet",
+            type: "image",
+            options: Fo
+        };
+        var Lo = n("4004");
+        const Io = {
+            name: "Angry",
+            options: Lo
+        };
+        var Eo = n("f215");
+        const Oo = {
+            name: "Welcome",
+            options: Eo
+        };
+        var Mo = n("b206");
+        const Do = {
+            name: "挑战自我",
+            options: Mo
+        };
+        var Bo = n("fa59");
+        const To = {
+            name: "Falling Down",
+            type: "image",
+            options: Bo
+        };
+        var No = n("fc19");
+        const Ro = {
+            name: "排列",
+            options: No
+        }
+          , Wo = Oo.options
+          , Ho = Io.options
+          , Po = zo.options
+          , Uo = Ro.options
+          , Ao = To.options
+          , qo = Do.options;
+        var Zo = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "gallery-container",
+                staticStyle: {
+                    "margin-bottom": "50px"
+                }
+            }, [o("div", {
+                staticClass: "device-radio"
+            }, [o("i", {
+                staticClass: "el-icon-monitor device-icon",
+                style: {
+                    color: "pc" === e.activeType ? "#409eff" : "#000"
+                },
+                on: {
+                    click: function(o) {
+                        e.activeType = "pc"
+                    }
+                }
+            }), o("i", {
+                staticClass: "el-icon-mobile device-icon",
+                style: {
+                    color: "phone" === e.activeType ? "#409eff" : "#000"
+                },
+                on: {
+                    click: function(o) {
+                        e.activeType = "phone"
+                    }
+                }
+            })]), 1 === e.gallery.length ? o("div", {
+                staticClass: "gallery-card-container",
+                style: {
+                    "grid-template-columns": `repeat(${"pc" === e.activeType ? 4 : 6}, 1fr)`
+                }
+            }, e._l(e.gallery[0].wallpapers, (function(n) {
+                return o("div", {
+                    key: n.name,
+                    on: {
+                        click: ()=>e.handleClickCard(e.responsive(n.options))
+                    }
+                }, [o("div", {
+                    staticStyle: {
+                        margin: "20px"
+                    }
+                }, [o("div", {
+                    staticClass: "gallery-card",
+                    style: {
+                        paddingBottom: e.deviceSize[1] / e.deviceSize[0] * 100 + "%"
+                    }
+                }, [o("div", {
+                    staticClass: "gallery-card-content"
+                }, [o("wallpaper", {
+                    attrs: {
+                        width: e.deviceSize[0],
+                        height: e.deviceSize[1],
+                        styleHeight: "100%",
+                        styleWidth: "100%",
+                        options: e.responsive(n.options)
+                    }
+                })], 1)])]), o("div", [o("span", [e._v(e._s(n.name) + " "), "image" === n.type ? o("el-tooltip", {
+                    attrs: {
+                        effect: "dark",
+                        content: "图片来自网络",
+                        placement: "top"
+                    }
+                }, [o("i", {
+                    staticClass: "el-icon-warning-outline",
+                    staticStyle: {
+                        cursor: "pointer"
+                    }
+                })]) : e._e()], 1)])])
+            }
+            )), 0) : e._e()])
+        }
+          , Jo = []
+          , Go = n("9bef");
+        const $o = {
+            name: "钢铁侠的一生",
+            options: Go
+        };
+        var Vo = n("7dca");
+        const Yo = {
+            name: "雷神的力量",
+            options: Vo
+        };
+        var Xo = n("d751");
+        const Ko = {
+            name: "浩克的秘密",
+            options: Xo
+        };
+        var Qo = n("9e79");
+        const en = {
+            name: "篮球之神",
+            options: Qo
+        };
+        var on = n("4a48");
+        const nn = {
+            name: "Cassidy's Gentle",
+            options: on
+        };
+        var sn = n("7523");
+        const rn = {
+            name: "Naughty Tracer",
+            options: sn
+        };
+        var tn = n("1ac0");
+        const an = {
+            name: "What a beautiful thing",
+            options: tn
+        };
+        var _n = n("bcb9");
+        const un = {
+            name: "Eat Red Sun",
+            type: "image",
+            options: _n
+        };
+        var ln = n("33cc");
+        const mn = {
+            name: "Big World",
+            type: "image",
+            options: ln
+        };
+        var pn = n("fdc6");
+        const cn = {
+            name: "Face challenge",
+            type: "image",
+            options: pn
+        };
+        var dn = n("bd6d");
+        const vn = {
+            name: "做你自己",
+            options: dn
+        };
+        var gn = n("535e");
+        const fn = {
+            name: "我想你",
+            options: gn
+        };
+        var jn = n("1693");
+        const kn = {
+            name: "保持好心情",
+            options: jn
+        };
+        var hn = n("0a1b");
+        const bn = {
+            name: "美好的一天",
+            options: hn
+        };
+        var wn = n("fe82");
+        const yn = {
+            name: "科比",
+            options: wn
+        };
+        var Sn = n("7894");
+        const xn = {
+            name: "洞察",
+            options: Sn
+        };
+        var Cn = n("4375");
+        const Fn = {
+            name: "啤酒",
+            options: Cn
+        };
+        var zn = n("8bc9");
+        const Ln = {
+            name: "孱弱",
+            options: zn
+        };
+        var In = n("a753");
+        const En = {
+            name: "生命",
+            options: In
+        };
+        var On = n("1e2e");
+        const Mn = {
+            name: "Pretty Face",
+            options: On
+        };
+        var Dn = n("f49d");
+        const Bn = {
+            name: "目标",
+            options: Dn
+        }
+          , Tn = {
+            name: "all",
+            wallpapers: [$o, Yo, Ko, en, En, Do, Mn, Bn, yn, nn, rn, an, vn, kn, fn, bn, xn, Fn, Ln, Ro, un, mn, To, cn]
+        }
+          , Nn = [Tn];
+        function Rn(e, o, n="pc") {
+            localStorage.setItem("cd-example", JSON.stringify(o)),
+            localStorage.setItem("cd-type", n),
+            e.push({
+                path: "editor"
+            })
+        }
+        function Wn(e, o=1) {
+            const n = to(e)
+              , i = ro(n, "text.dy") || 0;
+            so(n, "text.mode", "autoFit"),
+            so(n, "text.dy", Math.min(i, 30)),
+            so(n, "text.padding", 0);
+            const {text: s, background: r} = n;
+            return [s, r].forEach(e=>{
+                for (const n of Object.keys(e)) {
+                    const i = e[n];
+                    "number" === typeof i && "rotation" !== n && (e[n] = i * o)
+                }
+            }
+            ),
+            n
+        }
+        var Hn = {
+            components: {
+                Wallpaper: lo
+            },
+            data() {
+                return {
+                    gallery: Nn,
+                    windowWidth: screen.width,
+                    windowHeight: screen.height,
+                    activeType: "pc"
+                }
+            },
+            computed: {
+                deviceSize() {
+                    return "pc" === this.activeType ? [screen.width, screen.height] : [375, 667]
+                }
+            },
+            name: "gallery",
+            methods: {
+                handleClickCard(e) {
+                    Rn(this.$router, e, this.activeType)
+                },
+                responsive(e) {
+                    if ("pc" === this.activeType)
+                        return e;
+                    {
+                        const o = this.deviceSize[1] / screen.height;
+                        return Wn(e, o)
+                    }
+                }
+            }
+        }
+          , Pn = Hn
+          , Un = (n("4088"),
+        Object(je["a"])(Pn, Zo, Jo, !1, null, null, null))
+          , An = Un.exports
+          , qn = {
+            components: {
+                Wallpaper: lo,
+                Device: fo,
+                Scale: yo,
+                Gallery: An
+            },
+            name: "home",
+            data() {
+                return {
+                    disabled: !1,
+                    examples: [Wo, Ho, Po],
+                    phoneExamples: [qo, Ao, Uo].map(Wn),
+                    screenSize: {},
+                    deviceSize: {
+                        width: 375,
+                        height: 812
+                    }
+                }
+            },
+            mixins: [So(200), xo(), Co("deviceContainer")],
+            watch: {
+                progress: {
+                    immediate: !0,
+                    handler() {
+                        this.computedScreenSize()
+                    }
+                },
+                windowWidth() {
+                    this.computedScreenSize()
+                },
+                windowHeight() {
+                    this.computedScreenSize()
+                }
+            },
+            computed: {
+                position() {
+                    const e = .625
+                      , o = .7
+                      , n = this.deviceContainerHeight / this.deviceContainerWidth;
+                    let i, s;
+                    return n > e ? (i = this.deviceContainerWidth * o,
+                    s = i * e) : (s = this.deviceContainerHeight * o,
+                    i = s / e),
+                    {
+                        from: {
+                            x: 0,
+                            y: 0,
+                            scale: 1
+                        },
+                        to: {
+                            x: this.deviceContainerX + (this.deviceContainerWidth - i) / 2,
+                            y: this.deviceContainerY + (this.deviceContainerHeight - s) / 2,
+                            scale: i / this.windowWidth
+                        },
+                        offsetY: (this.deviceContainerHeight - s) / 2,
+                        offsetX: (this.deviceContainerWidth - i) / 2
+                    }
+                },
+                translateX() {
+                    return Pe(this.phoneProgress, 0, 1, 1e3, 0)
+                },
+                macProgress() {
+                    const e = Ue(this.progress, 0, .8);
+                    return Pe(e, 0, .8, 0, 1)
+                },
+                phoneProgress() {
+                    const e = Ue(this.progress, .8, 1);
+                    return Pe(e, .8, 1, 0, 1)
+                }
+            },
+            methods: {
+                handleResize({width: e, height: o}) {
+                    this.screenSize = {
+                        width: e,
+                        height: o
+                    }
+                },
+                handleStarted() {
+                    this.$router.push({
+                        path: "/editor"
+                    })
+                },
+                handleSelectExample(e, o) {
+                    this.progress < 1 || Rn(this.$router, e, o)
+                },
+                handleStory() {
+                    this.$router.push({
+                        path: "/about"
+                    })
+                },
+                computedScreenSize() {
+                    const e = .625
+                      , o = this.windowWidth * e
+                      , n = this.windowHeight
+                      , i = o
+                      , s = this.macProgress <= 0 ? n : this.macProgress >= 1 ? i : this.screenSize.height;
+                    this.screenSize = {
+                        width: this.windowWidth,
+                        height: s
+                    }
+                }
+            }
+        }
+          , Zn = qn
+          , Jn = (n("c4d9"),
+        Object(je["a"])(Zn, Ce, Fe, !1, null, null, null))
+          , Gn = Jn.exports
+          , $n = function() {
+            var e = this
+              , o = e._self._c;
+            return o("el-container", {
+                staticClass: "editor-container"
+            }, [o("el-aside", {
+                attrs: {
+                    width: "300px"
+                }
+            }, [o("attribute-tree", {
+                attrs: {
+                    options: e.attribute,
+                    values: e.example
+                },
+                on: {
+                    update: e.handleUpdateExample
+                }
+            })], 1), o("el-container", [o("div", {
+                staticClass: "main-container"
+            }, [o("div", {
+                staticClass: "tools-container"
+            }, [o("div", {
+                staticClass: "tools"
+            }, [o("div", {
+                staticClass: "tool-item"
+            }, [o("el-dropdown", {
+                attrs: {
+                    size: "medium"
+                },
+                on: {
+                    command: function(o) {
+                        e.activeDevice = o
+                    }
+                }
+            }, [o("span", {
+                staticClass: "el-dropdown-link"
+            }, [e._v(" Size: " + e._s(e.devices[e.activeDevice].name)), o("i", {
+                staticClass: "el-icon-arrow-down el-icon--right"
+            })]), o("el-dropdown-menu", {
+                attrs: {
+                    slot: "dropdown"
+                },
+                slot: "dropdown"
+            }, e._l(e.devices, (function(n, i) {
+                return o("el-dropdown-item", {
+                    key: n.key,
+                    attrs: {
+                        divided: n.divided,
+                        command: i
+                    }
+                }, [e._v(e._s(n.name))])
+            }
+            )), 1)], 1)], 1), o("div", {
+                staticClass: "tool-item"
+            }, [o("el-input-number", {
+                attrs: {
+                    value: e.deviceSize[0],
+                    "controls-position": "right",
+                    min: 1,
+                    size: "mini",
+                    disabled: 0 !== e.activeDevice
+                },
+                on: {
+                    change: function(o) {
+                        e.customWidth = o
+                    }
+                }
+            }), o("i", {
+                staticClass: "el-icon-sort icon-switch",
+                on: {
+                    click: function(o) {
+                        e.rotate = !e.rotate
+                    }
+                }
+            }), o("el-input-number", {
+                attrs: {
+                    value: e.deviceSize[1],
+                    "controls-position": "right",
+                    min: 1,
+                    size: "mini",
+                    disabled: 0 !== e.activeDevice
+                },
+                on: {
+                    change: function(o) {
+                        e.customHeight = o
+                    }
+                }
+            }), o("span", {
+                staticClass: "scale-text"
+            }, [e._v(" " + e._s((100 * e.transformed.scale).toFixed(1) + "%") + " ")])], 1), o("div", {
+                staticClass: "tool-item"
+            }, [o("el-tooltip", {
+                attrs: {
+                    effect: "dark",
+                    content: "预览",
+                    placement: "bottom"
+                }
+            }, [o("i", {
+                staticClass: "el-icon-view",
+                on: {
+                    click: e.handlePreview
+                }
+            })])], 1), o("div", {
+                staticClass: "tool-item"
+            }, [o("el-dropdown", {
+                attrs: {
+                    size: "medium",
+                    placement: "bottom"
+                },
+                on: {
+                    command: function(o) {
+                        "image" === o ? e.handleDownloadImage() : e.handleDownloadFile()
+                    }
+                }
+            }, [o("span", {
+                staticClass: "el-dropdown-link"
+            }, [o("i", {
+                staticClass: "el-icon-download"
+            })]), o("el-dropdown-menu", {
+                attrs: {
+                    slot: "dropdown"
+                },
+                slot: "dropdown"
+            }, [o("el-dropdown-item", {
+                attrs: {
+                    command: "image"
+                }
+            }, [o("i", {
+                staticClass: "el-icon-picture-outline el-icon--left"
+            }), e._v(" 图片 ")]), o("el-dropdown-item", {
+                attrs: {
+                    command: "file"
+                }
+            }, [o("i", {
+                staticClass: "el-icon-files el-icon--left"
+            }), e._v(" Json文件 ")])], 1)], 1)], 1)])]), o("div", {
+                ref: "preview",
+                staticClass: "preview-container"
+            }, [o("div", {
+                class: {
+                    preview: e.fullscreen
+                },
+                style: e.wallpaperStyles
+            }, [o("wallpaper", {
+                attrs: {
+                    options: e.example,
+                    width: e.deviceSize[0],
+                    height: e.deviceSize[1],
+                    animate: !1
+                },
+                on: {
+                    "on-success": function(o) {
+                        e.canvas = o
+                    }
+                }
+            })], 1)])])])], 1)
+        }
+          , Vn = []
+          , Yn = function() {
+            var e = this
+              , o = e._self._c;
+            return "container" === e.options.type ? o("div", e._l(e.options.children, (function(n) {
+                return o("attribute-tree", {
+                    key: n.key,
+                    attrs: {
+                        options: n,
+                        values: e.values
+                    },
+                    on: {
+                        update: e.handleUpdate
+                    }
+                })
+            }
+            )), 1) : "collapse" === e.options.type ? o("collapse", {
+                attrs: {
+                    name: e.options.name,
+                    defaultOpen: e.options.defaultOpen,
+                    indent: e.options.indent
+                }
+            }, e._l(e.options.children, (function(n) {
+                return o("attribute-tree", {
+                    key: n.key,
+                    attrs: {
+                        options: n,
+                        values: e.values
+                    },
+                    on: {
+                        update: e.handleUpdate
+                    }
+                })
+            }
+            )), 1) : "section" === e.options.type ? o("group", {
+                attrs: {
+                    name: e.options.name,
+                    help: e.options.help
+                }
+            }, e._l(e.options.children, (function(n) {
+                return o("attribute-tree", {
+                    key: n.key,
+                    attrs: {
+                        options: n,
+                        values: e.values
+                    },
+                    on: {
+                        update: e.handleUpdate
+                    }
+                })
+            }
+            )), 1) : "number" === e.options.type ? o("input-number", {
+                attrs: {
+                    min: e.options.min,
+                    max: e.options.max,
+                    step: e.options.step || 1,
+                    name: e.options.name
+                },
+                model: {
+                    value: e.value,
+                    callback: function(o) {
+                        e.value = o
+                    },
+                    expression: "value"
+                }
+            }) : "color-palette" === e.options.type ? o("color-palette") : "color" === e.options.type ? o("color-field", {
+                attrs: {
+                    name: e.options.name,
+                    "color-key": e.options.key
+                },
+                on: {
+                    update: e.handleUpdate
+                },
+                model: {
+                    value: e.value,
+                    callback: function(o) {
+                        e.value = o
+                    },
+                    expression: "value"
+                }
+            }) : o("field", {
+                attrs: {
+                    name: e.options.name,
+                    flex: "image" === e.options.type ? "col" : "row"
+                }
+            }, ["text" === e.options.type ? o("el-input", {
+                attrs: {
+                    placeholder: e.options.placeholder,
+                    size: "small"
+                },
+                model: {
+                    value: e.value,
+                    callback: function(o) {
+                        e.value = o
+                    },
+                    expression: "value"
+                }
+            }) : e._e(), "symbol-text" === e.options.type ? o("symbol-input", {
+                attrs: {
+                    placeholder: e.options.placeholder,
+                    size: "small"
+                },
+                model: {
+                    value: e.value,
+                    callback: function(o) {
+                        e.value = o
+                    },
+                    expression: "value"
+                }
+            }) : e._e(), "image" === e.options.type ? o("image-picker", {
+                attrs: {
+                    allowOnline: !1
+                },
+                model: {
+                    value: e.value,
+                    callback: function(o) {
+                        e.value = o
+                    },
+                    expression: "value"
+                }
+            }) : e._e(), "select" === e.options.type ? o("el-select", {
+                style: {
+                    width: e.options.width || "160px"
+                },
+                attrs: {
+                    size: "small",
+                    filterable: ""
+                },
+                model: {
+                    value: e.value,
+                    callback: function(o) {
+                        e.value = o
+                    },
+                    expression: "value"
+                }
+            }, e._l(e.options.options, (function(n) {
+                return o("el-option", {
+                    key: n.value,
+                    attrs: {
+                        label: n.label,
+                        value: n.value
+                    }
+                }, [n.template ? o("span", {
+                    domProps: {
+                        innerHTML: e._s(n.template)
+                    }
+                }) : e._e()])
+            }
+            )), 1) : e._e(), "select-group" === e.options.type ? o("el-select", {
+                style: {
+                    width: e.options.width || "160px"
+                },
+                attrs: {
+                    size: "small",
+                    filterable: ""
+                },
+                model: {
+                    value: e.value,
+                    callback: function(o) {
+                        e.value = o
+                    },
+                    expression: "value"
+                }
+            }, e._l(e.options.groups, (function(n) {
+                return o("el-option-group", {
+                    key: n.label,
+                    attrs: {
+                        label: n.label
+                    }
+                }, e._l(n.options, (function(n) {
+                    return o("el-option", {
+                        key: n.value,
+                        attrs: {
+                            label: n.label,
+                            value: n.value
+                        }
+                    }, [n.template ? o("span", {
+                        domProps: {
+                            innerHTML: e._s(n.template)
+                        }
+                    }) : e._e()])
+                }
+                )), 1)
+            }
+            )), 1) : e._e(), "radio" === e.options.type ? o("div", {
+                staticClass: "radio-container"
+            }, e._l(e.options.options, (function(n) {
+                return o("el-radio", {
+                    key: n.value,
+                    attrs: {
+                        label: n.value,
+                        size: "small"
+                    },
+                    model: {
+                        value: e.value,
+                        callback: function(o) {
+                            e.value = o
+                        },
+                        expression: "value"
+                    }
+                }, [e._v(" " + e._s(n.label) + " ")])
+            }
+            )), 1) : e._e(), "boolean" === e.options.type ? o("div", [o("el-checkbox", {
+                model: {
+                    value: e.value,
+                    callback: function(o) {
+                        e.value = o
+                    },
+                    expression: "value"
+                }
+            })], 1) : e._e()], 1)
+        }
+          , Xn = []
+          , Kn = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                class: [e.containerClass, "row" === e.flex ? e.rowClass : e.colClass]
+            }, [o("div", {
+                staticClass: "input-label"
+            }, [e._t("name", (function() {
+                return [e._v(e._s(e.name))]
+            }
+            ))], 2), e._t("default")], 2)
+        }
+          , Qn = []
+          , ei = {
+            props: {
+                name: String,
+                flex: {
+                    default: "row",
+                    type: String
+                }
+            },
+            data() {
+                return {
+                    containerClass: "field-container",
+                    rowClass: "row",
+                    colClass: "col"
+                }
+            }
+        }
+          , oi = ei
+          , ni = (n("196d"),
+        Object(je["a"])(oi, Kn, Qn, !1, null, "55b03386", null))
+          , ii = ni.exports
+          , si = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "group-container"
+            }, [o("div", {
+                staticClass: "group-container-header"
+            }, [o("span", {
+                staticClass: "group-container-name"
+            }, [e.help ? o("el-popover", {
+                staticClass: "item",
+                attrs: {
+                    effect: "dark",
+                    width: "300",
+                    trigger: "hover",
+                    placement: "bottom-start"
+                }
+            }, [o("div", {
+                staticClass: "group-help-content",
+                domProps: {
+                    innerHTML: e._s(e.help)
+                }
+            }), o("i", {
+                staticClass: "el-icon-bell group-help-icon",
+                attrs: {
+                    slot: "reference"
+                },
+                slot: "reference"
+            })]) : e._e(), e._v(" " + e._s(e.name) + " ")], 1)]), o("div", {
+                staticClass: "group-children"
+            }, [e._t("default")], 2)])
+        }
+          , ri = []
+          , ti = {
+            props: {
+                name: String,
+                help: String
+            },
+            data() {
+                return {
+                    visible: !0
+                }
+            }
+        }
+          , ai = ti
+          , _i = (n("e753"),
+        Object(je["a"])(ai, si, ri, !1, null, null, null))
+          , ui = _i.exports
+          , li = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", [o("el-upload", {
+                class: ["image-uploader", {
+                    "image-height": "" === e.imageURL
+                }, {
+                    "image-dash-border": e.uploaded
+                }],
+                attrs: {
+                    action: "",
+                    "auto-upload": !1,
+                    "on-change": e.handleChange,
+                    "on-remove": e.handleRemove,
+                    limit: 1
+                }
+            }, ["" !== e.imageURL ? o("img", {
+                staticClass: "image",
+                attrs: {
+                    src: e.imageURL,
+                    alt: "invalid url"
+                },
+                on: {
+                    mouseenter: function(o) {
+                        e.hover = !0
+                    },
+                    error: e.handleErrorImage
+                }
+            }) : o("i", {
+                staticClass: "el-icon-plus image-uploader-icon",
+                on: {
+                    mouseenter: function(o) {
+                        e.hover = !0
+                    }
+                }
+            }), e.hover ? o("div", {
+                staticClass: "image-overlay",
+                on: {
+                    mouseleave: function(o) {
+                        e.hover = !1
+                    },
+                    click: e.handleClickOverlay
+                }
+            }, [e.allowOnline ? o("div", [e.uploaded ? e._e() : o("el-button", {
+                attrs: {
+                    icon: "el-icon-upload",
+                    type: "primary"
+                }
+            }, [e._v("Local")]), e.uploaded ? e._e() : o("el-button", {
+                attrs: {
+                    icon: "el-icon-upload",
+                    type: "primary"
+                },
+                on: {
+                    click: e.handleUploadOnline
+                }
+            }, [e._v("Online")])], 1) : e._e()]) : e._e()]), o("el-dialog", {
+                attrs: {
+                    title: "Upload online image",
+                    visible: e.showUploadDialog,
+                    "append-to-body": ""
+                },
+                on: {
+                    "update:visible": function(o) {
+                        e.showUploadDialog = o
+                    }
+                }
+            }, [o("el-input", {
+                model: {
+                    value: e.onlineImageURL,
+                    callback: function(o) {
+                        e.onlineImageURL = o
+                    },
+                    expression: "onlineImageURL"
+                }
+            }), o("span", {
+                staticClass: "dialog-footer",
+                attrs: {
+                    slot: "footer"
+                },
+                slot: "footer"
+            }, [o("el-button", {
+                on: {
+                    click: function(o) {
+                        e.showUploadDialog = !1
+                    }
+                }
+            }, [e._v("Cancel")]), o("el-button", {
+                attrs: {
+                    type: "primary"
+                },
+                on: {
+                    click: e.handleConfirmOnline
+                }
+            }, [e._v("Confirm")])], 1)], 1)], 1)
+        }
+          , mi = []
+          , pi = n("31bf");
+        function ci(e) {
+            const o = new FileReader;
+            return o.readAsDataURL(e),
+            new Promise(e=>{
+                o.onload = ()=>{
+                    e(o.result)
+                }
+            }
+            )
+        }
+        function di(e, o) {
+            const n = document.createElement("a");
+            n.download = o,
+            n.href = e.toDataURL("image/png"),
+            document.body.appendChild(n),
+            n.click(),
+            n.remove()
+        }
+        function vi(e, o) {
+            const n = new File([JSON.stringify(e)],o + ".json",{
+                type: "text/plain;charset=utf-8"
+            });
+            Object(pi["saveAs"])(n)
+        }
+        var gi = {
+            model: {
+                prop: "imageURL",
+                event: "change"
+            },
+            props: {
+                imageURL: String,
+                cacheImage: {
+                    type: Boolean,
+                    default: !0
+                },
+                allowOnline: {
+                    type: Boolean,
+                    default: !0
+                }
+            },
+            data() {
+                return {
+                    uploaded: !1,
+                    hover: !1,
+                    showUploadDialog: !1,
+                    onlineImageURL: "",
+                    preImageURL: ""
+                }
+            },
+            watch: {
+                imageURL(e, o) {
+                    this.preImageURL = o
+                }
+            },
+            methods: {
+                async handleChange(e) {
+                    const o = await ci(e.raw);
+                    this.uploaded = !0,
+                    this.$emit("change", o)
+                },
+                handleRemove() {
+                    this.uploaded = !1,
+                    this.hover = !1,
+                    this.cacheImage || this.$emit("change", "")
+                },
+                handleUploadOnline(e) {
+                    e.stopPropagation(),
+                    this.showUploadDialog = !0
+                },
+                handleClickOverlay(e) {
+                    this.uploaded && (Ee.a.error("Please delete uploaded image first!"),
+                    e.stopPropagation())
+                },
+                handleConfirmOnline() {
+                    this.onlineImageURL ? this.$emit("change", this.onlineImageURL) : Ee.a.error("Please provide non-empty url!"),
+                    this.showUploadDialog = !1
+                },
+                handleErrorImage() {
+                    Ee.a.error("Invalid image url!"),
+                    this.$emit("change", this.preImageURL)
+                }
+            }
+        }
+          , fi = gi
+          , ji = (n("f46a"),
+        Object(je["a"])(fi, li, mi, !1, null, null, null))
+          , ki = ji.exports
+          , hi = function() {
+            var e = this
+              , o = e._self._c;
+            return o("field", {
+                attrs: {
+                    name: e.name
+                },
+                scopedSlots: e._u([{
+                    key: "name",
+                    fn: function() {
+                        return [o("span", {
+                            style: e.cursorStyle,
+                            on: {
+                                mousedown: e.handleMouseDown
+                            }
+                        }, [e._v(e._s(e.name))])]
+                    },
+                    proxy: !0
+                }])
+            }, [o("el-input-number", {
+                attrs: {
+                    "controls-position": "right",
+                    min: e.min,
+                    max: e.max,
+                    step: e.step,
+                    size: "small"
+                },
+                model: {
+                    value: e.numberValue,
+                    callback: function(o) {
+                        e.numberValue = o
+                    },
+                    expression: "numberValue"
+                }
+            }), e.showOverlay ? o("div", {
+                staticClass: "input-number-overlay",
+                style: e.cursorStyle,
+                on: {
+                    mouseup: e.handleMouseUp,
+                    mousemove: e.handleMouseMove
+                }
+            }) : e._e()], 1)
+        }
+          , bi = []
+          , wi = {
+            components: {
+                Field: ii
+            },
+            props: {
+                min: {
+                    type: Number,
+                    default: -1 / 0
+                },
+                max: {
+                    type: Number,
+                    default: 1 / 0
+                },
+                value: Number,
+                step: Number,
+                name: String
+            },
+            data() {
+                return {
+                    showOverlay: !1,
+                    x: 0,
+                    initValue: 0
+                }
+            },
+            computed: {
+                numberValue: {
+                    get() {
+                        return this.value
+                    },
+                    set(e) {
+                        this.$emit("input", e)
+                    }
+                },
+                cursorStyle() {
+                    let e;
+                    return e = this.value <= this.min ? "e-resize" : this.value >= this.max ? "w-resize" : "ew-resize",
+                    {
+                        cursor: e
+                    }
+                }
+            },
+            methods: {
+                handleMouseDown({clientX: e}) {
+                    this.showOverlay = !0,
+                    this.x = e,
+                    this.initValue = this.value
+                },
+                handleMouseUp() {
+                    this.showOverlay = !1
+                },
+                handleMouseMove({clientX: e}) {
+                    const o = e - this.x
+                      , n = this.initValue + o;
+                    this.$emit("input", n)
+                }
+            }
+        }
+          , yi = wi
+          , Si = (n("e6d5"),
+        Object(je["a"])(yi, hi, bi, !1, null, null, null))
+          , xi = Si.exports
+          , Ci = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", [o("field", {
+                attrs: {
+                    name: e.name
+                }
+            }, [o("span", {
+                staticClass: "collapse-icon-container"
+            }, [o("i", {
+                staticClass: "collapse-icon el-icon-arrow-up",
+                style: e.iconStyle,
+                on: {
+                    click: function(o) {
+                        e.open = !e.open
+                    }
+                }
+            })])]), o("el-collapse-transition", [o("div", {
+                directives: [{
+                    name: "show",
+                    rawName: "v-show",
+                    value: e.open,
+                    expression: "open"
+                }],
+                staticClass: "collapse-children",
+                style: {
+                    paddingLeft: e.indent ? "1em" : 0
+                }
+            }, [e._t("default")], 2)])], 1)
+        }
+          , Fi = []
+          , zi = {
+            components: {
+                Field: ii
+            },
+            props: {
+                name: String,
+                indent: {
+                    type: Boolean,
+                    default: !0
+                },
+                defaultOpen: {
+                    type: Boolean,
+                    default: !0
+                },
+                maxHeight: {
+                    type: Number,
+                    default: 500
+                }
+            },
+            data() {
+                return {
+                    open: this.defaultOpen
+                }
+            },
+            computed: {
+                iconStyle() {
+                    return {
+                        transform: `rotateZ(${this.open ? 0 : 180}deg)`
+                    }
+                },
+                childrenStyle() {
+                    return this.open ? {} : {
+                        height: "0px"
+                    }
+                }
+            }
+        }
+          , Li = zi
+          , Ii = (n("e415"),
+        Object(je["a"])(Li, Ci, Fi, !1, null, null, null))
+          , Ei = Ii.exports
+          , Oi = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "symbol-input-container"
+            }, [o("el-popover", {
+                attrs: {
+                    placement: "top",
+                    width: "300",
+                    trigger: "focus"
+                }
+            }, [o("div", {
+                staticClass: "emoji-input-popover"
+            }, [o("el-tabs", {
+                attrs: {
+                    value: "first"
+                }
+            }, [o("el-tab-pane", {
+                attrs: {
+                    label: "w(ﾟДﾟ)w",
+                    name: "first"
+                }
+            }, [o("emoticon-picker", {
+                on: {
+                    input: e.handleInput
+                }
+            })], 1), o("el-tab-pane", {
+                attrs: {
+                    label: "Emoji 😆",
+                    name: "second"
+                }
+            }, [o("emoji-picker", {
+                on: {
+                    input: e.handleInput
+                }
+            })], 1)], 1)], 1), o("el-input", {
+                style: {
+                    width: "200px"
+                },
+                attrs: {
+                    slot: "reference",
+                    id: "emojiInput",
+                    placeholder: e.placeholder,
+                    size: e.size,
+                    type: "textarea",
+                    autosize: ""
+                },
+                slot: "reference",
+                model: {
+                    value: e.textValue,
+                    callback: function(o) {
+                        e.textValue = o
+                    },
+                    expression: "textValue"
+                }
+            })], 1)], 1)
+        }
+          , Mi = []
+          , Di = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "emoji-picker-container"
+            }, [o("el-tabs", {
+                attrs: {
+                    "tab-position": "bottom"
+                },
+                model: {
+                    value: e.selectedName,
+                    callback: function(o) {
+                        e.selectedName = o
+                    },
+                    expression: "selectedName"
+                }
+            }, e._l(e.emojiGroups, (function(n) {
+                return o("el-tab-pane", {
+                    key: n.name,
+                    attrs: {
+                        label: n.emoji,
+                        name: n.name
+                    }
+                }, [o("div", {
+                    staticClass: "emoji-picker-content"
+                }, e._l(e.emojis, (function(n) {
+                    return o("span", {
+                        key: n.name,
+                        staticClass: "emoji-picker-item",
+                        on: {
+                            click: ()=>e.handleClick(n)
+                        }
+                    }, [e._v(e._s(n.emoji))])
+                }
+                )), 0)])
+            }
+            )), 1)], 1)
+        }
+          , Bi = []
+          , Ti = n("c604");
+        const Ni = Object.keys(Ti).map(e=>({
+            name: e,
+            emoji: Ti[e][0].emoji
+        }));
+        var Ri = {
+            data() {
+                return {
+                    emojiGroups: Ni,
+                    selectedName: Ni[0].name
+                }
+            },
+            computed: {
+                emojis() {
+                    return Ti[this.selectedName]
+                }
+            },
+            methods: {
+                handleClick(e) {
+                    this.$emit("input", e.emoji)
+                }
+            }
+        }
+          , Wi = Ri
+          , Hi = (n("1fee"),
+        Object(je["a"])(Wi, Di, Bi, !1, null, null, null))
+          , Pi = Hi.exports
+          , Ui = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "emoticon-picker-container"
+            }, [o("div", {
+                staticClass: "emoticon-picker-header"
+            }, [o("el-button", {
+                attrs: {
+                    type: "primary",
+                    size: "mini"
+                },
+                on: {
+                    click: e.generateEmotion
+                }
+            }, [e._v("Refresh")]), o("span", {
+                staticClass: "emoticon-picker-item",
+                on: {
+                    click: ()=>e.handleClick(e.randomEmoticon)
+                }
+            }, [e._v(e._s(e.randomEmoticon))])], 1), o("div", {
+                staticClass: "emoticon-picker-content"
+            }, e._l(e.faces, (function(n) {
+                return o("span", {
+                    key: n,
+                    staticClass: "emoticon-picker-item",
+                    on: {
+                        click: ()=>e.handleClick(n)
+                    }
+                }, [e._v(e._s(n))])
+            }
+            )), 0)])
+        }
+          , Ai = []
+          , qi = n("bb51")
+          , Zi = n.n(qi)
+          , Ji = n("7786")
+          , Gi = {
+            data() {
+                return {
+                    randomEmoticon: Zi()(),
+                    faces: Ji
+                }
+            },
+            methods: {
+                generateEmotion() {
+                    this.randomEmoticon = Zi()()
+                },
+                handleClick(e) {
+                    this.$emit("input", e)
+                }
+            }
+        }
+          , $i = Gi
+          , Vi = (n("0f57"),
+        Object(je["a"])($i, Ui, Ai, !1, null, null, null))
+          , Yi = Vi.exports
+          , Xi = {
+            components: {
+                EmojiPicker: Pi,
+                EmoticonPicker: Yi
+            },
+            props: {
+                placeholder: String,
+                size: String,
+                value: String
+            },
+            computed: {
+                textValue: {
+                    get() {
+                        return this.value
+                    },
+                    set(e) {
+                        this.$emit("input", e)
+                    }
+                }
+            },
+            methods: {
+                handleInput(e) {
+                    const o = document.getElementById("emojiInput")
+                      , {selectionStart: n, selectionEnd: i} = o;
+                    if (void 0 === n || void 0 === i)
+                        return;
+                    const s = this.textValue.substring(0, n) + e + this.textValue.substring(i);
+                    o.value = s,
+                    o.focus(),
+                    o.selectionStart = n + e.length,
+                    o.selectionEnd = n + e.length,
+                    this.textValue = s
+                }
+            }
+        }
+          , Ki = Xi
+          , Qi = (n("abb8"),
+        Object(je["a"])(Ki, Oi, Mi, !1, null, null, null))
+          , es = Qi.exports
+          , os = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "color-palette-container",
+                style: {
+                    borderColor: e.over ? "#409EFF" : "#d9d9d9"
+                },
+                on: {
+                    dragover: e.handleDragover,
+                    drop: e.handleDrop,
+                    dragleave: function(o) {
+                        e.over = !1
+                    }
+                }
+            }, [0 === e.colors.length ? o("div", {
+                staticClass: "color-empty-wrapper",
+                on: {
+                    mouseover: function(o) {
+                        e.showButtons = !0
+                    },
+                    mouseleave: function(o) {
+                        e.showButtons = !1
+                    }
+                }
+            }, [o("el-empty", {
+                style: {
+                    opacity: e.showButtons ? 0 : 1
+                },
+                attrs: {
+                    description: "拖拽颜色到此处添加。"
+                }
+            }), e.showButtons ? o("div", {
+                staticClass: "color-palette-btns"
+            }, [o("el-button", {
+                attrs: {
+                    icon: "el-icon-plus",
+                    type: "primary",
+                    size: "small"
+                },
+                on: {
+                    click: function(o) {
+                        e.showColorsStore = !0
+                    }
+                }
+            }, [e._v("预设配色")]), o("el-button", {
+                attrs: {
+                    icon: "el-icon-plus",
+                    type: "primary",
+                    size: "small"
+                },
+                on: {
+                    click: function(o) {
+                        e.showImageExtractor = !0
+                    }
+                }
+            }, [e._v("从图片导入")])], 1) : e._e()], 1) : o("div", {
+                staticClass: "color-palette-colors"
+            }, [e._l(e.colors, (function(n) {
+                return o("span", {
+                    key: n,
+                    staticClass: "color-palette-item",
+                    style: {
+                        background: n
+                    },
+                    attrs: {
+                        draggable: "true"
+                    },
+                    on: {
+                        dragstart: o=>e.handleDragStart(o, n)
+                    }
+                })
+            }
+            )), o("el-popover", {
+                attrs: {
+                    placement: "bottom",
+                    trigger: "hover"
+                }
+            }, [o("el-button", {
+                attrs: {
+                    icon: "el-icon-plus",
+                    type: "primary",
+                    size: "small"
+                },
+                on: {
+                    click: function(o) {
+                        e.showColorsStore = !0
+                    }
+                }
+            }, [e._v("预设配色")]), o("el-button", {
+                attrs: {
+                    icon: "el-icon-plus",
+                    type: "primary",
+                    size: "small"
+                },
+                on: {
+                    click: function(o) {
+                        e.showImageExtractor = !0
+                    }
+                }
+            }, [e._v("从图片导入")]), o("i", {
+                staticClass: "el-icon-circle-plus-outline",
+                style: {
+                    float: "left",
+                    cursor: "pointer",
+                    lineHeight: "30px"
+                },
+                attrs: {
+                    slot: "reference"
+                },
+                slot: "reference"
+            })], 1)], 2), o("el-dialog", {
+                attrs: {
+                    title: "预设配色",
+                    width: "1000px",
+                    visible: e.showColorsStore
+                },
+                on: {
+                    "update:visible": function(o) {
+                        e.showColorsStore = o
+                    }
+                }
+            }, [o("el-tabs", {
+                attrs: {
+                    value: e.colorStore[0].name
+                }
+            }, e._l(e.colorStore, (function(n) {
+                return o("el-tab-pane", {
+                    key: n.name,
+                    attrs: {
+                        label: n.name,
+                        name: n.name
+                    }
+                }, [o("p", {
+                    staticClass: "color-palette-des",
+                    domProps: {
+                        innerHTML: e._s(n.des)
+                    }
+                }), o("div", {
+                    staticClass: "color-palette-tab-container"
+                }, e._l(n.colors, (function(n) {
+                    return o("div", {
+                        key: n.name || n.values.join("")
+                    }, [o("div", {
+                        on: {
+                            click: ()=>e.handleAddColors(n.values)
+                        }
+                    }, [o("el-card", {
+                        style: {
+                            width: e.cardSize + "px",
+                            height: e.cardSize + "px",
+                            margin: "0px 8px",
+                            cursor: "pointer"
+                        },
+                        attrs: {
+                            shadow: "hover"
+                        }
+                    }, e._l(n.values, (function(i) {
+                        return o("div", {
+                            key: i,
+                            style: {
+                                background: i,
+                                width: "100%",
+                                height: e.cardSize / (n.values.length || 1) + "px"
+                            }
+                        })
+                    }
+                    )), 0)], 1), o("div", {
+                        style: {
+                            height: "30px",
+                            width: e.cardSize + "px",
+                            margin: " 6px 8px"
+                        }
+                    }, [o("span", [e._v(e._s(n.name || "Learn More"))]), n.link ? o("span", {
+                        staticClass: "color-palette-link"
+                    }, [o("el-link", {
+                        attrs: {
+                            href: n.link,
+                            target: "_blank",
+                            underline: !1
+                        }
+                    }, [o("i", {
+                        staticClass: "el-icon-link",
+                        staticStyle: {
+                            "font-size": "16px"
+                        }
+                    })])], 1) : e._e()])])
+                }
+                )), 0)])
+            }
+            )), 1), o("span", {
+                staticClass: "dialog-footer",
+                attrs: {
+                    slot: "footer"
+                },
+                slot: "footer"
+            }, [o("el-button", {
+                on: {
+                    click: function(o) {
+                        e.showColorsStore = !1
+                    }
+                }
+            }, [e._v("Cancel")])], 1)], 1), o("el-dialog", {
+                attrs: {
+                    title: "从图像中提取颜色",
+                    visible: e.showImageExtractor
+                },
+                on: {
+                    "update:visible": function(o) {
+                        e.showImageExtractor = o
+                    }
+                }
+            }, [o("image-color-picker", {
+                model: {
+                    value: e.selectedImageColors,
+                    callback: function(o) {
+                        e.selectedImageColors = o
+                    },
+                    expression: "selectedImageColors"
+                }
+            }), o("span", {
+                staticClass: "dialog-footer",
+                attrs: {
+                    slot: "footer"
+                },
+                slot: "footer"
+            }, [o("el-button", {
+                on: {
+                    click: e.handleCloseImageColorPicker
+                }
+            }, [e._v("Cancel")]), o("el-button", {
+                directives: [{
+                    name: "show",
+                    rawName: "v-show",
+                    value: 0 !== e.selectedImageColors.length,
+                    expression: "selectedImageColors.length !== 0"
+                }],
+                attrs: {
+                    type: "primary"
+                },
+                on: {
+                    click: e.handleAddImageColors
+                }
+            }, [e._v("Add")])], 1)], 1)], 1)
+        }
+          , ns = [];
+        const is = {
+            name: "品牌",
+            des: "来自各大品牌的配色",
+            colors: [{
+                name: "蚂蚁集团",
+                values: ["#147bfb"],
+                link: "https://www.antgroup.com/"
+            }, {
+                name: "阿里巴巴",
+                values: ["#DD4B22"],
+                link: "https://www.alibabagroup.com/cn/global/home"
+            }, {
+                name: "哔哩哔哩",
+                values: ["#fa729a"],
+                link: "https://www.bilibili.com/"
+            }, {
+                name: "语雀",
+                values: ["#30CD7A", "#7FE160"],
+                link: "https://www.yuque.com/"
+            }, {
+                name: "抖音",
+                values: ["#111111", "#10faef", "#ff0050"],
+                link: "https://www.douyin.com/"
+            }, {
+                name: "微软",
+                values: ["#00ACEE", "#8cc33c", "#fbc30c", "#f26323"],
+                link: "https://www.microsoft.com/zh-cn"
+            }, {
+                name: "谷歌",
+                values: ["#4484f1", "#35a454", "#F8BA03", "#ed6828"],
+                link: "https://www.google.com/"
+            }, {
+                name: "X（原Twitter）",
+                values: ["#1ca4f4"],
+                link: "https://twitter.com"
+            }, {
+                name: "Facebook",
+                values: ["#1977F3"],
+                link: "https://www.facebook.com/"
+            }, {
+                name: "Github",
+                values: ["#24292e"],
+                link: "https://github.com/"
+            }, {
+                name: "Figma",
+                values: ["#fe5303", "#b757ff", "#00d5ff", "#03ed81"],
+                link: "https://www.figma.com"
+            }, {
+                name: "AntV",
+                values: ["#792ef7", "#f99220"],
+                link: "https://antv.vision"
+            }, ]
+        }
+          , ss = {
+            name: "NBA",
+            des: "<span>来自一些 <a href='https://china.nba.com/' target='_blank'>NBA</a>球队的配色</span>",
+            colors: [{
+                name: "波士顿凯尔特人",
+                values: ["#145b33"]
+            }, {
+                name: "洛杉矶湖人",
+                values: ["#FBB82C", "#4F237C"]
+            }, {
+                name: "金州勇士",
+                values: ["#004AB9", "#FDCE26"]
+            }, {
+                name: "芝加哥公牛",
+                values: ["#c40827", "#10090a"]
+            }, {
+                name: "俄克拉荷马雷霆",
+                values: ["#18385e", "#c75849", "#5ca0bf"]
+            }, {
+                name: "圣安东尼奥马刺",
+                values: ["#090a0a", "#747677", "#d7d9da"]
+            }]
+        }
+          , rs = {
+            name: "Color Hunt",
+            owner: !1,
+            des: "<span>一个很棒的配色网站<a href='https://colorhunt.co/' target='_blank'>Color Hunt</a>.</span>",
+            colors: [{
+                values: ["#110133", "#00918E", "#4DD599", "#FFDC34"],
+                link: "https://colorhunt.co/palette/11013300918e4dd599ffdc34"
+            }, {
+                values: ["#222831", "#393E46", "#00ADB5", "#EEEEEE"],
+                link: "https://colorhunt.co/palette/222831393e4600adb5eeeeee"
+            }, {
+                values: ["#383E56", "#F69E7B", "#EEDAD1", "#D4B5B0"],
+                link: "https://colorhunt.co/palette/383e56f69e7beedad1d4b5b0"
+            }, {
+                values: ["#08D9D6", "#252A34", "#FF2E63", "#EAEAEA"],
+                link: "https://colorhunt.co/palette/08d9d6252a34ff2e63eaeaea"
+            }, {
+                values: ["#A8E6CF", "#DCEDC1", "#FFD3B6", "#FFAAA5"],
+                link: "https://colorhunt.co/palette/a8e6cfdcedc1ffd3b6ffaaa5"
+            }, {
+                values: ["#3A0088", "#930077", "#E61C5D", "#FFBD39"],
+                link: "https://colorhunt.co/palette/3a0088930077e61c5dffbd39"
+            }, {
+                values: ["#222831", "#393E46", "#FFD369", "#EEEEEE"],
+                link: "https://colorhunt.co/palette/222831393e46ffd369eeeeee"
+            }, {
+                values: ["#28DF99", "#99F3BD", "#D2F6C5", "#F6F7D4"],
+                link: "https://colorhunt.co/palette/28df9999f3bdd2f6c5f6f7d4"
+            }, {
+                values: ["#2D4059", "#ea5455", "#F07B3F", "#FFD460"],
+                link: "https://colorhunt.co/palette/2d4059ea5455f07b3fffd460"
+            }, {
+                values: ["#FFA45B", "#FFDA77", "#FBF6F0", "#AEE6E6"],
+                link: "https://colorhunt.co/palette/ffa45bffda77fbf6f0aee6e6"
+            }, {
+                values: ["#FFC93C", "#07689F", "#40A8C4", "#A2D5F2"],
+                link: "https://colorhunt.co/palette/ffc93c07689f40a8c4a2d5f2"
+            }, {
+                values: ["#483434", "#6B4F4F", "#EED6C4", "#FFF3E4"],
+                link: "https://colorhunt.co/palette/4834346b4f4feed6c4fff3e4"
+            }]
+        }
+          , ts = {
+            name: "守望先锋",
+            des: "<span>来自<a href='https://ow.blizzard.cn/home' target='_blank'>守望先锋</a>英雄的配色</span>",
+            colors: [{
+                name: "卡西迪",
+                values: ["#583d33", "#9e3b37", "#d87265"],
+                link: "https://ow.blizzard.cn/heroes/cassidy"
+            }, {
+                name: "卢西奥",
+                values: ["#6f9636", "#92d25e", "#f7e700"],
+                link: "https://ow.blizzard.cn/heroes/lucio"
+            }, {
+                name: "安娜",
+                values: ["#294775", "#437bd2", "#d1cfcf"],
+                link: "https://ow.blizzard.cn/heroes/ana"
+            }, {
+                name: "猎空",
+                values: ["#372923", "#e97e18", "#efd496"],
+                link: "https://ow.blizzard.cn/heroes/tracer"
+            }, {
+                name: "艾什",
+                values: ["#3c3234", "#82695c", "#fbe88a"],
+                link: "https://ow.blizzard.cn/heroes/ashe"
+            }, {
+                name: "西格玛",
+                values: ["#3b4766", "#5f7890", "#5eb3b5"],
+                link: "https://ow.blizzard.cn/heroes/sigma"
+            }, {
+                name: "黑影",
+                values: ["#3f1a7e", "#695fb4", "#d0a3e6"],
+                link: "https://ow.blizzard.cn/heroes/sombra"
+            }, {
+                name: "回声",
+                values: ["#3aa3f6", "#59baf7", "#daeaed"],
+                link: "https://ow.blizzard.cn/heroes/echo"
+            }, {
+                name: "死神",
+                values: ["#0c111b", "#5c6067", "#aeaba8"],
+                link: "https://ow.blizzard.cn/heroes/reaper"
+            }, {
+                name: "D.Va",
+                values: ["#645a8d", "#6566b9", "#ed9ec3"],
+                link: "https://ow.blizzard.cn/heroes/dva"
+            }, {
+                name: "末日铁拳",
+                values: ["#6b5546", "#99725c", "#a09679"],
+                link: "https://ow.blizzard.cn/heroes/doomfist"
+            }, {
+                name: "黑百合",
+                values: ["#3d4981", "#9fb4e2", "#f0e4eb"],
+                link: "https://ow.blizzard.cn/heroes/widowmaker"
+            }]
+        }
+          , as = {
+            name: "漫威",
+            des: "<span>来自<a href='https://www.marvel.com/' target='_blank'>漫威</a>中角色的配色</span>",
+            colors: [{
+                name: "绯红女巫",
+                values: ["#bd3232", "#d98b94"],
+                link: "https://www.marvel.com/characters/scarlet-witch-wanda-maximoff"
+            }, {
+                name: "钢铁侠",
+                values: ["#b93233", "#eabe4f"],
+                link: "https://www.marvel.com/characters/iron-man-tony-stark"
+            }, {
+                name: "美国队长",
+                values: ["#4992cd", "#d93343"],
+                link: "https://www.marvel.com/characters/captain-america-steve-rogers"
+            }, {
+                name: "蜘蛛侠",
+                values: ["#f45552", "#6f9cf6"],
+                link: "https://www.marvel.com/characters/spider-man-peter-parker"
+            }, {
+                name: "雷神",
+                values: ["#ecdc75", "#8c9ed9"],
+                link: "https://www.marvel.com/characters/thor-thor-odinson"
+            }, {
+                name: "浩克",
+                values: ["#7bbc5c", "#836cc1"],
+                link: "https://www.marvel.com/characters/hulk-bruce-banner"
+            }]
+        }
+          , _s = {
+            name: "艺术品",
+            des: "来自著名艺术品的配色",
+            colors: [{
+                name: "IKB 79",
+                values: ["#1f1cc1"],
+                link: "https://en.wikipedia.org/wiki/International_Klein_Blue"
+            }, {
+                name: "蒙德里安",
+                values: ["#D6281D", "#e8d365", "#055C9F"],
+                link: "https://en.wikipedia.org/wiki/Piet_Mondrian"
+            }, {
+                name: "日出·印象",
+                values: ["#566c70", "#a5babd", "#D4715E"],
+                link: "https://en.wikipedia.org/wiki/Impression,_Sunrise"
+            }, {
+                name: "蒙娜丽莎",
+                values: ["#2c1f26", "#65452c", "#66734b", "#9ba069"],
+                link: "https://en.wikipedia.org/wiki/Mona_Lisa"
+            }, {
+                name: "召唤使徒马太",
+                values: ["#0d0b07", "#3f2b1a", "#6d4928", "#ac864d"],
+                link: "https://en.wikipedia.org/wiki/The_Calling_of_St_Matthew_(Caravaggio)"
+            }, {
+                name: "星月夜",
+                values: ["#1a366c", "#4c6389", "#7792c1", "#CEB03E"],
+                link: "https://en.wikipedia.org/wiki/The_Starry_Night"
+            }]
+        }
+          , us = [is, as, ts, ss, _s, rs];
+        var ls = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "image-color-picker-container"
+            }, [o("image-picker", {
+                attrs: {
+                    allowOnline: !1,
+                    cacheImage: !1
+                },
+                model: {
+                    value: e.imageURL,
+                    callback: function(o) {
+                        e.imageURL = o
+                    },
+                    expression: "imageURL"
+                }
+            }), o("div", {
+                staticClass: "image-color-picker-colors"
+            }, [e.imageColors.length ? o("div", {
+                staticStyle: {
+                    color: "#606266",
+                    "font-size": "14px"
+                }
+            }, [e._v(" Click to select " + e._s(e.maxCount === 1 / 0 ? "" : `up to ${e.maxCount} `) + "colors you want to use. ")]) : e._e(), e._l(e.imageColors, (function(n, i) {
+                return o("span", {
+                    key: n,
+                    staticClass: "image-color-picker-color-item",
+                    style: {
+                        backgroundColor: n,
+                        borderColor: -1 === e.selectedImageColorIndex.indexOf(i) ? n : "#409eff"
+                    },
+                    on: {
+                        click: ()=>e.handleClickImageColorItem(i)
+                    }
+                })
+            }
+            ))], 2)], 1)
+        }
+          , ms = []
+          , ps = n("7aa5");
+        const cs = (e,o,n)=>"#" + [e, o, n].map(e=>{
+            const o = e.toString(16);
+            return 1 === o.length ? "0" + o : o
+        }
+        ).join("")
+          , ds = new ps["a"];
+        var vs = {
+            props: {
+                maxCount: {
+                    type: Number,
+                    default: 1 / 0
+                },
+                value: {
+                    type: Array,
+                    default: ()=>[]
+                }
+            },
+            components: {
+                ImagePicker: ki
+            },
+            data() {
+                return {
+                    imageURL: "",
+                    imageColors: []
+                }
+            },
+            computed: {
+                selectedImageColorIndex: {
+                    get() {
+                        return console.log({
+                            value: this.value
+                        }),
+                        this.value.map(e=>this.imageColors.findIndex(o=>e === o)).filter(e=>-1 !== e)
+                    },
+                    set(e) {
+                        const o = e.map(e=>this.imageColors[e]);
+                        this.$emit("input", o)
+                    }
+                }
+            },
+            watch: {
+                imageURL: {
+                    immediate: !0,
+                    async handler(e) {
+                        if ("" === e)
+                            return this.imageColors = [],
+                            void (this.selectedImageColorIndex = []);
+                        try {
+                            const o = await no(e)
+                              , n = ds.getPalette(o).map(e=>cs(...e));
+                            this.imageColors = n
+                        } catch (o) {
+                            Ee.a.error("Extract colors from image failed!")
+                        }
+                    }
+                }
+            },
+            methods: {
+                handleClickImageColorItem(e) {
+                    const o = this.selectedImageColorIndex.indexOf(e)
+                      , n = [...this.selectedImageColorIndex];
+                    if (-1 === o) {
+                        if (this.selectedImageColorIndex.length >= this.maxCount)
+                            return void Ee.a.error(`Only can select ${this.maxCount} colors.`);
+                        n.push(e)
+                    } else
+                        n.splice(o, 1);
+                    this.selectedImageColorIndex = n
+                }
+            }
+        }
+          , gs = vs
+          , fs = (n("0d74"),
+        Object(je["a"])(gs, ls, ms, !1, null, null, null))
+          , js = fs.exports
+          , ks = {
+            data() {
+                return {
+                    showColorsStore: !1,
+                    colorStore: us,
+                    cardSize: 200,
+                    colors: [],
+                    showButtons: !1,
+                    showImageExtractor: !1,
+                    selectedImageColors: [],
+                    over: !1
+                }
+            },
+            components: {
+                ImageColorPicker: js
+            },
+            methods: {
+                handleDragover(e) {
+                    e.preventDefault(),
+                    e.dataTransfer.dropEffect = "move",
+                    this.over = !0
+                },
+                handleDrop(e) {
+                    const o = e.dataTransfer.getData("drag-color")
+                      , {value: n} = JSON.parse(o);
+                    this.handleAddColors([n]),
+                    this.over = !1
+                },
+                handleAddImageColors() {
+                    const e = [...this.selectedImageColors];
+                    this.handleAddColors(e),
+                    this.handleCloseImageColorPicker()
+                },
+                handleCloseImageColorPicker() {
+                    this.showImageExtractor = !1,
+                    this.selectedImageColors = []
+                },
+                handleAddColors(e) {
+                    if (0 === e.length)
+                        return;
+                    const o = new Set(this.colors)
+                      , n = e.filter(e=>!o.has(e));
+                    e.length !== n.length && Ee.a.warning("Repeat colors will not be added."),
+                    this.colors.push(...n),
+                    this.showColorsStore = !1
+                },
+                handleDeleteColor(e) {
+                    this.colors.splice(e, 1)
+                },
+                handleDragStart(e, o) {
+                    const n = JSON.stringify({
+                        value: o
+                    });
+                    e.dataTransfer.setData("drag-color", n)
+                }
+            }
+        }
+          , hs = ks
+          , bs = (n("3da8"),
+        Object(je["a"])(hs, os, ns, !1, null, null, null))
+          , ws = bs.exports
+          , ys = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "color-field",
+                style: {
+                    background: e.over ? "#eee" : "white"
+                },
+                attrs: {
+                    draggable: ""
+                },
+                on: {
+                    dragover: e.handleDragover,
+                    drop: e.handleDrop,
+                    dragleave: function(o) {
+                        e.over = !1
+                    },
+                    dragstart: e.handleDragStart
+                }
+            }, [o("field", {
+                attrs: {
+                    name: e.name
+                }
+            }, [o("el-color-picker", {
+                attrs: {
+                    size: "small",
+                    predefine: e.predefineColors
+                },
+                model: {
+                    value: e.color,
+                    callback: function(o) {
+                        e.color = o
+                    },
+                    expression: "color"
+                }
+            })], 1)], 1)
+        }
+          , Ss = []
+          , xs = {
+            props: {
+                name: String,
+                value: String,
+                colorKey: String
+            },
+            components: {
+                Field: ii
+            },
+            data() {
+                return {
+                    over: !1,
+                    predefineColors: ["#ff4500", "#ff8c00", "#ffd700", "#90ee90", "#00ced1", "#1e90ff", "#c71585"]
+                }
+            },
+            computed: {
+                color: {
+                    get() {
+                        return this.value
+                    },
+                    set(e) {
+                        this.$emit("input", e)
+                    }
+                }
+            },
+            methods: {
+                handleDragStart(e) {
+                    const o = JSON.stringify({
+                        value: this.value,
+                        key: this.colorKey
+                    });
+                    e.dataTransfer.setData("drag-color", o)
+                },
+                handleDragover(e) {
+                    e.preventDefault(),
+                    e.dataTransfer.dropEffect = "move",
+                    this.over = !0
+                },
+                handleDrop(e) {
+                    const o = e.dataTransfer.getData("drag-color")
+                      , {value: n, key: i} = JSON.parse(o);
+                    this.$emit("input", n),
+                    this.over = !1,
+                    i && this.$emit("update", {
+                        key: i,
+                        value: this.value
+                    })
+                }
+            }
+        }
+          , Cs = xs
+          , Fs = (n("f36a"),
+        Object(je["a"])(Cs, ys, Ss, !1, null, null, null))
+          , zs = Fs.exports
+          , Ls = {
+            name: "attribute-tree",
+            components: {
+                Field: ii,
+                Group: ui,
+                ImagePicker: ki,
+                InputNumber: xi,
+                Collapse: Ei,
+                SymbolInput: es,
+                ColorPalette: ws,
+                ColorField: zs
+            },
+            props: {
+                options: Object,
+                values: Object
+            },
+            computed: {
+                value: {
+                    get() {
+                        const {key: e} = this.options;
+                        if (e)
+                            return ro(this.values, e)
+                    },
+                    set(e) {
+                        const {key: o, relations: n=[]} = this.options;
+                        if (o) {
+                            this.handleUpdate({
+                                key: o,
+                                value: e
+                            });
+                            for (const {trigger: o, actions: i} of n)
+                                if (o === e)
+                                    for (const {key: e, value: n, force: s} of i) {
+                                        const o = ro(this.values, e);
+                                        (void 0 === o || s) && this.handleUpdate({
+                                            key: e,
+                                            value: n
+                                        })
+                                    }
+                        }
+                    }
+                }
+            },
+            methods: {
+                handleUpdate(e) {
+                    this.$emit("update", e)
+                }
+            }
+        }
+          , Is = Ls
+          , Es = (n("a8c9"),
+        Object(je["a"])(Is, Yn, Xn, !1, null, null, null))
+          , Os = Es.exports;
+        function Ms() {
+            return [{
+                type: "color",
+                key: "color",
+                name: "背景颜色",
+                defaultValue: "#000"
+            }, {
+                type: "color",
+                key: "foregroundColor",
+                name: "线条颜色",
+                defaultValue: "#89E089"
+            }, {
+                type: "number",
+                key: "lineWidth",
+                name: "线宽",
+                defaultValue: 1,
+                min: 1
+            }, {
+                type: "number",
+                key: "width",
+                name: "间隔宽度",
+                min: 10,
+                defaultValue: 50
+            }, {
+                type: "number",
+                key: "rotation",
+                name: "旋转角度",
+                defaultValue: 0
+            }]
+        }
+        function Ds() {
+            return [{
+                type: "color",
+                key: "color",
+                name: "背景颜色",
+                defaultValue: "#000"
+            }, {
+                type: "color",
+                key: "fillColor",
+                name: "填充颜色",
+                defaultValue: "#000"
+            }, {
+                type: "number",
+                key: "size",
+                name: "大小",
+                defaultValue: 50,
+                min: 0
+            }, {
+                type: "color",
+                key: "strokeColor",
+                name: "半径",
+                defaultValue: "#000"
+            }, {
+                type: "number",
+                key: "lineWidth",
+                name: "线宽",
+                defaultValue: 0,
+                min: 1
+            }, {
+                type: "number",
+                key: "width",
+                name: "X轴间隔",
+                min: 10,
+                defaultValue: 110
+            }, {
+                type: "number",
+                key: "height",
+                name: "Y轴间隔",
+                min: 10,
+                defaultValue: 110
+            }, {
+                type: "number",
+                key: "rotation",
+                name: "旋转",
+                defaultValue: 0
+            }]
+        }
+        function Bs() {
+            return [{
+                type: "color",
+                key: "color",
+                name: "背景颜色",
+                defaultValue: "#000"
+            }, {
+                type: "color",
+                key: "foregroundColor",
+                name: "线条颜色",
+                defaultValue: "#89E089"
+            }, {
+                type: "number",
+                key: "lineWidth",
+                name: "线宽",
+                defaultValue: 30,
+                min: 0
+            }, {
+                type: "number",
+                key: "width",
+                name: "X轴间隔",
+                min: 10,
+                defaultValue: 130
+            }, {
+                type: "number",
+                key: "height",
+                name: "Y轴间隔",
+                min: 10,
+                defaultValue: 130
+            }, {
+                type: "number",
+                key: "arcRadius",
+                name: "弧径",
+                defaultValue: 30
+            }, {
+                type: "number",
+                key: "rotation",
+                name: "旋转",
+                defaultValue: 0
+            }]
+        }
+        function Ts() {
+            return [{
+                type: "color",
+                key: "color",
+                name: "背景颜色",
+                defaultValue: "#000"
+            }, {
+                type: "color",
+                key: "fillColor",
+                name: "填充颜色",
+                defaultValue: "#000"
+            }, {
+                type: "number",
+                key: "size",
+                name: "大小",
+                defaultValue: 20,
+                min: 0
+            }, {
+                type: "color",
+                key: "strokeColor",
+                name: "半径",
+                defaultValue: "#000"
+            }, {
+                type: "number",
+                key: "lineWidth",
+                name: "线宽",
+                defaultValue: 0,
+                min: 0
+            }, {
+                type: "number",
+                key: "width",
+                name: "X轴间隔",
+                min: 10,
+                defaultValue: 40
+            }, {
+                type: "number",
+                key: "height",
+                name: "Y轴间隔",
+                min: 10,
+                defaultValue: 40
+            }, {
+                type: "number",
+                key: "rotation",
+                name: "旋转",
+                defaultValue: 0
+            }, {
+                type: "boolean",
+                key: "staggered",
+                name: "交错",
+                defaultValue: !0
+            }]
+        }
+        const Ns = {
+            line: Ms,
+            dot: Ds,
+            wave: Bs,
+            square: Ts
+        };
+        function Rs(e, o) {
+            const n = ro(e, o + ".type")
+              , i = Ns[n] || Ms;
+            return i(e).map(({key: e, ...n})=>({
+                key: `${o}.${e}`,
+                ...n
+            }))
+        }
+        function Ws(e, o) {
+            const n = Rs(e, o);
+            return n.filter(e=>"color" !== e.type)
+        }
+        function Hs(e, o, n) {
+            const i = Rs(e, o);
+            return i.filter(e=>"color" === e.type).map(({name: e, ...o})=>({
+                name: `${n} - ${e}`,
+                ...o
+            }))
+        }
+        function Ps(e, o) {
+            return Object.entries(Ns).map(([n,i])=>({
+                trigger: n,
+                actions: i(e).map(({key: e, defaultValue: n})=>({
+                    key: `${o}.${e}`,
+                    value: n
+                }))
+            }))
+        }
+        var Us = function(e) {
+            if ("string" != typeof e)
+                return !1;
+            var o = "Arial";
+            if (e.toLowerCase() == o.toLowerCase())
+                return !0;
+            var n = "a"
+              , i = 100
+              , s = 100
+              , r = 100
+              , t = document.createElement("canvas")
+              , a = t.getContext("2d");
+            t.width = s,
+            t.height = r,
+            a.textAlign = "center",
+            a.fillStyle = "black",
+            a.textBaseline = "middle";
+            var _ = function(e) {
+                a.clearRect(0, 0, s, r),
+                a.font = i + "px " + e + ", " + o,
+                a.fillText(n, s / 2, r / 2);
+                var t = a.getImageData(0, 0, s, r).data;
+                return [].slice.call(t).filter((function(e) {
+                    return 0 != e
+                }
+                ))
+            };
+            return _(o).join("") !== _(e).join("")
+        }
+          , As = {
+            windows: [{
+                ch: "宋体",
+                en: "SimSun"
+            }, {
+                ch: "黑体",
+                en: "SimHei"
+            }, {
+                ch: "微软雅黑",
+                en: "Microsoft Yahei"
+            }, {
+                ch: "微软正黑体",
+                en: "Microsoft JhengHei"
+            }, {
+                ch: "楷体",
+                en: "KaiTi"
+            }, {
+                ch: "新宋体",
+                en: "NSimSun"
+            }, {
+                ch: "仿宋",
+                en: "FangSong"
+            }],
+            "OS X": [{
+                ch: "苹方",
+                en: "PingFang SC"
+            }, {
+                ch: "华文黑体",
+                en: "STHeiti"
+            }, {
+                ch: "华文楷体",
+                en: "STKaiti"
+            }, {
+                ch: "华文宋体",
+                en: "STSong"
+            }, {
+                ch: "华文仿宋",
+                en: "STFangsong"
+            }, {
+                ch: "华文中宋",
+                en: "STZhongsong"
+            }, {
+                ch: "华文琥珀",
+                en: "STHupo"
+            }, {
+                ch: "华文新魏",
+                en: "STXinwei"
+            }, {
+                ch: "华文隶书",
+                en: "STLiti"
+            }, {
+                ch: "华文行楷",
+                en: "STXingkai"
+            }, {
+                ch: "冬青黑体简",
+                en: "Hiragino Sans GB"
+            }, {
+                ch: "兰亭黑-简",
+                en: "Lantinghei SC"
+            }, {
+                ch: "翩翩体-简",
+                en: "Hanzipen SC"
+            }, {
+                ch: "手札体-简",
+                en: "Hannotate SC"
+            }, {
+                ch: "宋体-简",
+                en: "Songti SC"
+            }, {
+                ch: "娃娃体-简",
+                en: "Wawati SC"
+            }, {
+                ch: "魏碑-简",
+                en: "Weibei SC"
+            }, {
+                ch: "行楷-简",
+                en: "Xingkai SC"
+            }, {
+                ch: "雅痞-简",
+                en: "Yapi SC"
+            }, {
+                ch: "圆体-简",
+                en: "Yuanti SC"
+            }],
+            office: [{
+                ch: "幼圆",
+                en: "YouYuan"
+            }, {
+                ch: "隶书",
+                en: "LiSu"
+            }, {
+                ch: "华文细黑",
+                en: "STXihei"
+            }, {
+                ch: "华文楷体",
+                en: "STKaiti"
+            }, {
+                ch: "华文宋体",
+                en: "STSong"
+            }, {
+                ch: "华文仿宋",
+                en: "STFangsong"
+            }, {
+                ch: "华文中宋",
+                en: "STZhongsong"
+            }, {
+                ch: "华文彩云",
+                en: "STCaiyun"
+            }, {
+                ch: "华文琥珀",
+                en: "STHupo"
+            }, {
+                ch: "华文新魏",
+                en: "STXinwei"
+            }, {
+                ch: "华文隶书",
+                en: "STLiti"
+            }, {
+                ch: "华文行楷",
+                en: "STXingkai"
+            }, {
+                ch: "方正舒体",
+                en: "FZShuTi"
+            }, {
+                ch: "方正姚体",
+                en: "FZYaoti"
+            }],
+            open: [{
+                ch: "思源黑体",
+                en: "Source Han Sans CN"
+            }, {
+                ch: "思源宋体",
+                en: "Source Han Serif SC"
+            }, {
+                ch: "文泉驿微米黑",
+                en: "WenQuanYi Micro Hei"
+            }],
+            hanyi: [{
+                ch: "汉仪旗黑 40S",
+                en: "HYQihei 40S"
+            }, {
+                ch: "汉仪旗黑 50S",
+                en: "HYQihei 50S"
+            }, {
+                ch: "汉仪旗黑 60S",
+                en: "HYQihei 60S"
+            }, {
+                ch: "汉仪大宋简",
+                en: "HYDaSongJ"
+            }, {
+                ch: "汉仪楷体",
+                en: "HYKaiti"
+            }, {
+                ch: "汉仪家书简",
+                en: "HYJiaShuJ"
+            }, {
+                ch: "汉仪PP体简",
+                en: "HYPPTiJ"
+            }, {
+                ch: "汉仪乐喵体简",
+                en: "HYLeMiaoTi"
+            }, {
+                ch: "汉仪小麦体",
+                en: "HYXiaoMaiTiJ"
+            }, {
+                ch: "汉仪程行体",
+                en: "HYChengXingJ"
+            }, {
+                ch: "汉仪黑荔枝",
+                en: "HYHeiLiZhiTiJ"
+            }, {
+                ch: "汉仪雅酷黑W",
+                en: "HYYaKuHeiW"
+            }, {
+                ch: "汉仪大黑简",
+                en: "HYDaHeiJ"
+            }, {
+                ch: "汉仪尚魏手书W",
+                en: "HYShangWeiShouShuW"
+            }],
+            fangzheng: [{
+                ch: "方正粗雅宋简体",
+                en: "FZYaSongS-B-GB"
+            }, {
+                ch: "方正报宋简体",
+                en: "FZBaoSong-Z04S"
+            }, {
+                ch: "方正粗圆简体",
+                en: "FZCuYuan-M03S"
+            }, {
+                ch: "方正大标宋简体",
+                en: "FZDaBiaoSong-B06S"
+            }, {
+                ch: "方正大黑简体",
+                en: "FZDaHei-B02S"
+            }, {
+                ch: "方正仿宋简体",
+                en: "FZFangSong-Z02S"
+            }, {
+                ch: "方正黑体简体",
+                en: "FZHei-B01S"
+            }, {
+                ch: "方正琥珀简体",
+                en: "FZHuPo-M04S"
+            }, {
+                ch: "方正楷体简体",
+                en: "FZKai-Z03S"
+            }, {
+                ch: "方正隶变简体",
+                en: "FZLiBian-S02S"
+            }, {
+                ch: "方正隶书简体",
+                en: "FZLiShu-S01S"
+            }, {
+                ch: "方正美黑简体",
+                en: "FZMeiHei-M07S"
+            }, {
+                ch: "方正书宋简体",
+                en: "FZShuSong-Z01S"
+            }, {
+                ch: "方正舒体简体",
+                en: "FZShuTi-S05S"
+            }, {
+                ch: "方正水柱简体",
+                en: "FZShuiZhu-M08S"
+            }, {
+                ch: "方正宋黑简体",
+                en: "FZSongHei-B07S"
+            }, {
+                ch: "方正宋三简体",
+                en: "FZSong"
+            }, {
+                ch: "方正魏碑简体",
+                en: "FZWeiBei-S03S"
+            }, {
+                ch: "方正细等线简体",
+                en: "FZXiDengXian-Z06S"
+            }, {
+                ch: "方正细黑一简体",
+                en: "FZXiHei I-Z08S"
+            }, {
+                ch: "方正细圆简体",
+                en: "FZXiYuan-M01S"
+            }, {
+                ch: "方正小标宋简体",
+                en: "FZXiaoBiaoSong-B05S"
+            }, {
+                ch: "方正行楷简体",
+                en: "FZXingKai-S04S"
+            }, {
+                ch: "方正姚体简体",
+                en: "FZYaoTi-M06S"
+            }, {
+                ch: "方正中等线简体",
+                en: "FZZhongDengXian-Z07S"
+            }, {
+                ch: "方正准圆简体",
+                en: "FZZhunYuan-M02S"
+            }, {
+                ch: "方正综艺简体",
+                en: "FZZongYi-M05S"
+            }, {
+                ch: "方正彩云简体",
+                en: "FZCaiYun-M09S"
+            }, {
+                ch: "方正隶二简体",
+                en: "FZLiShu II-S06S"
+            }, {
+                ch: "方正康体简体",
+                en: "FZKangTi-S07S"
+            }, {
+                ch: "方正超粗黑简体",
+                en: "FZChaoCuHei-M10S"
+            }, {
+                ch: "方正新报宋简体",
+                en: "FZNew BaoSong-Z12S"
+            }, {
+                ch: "方正新舒体简体",
+                en: "FZNew ShuTi-S08S"
+            }, {
+                ch: "方正黄草简体",
+                en: "FZHuangCao-S09S"
+            }, {
+                ch: "方正少儿简体",
+                en: "FZShaoEr-M11S"
+            }, {
+                ch: "方正稚艺简体",
+                en: "FZZhiYi-M12S"
+            }, {
+                ch: "方正细珊瑚简体",
+                en: "FZXiShanHu-M13S"
+            }, {
+                ch: "方正粗宋简体",
+                en: "FZCuSong-B09S"
+            }, {
+                ch: "方正平和简体",
+                en: "FZPingHe-S11S"
+            }, {
+                ch: "方正华隶简体",
+                en: "FZHuaLi-M14S"
+            }, {
+                ch: "方正瘦金书简体",
+                en: "FZShouJinShu-S10S"
+            }, {
+                ch: "方正细倩简体",
+                en: "FZXiQian-M15S"
+            }, {
+                ch: "方正中倩简体",
+                en: "FZZhongQian-M16S"
+            }, {
+                ch: "方正粗倩简体",
+                en: "FZCuQian-M17S"
+            }, {
+                ch: "方正胖娃简体",
+                en: "FZPangWa-M18S"
+            }, {
+                ch: "方正宋一简体",
+                en: "FZSongYi-Z13S"
+            }, {
+                ch: "方正剪纸简体",
+                en: "FZJianZhi-M23S"
+            }, {
+                ch: "方正流行体简体",
+                en: "FZLiuXingTi-M26S"
+            }, {
+                ch: "方正祥隶简体",
+                en: "FZXiangLi-S17S"
+            }, {
+                ch: "方正粗活意简体",
+                en: "FZCuHuoYi-M25S"
+            }, {
+                ch: "方正胖头鱼简体",
+                en: "FZPangTouYu-M24S"
+            }, {
+                ch: "方正卡通简体",
+                en: "FZKaTong-M19S"
+            }, {
+                ch: "方正艺黑简体",
+                en: "FZYiHei-M20S"
+            }, {
+                ch: "方正水黑简体",
+                en: "FZShuiHei-M21S"
+            }, {
+                ch: "方正古隶简体",
+                en: "FZGuLi-S12S"
+            }, {
+                ch: "方正幼线简体",
+                en: "FZYouXian-Z09S"
+            }, {
+                ch: "方正启体简体",
+                en: "FZQiTi-S14S"
+            }, {
+                ch: "方正小篆体",
+                en: "FZXiaoZhuanTi-S13T"
+            }, {
+                ch: "方正硬笔楷书简体",
+                en: "FZYingBiKaiShu-S15S"
+            }, {
+                ch: "方正毡笔黑简体",
+                en: "FZZhanBiHei-M22S"
+            }, {
+                ch: "方正硬笔行书简体",
+                en: "FZYingBiXingShu-S16S"
+            }]
+        };
+        const qs = [];
+        for (var Zs in As)
+            As[Zs].forEach(e=>{
+                Us(e.en) && qs.push(e)
+            }
+            );
+        const Js = Array.from(new Set(qs.map(e=>e.en)))
+          , Gs = Js.map(e=>({
+            name: e,
+            fontURL: void 0
+        }));
+        var $s = n("2118")
+          , Vs = n.n($s);
+        const Ys = [{
+            name: "Luckiest Guy",
+            fontURL: Vs.a,
+            type: "en"
+        }];
+        function Xs(e) {
+            return {
+                value: e.name,
+                label: e.name + (e.type ? ` (${e.type})` : ""),
+                template: `<span style="font-family:${e.name}">${e.name}</span>`,
+                url: e.fontURL
+            }
+        }
+        function Ks(e) {
+            return [{
+                type: "symbol-text",
+                key: "text.content",
+                name: "内容",
+                placeholder: "Please input title"
+            }, {
+                name: "字体",
+                type: "collapse",
+                defaultOpen: !1,
+                children: [{
+                    type: "select-group",
+                    key: "text.fontFamily",
+                    name: "字体库",
+                    groups: [{
+                        label: "Online Fonts",
+                        options: Ys.map(Xs)
+                    }, {
+                        label: "System Fonts",
+                        options: Gs.map(Xs)
+                    }],
+                    relations: [...Ys, ...Gs].map(e=>({
+                        trigger: e.name,
+                        actions: [{
+                            key: "text.fontURL",
+                            value: e.fontURL,
+                            force: !0
+                        }]
+                    }))
+                }, {
+                    type: "select",
+                    key: "text.mode",
+                    name: "尺寸",
+                    options: [{
+                        value: "none",
+                        label: "正常"
+                    }, {
+                        value: "autoFit",
+                        label: "自适应"
+                    }, {
+                        value: "constrain",
+                        label: "自定义"
+                    }],
+                    relations: [{
+                        trigger: "none",
+                        actions: [{
+                            key: "text.fontSize",
+                            value: 200
+                        }]
+                    }, {
+                        trigger: "autoFit",
+                        actions: [{
+                            key: "text.padding",
+                            value: 0
+                        }, {
+                            key: "text.dy",
+                            value: 0
+                        }]
+                    }, {
+                        trigger: "constrain",
+                        actions: [{
+                            key: "text.fontSize",
+                            value: 200
+                        }, {
+                            key: "text.padding",
+                            value: 50
+                        }, {
+                            key: "text.dy",
+                            value: 0
+                        }]
+                    }]
+                }, ...Qs(e)]
+            }, {
+                type: "collapse",
+                name: "样式",
+                defaultOpen: !1,
+                children: [{
+                    type: "select",
+                    key: "text.type",
+                    name: "类型",
+                    options: [{
+                        value: "none",
+                        label: "无"
+                    }, {
+                        value: "line",
+                        label: "线条"
+                    }, {
+                        value: "dot",
+                        label: "圆点"
+                    }, {
+                        value: "wave",
+                        label: "波浪"
+                    }, {
+                        value: "square",
+                        label: "方块"
+                    }],
+                    relations: Ps(e, "text")
+                }, ...er(e)]
+            }]
+        }
+        function Qs(e) {
+            const o = ro(e, "text.mode")
+              , n = {
+                type: "number",
+                key: "text.fontSize",
+                name: "字体大小",
+                min: 50
+            }
+              , i = {
+                type: "number",
+                key: "text.padding",
+                name: "缩放",
+                min: 0
+            }
+              , s = {
+                type: "number",
+                key: "text.dy",
+                name: "Y轴偏移"
+            };
+            return "none" === o ? [n, s] : "autoFit" === o ? [i, s] : "constrain" === o ? [n, i, s] : void 0
+        }
+        function er(e) {
+            const o = ro(e, "text.type");
+            return o && "none" !== o ? Ws(e, "text") : []
+        }
+        var or = n("aa79")
+          , nr = n.n(or);
+        const ir = nr.a;
+        function sr(e) {
+            return [{
+                type: "radio",
+                key: "background.mode",
+                name: "类型",
+                options: [{
+                    value: "image",
+                    label: "图片"
+                }, {
+                    value: "pattern",
+                    label: "默认"
+                }],
+                relations: [{
+                    trigger: "image",
+                    actions: [{
+                        key: "background.imageURL",
+                        value: ir
+                    }]
+                }, {
+                    trigger: "pattern",
+                    actions: [{
+                        key: "background.type",
+                        value: "none"
+                    }, {
+                        key: "background.color",
+                        value: "#000000"
+                    }]
+                }]
+            }, ...rr(e)]
+        }
+        function rr(e) {
+            const o = ro(e, "background.mode");
+            return "image" === o ? [{
+                type: "image",
+                key: "background.imageURL",
+                name: "Image"
+            }] : [{
+                type: "collapse",
+                name: "样式",
+                defaultOpen: !1,
+                children: [{
+                    type: "select",
+                    key: "background.type",
+                    name: "类型",
+                    options: [{
+                        value: "none",
+                        label: "无"
+                    }, {
+                        value: "line",
+                        label: "线条"
+                    }, {
+                        value: "dot",
+                        label: "圆点"
+                    }, {
+                        value: "wave",
+                        label: "波浪"
+                    }, {
+                        value: "square",
+                        label: "方块"
+                    }],
+                    relations: [{
+                        trigger: "none",
+                        actions: [{
+                            key: "background.color",
+                            value: "#000000"
+                        }]
+                    }, ...Ps(e, "background")]
+                }, ...tr(e)]
+            }]
+        }
+        function tr(e) {
+            const o = ro(e, "background.type");
+            return o && "none" !== o ? Ws(e, "background") : []
+        }
+        function ar(e) {
+            return [..._r(e), ...ur(e)]
+        }
+        function _r(e) {
+            const o = ro(e, "text.type");
+            return o && "none" !== o ? Hs(e, "text", "字体") : [{
+                type: "color",
+                key: "text.color",
+                name: "字体颜色"
+            }]
+        }
+        function ur(e) {
+            const o = ro(e, "background.mode")
+              , n = ro(e, "background.type");
+            return "image" === o ? [] : n && "none" !== n ? Hs(e, "background", "背景") : [{
+                type: "color",
+                key: "background.color",
+                name: "背景颜色"
+            }]
+        }
+        function lr(e) {
+            return {
+                type: "container",
+                children: [{
+                    type: "section",
+                    name: "Colors",
+                    help: '\n        <p style="color: #606266;font-size:14px;line-height: 1.4;">如何自定义配色</p>\n        <img  src="https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706441305845.gif" />\n        ',
+                    children: [{
+                        type: "collapse",
+                        name: "调色板",
+                        defaultOpen: !0,
+                        indent: !1,
+                        children: [{
+                            type: "color-palette"
+                        }]
+                    }, ...ar(e)]
+                }, {
+                    type: "section",
+                    name: "字体设置",
+                    children: Ks(e)
+                }, {
+                    type: "section",
+                    name: "背景设置",     
+                    children: sr(e)
+                }]
+            }
+        }
+        const mr = ()=>({
+            data() {
+                return {
+                    fullscreen: !1
+                }
+            },
+            mounted() {
+                document.addEventListener("fullscreenchange", this.handleFullscreenChange)
+            },
+            destroyed() {
+                document.removeEventListener("fullscreenchange", this.handleFullscreenChange)
+            },
+            methods: {
+                handleFullscreenChange() {
+                    this.fullscreen = !!document.fullscreenElement
+                }
+            }
+        });
+        var pr = {
+            components: {
+                Wallpaper: lo,
+                AttributeTree: Os
+            },
+            name: "editor",
+            data() {
+                const e = localStorage.getItem("cd-example")
+                  , o = localStorage.getItem("cd-type");
+                return {
+                    example: e ? JSON.parse(e) : Wo,
+                    activeDevice: "pc" === o ? 1 : 7,
+                    customWidth: screen.width,
+                    customHeight: screen.height,
+                    rotate: !1,
+                    devices: [{
+                        name: "Custom"
+                    }, {
+                        name: "PC",
+                        width: screen.width,
+                        height: screen.height,
+                        divided: !0
+                    }, {
+                        name: "Moto G4",
+                        width: 360,
+                        height: 640,
+                        divided: !0
+                    }, {
+                        name: "Galaxy S5",
+                        width: 360,
+                        height: 640
+                    }, {
+                        name: "Pixel 2",
+                        width: 411,
+                        height: 731
+                    }, {
+                        name: "Pixel 2 XL",
+                        width: 411,
+                        height: 823
+                    }, {
+                        name: "IPhone 5/SE",
+                        width: 320,
+                        height: 568
+                    }, {
+                        name: "IPhone 6/7/8",
+                        width: 375,
+                        height: 667
+                    }, {
+                        name: "IPhone 6/7/8 Plus",
+                        width: 414,
+                        height: 736
+                    }, {
+                        name: "IPhone X",
+                        width: 375,
+                        height: 812
+                    }, {
+                        name: "IPad",
+                        width: 768,
+                        height: 1024
+                    }, {
+                        name: "IPad Pro",
+                        width: 1024,
+                        height: 1366
+                    }, {
+                        name: "Surface Duo",
+                        width: 540,
+                        height: 720
+                    }, {
+                        name: "Galaxy Fold",
+                        width: 280,
+                        height: 653
+                    }, {
+                        name: "Nest Hub",
+                        width: 1024,
+                        height: 600
+                    }, {
+                        name: "Nest Hub Max",
+                        width: 1280,
+                        height: 800
+                    }]
+                }
+            },
+            mixins: [xo(), mr(), Co("preview")],
+            watch: {
+                deviceSize(e, o) {
+                    const [,n] = o
+                      , [,i] = e
+                      , s = i / n;
+                    this.example = Wn(this.example, s)
+                }
+            },
+            computed: {
+                wallpaperStyles() {
+                    const {transformed: {translateX: e, translateY: o, scale: n}} = this;
+                    return this.fullscreen ? {} : {
+                        transform: `translate(${e}px, ${o}px) scale(${n}, ${n})`,
+                        transformOrigin: "left top"
+                    }
+                },
+                deviceSize() {
+                    let e, o;
+                    if (0 === this.activeDevice)
+                        e = this.customWidth,
+                        o = this.customHeight;
+                    else {
+                        const {width: n, height: i} = this.devices[this.activeDevice];
+                        e = n,
+                        o = i
+                    }
+                    return this.rotate && ([e,o] = [o, e]),
+                    [e, o]
+                },
+                attribute() {
+                    return lr(this.example)
+                },
+                transformed() {
+                    const {previewWidth: e, previewHeight: o} = this
+                      , [n,i] = this.deviceSize
+                      , s = 50
+                      , r = e - 2 * s
+                      , t = o - 2 * s
+                      , a = t / i
+                      , _ = r / n
+                      , u = Math.min(a, _, 1)
+                      , l = (e - n * u) / 2
+                      , m = (o - i * u) / 2;
+                    return {
+                        scale: u,
+                        translateX: l,
+                        translateY: m
+                    }
+                }
+            },
+            methods: {
+                handleUpdateExample({key: e, value: o}) {
+                    this.example = to(this.example),
+                    so(this.example, e, o)
+                },
+                handleDownloadImage() {
+                    try {
+                        di(this.canvas, "wallpaper")
+                    } catch (e) {
+                        Ee.a.error({
+                            message: "The online image can't be downloaded, You can take a screenshot in preview mode or upload local image!",
+                            duration: 5e3
+                        }),
+                        console.log(e)
+                    }
+                },
+                handleDownloadFile() {
+                    vi(this.example, "index")
+                },
+                handleHelp() {
+                    this.$router.push("/about")
+                },
+                async handlePreview() {
+                    try {
+                        await document.documentElement.requestFullscreen()
+                    } catch {
+                        Ee.a.success("Failed to enter full screen")
+                    }
+                }
+            }
+        }
+          , cr = pr
+          , dr = (n("177c"),
+        Object(je["a"])(cr, $n, Vn, !1, null, null, null))
+          , vr = dr.exports
+          , gr = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "about-container"
+            }, [o("div", {
+                staticClass: "about-header"
+            }, [o("div", [o("h1", [e._v("About")]), o("p", [e._v(' 写 "福 "字是中国新年的传统，人们会在红纸上写一个大大的 "福 "字，贴在门上，表达对新年的美好期盼。 ')]), o("p", [e._v(" 我认为这就是一个很好的例子，人们用文字和颜色来表达自己的情感或想法。 ")]), o("p", [e._v(" 如果能用更多的颜色和文字来制作壁纸，表达更多的情感，那会怎样呢？不仅能让壁纸变得漂亮，还能让壁纸变得有意义。 ")]), o("p", [e._v(" LuckySheep提供了一些颜色、图案和文字，你甚至可以从图像中提取颜色。找到它们背后的故事，书写属于你自己的篇章✨。")]), o("p", [o("el-select", {
+                model: {
+                    value: e.selectedValue,
+                    callback: function(o) {
+                        e.selectedValue = o
+                    },
+                    expression: "selectedValue"
+                }
+            }, e._l(e.types, (function(e) {
+                return o("el-option", {
+                    key: e.value,
+                    attrs: {
+                        label: e.label,
+                        value: e.value
+                    }
+                })
+            }
+            )), 1), "color" === e.selectedValue ? o("el-select", {
+                model: {
+                    value: e.selectedMode,
+                    callback: function(o) {
+                        e.selectedMode = o
+                    },
+                    expression: "selectedMode"
+                }
+            }, e._l(e.modes, (function(e) {
+                return o("el-option", {
+                    key: e.value,
+                    attrs: {
+                        label: e.label,
+                        value: e.value
+                    }
+                })
+            }
+            )), 1) : e._e()], 1)]), o("img", {
+                staticClass: "about-image",
+                attrs: {
+                    src: "https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439569529.webp",
+                    width: "32%"
+                }
+            })]), o("div", {
+                staticClass: "about-body"
+            }, ["emoji" === e.selectedValue ? o("div", [o("div", {
+                staticClass: "about-emoji-container"
+            }, e._l(e.emojis, (function(n) {
+                return o("span", {
+                    key: n.emoji,
+                    on: {
+                        click: ()=>e.handleClickEmoji(n.emoji)
+                    }
+                }, [e._v(e._s(n.emoji))])
+            }
+            )), 0), o("p", [e._v(" These emojis are from "), o("el-link", {
+                attrs: {
+                    type: "primary",
+                    href: "https://github.com/muan/emoji",
+                    target: "_blank"
+                }
+            }, [e._v("muan / emoji")]), e._v(" ❤️. ")], 1)]) : e._e(), "emoticon" === e.selectedValue ? o("div", {
+                staticStyle: {
+                    "text-align": "left"
+                }
+            }, e._l(e.faces, (function(n) {
+                return o("span", {
+                    key: n,
+                    staticClass: "about-emoticon-item",
+                    on: {
+                        click: ()=>e.handleClickEmoticon(n)
+                    }
+                }, [e._v(e._s(n))])
+            }
+            )), 0) : e._e(), "color" === e.selectedValue && "store" === e.selectedMode ? o("div", e._l(e.colorStore, (function(n) {
+                return o("div", {
+                    key: n.name,
+                    staticClass: "about-color-collection"
+                }, [o("h2", [e._v(e._s(n.name))]), o("p", {
+                    staticClass: "about-color-collection-des",
+                    domProps: {
+                        innerHTML: e._s(n.des)
+                    }
+                }), o("div", {
+                    staticClass: "about-color-container"
+                }, e._l(n.colors, (function(n) {
+                    return o("div", {
+                        key: n.name,
+                        staticClass: "about-color-item"
+                    }, [o("div", {
+                        staticClass: "about-color-item-wrapper",
+                        style: {
+                            height: e.cardSize + "px"
+                        },
+                        on: {
+                            click: ()=>e.handleClickColors(n.name || "ColorFu", n.values)
+                        }
+                    }, e._l(n.values, (function(i) {
+                        return o("div", {
+                            key: i,
+                            style: {
+                                background: i,
+                                width: "100%",
+                                height: e.cardSize / (n.values.length || 1) + "px"
+                            }
+                        })
+                    }
+                    )), 0), o("span", {
+                        staticClass: "about-color-name"
+                    }, [n.link ? o("el-link", {
+                        attrs: {
+                            href: n.link,
+                            target: "_blank"
+                        }
+                    }, [e._v(e._s(n.name || "Learn More"))]) : o("span", [e._v(e._s(n.name || "Learn More"))])], 1)])
+                }
+                )), 0)])
+            }
+            )), 0) : e._e(), "color" === e.selectedValue && "image" === e.selectedMode ? o("div", {
+                staticStyle: {
+                    "text-align": "left",
+                    "margin-bottom": "2em"
+                }
+            }, [o("image-color-picker", {
+                attrs: {
+                    maxCount: 4
+                },
+                model: {
+                    value: e.selectedImageColors,
+                    callback: function(o) {
+                        e.selectedImageColors = o
+                    },
+                    expression: "selectedImageColors"
+                }
+            }), o("el-button", {
+                staticClass: "storey-make-button",
+                attrs: {
+                    type: "primary",
+                    disabled: 0 === e.selectedImageColors.length
+                },
+                on: {
+                    click: ()=>e.handleClickColors("ColorFu", e.selectedImageColors)
+                }
+            }, [e._v("Make Wallpaper")])], 1) : e._e(), "pattern" === e.selectedValue ? o("div", {
+                staticClass: "about-pattern-container"
+            }, e._l(e.patterns, (function(n) {
+                return o("div", {
+                    key: n.label,
+                    staticClass: "about-pattern-item",
+                    on: {
+                        click: ()=>e.handleClickPattern(n.label, n.textColor, n.options)
+                    }
+                }, [o("pattern-card", {
+                    attrs: {
+                        options: n.options,
+                        size: e.patternSize,
+                        name: n.label
+                    }
+                })], 1)
+            }
+            )), 0) : e._e()])])
+        }
+          , fr = []
+          , jr = function() {
+            var e = this
+              , o = e._self._c;
+            return o("div", {
+                staticClass: "pattern-card-container"
+            }, [o("canvas", {
+                ref: "canvas",
+                staticClass: "pattern"
+            }), o("span", [e._v(e._s(e.name))])])
+        }
+          , kr = []
+          , hr = {
+            props: {
+                options: Object,
+                size: {
+                    type: Number,
+                    default: 300
+                },
+                name: String
+            },
+            mounted() {
+                const e = this.$refs.canvas
+                  , o = Oe(e, this.size, this.size)
+                  , {color: n} = this.options;
+                o.fillStyle = qe(o, {
+                    ...this.options,
+                    backgroundColor: n
+                }),
+                o.fillRect(0, 0, this.size, this.size)
+            }
+        }
+          , br = hr
+          , wr = (n("0cf1"),
+        Object(je["a"])(br, jr, kr, !1, null, null, null))
+          , yr = wr.exports;
+        const Sr = [{
+            label: "线条",
+            textColor: "#FFDC34",
+            options: {
+                type: "line",
+                color: "#4DD599",
+                mode: "pattern",
+                foregroundColor: "#00918E",
+                lineWidth: 189,
+                width: 204,
+                rotation: -22
+            }
+        }, {
+            label: "波浪",
+            textColor: "#372923",
+            options: {
+                type: "wave",
+                color: "#e97e18",
+                mode: "pattern",
+                foregroundColor: "#efd496",
+                lineWidth: 30,
+                width: 130,
+                height: 130,
+                arcRadius: 30,
+                rotation: -30
+            }
+        }, {
+            label: "圆圈",
+            textColor: "#583d33",
+            options: {
+                type: "dot",
+                color: "#9e3b37",
+                mode: "pattern",
+                fillColor: "#d87265",
+                size: 80,
+                strokeColor: "#d87265",
+                lineWidth: 1,
+                width: 150,
+                height: 150,
+                rotation: 45
+            }
+        }, {
+            label: "方块",
+            textColor: "#FFD460",
+            options: {
+                type: "square",
+                color: "#2D4059",
+                mode: "pattern",
+                fillColor: "#ea5455",
+                size: 50,
+                strokeColor: "#ea5455",
+                lineWidth: 0,
+                width: 100,
+                height: 100,
+                rotation: 0,
+                staggered: !0
+            }
+        }]
+          , xr = Object.values(Ti).flat();
+        function Cr(e) {
+            return e.length <= 3 ? 100 : 4 === e.length ? 80 : 30
+        }
+        var Fr = {
+            data() {
+                return {
+                    types: [{
+                        value: "color",
+                        label: "预设配色 🌈"
+                    }, {
+                        value: "pattern",
+                        label: "简约背景 👨‍👩‍👧‍👧"
+                    }, {
+                        value: "emoji",
+                        label: "表情包 😆"
+                    }, {
+                        value: "emoticon",
+                        label: "w(ﾟДﾟ)w"
+                    }],
+                    modes: [{
+                        value: "store",
+                        label: "预设配色🏳️‍🌈"
+                    }, {
+                        value: "image",
+                        label: "从图片导入🏞️"
+                    }],
+                    selectedValue: "color",
+                    selectedMode: "store",
+                    emojis: xr,
+                    faces: Ji,
+                    patterns: Sr,
+                    colorStore: us,
+                    cardSize: 200,
+                    selectedImageColors: [],
+                    patternSize: screen.width / 2
+                }
+            },
+            components: {
+                ImageColorPicker: js,
+                PatternCard: yr
+            },
+            methods: {
+                handleClickEmoticon(e) {
+                    const o = {
+                        text: {
+                            content: e,
+                            fontSize: 200,
+                            fontFamily: "Luckiest Guy",
+                            fontURL: "./fonts/luckiest_guy.woff2",
+                            type: "none",
+                            color: "#000000",
+                            mode: "autoFit",
+                            padding: 0,
+                            dy: 30
+                        },
+                        background: {
+                            type: "none",
+                            color: "#FBB82C",
+                            mode: "pattern"
+                        }
+                    };
+                    Rn(this.$router, o)
+                },
+                handleClickEmoji(e) {
+                    const o = {
+                        text: {
+                            content: e,
+                            fontSize: 100,
+                            fontFamily: "Luckiest Guy",
+                            fontURL: "./fonts/luckiest_guy.woff2",
+                            type: "none",
+                            color: "#000",
+                            mode: "none",
+                            padding: 0,
+                            dy: 0
+                        },
+                        background: {
+                            type: "none",
+                            color: "#4DD599",
+                            mode: "pattern"
+                        }
+                    };
+                    Rn(this.$router, o)
+                },
+                handleClickColors(e, o) {
+                    let n;
+                    if (1 === o.length)
+                        n = {
+                            text: {
+                                content: e,
+                                fontSize: 200,
+                                fontFamily: "Luckiest Guy",
+                                fontURL: "./fonts/luckiest_guy.woff2",
+                                type: "none",
+                                color: "#ffffff",
+                                mode: "autoFit",
+                                padding: 0,
+                                dy: Cr(e)
+                            },
+                            background: {
+                                type: "none",
+                                color: o[0],
+                                mode: "pattern"
+                            }
+                        };
+                    else if (2 === o.length)
+                        n = {
+                            text: {
+                                content: e,
+                                fontSize: 200,
+                                fontFamily: "Luckiest Guy",
+                                fontURL: "./fonts/luckiest_guy.woff2",
+                                type: "none",
+                                color: o[1],
+                                mode: "autoFit",
+                                padding: 0,
+                                dy: Cr(e)
+                            },
+                            background: {
+                                type: "none",
+                                color: o[0],
+                                mode: "pattern"
+                            }
+                        };
+                    else if (3 === o.length) {
+                        const [i,s,r] = o;
+                        n = {
+                            text: {
+                                content: e,
+                                fontSize: 200,
+                                fontFamily: "Luckiest Guy",
+                                fontURL: "./fonts/luckiest_guy.woff2",
+                                type: "none",
+                                color: i,
+                                mode: "autoFit",
+                                padding: 0,
+                                dy: Cr(e)
+                            },
+                            background: {
+                                type: "dot",
+                                color: s,
+                                mode: "pattern",
+                                fillColor: r,
+                                size: 100,
+                                strokeColor: r,
+                                lineWidth: 1,
+                                width: 210,
+                                height: 210,
+                                rotation: 45
+                            }
+                        }
+                    } else if (4 === o.length) {
+                        const [i,s,r,t] = o;
+                        n = {
+                            text: {
+                                content: e,
+                                fontSize: 200,
+                                fontFamily: "Luckiest Guy",
+                                fontURL: "./fonts/luckiest_guy.woff2",
+                                type: "line",
+                                rotation: 45,
+                                width: 25,
+                                height: 25,
+                                foregroundColor: t,
+                                color: r,
+                                mode: "autoFit",
+                                lineWidth: 1.5,
+                                padding: 0,
+                                dy: Cr(e)
+                            },
+                            background: {
+                                mode: "pattern",
+                                color: i,
+                                foregroundColor: s,
+                                type: "line",
+                                width: 50,
+                                lineWidth: 1.5,
+                                rotation: 0
+                            }
+                        }
+                    }
+                    Rn(this.$router, n)
+                },
+                handleClickPattern(e, o, n) {
+                    const i = {
+                        text: {
+                            content: e,
+                            fontSize: 200,
+                            fontFamily: "Luckiest Guy",
+                            fontURL: "./fonts/luckiest_guy.woff2",
+                            type: "none",
+                            color: o,
+                            mode: "autoFit",
+                            padding: 0,
+                            dy: Cr(e)
+                        },
+                        background: n
+                    };
+                    Rn(this.$router, i)
+                }
+            }
+        }
+          , zr = Fr
+          , Lr = (n("a5de"),
+        Object(je["a"])(zr, gr, fr, !1, null, null, null))
+          , Ir = Lr.exports;
+        ue["default"].use(xe["a"]);
+        const Er = [{
+            path: "/",
+            component: Gn
+        }, {
+            path: "/editor",
+            component: vr,
+            name: "editor"
+        }, {
+            path: "/about",
+            component: Ir,
+            name: "about"
+        }]
+          , Or = new xe["a"]({
+            routes: Er,
+            mode: "hash",
+            base: "/colorfu"
+        });
+        var Mr = Or
+          , Dr = (n("8968"),
+        n("4280"))
+          , Br = n.n(Dr)
+          , Tr = n("1df5")
+          , Nr = n.n(Tr);
+        ue["default"].config.productionTip = !1,
+        ue["default"].use(_e.a),
+        ue["default"].use(te.a),
+        ue["default"].use(se.a),
+        ue["default"].use(ne.a),
+        ue["default"].use(ee.a),
+        ue["default"].use(K.a),
+        ue["default"].use(Y.a),
+        ue["default"].use($.a),
+        ue["default"].use(J.a),
+        ue["default"].use(q.a),
+        ue["default"].use(U.a),
+        ue["default"].use(H.a),
+        ue["default"].use(R.a),
+        ue["default"].use(T.a),
+        ue["default"].use(D.a),
+        ue["default"].use(O.a),
+        ue["default"].use(I.a),
+        ue["default"].use(z.a),
+        ue["default"].use(C.a),
+        ue["default"].use(S.a),
+        ue["default"].use(w.a),
+        ue["default"].use(h.a),
+        ue["default"].use(j.a),
+        ue["default"].use(g.a),
+        ue["default"].use(d.a),
+        ue["default"].use(p.a),
+        ue["default"].use(l.a),
+        ue["default"].use(_.a),
+        ue["default"].use(t.a),
+        ue["default"].use(s.a),
+        ue["default"].component(me.a.name, me.a),
+        Br.a.use(Nr.a),
+        new ue["default"]({
+            render: e=>e(Se),
+            router: Mr
+        }).$mount("#app")
+    },
+    "5f25": function(e, o, n) {},
+    "6c42": function(e, o, n) {},
+    7523: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Déjà Vu","fontSize":629,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#372923","mode":"constrain","padding":139,"dy":123},"background":{"type":"wave","color":"#e97e18","mode":"pattern","foregroundColor":"#efd496","lineWidth":30,"width":130,"height":130,"arcRadius":30,"rotation":29}}')
+    },
+    7786: function(e) {
+        e.exports = JSON.parse('["w(ﾟДﾟ)w","(ノへ￣、)","(￣_,￣ )","ヽ(✿ﾟ▽ﾟ)ノ","(๑•̀ㅂ•́)و✧","(￣ε(#￣)☆","φ(≧ω≦*)♪","o(￣皿￣///)","Σ( ° △ °|||)︴","（づ￣3￣）づ╭❤～","(～￣(OO)￣)ブ","凸(艹皿艹 )","(* ￣3)(ε￣ *)","(*￣rǒ￣)","┗|｀O′|┛ 嗷~~","︿(￣︶￣)︿","(u‿ฺu✿ฺ)","Hi~ o(*￣▽￣*)ブ","♪(^∇^*)","o(*≧▽≦)ツ┏━┓","╰(*°▽°*)╯","（○｀ 3′○）","o(*^＠^*)o","(°ー°〃)","○|￣|_ =3","o(￣ヘ￣o＃)","（＝。＝）","~~( ﹁ ﹁ ) ~~~","(ーー゛)","(ー`´ー)","(#`O′)","o(一︿一+)o","o(≧口≦)o","ㄟ( ▔, ▔ )ㄏ","(o_ _)ﾉ","(⊙﹏⊙)","(ˉ▽￣～) 切~~","（＊￣（エ）￣）","┑(￣Д ￣)┍","(＠_＠;)","━┳━　━┳━","(☆´益`)c","（´Д`）","┗( T﹏T )┛","(。﹏。*)","o( =•ω•= )m","≡ω≡","(*￣(エ)￣)","(✿◡‿◡)","(*/ω＼*)","┭┮﹏┭┮","ヾ(￣▽￣)Bye~Bye~","( ﹁ ﹁ ) ~→","Ψ(￣∀￣)Ψ","✧(≖ ◡ ≖✿)","━━(￣ー￣*|||━━","ヽ(*。>Д<)o゜","┌(。Д。)┐","○|￣|_","o(￣▽￣)ｄ","(；′⌒`)","X﹏X","*<|:-) "]')
+    },
+    7882: function(e, o, n) {},
+    7894: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"👁️","fontSize":100,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#000","mode":"none","padding":0,"dy":0},"background":{"type":"none","color":"#4DD599","mode":"pattern"}}')
+    },
+    "79f6": function(e, o, n) {},
+    "7dca": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Not from hammer","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#ecdc75","mode":"autoFit","padding":0,"dy":30},"background":{"type":"none","color":"#8c9ed9","mode":"pattern"}}')
+    },
+    "80cf": function(e, o, n) {},
+    8399: function(e, o, n) {},
+    8968: function(e, o, n) {},
+    "8ae6": function(e, o, n) {},
+    "8bc9": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"🌶️🐔","fontSize":197,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#000","mode":"none","padding":0,"dy":0},"background":{"type":"none","color":"#F8BA03","mode":"pattern"}}')
+    },
+    "9bef": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"A warm heart","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#eabe4f","mode":"autoFit","padding":0,"dy":30},"background":{"type":"none","color":"#b93233","mode":"pattern"}}')
+    },
+    "9e79": function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Air Jordan","fontSize":687,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#10090a","mode":"constrain","padding":76,"dy":74},"background":{"type":"none","color":"#c40827","mode":"pattern"}}')
+    },
+    a5de: function(e, o, n) {
+        "use strict";
+        n("1b79")
+    },
+    a753: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"生\\n生\\n不\\n息","fontSize":150,"fontFamily":"Hannotate SC","type":"none","color":"#7FE160","mode":"none","padding":0,"dy":0},"background":{"type":"none","color":"#30CD7A","mode":"pattern"}}')
+    },
+    a8c9: function(e, o, n) {
+        "use strict";
+        n("086e")
+    },
+    aa79: function(e, o, n) {
+        e.exports = "https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439202510.webp"
+    },
+    abb8: function(e, o, n) {
+        "use strict";
+        n("fd84")
+    },
+    af95: function(e, o, n) {
+        "use strict";
+        n("8399")
+    },
+    b15c: function(e, o, n) {},
+    b206: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"无\\n极\\n限","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#ffffff","mode":"none","padding":0,"dy":0},"background":{"type":"none","color":"#24292e","mode":"pattern"}}')
+    },
+    bcb9: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"o(￣▽￣)ｄ","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#fff","mode":"autoFit","padding":0,"dy":30},"background":{"mode":"image","imageURL":"https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439435287.webp"}}')
+    },
+    bd6d: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Be yourself. 🌹","fontSize":100,"fontFamily":"Hanzipen SC","type":"none","color":"#222831","mode":"none","padding":0,"dy":33},"background":{"type":"line","color":"#FFD369","mode":"pattern","foregroundColor":"#FEFFC8","lineWidth":1,"width":23,"height":81,"arcRadius":0,"rotation":45,"fillColor":"#FFFFFF","size":3,"strokeColor":"#FFFFFF"}}')
+    },
+    c405: function(e, o, n) {},
+    c4d9: function(e, o, n) {
+        "use strict";
+        n("6c42")
+    },
+    c604: function(e) {
+        e.exports = JSON.parse('{"Smileys & Emotion":[{"emoji":"😀","skin_tone_support":false,"name":"grinning face","slug":"grinning_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😃","skin_tone_support":false,"name":"grinning face with big eyes","slug":"grinning_face_with_big_eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😄","skin_tone_support":false,"name":"grinning face with smiling eyes","slug":"grinning_face_with_smiling_eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😁","skin_tone_support":false,"name":"beaming face with smiling eyes","slug":"beaming_face_with_smiling_eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😆","skin_tone_support":false,"name":"grinning squinting face","slug":"grinning_squinting_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😅","skin_tone_support":false,"name":"grinning face with sweat","slug":"grinning_face_with_sweat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤣","skin_tone_support":false,"name":"rolling on the floor laughing","slug":"rolling_on_the_floor_laughing","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"😂","skin_tone_support":false,"name":"face with tears of joy","slug":"face_with_tears_of_joy","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙂","skin_tone_support":false,"name":"slightly smiling face","slug":"slightly_smiling_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🙃","skin_tone_support":false,"name":"upside-down face","slug":"upside_down_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😉","skin_tone_support":false,"name":"winking face","slug":"winking_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😊","skin_tone_support":false,"name":"smiling face with smiling eyes","slug":"smiling_face_with_smiling_eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😇","skin_tone_support":false,"name":"smiling face with halo","slug":"smiling_face_with_halo","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🥰","skin_tone_support":false,"name":"smiling face with hearts","slug":"smiling_face_with_hearts","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"😍","skin_tone_support":false,"name":"smiling face with heart-eyes","slug":"smiling_face_with_heart_eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤩","skin_tone_support":false,"name":"star-struck","slug":"star_struck","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"😘","skin_tone_support":false,"name":"face blowing a kiss","slug":"face_blowing_a_kiss","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😗","skin_tone_support":false,"name":"kissing face","slug":"kissing_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🙂","skin_tone_support":false,"name":"smiling face","slug":"smiling_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😚","skin_tone_support":false,"name":"kissing face with closed eyes","slug":"kissing_face_with_closed_eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😙","skin_tone_support":false,"name":"kissing face with smiling eyes","slug":"kissing_face_with_smiling_eyes","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😋","skin_tone_support":false,"name":"face savoring food","slug":"face_savoring_food","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😛","skin_tone_support":false,"name":"face with tongue","slug":"face_with_tongue","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😜","skin_tone_support":false,"name":"winking face with tongue","slug":"winking_face_with_tongue","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤪","skin_tone_support":false,"name":"zany face","slug":"zany_face","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"😝","skin_tone_support":false,"name":"squinting face with tongue","slug":"squinting_face_with_tongue","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤑","skin_tone_support":false,"name":"money-mouth face","slug":"money_mouth_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🤗","skin_tone_support":false,"name":"hugging face","slug":"hugging_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🤭","skin_tone_support":false,"name":"face with hand over mouth","slug":"face_with_hand_over_mouth","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🤫","skin_tone_support":false,"name":"shushing face","slug":"shushing_face","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🤔","skin_tone_support":false,"name":"thinking face","slug":"thinking_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🤐","skin_tone_support":false,"name":"zipper-mouth face","slug":"zipper_mouth_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🤨","skin_tone_support":false,"name":"face with raised eyebrow","slug":"face_with_raised_eyebrow","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"😐","skin_tone_support":false,"name":"neutral face","slug":"neutral_face","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"😑","skin_tone_support":false,"name":"expressionless face","slug":"expressionless_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😶","skin_tone_support":false,"name":"face without mouth","slug":"face_without_mouth","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😶‍🌫️","skin_tone_support":false,"name":"face in clouds","slug":"face_in_clouds","unicode_version":"13.1","emoji_version":"13.1"},{"emoji":"😏","skin_tone_support":false,"name":"smirking face","slug":"smirking_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😒","skin_tone_support":false,"name":"unamused face","slug":"unamused_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙄","skin_tone_support":false,"name":"face with rolling eyes","slug":"face_with_rolling_eyes","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😬","skin_tone_support":false,"name":"grimacing face","slug":"grimacing_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😮‍💨","skin_tone_support":false,"name":"face exhaling","slug":"face_exhaling","unicode_version":"13.1","emoji_version":"13.1"},{"emoji":"🤥","skin_tone_support":false,"name":"lying face","slug":"lying_face","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"😌","skin_tone_support":false,"name":"relieved face","slug":"relieved_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😔","skin_tone_support":false,"name":"pensive face","slug":"pensive_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😪","skin_tone_support":false,"name":"sleepy face","slug":"sleepy_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤤","skin_tone_support":false,"name":"drooling face","slug":"drooling_face","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"😴","skin_tone_support":false,"name":"sleeping face","slug":"sleeping_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😷","skin_tone_support":false,"name":"face with medical mask","slug":"face_with_medical_mask","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤒","skin_tone_support":false,"name":"face with thermometer","slug":"face_with_thermometer","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🤕","skin_tone_support":false,"name":"face with head-bandage","slug":"face_with_head_bandage","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🤢","skin_tone_support":false,"name":"nauseated face","slug":"nauseated_face","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤮","skin_tone_support":false,"name":"face vomiting","slug":"face_vomiting","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🤧","skin_tone_support":false,"name":"sneezing face","slug":"sneezing_face","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥵","skin_tone_support":false,"name":"hot face","slug":"hot_face","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🥶","skin_tone_support":false,"name":"cold face","slug":"cold_face","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🥴","skin_tone_support":false,"name":"woozy face","slug":"woozy_face","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"😵","skin_tone_support":false,"name":"knocked-out face","slug":"knocked_out_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😵‍💫","skin_tone_support":false,"name":"face with spiral eyes","slug":"face_with_spiral_eyes","unicode_version":"13.1","emoji_version":"13.1"},{"emoji":"🤯","skin_tone_support":false,"name":"exploding head","slug":"exploding_head","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🤠","skin_tone_support":false,"name":"cowboy hat face","slug":"cowboy_hat_face","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥳","skin_tone_support":false,"name":"partying face","slug":"partying_face","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"😎","skin_tone_support":false,"name":"smiling face with sunglasses","slug":"smiling_face_with_sunglasses","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🤓","skin_tone_support":false,"name":"nerd face","slug":"nerd_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🧐","skin_tone_support":false,"name":"face with monocle","slug":"face_with_monocle","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"😕","skin_tone_support":false,"name":"confused face","slug":"confused_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😟","skin_tone_support":false,"name":"worried face","slug":"worried_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🙁","skin_tone_support":false,"name":"slightly frowning face","slug":"slightly_frowning_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"☹️","skin_tone_support":false,"name":"frowning face","slug":"frowning_face","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"😮","skin_tone_support":false,"name":"face with open mouth","slug":"face_with_open_mouth","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😯","skin_tone_support":false,"name":"hushed face","slug":"hushed_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😲","skin_tone_support":false,"name":"astonished face","slug":"astonished_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😳","skin_tone_support":false,"name":"flushed face","slug":"flushed_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥺","skin_tone_support":false,"name":"pleading face","slug":"pleading_face","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"😦","skin_tone_support":false,"name":"frowning face with open mouth","slug":"frowning_face_with_open_mouth","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😧","skin_tone_support":false,"name":"anguished face","slug":"anguished_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😨","skin_tone_support":false,"name":"fearful face","slug":"fearful_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😰","skin_tone_support":false,"name":"anxious face with sweat","slug":"anxious_face_with_sweat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😥","skin_tone_support":false,"name":"sad but relieved face","slug":"sad_but_relieved_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😢","skin_tone_support":false,"name":"crying face","slug":"crying_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😭","skin_tone_support":false,"name":"loudly crying face","slug":"loudly_crying_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😱","skin_tone_support":false,"name":"face screaming in fear","slug":"face_screaming_in_fear","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😖","skin_tone_support":false,"name":"confounded face","slug":"confounded_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😣","skin_tone_support":false,"name":"persevering face","slug":"persevering_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😞","skin_tone_support":false,"name":"disappointed face","slug":"disappointed_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😓","skin_tone_support":false,"name":"downcast face with sweat","slug":"downcast_face_with_sweat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😩","skin_tone_support":false,"name":"weary face","slug":"weary_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😫","skin_tone_support":false,"name":"tired face","slug":"tired_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥱","skin_tone_support":false,"name":"yawning face","slug":"yawning_face","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"😤","skin_tone_support":false,"name":"face with steam from nose","slug":"face_with_steam_from_nose","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😡","skin_tone_support":false,"name":"pouting face","slug":"pouting_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😠","skin_tone_support":false,"name":"angry face","slug":"angry_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤬","skin_tone_support":false,"name":"face with symbols on mouth","slug":"face_with_symbols_on_mouth","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"😈","skin_tone_support":false,"name":"smiling face with horns","slug":"smiling_face_with_horns","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"👿","skin_tone_support":false,"name":"angry face with horns","slug":"angry_face_with_horns","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💀","skin_tone_support":false,"name":"skull","slug":"skull","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☠️","skin_tone_support":false,"name":"skull and crossbones","slug":"skull_and_crossbones","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"💩","skin_tone_support":false,"name":"pile of poo","slug":"pile_of_poo","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤡","skin_tone_support":false,"name":"clown face","slug":"clown_face","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"👹","skin_tone_support":false,"name":"ogre","slug":"ogre","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👺","skin_tone_support":false,"name":"goblin","slug":"goblin","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👻","skin_tone_support":false,"name":"ghost","slug":"ghost","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👽","skin_tone_support":false,"name":"alien","slug":"alien","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👾","skin_tone_support":false,"name":"alien monster","slug":"alien_monster","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤖","skin_tone_support":false,"name":"robot","slug":"robot","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"😺","skin_tone_support":false,"name":"grinning cat","slug":"grinning_cat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😸","skin_tone_support":false,"name":"grinning cat with smiling eyes","slug":"grinning_cat_with_smiling_eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😹","skin_tone_support":false,"name":"cat with tears of joy","slug":"cat_with_tears_of_joy","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😻","skin_tone_support":false,"name":"smiling cat with heart-eyes","slug":"smiling_cat_with_heart_eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😼","skin_tone_support":false,"name":"cat with wry smile","slug":"cat_with_wry_smile","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😽","skin_tone_support":false,"name":"kissing cat","slug":"kissing_cat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙀","skin_tone_support":false,"name":"weary cat","slug":"weary_cat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😿","skin_tone_support":false,"name":"crying cat","slug":"crying_cat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"😾","skin_tone_support":false,"name":"pouting cat","slug":"pouting_cat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙈","skin_tone_support":false,"name":"see-no-evil monkey","slug":"see_no_evil_monkey","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙉","skin_tone_support":false,"name":"hear-no-evil monkey","slug":"hear_no_evil_monkey","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙊","skin_tone_support":false,"name":"speak-no-evil monkey","slug":"speak_no_evil_monkey","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💋","skin_tone_support":false,"name":"kiss mark","slug":"kiss_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💌","skin_tone_support":false,"name":"love letter","slug":"love_letter","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💘","skin_tone_support":false,"name":"heart with arrow","slug":"heart_with_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💝","skin_tone_support":false,"name":"heart with ribbon","slug":"heart_with_ribbon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💖","skin_tone_support":false,"name":"sparkling heart","slug":"sparkling_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💗","skin_tone_support":false,"name":"growing heart","slug":"growing_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💓","skin_tone_support":false,"name":"beating heart","slug":"beating_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💞","skin_tone_support":false,"name":"revolving hearts","slug":"revolving_hearts","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💕","skin_tone_support":false,"name":"two hearts","slug":"two_hearts","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💟","skin_tone_support":false,"name":"heart decoration","slug":"heart_decoration","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❣️","skin_tone_support":false,"name":"heart exclamation","slug":"heart_exclamation","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"💔","skin_tone_support":false,"name":"broken heart","slug":"broken_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❤️‍🔥","skin_tone_support":false,"name":"heart on fire","slug":"heart_on_fire","unicode_version":"13.1","emoji_version":"13.1"},{"emoji":"❤️‍🩹","skin_tone_support":false,"name":"mending heart","slug":"mending_heart","unicode_version":"13.1","emoji_version":"13.1"},{"emoji":"❤️","skin_tone_support":false,"name":"red heart","slug":"red_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧡","skin_tone_support":false,"name":"orange heart","slug":"orange_heart","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"💛","skin_tone_support":false,"name":"yellow heart","slug":"yellow_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💚","skin_tone_support":false,"name":"green heart","slug":"green_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💙","skin_tone_support":false,"name":"blue heart","slug":"blue_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💜","skin_tone_support":false,"name":"purple heart","slug":"purple_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤎","skin_tone_support":false,"name":"brown heart","slug":"brown_heart","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🖤","skin_tone_support":false,"name":"black heart","slug":"black_heart","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤍","skin_tone_support":false,"name":"white heart","slug":"white_heart","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"💯","skin_tone_support":false,"name":"hundred points","slug":"hundred_points","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💢","skin_tone_support":false,"name":"anger symbol","slug":"anger_symbol","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💥","skin_tone_support":false,"name":"collision","slug":"collision","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💫","skin_tone_support":false,"name":"dizzy","slug":"dizzy","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💦","skin_tone_support":false,"name":"sweat droplets","slug":"sweat_droplets","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💨","skin_tone_support":false,"name":"dashing away","slug":"dashing_away","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕳️","skin_tone_support":false,"name":"hole","slug":"hole","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"💣","skin_tone_support":false,"name":"bomb","slug":"bomb","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💬","skin_tone_support":false,"name":"speech balloon","slug":"speech_balloon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👁️‍🗨️","skin_tone_support":false,"name":"eye in speech bubble","slug":"eye_in_speech_bubble","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🗨️","skin_tone_support":false,"name":"left speech bubble","slug":"left_speech_bubble","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🗯️","skin_tone_support":false,"name":"right anger bubble","slug":"right_anger_bubble","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"💭","skin_tone_support":false,"name":"thought balloon","slug":"thought_balloon","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"💤","skin_tone_support":false,"name":"zzz","slug":"zzz","unicode_version":"0.6","emoji_version":"0.6"}],"People & Body":[{"emoji":"👋","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"waving hand","slug":"waving_hand","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤚","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"raised back of hand","slug":"raised_back_of_hand","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🖐️","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"hand with fingers splayed","slug":"hand_with_fingers_splayed","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"✋","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"raised hand","slug":"raised_hand","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🖖","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"vulcan salute","slug":"vulcan_salute","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"👌","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"OK hand","slug":"ok_hand","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤏","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"pinching hand","slug":"pinching_hand","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"✌️","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"victory hand","slug":"victory_hand","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤞","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"crossed fingers","slug":"crossed_fingers","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤟","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"love-you gesture","slug":"love_you_gesture","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🤘","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"sign of the horns","slug":"sign_of_the_horns","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🤙","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"call me hand","slug":"call_me_hand","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"👈","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"backhand index pointing left","slug":"backhand_index_pointing_left","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👉","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"backhand index pointing right","slug":"backhand_index_pointing_right","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👆","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"backhand index pointing up","slug":"backhand_index_pointing_up","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🖕","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"middle finger","slug":"middle_finger","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"👇","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"backhand index pointing down","slug":"backhand_index_pointing_down","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☝️","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"index pointing up","slug":"index_pointing_up","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👍","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"thumbs up","slug":"thumbs_up","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👎","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"thumbs down","slug":"thumbs_down","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✊","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"raised fist","slug":"raised_fist","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👊","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"oncoming fist","slug":"oncoming_fist","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤛","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"left-facing fist","slug":"left_facing_fist","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤜","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"right-facing fist","slug":"right_facing_fist","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"👏","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"clapping hands","slug":"clapping_hands","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙌","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"raising hands","slug":"raising_hands","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👐","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"open hands","slug":"open_hands","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤲","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"palms up together","slug":"palms_up_together","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🤝","skin_tone_support":false,"name":"handshake","slug":"handshake","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🙏","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"folded hands","slug":"folded_hands","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✍️","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"writing hand","slug":"writing_hand","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"💅","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"nail polish","slug":"nail_polish","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤳","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"selfie","slug":"selfie","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"💪","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"flexed biceps","slug":"flexed_biceps","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦾","skin_tone_support":false,"name":"mechanical arm","slug":"mechanical_arm","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🦿","skin_tone_support":false,"name":"mechanical leg","slug":"mechanical_leg","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🦵","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"leg","slug":"leg","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦶","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"foot","slug":"foot","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"👂","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"ear","slug":"ear","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦻","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"ear with hearing aid","slug":"ear_with_hearing_aid","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"👃","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"nose","slug":"nose","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧠","skin_tone_support":false,"name":"brain","slug":"brain","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🦷","skin_tone_support":false,"name":"tooth","slug":"tooth","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦴","skin_tone_support":false,"name":"bone","slug":"bone","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"👀","skin_tone_support":false,"name":"eyes","slug":"eyes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👁️","skin_tone_support":false,"name":"eye","slug":"eye","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"👅","skin_tone_support":false,"name":"tongue","slug":"tongue","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👄","skin_tone_support":false,"name":"mouth","slug":"mouth","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👶","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"baby","slug":"baby","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧒","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"child","slug":"child","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"👦","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"boy","slug":"boy","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👧","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"girl","slug":"girl","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧑","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"person","slug":"person","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"👱","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person blond hair","slug":"person_blond_hair","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👨","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"man","slug":"man","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧔","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"person beard","slug":"person_beard","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧔‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"man beard","slug":"man_beard","unicode_version":"13.1","emoji_version":"13.1"},{"emoji":"🧔‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"woman beard","slug":"woman_beard","unicode_version":"13.1","emoji_version":"13.1"},{"emoji":"👨‍🦰","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"man red hair","slug":"man_red_hair","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"👨‍🦱","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"man curly hair","slug":"man_curly_hair","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"👨‍🦳","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"man white hair","slug":"man_white_hair","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"👨‍🦲","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"man bald","slug":"man_bald","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"👩","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"woman","slug":"woman","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👩‍🦰","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"woman red hair","slug":"woman_red_hair","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧑‍🦰","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"person red hair","slug":"person_red_hair","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👩‍🦱","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"woman curly hair","slug":"woman_curly_hair","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧑‍🦱","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"person curly hair","slug":"person_curly_hair","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👩‍🦳","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"woman white hair","slug":"woman_white_hair","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧑‍🦳","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"person white hair","slug":"person_white_hair","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👩‍🦲","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"woman bald","slug":"woman_bald","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧑‍🦲","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"person bald","slug":"person_bald","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👱‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman blond hair","slug":"woman_blond_hair","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👱‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man blond hair","slug":"man_blond_hair","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧓","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"older person","slug":"older_person","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"👴","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"old man","slug":"old_man","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👵","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"old woman","slug":"old_woman","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙍","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person frowning","slug":"person_frowning","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙍‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man frowning","slug":"man_frowning","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙍‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman frowning","slug":"woman_frowning","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙎","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person pouting","slug":"person_pouting","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙎‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man pouting","slug":"man_pouting","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙎‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman pouting","slug":"woman_pouting","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙅","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person gesturing NO","slug":"person_gesturing_no","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙅‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man gesturing NO","slug":"man_gesturing_no","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙅‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman gesturing NO","slug":"woman_gesturing_no","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙆","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person gesturing OK","slug":"person_gesturing_ok","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙆‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man gesturing OK","slug":"man_gesturing_ok","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙆‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman gesturing OK","slug":"woman_gesturing_ok","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"💁","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person tipping hand","slug":"person_tipping_hand","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💁‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man tipping hand","slug":"man_tipping_hand","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"💁‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman tipping hand","slug":"woman_tipping_hand","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙋","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person raising hand","slug":"person_raising_hand","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙋‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man raising hand","slug":"man_raising_hand","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙋‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman raising hand","slug":"woman_raising_hand","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧏","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"deaf person","slug":"deaf_person","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧏‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"deaf man","slug":"deaf_man","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧏‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"deaf woman","slug":"deaf_woman","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🙇","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person bowing","slug":"person_bowing","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🙇‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man bowing","slug":"man_bowing","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🙇‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman bowing","slug":"woman_bowing","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤦","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"person facepalming","slug":"person_facepalming","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤦‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man facepalming","slug":"man_facepalming","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤦‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman facepalming","slug":"woman_facepalming","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤷","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"person shrugging","slug":"person_shrugging","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤷‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man shrugging","slug":"man_shrugging","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤷‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman shrugging","slug":"woman_shrugging","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍⚕️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"health worker","slug":"health_worker","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍⚕️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man health worker","slug":"man_health_worker","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍⚕️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman health worker","slug":"woman_health_worker","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🎓","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"student","slug":"student","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🎓","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man student","slug":"man_student","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🎓","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman student","slug":"woman_student","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🏫","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"teacher","slug":"teacher","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🏫","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man teacher","slug":"man_teacher","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🏫","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman teacher","slug":"woman_teacher","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍⚖️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"judge","slug":"judge","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍⚖️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man judge","slug":"man_judge","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍⚖️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman judge","slug":"woman_judge","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🌾","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"farmer","slug":"farmer","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🌾","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man farmer","slug":"man_farmer","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🌾","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman farmer","slug":"woman_farmer","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🍳","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"cook","slug":"cook","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🍳","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man cook","slug":"man_cook","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🍳","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman cook","slug":"woman_cook","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🔧","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"mechanic","slug":"mechanic","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🔧","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man mechanic","slug":"man_mechanic","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🔧","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman mechanic","slug":"woman_mechanic","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🏭","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"factory worker","slug":"factory_worker","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🏭","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man factory worker","slug":"man_factory_worker","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🏭","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman factory worker","slug":"woman_factory_worker","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍💼","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"office worker","slug":"office_worker","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍💼","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man office worker","slug":"man_office_worker","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍💼","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman office worker","slug":"woman_office_worker","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🔬","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"scientist","slug":"scientist","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🔬","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man scientist","slug":"man_scientist","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🔬","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman scientist","slug":"woman_scientist","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍💻","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"technologist","slug":"technologist","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍💻","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man technologist","slug":"man_technologist","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍💻","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman technologist","slug":"woman_technologist","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🎤","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"singer","slug":"singer","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🎤","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man singer","slug":"man_singer","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🎤","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman singer","slug":"woman_singer","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🎨","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"artist","slug":"artist","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🎨","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man artist","slug":"man_artist","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🎨","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman artist","slug":"woman_artist","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍✈️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"pilot","slug":"pilot","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍✈️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man pilot","slug":"man_pilot","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍✈️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman pilot","slug":"woman_pilot","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🚀","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"astronaut","slug":"astronaut","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🚀","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man astronaut","slug":"man_astronaut","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🚀","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman astronaut","slug":"woman_astronaut","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧑‍🚒","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"firefighter","slug":"firefighter","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🚒","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man firefighter","slug":"man_firefighter","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍🚒","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman firefighter","slug":"woman_firefighter","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👮","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"police officer","slug":"police_officer","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👮‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man police officer","slug":"man_police_officer","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👮‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman police officer","slug":"woman_police_officer","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🕵️","skin_tone_support":true,"skin_tone_support_unicode_version":"2.0","name":"detective","slug":"detective","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕵️‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man detective","slug":"man_detective","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🕵️‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman detective","slug":"woman_detective","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"💂","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"guard","slug":"guard","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💂‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man guard","slug":"man_guard","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"💂‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman guard","slug":"woman_guard","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👷","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"construction worker","slug":"construction_worker","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👷‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man construction worker","slug":"man_construction_worker","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👷‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman construction worker","slug":"woman_construction_worker","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤴","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"prince","slug":"prince","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"👸","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"princess","slug":"princess","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👳","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person wearing turban","slug":"person_wearing_turban","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👳‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man wearing turban","slug":"man_wearing_turban","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👳‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman wearing turban","slug":"woman_wearing_turban","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👲","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person with skullcap","slug":"person_with_skullcap","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧕","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"woman with headscarf","slug":"woman_with_headscarf","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🤵","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"person in tuxedo","slug":"person_in_tuxedo","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤵‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"13.0","name":"man in tuxedo","slug":"man_in_tuxedo","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"🤵‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"13.0","name":"woman in tuxedo","slug":"woman_in_tuxedo","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"👰","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person with veil","slug":"person_with_veil","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👰‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"13.0","name":"man with veil","slug":"man_with_veil","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"👰‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"13.0","name":"woman with veil","slug":"woman_with_veil","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"🤰","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"pregnant woman","slug":"pregnant_woman","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤱","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"breast-feeding","slug":"breast_feeding","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"👩‍🍼","skin_tone_support":true,"skin_tone_support_unicode_version":"13.0","name":"woman feeding baby","slug":"woman_feeding_baby","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"👨‍🍼","skin_tone_support":true,"skin_tone_support_unicode_version":"13.0","name":"man feeding baby","slug":"man_feeding_baby","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"🧑‍🍼","skin_tone_support":true,"skin_tone_support_unicode_version":"13.0","name":"person feeding baby","slug":"person_feeding_baby","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"👼","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"baby angel","slug":"baby_angel","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎅","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"Santa Claus","slug":"santa_claus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤶","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"Mrs. Claus","slug":"mrs_claus","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🧑‍🎄","skin_tone_support":true,"skin_tone_support_unicode_version":"13.0","name":"mx claus","slug":"mx_claus","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"🦸","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"superhero","slug":"superhero","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦸‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"man superhero","slug":"man_superhero","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦸‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"woman superhero","slug":"woman_superhero","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦹","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"supervillain","slug":"supervillain","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦹‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"man supervillain","slug":"man_supervillain","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦹‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"11.0","name":"woman supervillain","slug":"woman_supervillain","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧙","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"mage","slug":"mage","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧙‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"man mage","slug":"man_mage","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧙‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"woman mage","slug":"woman_mage","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧚","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"fairy","slug":"fairy","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧚‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"man fairy","slug":"man_fairy","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧚‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"woman fairy","slug":"woman_fairy","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧛","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"vampire","slug":"vampire","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧛‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"man vampire","slug":"man_vampire","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧛‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"woman vampire","slug":"woman_vampire","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧜","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"merperson","slug":"merperson","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧜‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"merman","slug":"merman","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧜‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"mermaid","slug":"mermaid","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧝","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"elf","slug":"elf","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧝‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"man elf","slug":"man_elf","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧝‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"woman elf","slug":"woman_elf","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧞","skin_tone_support":false,"name":"genie","slug":"genie","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧞‍♂️","skin_tone_support":false,"name":"man genie","slug":"man_genie","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧞‍♀️","skin_tone_support":false,"name":"woman genie","slug":"woman_genie","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧟","skin_tone_support":false,"name":"zombie","slug":"zombie","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧟‍♂️","skin_tone_support":false,"name":"man zombie","slug":"man_zombie","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧟‍♀️","skin_tone_support":false,"name":"woman zombie","slug":"woman_zombie","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"💆","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person getting massage","slug":"person_getting_massage","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💆‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man getting massage","slug":"man_getting_massage","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"💆‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman getting massage","slug":"woman_getting_massage","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"💇","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person getting haircut","slug":"person_getting_haircut","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💇‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man getting haircut","slug":"man_getting_haircut","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"💇‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman getting haircut","slug":"woman_getting_haircut","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🚶","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person walking","slug":"person_walking","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚶‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man walking","slug":"man_walking","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🚶‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman walking","slug":"woman_walking","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧍","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"person standing","slug":"person_standing","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧍‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"man standing","slug":"man_standing","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧍‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"woman standing","slug":"woman_standing","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧎","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"person kneeling","slug":"person_kneeling","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧎‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"man kneeling","slug":"man_kneeling","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧎‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"woman kneeling","slug":"woman_kneeling","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧑‍🦯","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"person with white cane","slug":"person_with_white_cane","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🦯","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"man with white cane","slug":"man_with_white_cane","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"👩‍🦯","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"woman with white cane","slug":"woman_with_white_cane","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧑‍🦼","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"person in motorized wheelchair","slug":"person_in_motorized_wheelchair","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🦼","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"man in motorized wheelchair","slug":"man_in_motorized_wheelchair","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"👩‍🦼","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"woman in motorized wheelchair","slug":"woman_in_motorized_wheelchair","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧑‍🦽","skin_tone_support":true,"skin_tone_support_unicode_version":"12.1","name":"person in manual wheelchair","slug":"person_in_manual_wheelchair","unicode_version":"12.1","emoji_version":"12.1"},{"emoji":"👨‍🦽","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"man in manual wheelchair","slug":"man_in_manual_wheelchair","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"👩‍🦽","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"woman in manual wheelchair","slug":"woman_in_manual_wheelchair","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🏃","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person running","slug":"person_running","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏃‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man running","slug":"man_running","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏃‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman running","slug":"woman_running","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"💃","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"woman dancing","slug":"woman_dancing","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕺","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"man dancing","slug":"man_dancing","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🕴️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"person in suit levitating","slug":"person_in_suit_levitating","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"👯","skin_tone_support":false,"name":"people with bunny ears","slug":"people_with_bunny_ears","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👯‍♂️","skin_tone_support":false,"name":"men with bunny ears","slug":"men_with_bunny_ears","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👯‍♀️","skin_tone_support":false,"name":"women with bunny ears","slug":"women_with_bunny_ears","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧖","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"person in steamy room","slug":"person_in_steamy_room","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧖‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"man in steamy room","slug":"man_in_steamy_room","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧖‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"woman in steamy room","slug":"woman_in_steamy_room","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧗","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"person climbing","slug":"person_climbing","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧗‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"man climbing","slug":"man_climbing","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧗‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"woman climbing","slug":"woman_climbing","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🤺","skin_tone_support":false,"name":"person fencing","slug":"person_fencing","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🏇","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"horse racing","slug":"horse_racing","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⛷️","skin_tone_support":false,"name":"skier","slug":"skier","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏂","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"snowboarder","slug":"snowboarder","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏌️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"person golfing","slug":"person_golfing","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏌️‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man golfing","slug":"man_golfing","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏌️‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman golfing","slug":"woman_golfing","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏄","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person surfing","slug":"person_surfing","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏄‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man surfing","slug":"man_surfing","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏄‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman surfing","slug":"woman_surfing","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🚣","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person rowing boat","slug":"person_rowing_boat","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚣‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man rowing boat","slug":"man_rowing_boat","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🚣‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman rowing boat","slug":"woman_rowing_boat","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏊","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person swimming","slug":"person_swimming","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏊‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man swimming","slug":"man_swimming","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏊‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman swimming","slug":"woman_swimming","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"⛹️","skin_tone_support":true,"skin_tone_support_unicode_version":"2.0","name":"person bouncing ball","slug":"person_bouncing_ball","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⛹️‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man bouncing ball","slug":"man_bouncing_ball","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"⛹️‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman bouncing ball","slug":"woman_bouncing_ball","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏋️","skin_tone_support":true,"skin_tone_support_unicode_version":"2.0","name":"person lifting weights","slug":"person_lifting_weights","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏋️‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man lifting weights","slug":"man_lifting_weights","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏋️‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman lifting weights","slug":"woman_lifting_weights","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🚴","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person biking","slug":"person_biking","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚴‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man biking","slug":"man_biking","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🚴‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman biking","slug":"woman_biking","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🚵","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person mountain biking","slug":"person_mountain_biking","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚵‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man mountain biking","slug":"man_mountain_biking","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🚵‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman mountain biking","slug":"woman_mountain_biking","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤸","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"person cartwheeling","slug":"person_cartwheeling","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤸‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man cartwheeling","slug":"man_cartwheeling","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤸‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman cartwheeling","slug":"woman_cartwheeling","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤼","skin_tone_support":false,"name":"people wrestling","slug":"people_wrestling","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤼‍♂️","skin_tone_support":false,"name":"men wrestling","slug":"men_wrestling","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤼‍♀️","skin_tone_support":false,"name":"women wrestling","slug":"women_wrestling","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤽","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"person playing water polo","slug":"person_playing_water_polo","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤽‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man playing water polo","slug":"man_playing_water_polo","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤽‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman playing water polo","slug":"woman_playing_water_polo","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤾","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"person playing handball","slug":"person_playing_handball","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤾‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man playing handball","slug":"man_playing_handball","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤾‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman playing handball","slug":"woman_playing_handball","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤹","skin_tone_support":true,"skin_tone_support_unicode_version":"3.0","name":"person juggling","slug":"person_juggling","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🤹‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"man juggling","slug":"man_juggling","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🤹‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"woman juggling","slug":"woman_juggling","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🧘","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"person in lotus position","slug":"person_in_lotus_position","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧘‍♂️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"man in lotus position","slug":"man_in_lotus_position","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧘‍♀️","skin_tone_support":true,"skin_tone_support_unicode_version":"5.0","name":"woman in lotus position","slug":"woman_in_lotus_position","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🛀","skin_tone_support":true,"skin_tone_support_unicode_version":"1.0","name":"person taking bath","slug":"person_taking_bath","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛌","skin_tone_support":true,"skin_tone_support_unicode_version":"4.0","name":"person in bed","slug":"person_in_bed","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🧑‍🤝‍🧑","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"people holding hands","slug":"people_holding_hands","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"👭","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"women holding hands","slug":"women_holding_hands","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"👫","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"woman and man holding hands","slug":"woman_and_man_holding_hands","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👬","skin_tone_support":true,"skin_tone_support_unicode_version":"12.0","name":"men holding hands","slug":"men_holding_hands","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"💏","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"kiss","slug":"kiss","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👩‍❤️‍💋‍👨","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"kiss woman, man","slug":"kiss_woman_man","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍❤️‍💋‍👨","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"kiss man, man","slug":"kiss_man_man","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👩‍❤️‍💋‍👩","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"kiss woman, woman","slug":"kiss_woman_woman","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"💑","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"couple with heart","slug":"couple_with_heart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👩‍❤️‍👨","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"couple with heart woman, man","slug":"couple_with_heart_woman_man","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍❤️‍👨","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"couple with heart man, man","slug":"couple_with_heart_man_man","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👩‍❤️‍👩","skin_tone_support":true,"skin_tone_support_unicode_version":"13.1","name":"couple with heart woman, woman","slug":"couple_with_heart_woman_woman","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👪","skin_tone_support":false,"name":"family","slug":"family","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👨‍👩‍👦","skin_tone_support":false,"name":"family man, woman, boy","slug":"family_man_woman_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👩‍👧","skin_tone_support":false,"name":"family man, woman, girl","slug":"family_man_woman_girl","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👩‍👧‍👦","skin_tone_support":false,"name":"family man, woman, girl, boy","slug":"family_man_woman_girl_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👩‍👦‍👦","skin_tone_support":false,"name":"family man, woman, boy, boy","slug":"family_man_woman_boy_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👩‍👧‍👧","skin_tone_support":false,"name":"family man, woman, girl, girl","slug":"family_man_woman_girl_girl","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👨‍👦","skin_tone_support":false,"name":"family man, man, boy","slug":"family_man_man_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👨‍👧","skin_tone_support":false,"name":"family man, man, girl","slug":"family_man_man_girl","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👨‍👧‍👦","skin_tone_support":false,"name":"family man, man, girl, boy","slug":"family_man_man_girl_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👨‍👦‍👦","skin_tone_support":false,"name":"family man, man, boy, boy","slug":"family_man_man_boy_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👨‍👧‍👧","skin_tone_support":false,"name":"family man, man, girl, girl","slug":"family_man_man_girl_girl","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👩‍👩‍👦","skin_tone_support":false,"name":"family woman, woman, boy","slug":"family_woman_woman_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👩‍👩‍👧","skin_tone_support":false,"name":"family woman, woman, girl","slug":"family_woman_woman_girl","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👩‍👩‍👧‍👦","skin_tone_support":false,"name":"family woman, woman, girl, boy","slug":"family_woman_woman_girl_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👩‍👩‍👦‍👦","skin_tone_support":false,"name":"family woman, woman, boy, boy","slug":"family_woman_woman_boy_boy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👩‍👩‍👧‍👧","skin_tone_support":false,"name":"family woman, woman, girl, girl","slug":"family_woman_woman_girl_girl","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"👨‍👦","skin_tone_support":false,"name":"family man, boy","slug":"family_man_boy","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👨‍👦‍👦","skin_tone_support":false,"name":"family man, boy, boy","slug":"family_man_boy_boy","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👨‍👧","skin_tone_support":false,"name":"family man, girl","slug":"family_man_girl","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👨‍👧‍👦","skin_tone_support":false,"name":"family man, girl, boy","slug":"family_man_girl_boy","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👨‍👧‍👧","skin_tone_support":false,"name":"family man, girl, girl","slug":"family_man_girl_girl","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍👦","skin_tone_support":false,"name":"family woman, boy","slug":"family_woman_boy","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍👦‍👦","skin_tone_support":false,"name":"family woman, boy, boy","slug":"family_woman_boy_boy","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍👧","skin_tone_support":false,"name":"family woman, girl","slug":"family_woman_girl","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍👧‍👦","skin_tone_support":false,"name":"family woman, girl, boy","slug":"family_woman_girl_boy","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"👩‍👧‍👧","skin_tone_support":false,"name":"family woman, girl, girl","slug":"family_woman_girl_girl","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🗣️","skin_tone_support":false,"name":"speaking head","slug":"speaking_head","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"👤","skin_tone_support":false,"name":"bust in silhouette","slug":"bust_in_silhouette","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👥","skin_tone_support":false,"name":"busts in silhouette","slug":"busts_in_silhouette","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"👣","skin_tone_support":false,"name":"footprints","slug":"footprints","unicode_version":"0.6","emoji_version":"0.6"}],"Animals & Nature":[{"emoji":"🐵","skin_tone_support":false,"name":"monkey face","slug":"monkey_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐒","skin_tone_support":false,"name":"monkey","slug":"monkey","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦍","skin_tone_support":false,"name":"gorilla","slug":"gorilla","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦧","skin_tone_support":false,"name":"orangutan","slug":"orangutan","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🐶","skin_tone_support":false,"name":"dog face","slug":"dog_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐕","skin_tone_support":false,"name":"dog","slug":"dog","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🦮","skin_tone_support":false,"name":"guide dog","slug":"guide_dog","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🐕‍🦺","skin_tone_support":false,"name":"service dog","slug":"service_dog","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🐩","skin_tone_support":false,"name":"poodle","slug":"poodle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐺","skin_tone_support":false,"name":"wolf","slug":"wolf","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦊","skin_tone_support":false,"name":"fox","slug":"fox","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦝","skin_tone_support":false,"name":"raccoon","slug":"raccoon","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🐱","skin_tone_support":false,"name":"cat face","slug":"cat_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐈","skin_tone_support":false,"name":"cat","slug":"cat","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🐈‍⬛","skin_tone_support":false,"name":"black cat","slug":"black_cat","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"🦁","skin_tone_support":false,"name":"lion","slug":"lion","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐯","skin_tone_support":false,"name":"tiger face","slug":"tiger_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐅","skin_tone_support":false,"name":"tiger","slug":"tiger","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐆","skin_tone_support":false,"name":"leopard","slug":"leopard","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐴","skin_tone_support":false,"name":"horse face","slug":"horse_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐎","skin_tone_support":false,"name":"horse","slug":"horse","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦄","skin_tone_support":false,"name":"unicorn","slug":"unicorn","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🦓","skin_tone_support":false,"name":"zebra","slug":"zebra","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🦌","skin_tone_support":false,"name":"deer","slug":"deer","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🐮","skin_tone_support":false,"name":"cow face","slug":"cow_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐂","skin_tone_support":false,"name":"ox","slug":"ox","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐃","skin_tone_support":false,"name":"water buffalo","slug":"water_buffalo","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐄","skin_tone_support":false,"name":"cow","slug":"cow","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐷","skin_tone_support":false,"name":"pig face","slug":"pig_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐖","skin_tone_support":false,"name":"pig","slug":"pig","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐗","skin_tone_support":false,"name":"boar","slug":"boar","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐽","skin_tone_support":false,"name":"pig nose","slug":"pig_nose","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐏","skin_tone_support":false,"name":"ram","slug":"ram","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐑","skin_tone_support":false,"name":"ewe","slug":"ewe","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐐","skin_tone_support":false,"name":"goat","slug":"goat","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐪","skin_tone_support":false,"name":"camel","slug":"camel","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐫","skin_tone_support":false,"name":"two-hump camel","slug":"two_hump_camel","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦙","skin_tone_support":false,"name":"llama","slug":"llama","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦒","skin_tone_support":false,"name":"giraffe","slug":"giraffe","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🐘","skin_tone_support":false,"name":"elephant","slug":"elephant","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦏","skin_tone_support":false,"name":"rhinoceros","slug":"rhinoceros","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦛","skin_tone_support":false,"name":"hippopotamus","slug":"hippopotamus","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🐭","skin_tone_support":false,"name":"mouse face","slug":"mouse_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐁","skin_tone_support":false,"name":"mouse","slug":"mouse","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐀","skin_tone_support":false,"name":"rat","slug":"rat","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐹","skin_tone_support":false,"name":"hamster","slug":"hamster","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐰","skin_tone_support":false,"name":"rabbit face","slug":"rabbit_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐇","skin_tone_support":false,"name":"rabbit","slug":"rabbit","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐿️","skin_tone_support":false,"name":"chipmunk","slug":"chipmunk","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🦔","skin_tone_support":false,"name":"hedgehog","slug":"hedgehog","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🦇","skin_tone_support":false,"name":"bat","slug":"bat","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🐻","skin_tone_support":false,"name":"bear","slug":"bear","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐻‍❄️","skin_tone_support":false,"name":"polar bear","slug":"polar_bear","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"🐨","skin_tone_support":false,"name":"koala","slug":"koala","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐼","skin_tone_support":false,"name":"panda","slug":"panda","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦥","skin_tone_support":false,"name":"sloth","slug":"sloth","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🦦","skin_tone_support":false,"name":"otter","slug":"otter","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🦨","skin_tone_support":false,"name":"skunk","slug":"skunk","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🦘","skin_tone_support":false,"name":"kangaroo","slug":"kangaroo","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦡","skin_tone_support":false,"name":"badger","slug":"badger","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🐾","skin_tone_support":false,"name":"paw prints","slug":"paw_prints","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦃","skin_tone_support":false,"name":"turkey","slug":"turkey","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐔","skin_tone_support":false,"name":"chicken","slug":"chicken","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐓","skin_tone_support":false,"name":"rooster","slug":"rooster","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐣","skin_tone_support":false,"name":"hatching chick","slug":"hatching_chick","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐤","skin_tone_support":false,"name":"baby chick","slug":"baby_chick","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐥","skin_tone_support":false,"name":"front-facing baby chick","slug":"front_facing_baby_chick","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐦","skin_tone_support":false,"name":"bird","slug":"bird","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐧","skin_tone_support":false,"name":"penguin","slug":"penguin","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕊️","skin_tone_support":false,"name":"dove","slug":"dove","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🦅","skin_tone_support":false,"name":"eagle","slug":"eagle","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦆","skin_tone_support":false,"name":"duck","slug":"duck","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦢","skin_tone_support":false,"name":"swan","slug":"swan","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦉","skin_tone_support":false,"name":"owl","slug":"owl","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦩","skin_tone_support":false,"name":"flamingo","slug":"flamingo","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🦚","skin_tone_support":false,"name":"peacock","slug":"peacock","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦜","skin_tone_support":false,"name":"parrot","slug":"parrot","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🐸","skin_tone_support":false,"name":"frog","slug":"frog","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐊","skin_tone_support":false,"name":"crocodile","slug":"crocodile","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐢","skin_tone_support":false,"name":"turtle","slug":"turtle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦎","skin_tone_support":false,"name":"lizard","slug":"lizard","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🐍","skin_tone_support":false,"name":"snake","slug":"snake","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐲","skin_tone_support":false,"name":"dragon face","slug":"dragon_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐉","skin_tone_support":false,"name":"dragon","slug":"dragon","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🦕","skin_tone_support":false,"name":"sauropod","slug":"sauropod","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🦖","skin_tone_support":false,"name":"T-Rex","slug":"t_rex","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🐳","skin_tone_support":false,"name":"spouting whale","slug":"spouting_whale","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐋","skin_tone_support":false,"name":"whale","slug":"whale","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🐬","skin_tone_support":false,"name":"dolphin","slug":"dolphin","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐟","skin_tone_support":false,"name":"fish","slug":"fish","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐠","skin_tone_support":false,"name":"tropical fish","slug":"tropical_fish","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐡","skin_tone_support":false,"name":"blowfish","slug":"blowfish","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦈","skin_tone_support":false,"name":"shark","slug":"shark","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🐙","skin_tone_support":false,"name":"octopus","slug":"octopus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐚","skin_tone_support":false,"name":"spiral shell","slug":"spiral_shell","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐌","skin_tone_support":false,"name":"snail","slug":"snail","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦋","skin_tone_support":false,"name":"butterfly","slug":"butterfly","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🐛","skin_tone_support":false,"name":"bug","slug":"bug","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐜","skin_tone_support":false,"name":"ant","slug":"ant","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐝","skin_tone_support":false,"name":"honeybee","slug":"honeybee","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🐞","skin_tone_support":false,"name":"lady beetle","slug":"lady_beetle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🦗","skin_tone_support":false,"name":"cricket","slug":"cricket","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🕷️","skin_tone_support":false,"name":"spider","slug":"spider","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕸️","skin_tone_support":false,"name":"spider web","slug":"spider_web","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🦂","skin_tone_support":false,"name":"scorpion","slug":"scorpion","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🦟","skin_tone_support":false,"name":"mosquito","slug":"mosquito","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦠","skin_tone_support":false,"name":"microbe","slug":"microbe","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"💐","skin_tone_support":false,"name":"bouquet","slug":"bouquet","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌸","skin_tone_support":false,"name":"cherry blossom","slug":"cherry_blossom","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💮","skin_tone_support":false,"name":"white flower","slug":"white_flower","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏵️","skin_tone_support":false,"name":"rosette","slug":"rosette","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌹","skin_tone_support":false,"name":"rose","slug":"rose","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥀","skin_tone_support":false,"name":"wilted flower","slug":"wilted_flower","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🌺","skin_tone_support":false,"name":"hibiscus","slug":"hibiscus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌻","skin_tone_support":false,"name":"sunflower","slug":"sunflower","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌼","skin_tone_support":false,"name":"blossom","slug":"blossom","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌷","skin_tone_support":false,"name":"tulip","slug":"tulip","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌱","skin_tone_support":false,"name":"seedling","slug":"seedling","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌲","skin_tone_support":false,"name":"evergreen tree","slug":"evergreen_tree","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌳","skin_tone_support":false,"name":"deciduous tree","slug":"deciduous_tree","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌴","skin_tone_support":false,"name":"palm tree","slug":"palm_tree","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌵","skin_tone_support":false,"name":"cactus","slug":"cactus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌾","skin_tone_support":false,"name":"sheaf of rice","slug":"sheaf_of_rice","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌿","skin_tone_support":false,"name":"herb","slug":"herb","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☘️","skin_tone_support":false,"name":"shamrock","slug":"shamrock","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🍀","skin_tone_support":false,"name":"four leaf clover","slug":"four_leaf_clover","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍁","skin_tone_support":false,"name":"maple leaf","slug":"maple_leaf","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍂","skin_tone_support":false,"name":"fallen leaf","slug":"fallen_leaf","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍃","skin_tone_support":false,"name":"leaf fluttering in wind","slug":"leaf_fluttering_in_wind","unicode_version":"0.6","emoji_version":"0.6"}],"Food & Drink":[{"emoji":"🍇","skin_tone_support":false,"name":"grapes","slug":"grapes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍈","skin_tone_support":false,"name":"melon","slug":"melon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍉","skin_tone_support":false,"name":"watermelon","slug":"watermelon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍊","skin_tone_support":false,"name":"tangerine","slug":"tangerine","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍋","skin_tone_support":false,"name":"lemon","slug":"lemon","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🍌","skin_tone_support":false,"name":"banana","slug":"banana","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍍","skin_tone_support":false,"name":"pineapple","slug":"pineapple","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥭","skin_tone_support":false,"name":"mango","slug":"mango","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🍎","skin_tone_support":false,"name":"red apple","slug":"red_apple","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍏","skin_tone_support":false,"name":"green apple","slug":"green_apple","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍐","skin_tone_support":false,"name":"pear","slug":"pear","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🍑","skin_tone_support":false,"name":"peach","slug":"peach","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍒","skin_tone_support":false,"name":"cherries","slug":"cherries","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍓","skin_tone_support":false,"name":"strawberry","slug":"strawberry","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥝","skin_tone_support":false,"name":"kiwi fruit","slug":"kiwi_fruit","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🍅","skin_tone_support":false,"name":"tomato","slug":"tomato","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥥","skin_tone_support":false,"name":"coconut","slug":"coconut","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🥑","skin_tone_support":false,"name":"avocado","slug":"avocado","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🍆","skin_tone_support":false,"name":"eggplant","slug":"eggplant","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥔","skin_tone_support":false,"name":"potato","slug":"potato","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥕","skin_tone_support":false,"name":"carrot","slug":"carrot","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🌽","skin_tone_support":false,"name":"ear of corn","slug":"ear_of_corn","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌶️","skin_tone_support":false,"name":"hot pepper","slug":"hot_pepper","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🥒","skin_tone_support":false,"name":"cucumber","slug":"cucumber","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥬","skin_tone_support":false,"name":"leafy green","slug":"leafy_green","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🥦","skin_tone_support":false,"name":"broccoli","slug":"broccoli","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧄","skin_tone_support":false,"name":"garlic","slug":"garlic","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧅","skin_tone_support":false,"name":"onion","slug":"onion","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🍄","skin_tone_support":false,"name":"mushroom","slug":"mushroom","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥜","skin_tone_support":false,"name":"peanuts","slug":"peanuts","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🌰","skin_tone_support":false,"name":"chestnut","slug":"chestnut","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍞","skin_tone_support":false,"name":"bread","slug":"bread","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥐","skin_tone_support":false,"name":"croissant","slug":"croissant","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥖","skin_tone_support":false,"name":"baguette bread","slug":"baguette_bread","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥨","skin_tone_support":false,"name":"pretzel","slug":"pretzel","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🥯","skin_tone_support":false,"name":"bagel","slug":"bagel","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🥞","skin_tone_support":false,"name":"pancakes","slug":"pancakes","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🧇","skin_tone_support":false,"name":"waffle","slug":"waffle","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧀","skin_tone_support":false,"name":"cheese wedge","slug":"cheese_wedge","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🍖","skin_tone_support":false,"name":"meat on bone","slug":"meat_on_bone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍗","skin_tone_support":false,"name":"poultry leg","slug":"poultry_leg","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥩","skin_tone_support":false,"name":"cut of meat","slug":"cut_of_meat","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🥓","skin_tone_support":false,"name":"bacon","slug":"bacon","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🍔","skin_tone_support":false,"name":"hamburger","slug":"hamburger","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍟","skin_tone_support":false,"name":"french fries","slug":"french_fries","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍕","skin_tone_support":false,"name":"pizza","slug":"pizza","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌭","skin_tone_support":false,"name":"hot dog","slug":"hot_dog","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🥪","skin_tone_support":false,"name":"sandwich","slug":"sandwich","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🌮","skin_tone_support":false,"name":"taco","slug":"taco","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌯","skin_tone_support":false,"name":"burrito","slug":"burrito","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🥙","skin_tone_support":false,"name":"stuffed flatbread","slug":"stuffed_flatbread","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🧆","skin_tone_support":false,"name":"falafel","slug":"falafel","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🥚","skin_tone_support":false,"name":"egg","slug":"egg","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🍳","skin_tone_support":false,"name":"cooking","slug":"cooking","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥘","skin_tone_support":false,"name":"shallow pan of food","slug":"shallow_pan_of_food","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🍲","skin_tone_support":false,"name":"pot of food","slug":"pot_of_food","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥣","skin_tone_support":false,"name":"bowl with spoon","slug":"bowl_with_spoon","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🥗","skin_tone_support":false,"name":"green salad","slug":"green_salad","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🍿","skin_tone_support":false,"name":"popcorn","slug":"popcorn","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🧈","skin_tone_support":false,"name":"butter","slug":"butter","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧂","skin_tone_support":false,"name":"salt","slug":"salt","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🥫","skin_tone_support":false,"name":"canned food","slug":"canned_food","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🍱","skin_tone_support":false,"name":"bento box","slug":"bento_box","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍘","skin_tone_support":false,"name":"rice cracker","slug":"rice_cracker","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍙","skin_tone_support":false,"name":"rice ball","slug":"rice_ball","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍚","skin_tone_support":false,"name":"cooked rice","slug":"cooked_rice","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍛","skin_tone_support":false,"name":"curry rice","slug":"curry_rice","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍜","skin_tone_support":false,"name":"steaming bowl","slug":"steaming_bowl","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍝","skin_tone_support":false,"name":"spaghetti","slug":"spaghetti","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍠","skin_tone_support":false,"name":"roasted sweet potato","slug":"roasted_sweet_potato","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍢","skin_tone_support":false,"name":"oden","slug":"oden","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍣","skin_tone_support":false,"name":"sushi","slug":"sushi","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍤","skin_tone_support":false,"name":"fried shrimp","slug":"fried_shrimp","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍥","skin_tone_support":false,"name":"fish cake with swirl","slug":"fish_cake_with_swirl","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥮","skin_tone_support":false,"name":"moon cake","slug":"moon_cake","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🍡","skin_tone_support":false,"name":"dango","slug":"dango","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥟","skin_tone_support":false,"name":"dumpling","slug":"dumpling","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🥠","skin_tone_support":false,"name":"fortune cookie","slug":"fortune_cookie","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🥡","skin_tone_support":false,"name":"takeout box","slug":"takeout_box","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🦀","skin_tone_support":false,"name":"crab","slug":"crab","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🦞","skin_tone_support":false,"name":"lobster","slug":"lobster","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦐","skin_tone_support":false,"name":"shrimp","slug":"shrimp","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦑","skin_tone_support":false,"name":"squid","slug":"squid","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦪","skin_tone_support":false,"name":"oyster","slug":"oyster","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🍦","skin_tone_support":false,"name":"soft ice cream","slug":"soft_ice_cream","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍧","skin_tone_support":false,"name":"shaved ice","slug":"shaved_ice","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍨","skin_tone_support":false,"name":"ice cream","slug":"ice_cream","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍩","skin_tone_support":false,"name":"doughnut","slug":"doughnut","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍪","skin_tone_support":false,"name":"cookie","slug":"cookie","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎂","skin_tone_support":false,"name":"birthday cake","slug":"birthday_cake","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍰","skin_tone_support":false,"name":"shortcake","slug":"shortcake","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧁","skin_tone_support":false,"name":"cupcake","slug":"cupcake","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🥧","skin_tone_support":false,"name":"pie","slug":"pie","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🍫","skin_tone_support":false,"name":"chocolate bar","slug":"chocolate_bar","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍬","skin_tone_support":false,"name":"candy","slug":"candy","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍭","skin_tone_support":false,"name":"lollipop","slug":"lollipop","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍮","skin_tone_support":false,"name":"custard","slug":"custard","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍯","skin_tone_support":false,"name":"honey pot","slug":"honey_pot","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍼","skin_tone_support":false,"name":"baby bottle","slug":"baby_bottle","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🥛","skin_tone_support":false,"name":"glass of milk","slug":"glass_of_milk","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"☕","skin_tone_support":false,"name":"hot beverage","slug":"hot_beverage","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍵","skin_tone_support":false,"name":"teacup without handle","slug":"teacup_without_handle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍶","skin_tone_support":false,"name":"sake","slug":"sake","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍾","skin_tone_support":false,"name":"bottle with popping cork","slug":"bottle_with_popping_cork","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🍷","skin_tone_support":false,"name":"wine glass","slug":"wine_glass","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍸","skin_tone_support":false,"name":"cocktail glass","slug":"cocktail_glass","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍹","skin_tone_support":false,"name":"tropical drink","slug":"tropical_drink","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍺","skin_tone_support":false,"name":"beer mug","slug":"beer_mug","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🍻","skin_tone_support":false,"name":"clinking beer mugs","slug":"clinking_beer_mugs","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥂","skin_tone_support":false,"name":"clinking glasses","slug":"clinking_glasses","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥃","skin_tone_support":false,"name":"tumbler glass","slug":"tumbler_glass","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥤","skin_tone_support":false,"name":"cup with straw","slug":"cup_with_straw","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧃","skin_tone_support":false,"name":"beverage box","slug":"beverage_box","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧉","skin_tone_support":false,"name":"mate","slug":"mate","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧊","skin_tone_support":false,"name":"ice","slug":"ice","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🥢","skin_tone_support":false,"name":"chopsticks","slug":"chopsticks","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🍽️","skin_tone_support":false,"name":"fork and knife with plate","slug":"fork_and_knife_with_plate","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🍴","skin_tone_support":false,"name":"fork and knife","slug":"fork_and_knife","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥄","skin_tone_support":false,"name":"spoon","slug":"spoon","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🔪","skin_tone_support":false,"name":"kitchen knife","slug":"kitchen_knife","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏺","skin_tone_support":false,"name":"amphora","slug":"amphora","unicode_version":"1.0","emoji_version":"1.0"}],"Travel & Places":[{"emoji":"🌍","skin_tone_support":false,"name":"globe showing Europe-Africa","slug":"globe_showing_europe_africa","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌎","skin_tone_support":false,"name":"globe showing Americas","slug":"globe_showing_americas","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌏","skin_tone_support":false,"name":"globe showing Asia-Australia","slug":"globe_showing_asia_australia","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌐","skin_tone_support":false,"name":"globe with meridians","slug":"globe_with_meridians","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🗺️","skin_tone_support":false,"name":"world map","slug":"world_map","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🗾","skin_tone_support":false,"name":"map of Japan","slug":"map_of_japan","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧭","skin_tone_support":false,"name":"compass","slug":"compass","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🏔️","skin_tone_support":false,"name":"snow-capped mountain","slug":"snow_capped_mountain","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⛰️","skin_tone_support":false,"name":"mountain","slug":"mountain","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌋","skin_tone_support":false,"name":"volcano","slug":"volcano","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗻","skin_tone_support":false,"name":"mount fuji","slug":"mount_fuji","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏕️","skin_tone_support":false,"name":"camping","slug":"camping","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏖️","skin_tone_support":false,"name":"beach with umbrella","slug":"beach_with_umbrella","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏜️","skin_tone_support":false,"name":"desert","slug":"desert","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏝️","skin_tone_support":false,"name":"desert island","slug":"desert_island","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏞️","skin_tone_support":false,"name":"national park","slug":"national_park","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏟️","skin_tone_support":false,"name":"stadium","slug":"stadium","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏛️","skin_tone_support":false,"name":"classical building","slug":"classical_building","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏗️","skin_tone_support":false,"name":"building construction","slug":"building_construction","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🧱","skin_tone_support":false,"name":"brick","slug":"brick","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🏘️","skin_tone_support":false,"name":"houses","slug":"houses","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏚️","skin_tone_support":false,"name":"derelict house","slug":"derelict_house","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏠","skin_tone_support":false,"name":"house","slug":"house","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏡","skin_tone_support":false,"name":"house with garden","slug":"house_with_garden","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏢","skin_tone_support":false,"name":"office building","slug":"office_building","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏣","skin_tone_support":false,"name":"Japanese post office","slug":"japanese_post_office","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏤","skin_tone_support":false,"name":"post office","slug":"post_office","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🏥","skin_tone_support":false,"name":"hospital","slug":"hospital","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏦","skin_tone_support":false,"name":"bank","slug":"bank","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏨","skin_tone_support":false,"name":"hotel","slug":"hotel","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏩","skin_tone_support":false,"name":"love hotel","slug":"love_hotel","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏪","skin_tone_support":false,"name":"convenience store","slug":"convenience_store","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏫","skin_tone_support":false,"name":"school","slug":"school","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏬","skin_tone_support":false,"name":"department store","slug":"department_store","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏭","skin_tone_support":false,"name":"factory","slug":"factory","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏯","skin_tone_support":false,"name":"Japanese castle","slug":"japanese_castle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏰","skin_tone_support":false,"name":"castle","slug":"castle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💒","skin_tone_support":false,"name":"wedding","slug":"wedding","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗼","skin_tone_support":false,"name":"Tokyo tower","slug":"tokyo_tower","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗽","skin_tone_support":false,"name":"Statue of Liberty","slug":"statue_of_liberty","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛪","skin_tone_support":false,"name":"church","slug":"church","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕌","skin_tone_support":false,"name":"mosque","slug":"mosque","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛕","skin_tone_support":false,"name":"hindu temple","slug":"hindu_temple","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🕍","skin_tone_support":false,"name":"synagogue","slug":"synagogue","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⛩️","skin_tone_support":false,"name":"shinto shrine","slug":"shinto_shrine","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕋","skin_tone_support":false,"name":"kaaba","slug":"kaaba","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⛲","skin_tone_support":false,"name":"fountain","slug":"fountain","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛺","skin_tone_support":false,"name":"tent","slug":"tent","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌁","skin_tone_support":false,"name":"foggy","slug":"foggy","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌃","skin_tone_support":false,"name":"night with stars","slug":"night_with_stars","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏙️","skin_tone_support":false,"name":"cityscape","slug":"cityscape","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌄","skin_tone_support":false,"name":"sunrise over mountains","slug":"sunrise_over_mountains","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌅","skin_tone_support":false,"name":"sunrise","slug":"sunrise","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌆","skin_tone_support":false,"name":"cityscape at dusk","slug":"cityscape_at_dusk","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌇","skin_tone_support":false,"name":"sunset","slug":"sunset","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌉","skin_tone_support":false,"name":"bridge at night","slug":"bridge_at_night","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♨️","skin_tone_support":false,"name":"hot springs","slug":"hot_springs","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎠","skin_tone_support":false,"name":"carousel horse","slug":"carousel_horse","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎡","skin_tone_support":false,"name":"ferris wheel","slug":"ferris_wheel","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎢","skin_tone_support":false,"name":"roller coaster","slug":"roller_coaster","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💈","skin_tone_support":false,"name":"barber pole","slug":"barber_pole","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎪","skin_tone_support":false,"name":"circus tent","slug":"circus_tent","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚂","skin_tone_support":false,"name":"locomotive","slug":"locomotive","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚃","skin_tone_support":false,"name":"railway car","slug":"railway_car","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚄","skin_tone_support":false,"name":"high-speed train","slug":"high_speed_train","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚅","skin_tone_support":false,"name":"bullet train","slug":"bullet_train","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚆","skin_tone_support":false,"name":"train","slug":"train","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚇","skin_tone_support":false,"name":"metro","slug":"metro","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚈","skin_tone_support":false,"name":"light rail","slug":"light_rail","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚉","skin_tone_support":false,"name":"station","slug":"station","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚊","skin_tone_support":false,"name":"tram","slug":"tram","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚝","skin_tone_support":false,"name":"monorail","slug":"monorail","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚞","skin_tone_support":false,"name":"mountain railway","slug":"mountain_railway","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚋","skin_tone_support":false,"name":"tram car","slug":"tram_car","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚌","skin_tone_support":false,"name":"bus","slug":"bus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚍","skin_tone_support":false,"name":"oncoming bus","slug":"oncoming_bus","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🚎","skin_tone_support":false,"name":"trolleybus","slug":"trolleybus","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚐","skin_tone_support":false,"name":"minibus","slug":"minibus","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚑","skin_tone_support":false,"name":"ambulance","slug":"ambulance","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚒","skin_tone_support":false,"name":"fire engine","slug":"fire_engine","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚓","skin_tone_support":false,"name":"police car","slug":"police_car","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚔","skin_tone_support":false,"name":"oncoming police car","slug":"oncoming_police_car","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🚕","skin_tone_support":false,"name":"taxi","slug":"taxi","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚖","skin_tone_support":false,"name":"oncoming taxi","slug":"oncoming_taxi","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚗","skin_tone_support":false,"name":"automobile","slug":"automobile","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚘","skin_tone_support":false,"name":"oncoming automobile","slug":"oncoming_automobile","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🚙","skin_tone_support":false,"name":"sport utility vehicle","slug":"sport_utility_vehicle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚚","skin_tone_support":false,"name":"delivery truck","slug":"delivery_truck","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚛","skin_tone_support":false,"name":"articulated lorry","slug":"articulated_lorry","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚜","skin_tone_support":false,"name":"tractor","slug":"tractor","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🏎️","skin_tone_support":false,"name":"racing car","slug":"racing_car","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏍️","skin_tone_support":false,"name":"motorcycle","slug":"motorcycle","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🛵","skin_tone_support":false,"name":"motor scooter","slug":"motor_scooter","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🦽","skin_tone_support":false,"name":"manual wheelchair","slug":"manual_wheelchair","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🦼","skin_tone_support":false,"name":"motorized wheelchair","slug":"motorized_wheelchair","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🛺","skin_tone_support":false,"name":"auto rickshaw","slug":"auto_rickshaw","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🚲","skin_tone_support":false,"name":"bicycle","slug":"bicycle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛴","skin_tone_support":false,"name":"kick scooter","slug":"kick_scooter","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🛹","skin_tone_support":false,"name":"skateboard","slug":"skateboard","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🚏","skin_tone_support":false,"name":"bus stop","slug":"bus_stop","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛣️","skin_tone_support":false,"name":"motorway","slug":"motorway","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🛤️","skin_tone_support":false,"name":"railway track","slug":"railway_track","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🛢️","skin_tone_support":false,"name":"oil drum","slug":"oil_drum","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⛽","skin_tone_support":false,"name":"fuel pump","slug":"fuel_pump","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚨","skin_tone_support":false,"name":"police car light","slug":"police_car_light","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚥","skin_tone_support":false,"name":"horizontal traffic light","slug":"horizontal_traffic_light","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚦","skin_tone_support":false,"name":"vertical traffic light","slug":"vertical_traffic_light","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛑","skin_tone_support":false,"name":"stop sign","slug":"stop_sign","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🚧","skin_tone_support":false,"name":"construction","slug":"construction","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⚓","skin_tone_support":false,"name":"anchor","slug":"anchor","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛵","skin_tone_support":false,"name":"sailboat","slug":"sailboat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛶","skin_tone_support":false,"name":"canoe","slug":"canoe","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🚤","skin_tone_support":false,"name":"speedboat","slug":"speedboat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛳️","skin_tone_support":false,"name":"passenger ship","slug":"passenger_ship","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⛴️","skin_tone_support":false,"name":"ferry","slug":"ferry","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🛥️","skin_tone_support":false,"name":"motor boat","slug":"motor_boat","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🚢","skin_tone_support":false,"name":"ship","slug":"ship","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✈️","skin_tone_support":false,"name":"airplane","slug":"airplane","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛩️","skin_tone_support":false,"name":"small airplane","slug":"small_airplane","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🛫","skin_tone_support":false,"name":"airplane departure","slug":"airplane_departure","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛬","skin_tone_support":false,"name":"airplane arrival","slug":"airplane_arrival","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🪂","skin_tone_support":false,"name":"parachute","slug":"parachute","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"💺","skin_tone_support":false,"name":"seat","slug":"seat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚁","skin_tone_support":false,"name":"helicopter","slug":"helicopter","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚟","skin_tone_support":false,"name":"suspension railway","slug":"suspension_railway","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚠","skin_tone_support":false,"name":"mountain cableway","slug":"mountain_cableway","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚡","skin_tone_support":false,"name":"aerial tramway","slug":"aerial_tramway","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛰️","skin_tone_support":false,"name":"satellite","slug":"satellite","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🚀","skin_tone_support":false,"name":"rocket","slug":"rocket","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛸","skin_tone_support":false,"name":"flying saucer","slug":"flying_saucer","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🛎️","skin_tone_support":false,"name":"bellhop bell","slug":"bellhop_bell","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🧳","skin_tone_support":false,"name":"luggage","slug":"luggage","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"⌛","skin_tone_support":false,"name":"hourglass done","slug":"hourglass_done","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏳","skin_tone_support":false,"name":"hourglass not done","slug":"hourglass_not_done","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⌚","skin_tone_support":false,"name":"watch","slug":"watch","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏰","skin_tone_support":false,"name":"alarm clock","slug":"alarm_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏱️","skin_tone_support":false,"name":"stopwatch","slug":"stopwatch","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⏲️","skin_tone_support":false,"name":"timer clock","slug":"timer_clock","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🕰️","skin_tone_support":false,"name":"mantelpiece clock","slug":"mantelpiece_clock","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕛","skin_tone_support":false,"name":"twelve o’clock","slug":"twelve_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕧","skin_tone_support":false,"name":"twelve-thirty","slug":"twelve_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕐","skin_tone_support":false,"name":"one o’clock","slug":"one_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕜","skin_tone_support":false,"name":"one-thirty","slug":"one_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕑","skin_tone_support":false,"name":"two o’clock","slug":"two_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕝","skin_tone_support":false,"name":"two-thirty","slug":"two_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕒","skin_tone_support":false,"name":"three o’clock","slug":"three_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕞","skin_tone_support":false,"name":"three-thirty","slug":"three_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕓","skin_tone_support":false,"name":"four o’clock","slug":"four_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕟","skin_tone_support":false,"name":"four-thirty","slug":"four_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕔","skin_tone_support":false,"name":"five o’clock","slug":"five_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕠","skin_tone_support":false,"name":"five-thirty","slug":"five_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕕","skin_tone_support":false,"name":"six o’clock","slug":"six_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕡","skin_tone_support":false,"name":"six-thirty","slug":"six_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕖","skin_tone_support":false,"name":"seven o’clock","slug":"seven_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕢","skin_tone_support":false,"name":"seven-thirty","slug":"seven_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕗","skin_tone_support":false,"name":"eight o’clock","slug":"eight_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕣","skin_tone_support":false,"name":"eight-thirty","slug":"eight_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕘","skin_tone_support":false,"name":"nine o’clock","slug":"nine_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕤","skin_tone_support":false,"name":"nine-thirty","slug":"nine_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕙","skin_tone_support":false,"name":"ten o’clock","slug":"ten_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕥","skin_tone_support":false,"name":"ten-thirty","slug":"ten_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🕚","skin_tone_support":false,"name":"eleven o’clock","slug":"eleven_o_clock","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕦","skin_tone_support":false,"name":"eleven-thirty","slug":"eleven_thirty","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌑","skin_tone_support":false,"name":"new moon","slug":"new_moon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌒","skin_tone_support":false,"name":"waxing crescent moon","slug":"waxing_crescent_moon","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌓","skin_tone_support":false,"name":"first quarter moon","slug":"first_quarter_moon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌔","skin_tone_support":false,"name":"waxing gibbous moon","slug":"waxing_gibbous_moon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌕","skin_tone_support":false,"name":"full moon","slug":"full_moon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌖","skin_tone_support":false,"name":"waning gibbous moon","slug":"waning_gibbous_moon","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌗","skin_tone_support":false,"name":"last quarter moon","slug":"last_quarter_moon","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌘","skin_tone_support":false,"name":"waning crescent moon","slug":"waning_crescent_moon","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌙","skin_tone_support":false,"name":"crescent moon","slug":"crescent_moon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌚","skin_tone_support":false,"name":"new moon face","slug":"new_moon_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌛","skin_tone_support":false,"name":"first quarter moon face","slug":"first_quarter_moon_face","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌜","skin_tone_support":false,"name":"last quarter moon face","slug":"last_quarter_moon_face","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌡️","skin_tone_support":false,"name":"thermometer","slug":"thermometer","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"☀️","skin_tone_support":false,"name":"sun","slug":"sun","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌝","skin_tone_support":false,"name":"full moon face","slug":"full_moon_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🌞","skin_tone_support":false,"name":"sun with face","slug":"sun_with_face","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🪐","skin_tone_support":false,"name":"ringed planet","slug":"ringed_planet","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"⭐","skin_tone_support":false,"name":"star","slug":"star","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌟","skin_tone_support":false,"name":"glowing star","slug":"glowing_star","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌠","skin_tone_support":false,"name":"shooting star","slug":"shooting_star","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌌","skin_tone_support":false,"name":"milky way","slug":"milky_way","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☁️","skin_tone_support":false,"name":"cloud","slug":"cloud","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛅","skin_tone_support":false,"name":"sun behind cloud","slug":"sun_behind_cloud","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛈️","skin_tone_support":false,"name":"cloud with lightning and rain","slug":"cloud_with_lightning_and_rain","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌤️","skin_tone_support":false,"name":"sun behind small cloud","slug":"sun_behind_small_cloud","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌥️","skin_tone_support":false,"name":"sun behind large cloud","slug":"sun_behind_large_cloud","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌦️","skin_tone_support":false,"name":"sun behind rain cloud","slug":"sun_behind_rain_cloud","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌧️","skin_tone_support":false,"name":"cloud with rain","slug":"cloud_with_rain","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌨️","skin_tone_support":false,"name":"cloud with snow","slug":"cloud_with_snow","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌩️","skin_tone_support":false,"name":"cloud with lightning","slug":"cloud_with_lightning","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌪️","skin_tone_support":false,"name":"tornado","slug":"tornado","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌫️","skin_tone_support":false,"name":"fog","slug":"fog","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌬️","skin_tone_support":false,"name":"wind face","slug":"wind_face","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🌀","skin_tone_support":false,"name":"cyclone","slug":"cyclone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌈","skin_tone_support":false,"name":"rainbow","slug":"rainbow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌂","skin_tone_support":false,"name":"closed umbrella","slug":"closed_umbrella","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☂️","skin_tone_support":false,"name":"umbrella","slug":"umbrella","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"☔","skin_tone_support":false,"name":"umbrella with rain drops","slug":"umbrella_with_rain_drops","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛱️","skin_tone_support":false,"name":"umbrella on ground","slug":"umbrella_on_ground","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⚡","skin_tone_support":false,"name":"high voltage","slug":"high_voltage","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❄️","skin_tone_support":false,"name":"snowflake","slug":"snowflake","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☃️","skin_tone_support":false,"name":"snowman","slug":"snowman","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⛄","skin_tone_support":false,"name":"snowman without snow","slug":"snowman_without_snow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☄️","skin_tone_support":false,"name":"comet","slug":"comet","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔥","skin_tone_support":false,"name":"fire","slug":"fire","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💧","skin_tone_support":false,"name":"droplet","slug":"droplet","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🌊","skin_tone_support":false,"name":"water wave","slug":"water_wave","unicode_version":"0.6","emoji_version":"0.6"}],"Activities":[{"emoji":"🎃","skin_tone_support":false,"name":"jack-o-lantern","slug":"jack_o_lantern","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎄","skin_tone_support":false,"name":"Christmas tree","slug":"christmas_tree","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎆","skin_tone_support":false,"name":"fireworks","slug":"fireworks","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎇","skin_tone_support":false,"name":"sparkler","slug":"sparkler","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧨","skin_tone_support":false,"name":"firecracker","slug":"firecracker","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"✨","skin_tone_support":false,"name":"sparkles","slug":"sparkles","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎈","skin_tone_support":false,"name":"balloon","slug":"balloon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎉","skin_tone_support":false,"name":"party popper","slug":"party_popper","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎊","skin_tone_support":false,"name":"confetti ball","slug":"confetti_ball","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎋","skin_tone_support":false,"name":"tanabata tree","slug":"tanabata_tree","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎍","skin_tone_support":false,"name":"pine decoration","slug":"pine_decoration","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎎","skin_tone_support":false,"name":"Japanese dolls","slug":"japanese_dolls","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎏","skin_tone_support":false,"name":"carp streamer","slug":"carp_streamer","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎐","skin_tone_support":false,"name":"wind chime","slug":"wind_chime","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎑","skin_tone_support":false,"name":"moon viewing ceremony","slug":"moon_viewing_ceremony","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧧","skin_tone_support":false,"name":"red envelope","slug":"red_envelope","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🎀","skin_tone_support":false,"name":"ribbon","slug":"ribbon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎁","skin_tone_support":false,"name":"wrapped gift","slug":"wrapped_gift","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎗️","skin_tone_support":false,"name":"reminder ribbon","slug":"reminder_ribbon","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎟️","skin_tone_support":false,"name":"admission tickets","slug":"admission_tickets","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎫","skin_tone_support":false,"name":"ticket","slug":"ticket","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎖️","skin_tone_support":false,"name":"military medal","slug":"military_medal","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏆","skin_tone_support":false,"name":"trophy","slug":"trophy","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏅","skin_tone_support":false,"name":"sports medal","slug":"sports_medal","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🥇","skin_tone_support":false,"name":"1st place medal","slug":"1st_place_medal","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥈","skin_tone_support":false,"name":"2nd place medal","slug":"2nd_place_medal","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥉","skin_tone_support":false,"name":"3rd place medal","slug":"3rd_place_medal","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"⚽","skin_tone_support":false,"name":"soccer ball","slug":"soccer_ball","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⚾","skin_tone_support":false,"name":"baseball","slug":"baseball","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥎","skin_tone_support":false,"name":"softball","slug":"softball","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🏀","skin_tone_support":false,"name":"basketball","slug":"basketball","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏐","skin_tone_support":false,"name":"volleyball","slug":"volleyball","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🏈","skin_tone_support":false,"name":"american football","slug":"american_football","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏉","skin_tone_support":false,"name":"rugby football","slug":"rugby_football","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🎾","skin_tone_support":false,"name":"tennis","slug":"tennis","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥏","skin_tone_support":false,"name":"flying disc","slug":"flying_disc","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🎳","skin_tone_support":false,"name":"bowling","slug":"bowling","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏏","skin_tone_support":false,"name":"cricket game","slug":"cricket_game","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🏑","skin_tone_support":false,"name":"field hockey","slug":"field_hockey","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🏒","skin_tone_support":false,"name":"ice hockey","slug":"ice_hockey","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🥍","skin_tone_support":false,"name":"lacrosse","slug":"lacrosse","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🏓","skin_tone_support":false,"name":"ping pong","slug":"ping_pong","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🏸","skin_tone_support":false,"name":"badminton","slug":"badminton","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🥊","skin_tone_support":false,"name":"boxing glove","slug":"boxing_glove","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥋","skin_tone_support":false,"name":"martial arts uniform","slug":"martial_arts_uniform","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🥅","skin_tone_support":false,"name":"goal net","slug":"goal_net","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"⛳","skin_tone_support":false,"name":"flag in hole","slug":"flag_in_hole","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛸️","skin_tone_support":false,"name":"ice skate","slug":"ice_skate","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎣","skin_tone_support":false,"name":"fishing pole","slug":"fishing_pole","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🤿","skin_tone_support":false,"name":"diving mask","slug":"diving_mask","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🎽","skin_tone_support":false,"name":"running shirt","slug":"running_shirt","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎿","skin_tone_support":false,"name":"skis","slug":"skis","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛷","skin_tone_support":false,"name":"sled","slug":"sled","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🥌","skin_tone_support":false,"name":"curling stone","slug":"curling_stone","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🎯","skin_tone_support":false,"name":"bullseye","slug":"bullseye","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🪀","skin_tone_support":false,"name":"yo-yo","slug":"yo_yo","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🪁","skin_tone_support":false,"name":"kite","slug":"kite","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🎱","skin_tone_support":false,"name":"pool 8 ball","slug":"pool_8_ball","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔮","skin_tone_support":false,"name":"crystal ball","slug":"crystal_ball","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧿","skin_tone_support":false,"name":"nazar amulet","slug":"nazar_amulet","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🎮","skin_tone_support":false,"name":"video game","slug":"video_game","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕹️","skin_tone_support":false,"name":"joystick","slug":"joystick","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎰","skin_tone_support":false,"name":"slot machine","slug":"slot_machine","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎲","skin_tone_support":false,"name":"game die","slug":"game_die","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧩","skin_tone_support":false,"name":"puzzle piece","slug":"puzzle_piece","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧸","skin_tone_support":false,"name":"teddy bear","slug":"teddy_bear","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"♠️","skin_tone_support":false,"name":"spade suit","slug":"spade_suit","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♥️","skin_tone_support":false,"name":"heart suit","slug":"heart_suit","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♦️","skin_tone_support":false,"name":"diamond suit","slug":"diamond_suit","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♣️","skin_tone_support":false,"name":"club suit","slug":"club_suit","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♟️","skin_tone_support":false,"name":"chess pawn","slug":"chess_pawn","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🃏","skin_tone_support":false,"name":"joker","slug":"joker","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🀄","skin_tone_support":false,"name":"mahjong red dragon","slug":"mahjong_red_dragon","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎴","skin_tone_support":false,"name":"flower playing cards","slug":"flower_playing_cards","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎭","skin_tone_support":false,"name":"performing arts","slug":"performing_arts","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🖼️","skin_tone_support":false,"name":"framed picture","slug":"framed_picture","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎨","skin_tone_support":false,"name":"artist palette","slug":"artist_palette","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧵","skin_tone_support":false,"name":"thread","slug":"thread","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧶","skin_tone_support":false,"name":"yarn","slug":"yarn","unicode_version":"11.0","emoji_version":"11.0"}],"Objects":[{"emoji":"👓","skin_tone_support":false,"name":"glasses","slug":"glasses","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕶️","skin_tone_support":false,"name":"sunglasses","slug":"sunglasses","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🥽","skin_tone_support":false,"name":"goggles","slug":"goggles","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🥼","skin_tone_support":false,"name":"lab coat","slug":"lab_coat","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🦺","skin_tone_support":false,"name":"safety vest","slug":"safety_vest","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"👔","skin_tone_support":false,"name":"necktie","slug":"necktie","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👕","skin_tone_support":false,"name":"t-shirt","slug":"t_shirt","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👖","skin_tone_support":false,"name":"jeans","slug":"jeans","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧣","skin_tone_support":false,"name":"scarf","slug":"scarf","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧤","skin_tone_support":false,"name":"gloves","slug":"gloves","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧥","skin_tone_support":false,"name":"coat","slug":"coat","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🧦","skin_tone_support":false,"name":"socks","slug":"socks","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"👗","skin_tone_support":false,"name":"dress","slug":"dress","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👘","skin_tone_support":false,"name":"kimono","slug":"kimono","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥻","skin_tone_support":false,"name":"sari","slug":"sari","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🩱","skin_tone_support":false,"name":"one-piece swimsuit","slug":"one_piece_swimsuit","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🩲","skin_tone_support":false,"name":"briefs","slug":"briefs","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🩳","skin_tone_support":false,"name":"shorts","slug":"shorts","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"👙","skin_tone_support":false,"name":"bikini","slug":"bikini","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👚","skin_tone_support":false,"name":"woman’s clothes","slug":"woman_s_clothes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👛","skin_tone_support":false,"name":"purse","slug":"purse","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👜","skin_tone_support":false,"name":"handbag","slug":"handbag","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👝","skin_tone_support":false,"name":"clutch bag","slug":"clutch_bag","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛍️","skin_tone_support":false,"name":"shopping bags","slug":"shopping_bags","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎒","skin_tone_support":false,"name":"backpack","slug":"backpack","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👞","skin_tone_support":false,"name":"man’s shoe","slug":"man_s_shoe","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👟","skin_tone_support":false,"name":"running shoe","slug":"running_shoe","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🥾","skin_tone_support":false,"name":"hiking boot","slug":"hiking_boot","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🥿","skin_tone_support":false,"name":"flat shoe","slug":"flat_shoe","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"👠","skin_tone_support":false,"name":"high-heeled shoe","slug":"high_heeled_shoe","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👡","skin_tone_support":false,"name":"woman’s sandal","slug":"woman_s_sandal","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🩰","skin_tone_support":false,"name":"ballet shoes","slug":"ballet_shoes","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"👢","skin_tone_support":false,"name":"woman’s boot","slug":"woman_s_boot","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👑","skin_tone_support":false,"name":"crown","slug":"crown","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"👒","skin_tone_support":false,"name":"woman’s hat","slug":"woman_s_hat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎩","skin_tone_support":false,"name":"top hat","slug":"top_hat","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎓","skin_tone_support":false,"name":"graduation cap","slug":"graduation_cap","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧢","skin_tone_support":false,"name":"billed cap","slug":"billed_cap","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"⛑️","skin_tone_support":false,"name":"rescue worker’s helmet","slug":"rescue_worker_s_helmet","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📿","skin_tone_support":false,"name":"prayer beads","slug":"prayer_beads","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"💄","skin_tone_support":false,"name":"lipstick","slug":"lipstick","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💍","skin_tone_support":false,"name":"ring","slug":"ring","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💎","skin_tone_support":false,"name":"gem stone","slug":"gem_stone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔇","skin_tone_support":false,"name":"muted speaker","slug":"muted_speaker","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔈","skin_tone_support":false,"name":"speaker low volume","slug":"speaker_low_volume","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🔉","skin_tone_support":false,"name":"speaker medium volume","slug":"speaker_medium_volume","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔊","skin_tone_support":false,"name":"speaker high volume","slug":"speaker_high_volume","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📢","skin_tone_support":false,"name":"loudspeaker","slug":"loudspeaker","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📣","skin_tone_support":false,"name":"megaphone","slug":"megaphone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📯","skin_tone_support":false,"name":"postal horn","slug":"postal_horn","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔔","skin_tone_support":false,"name":"bell","slug":"bell","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔕","skin_tone_support":false,"name":"bell with slash","slug":"bell_with_slash","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🎼","skin_tone_support":false,"name":"musical score","slug":"musical_score","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎵","skin_tone_support":false,"name":"musical note","slug":"musical_note","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎶","skin_tone_support":false,"name":"musical notes","slug":"musical_notes","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎙️","skin_tone_support":false,"name":"studio microphone","slug":"studio_microphone","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎚️","skin_tone_support":false,"name":"level slider","slug":"level_slider","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎛️","skin_tone_support":false,"name":"control knobs","slug":"control_knobs","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎤","skin_tone_support":false,"name":"microphone","slug":"microphone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎧","skin_tone_support":false,"name":"headphone","slug":"headphone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📻","skin_tone_support":false,"name":"radio","slug":"radio","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎷","skin_tone_support":false,"name":"saxophone","slug":"saxophone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎸","skin_tone_support":false,"name":"guitar","slug":"guitar","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎹","skin_tone_support":false,"name":"musical keyboard","slug":"musical_keyboard","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎺","skin_tone_support":false,"name":"trumpet","slug":"trumpet","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎻","skin_tone_support":false,"name":"violin","slug":"violin","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🪕","skin_tone_support":false,"name":"banjo","slug":"banjo","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🥁","skin_tone_support":false,"name":"drum","slug":"drum","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"📱","skin_tone_support":false,"name":"mobile phone","slug":"mobile_phone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📲","skin_tone_support":false,"name":"mobile phone with arrow","slug":"mobile_phone_with_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☎️","skin_tone_support":false,"name":"telephone","slug":"telephone","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📞","skin_tone_support":false,"name":"telephone receiver","slug":"telephone_receiver","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📟","skin_tone_support":false,"name":"pager","slug":"pager","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📠","skin_tone_support":false,"name":"fax machine","slug":"fax_machine","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔋","skin_tone_support":false,"name":"battery","slug":"battery","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔌","skin_tone_support":false,"name":"electric plug","slug":"electric_plug","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💻","skin_tone_support":false,"name":"laptop","slug":"laptop","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🖥️","skin_tone_support":false,"name":"desktop computer","slug":"desktop_computer","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🖨️","skin_tone_support":false,"name":"printer","slug":"printer","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⌨️","skin_tone_support":false,"name":"keyboard","slug":"keyboard","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🖱️","skin_tone_support":false,"name":"computer mouse","slug":"computer_mouse","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🖲️","skin_tone_support":false,"name":"trackball","slug":"trackball","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"💽","skin_tone_support":false,"name":"computer disk","slug":"computer_disk","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💾","skin_tone_support":false,"name":"floppy disk","slug":"floppy_disk","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💿","skin_tone_support":false,"name":"optical disk","slug":"optical_disk","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📀","skin_tone_support":false,"name":"dvd","slug":"dvd","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧮","skin_tone_support":false,"name":"abacus","slug":"abacus","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🎥","skin_tone_support":false,"name":"movie camera","slug":"movie_camera","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎞️","skin_tone_support":false,"name":"film frames","slug":"film_frames","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📽️","skin_tone_support":false,"name":"film projector","slug":"film_projector","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🎬","skin_tone_support":false,"name":"clapper board","slug":"clapper_board","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📺","skin_tone_support":false,"name":"television","slug":"television","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📷","skin_tone_support":false,"name":"camera","slug":"camera","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📸","skin_tone_support":false,"name":"camera with flash","slug":"camera_with_flash","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"📹","skin_tone_support":false,"name":"video camera","slug":"video_camera","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📼","skin_tone_support":false,"name":"videocassette","slug":"videocassette","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔍","skin_tone_support":false,"name":"magnifying glass tilted left","slug":"magnifying_glass_tilted_left","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔎","skin_tone_support":false,"name":"magnifying glass tilted right","slug":"magnifying_glass_tilted_right","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🕯️","skin_tone_support":false,"name":"candle","slug":"candle","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"💡","skin_tone_support":false,"name":"light bulb","slug":"light_bulb","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔦","skin_tone_support":false,"name":"flashlight","slug":"flashlight","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏮","skin_tone_support":false,"name":"red paper lantern","slug":"red_paper_lantern","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🪔","skin_tone_support":false,"name":"diya lamp","slug":"diya_lamp","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"📔","skin_tone_support":false,"name":"notebook with decorative cover","slug":"notebook_with_decorative_cover","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📕","skin_tone_support":false,"name":"closed book","slug":"closed_book","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📖","skin_tone_support":false,"name":"open book","slug":"open_book","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📗","skin_tone_support":false,"name":"green book","slug":"green_book","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📘","skin_tone_support":false,"name":"blue book","slug":"blue_book","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📙","skin_tone_support":false,"name":"orange book","slug":"orange_book","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📚","skin_tone_support":false,"name":"books","slug":"books","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📓","skin_tone_support":false,"name":"notebook","slug":"notebook","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📒","skin_tone_support":false,"name":"ledger","slug":"ledger","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📃","skin_tone_support":false,"name":"page with curl","slug":"page_with_curl","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📜","skin_tone_support":false,"name":"scroll","slug":"scroll","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📄","skin_tone_support":false,"name":"page facing up","slug":"page_facing_up","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📰","skin_tone_support":false,"name":"newspaper","slug":"newspaper","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗞️","skin_tone_support":false,"name":"rolled-up newspaper","slug":"rolled_up_newspaper","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📑","skin_tone_support":false,"name":"bookmark tabs","slug":"bookmark_tabs","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔖","skin_tone_support":false,"name":"bookmark","slug":"bookmark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏷️","skin_tone_support":false,"name":"label","slug":"label","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"💰","skin_tone_support":false,"name":"money bag","slug":"money_bag","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💴","skin_tone_support":false,"name":"yen banknote","slug":"yen_banknote","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💵","skin_tone_support":false,"name":"dollar banknote","slug":"dollar_banknote","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💶","skin_tone_support":false,"name":"euro banknote","slug":"euro_banknote","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"💷","skin_tone_support":false,"name":"pound banknote","slug":"pound_banknote","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"💸","skin_tone_support":false,"name":"money with wings","slug":"money_with_wings","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💳","skin_tone_support":false,"name":"credit card","slug":"credit_card","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🧾","skin_tone_support":false,"name":"receipt","slug":"receipt","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"💹","skin_tone_support":false,"name":"chart increasing with yen","slug":"chart_increasing_with_yen","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✉️","skin_tone_support":false,"name":"envelope","slug":"envelope","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📧","skin_tone_support":false,"name":"e-mail","slug":"e_mail","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📨","skin_tone_support":false,"name":"incoming envelope","slug":"incoming_envelope","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📩","skin_tone_support":false,"name":"envelope with arrow","slug":"envelope_with_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📤","skin_tone_support":false,"name":"outbox tray","slug":"outbox_tray","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📥","skin_tone_support":false,"name":"inbox tray","slug":"inbox_tray","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📦","skin_tone_support":false,"name":"package","slug":"package","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📫","skin_tone_support":false,"name":"closed mailbox with raised flag","slug":"closed_mailbox_with_raised_flag","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📪","skin_tone_support":false,"name":"closed mailbox with lowered flag","slug":"closed_mailbox_with_lowered_flag","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📬","skin_tone_support":false,"name":"open mailbox with raised flag","slug":"open_mailbox_with_raised_flag","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📭","skin_tone_support":false,"name":"open mailbox with lowered flag","slug":"open_mailbox_with_lowered_flag","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📮","skin_tone_support":false,"name":"postbox","slug":"postbox","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗳️","skin_tone_support":false,"name":"ballot box with ballot","slug":"ballot_box_with_ballot","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"✏️","skin_tone_support":false,"name":"pencil","slug":"pencil","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✒️","skin_tone_support":false,"name":"black nib","slug":"black_nib","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🖋️","skin_tone_support":false,"name":"fountain pen","slug":"fountain_pen","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🖊️","skin_tone_support":false,"name":"pen","slug":"pen","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🖌️","skin_tone_support":false,"name":"paintbrush","slug":"paintbrush","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🖍️","skin_tone_support":false,"name":"crayon","slug":"crayon","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📝","skin_tone_support":false,"name":"memo","slug":"memo","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💼","skin_tone_support":false,"name":"briefcase","slug":"briefcase","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📁","skin_tone_support":false,"name":"file folder","slug":"file_folder","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📂","skin_tone_support":false,"name":"open file folder","slug":"open_file_folder","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗂️","skin_tone_support":false,"name":"card index dividers","slug":"card_index_dividers","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📅","skin_tone_support":false,"name":"calendar","slug":"calendar","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📆","skin_tone_support":false,"name":"tear-off calendar","slug":"tear_off_calendar","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗒️","skin_tone_support":false,"name":"spiral notepad","slug":"spiral_notepad","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🗓️","skin_tone_support":false,"name":"spiral calendar","slug":"spiral_calendar","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📇","skin_tone_support":false,"name":"card index","slug":"card_index","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📈","skin_tone_support":false,"name":"chart increasing","slug":"chart_increasing","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📉","skin_tone_support":false,"name":"chart decreasing","slug":"chart_decreasing","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📊","skin_tone_support":false,"name":"bar chart","slug":"bar_chart","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📋","skin_tone_support":false,"name":"clipboard","slug":"clipboard","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📌","skin_tone_support":false,"name":"pushpin","slug":"pushpin","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📍","skin_tone_support":false,"name":"round pushpin","slug":"round_pushpin","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📎","skin_tone_support":false,"name":"paperclip","slug":"paperclip","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🖇️","skin_tone_support":false,"name":"linked paperclips","slug":"linked_paperclips","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"📏","skin_tone_support":false,"name":"straight ruler","slug":"straight_ruler","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📐","skin_tone_support":false,"name":"triangular ruler","slug":"triangular_ruler","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✂️","skin_tone_support":false,"name":"scissors","slug":"scissors","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗃️","skin_tone_support":false,"name":"card file box","slug":"card_file_box","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🗄️","skin_tone_support":false,"name":"file cabinet","slug":"file_cabinet","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🗑️","skin_tone_support":false,"name":"wastebasket","slug":"wastebasket","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🔒","skin_tone_support":false,"name":"locked","slug":"locked","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔓","skin_tone_support":false,"name":"unlocked","slug":"unlocked","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔏","skin_tone_support":false,"name":"locked with pen","slug":"locked_with_pen","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔐","skin_tone_support":false,"name":"locked with key","slug":"locked_with_key","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔑","skin_tone_support":false,"name":"key","slug":"key","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🗝️","skin_tone_support":false,"name":"old key","slug":"old_key","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🔨","skin_tone_support":false,"name":"hammer","slug":"hammer","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🪓","skin_tone_support":false,"name":"axe","slug":"axe","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"⛏️","skin_tone_support":false,"name":"pick","slug":"pick","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⚒️","skin_tone_support":false,"name":"hammer and pick","slug":"hammer_and_pick","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛠️","skin_tone_support":false,"name":"hammer and wrench","slug":"hammer_and_wrench","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🗡️","skin_tone_support":false,"name":"dagger","slug":"dagger","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⚔️","skin_tone_support":false,"name":"crossed swords","slug":"crossed_swords","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔫","skin_tone_support":false,"name":"water pistol","slug":"water_pistol","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏹","skin_tone_support":false,"name":"bow and arrow","slug":"bow_and_arrow","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛡️","skin_tone_support":false,"name":"shield","slug":"shield","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🔧","skin_tone_support":false,"name":"wrench","slug":"wrench","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔩","skin_tone_support":false,"name":"nut and bolt","slug":"nut_and_bolt","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⚙️","skin_tone_support":false,"name":"gear","slug":"gear","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🗜️","skin_tone_support":false,"name":"clamp","slug":"clamp","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⚖️","skin_tone_support":false,"name":"balance scale","slug":"balance_scale","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🦯","skin_tone_support":false,"name":"white cane","slug":"white_cane","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🔗","skin_tone_support":false,"name":"link","slug":"link","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛓️","skin_tone_support":false,"name":"chains","slug":"chains","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🧰","skin_tone_support":false,"name":"toolbox","slug":"toolbox","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧲","skin_tone_support":false,"name":"magnet","slug":"magnet","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"⚗️","skin_tone_support":false,"name":"alembic","slug":"alembic","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🧪","skin_tone_support":false,"name":"test tube","slug":"test_tube","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧫","skin_tone_support":false,"name":"petri dish","slug":"petri_dish","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧬","skin_tone_support":false,"name":"dna","slug":"dna","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🔬","skin_tone_support":false,"name":"microscope","slug":"microscope","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔭","skin_tone_support":false,"name":"telescope","slug":"telescope","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"📡","skin_tone_support":false,"name":"satellite antenna","slug":"satellite_antenna","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💉","skin_tone_support":false,"name":"syringe","slug":"syringe","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🩸","skin_tone_support":false,"name":"drop of blood","slug":"drop_of_blood","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"💊","skin_tone_support":false,"name":"pill","slug":"pill","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🩹","skin_tone_support":false,"name":"adhesive bandage","slug":"adhesive_bandage","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🩺","skin_tone_support":false,"name":"stethoscope","slug":"stethoscope","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🚪","skin_tone_support":false,"name":"door","slug":"door","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛏️","skin_tone_support":false,"name":"bed","slug":"bed","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🛋️","skin_tone_support":false,"name":"couch and lamp","slug":"couch_and_lamp","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🪑","skin_tone_support":false,"name":"chair","slug":"chair","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🚽","skin_tone_support":false,"name":"toilet","slug":"toilet","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚿","skin_tone_support":false,"name":"shower","slug":"shower","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛁","skin_tone_support":false,"name":"bathtub","slug":"bathtub","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🪒","skin_tone_support":false,"name":"razor","slug":"razor","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🧴","skin_tone_support":false,"name":"lotion bottle","slug":"lotion_bottle","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧷","skin_tone_support":false,"name":"safety pin","slug":"safety_pin","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧹","skin_tone_support":false,"name":"broom","slug":"broom","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧺","skin_tone_support":false,"name":"basket","slug":"basket","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧻","skin_tone_support":false,"name":"roll of paper","slug":"roll_of_paper","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧼","skin_tone_support":false,"name":"soap","slug":"soap","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧽","skin_tone_support":false,"name":"sponge","slug":"sponge","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🧯","skin_tone_support":false,"name":"fire extinguisher","slug":"fire_extinguisher","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🛒","skin_tone_support":false,"name":"shopping cart","slug":"shopping_cart","unicode_version":"3.0","emoji_version":"3.0"},{"emoji":"🚬","skin_tone_support":false,"name":"cigarette","slug":"cigarette","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⚰️","skin_tone_support":false,"name":"coffin","slug":"coffin","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⚱️","skin_tone_support":false,"name":"funeral urn","slug":"funeral_urn","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🗿","skin_tone_support":false,"name":"moai","slug":"moai","unicode_version":"0.6","emoji_version":"0.6"}],"Symbols":[{"emoji":"🏧","skin_tone_support":false,"name":"ATM sign","slug":"atm_sign","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚮","skin_tone_support":false,"name":"litter in bin sign","slug":"litter_in_bin_sign","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚰","skin_tone_support":false,"name":"potable water","slug":"potable_water","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"♿","skin_tone_support":false,"name":"wheelchair symbol","slug":"wheelchair_symbol","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚹","skin_tone_support":false,"name":"men’s room","slug":"men_s_room","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚺","skin_tone_support":false,"name":"women’s room","slug":"women_s_room","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚻","skin_tone_support":false,"name":"restroom","slug":"restroom","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚼","skin_tone_support":false,"name":"baby symbol","slug":"baby_symbol","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚾","skin_tone_support":false,"name":"water closet","slug":"water_closet","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛂","skin_tone_support":false,"name":"passport control","slug":"passport_control","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛃","skin_tone_support":false,"name":"customs","slug":"customs","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛄","skin_tone_support":false,"name":"baggage claim","slug":"baggage_claim","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🛅","skin_tone_support":false,"name":"left luggage","slug":"left_luggage","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⚠️","skin_tone_support":false,"name":"warning","slug":"warning","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚸","skin_tone_support":false,"name":"children crossing","slug":"children_crossing","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⛔","skin_tone_support":false,"name":"no entry","slug":"no_entry","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚫","skin_tone_support":false,"name":"prohibited","slug":"prohibited","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚳","skin_tone_support":false,"name":"no bicycles","slug":"no_bicycles","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚭","skin_tone_support":false,"name":"no smoking","slug":"no_smoking","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚯","skin_tone_support":false,"name":"no littering","slug":"no_littering","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚱","skin_tone_support":false,"name":"non-potable water","slug":"non_potable_water","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🚷","skin_tone_support":false,"name":"no pedestrians","slug":"no_pedestrians","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"📵","skin_tone_support":false,"name":"no mobile phones","slug":"no_mobile_phones","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔞","skin_tone_support":false,"name":"no one under eighteen","slug":"no_one_under_eighteen","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☢️","skin_tone_support":false,"name":"radioactive","slug":"radioactive","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"☣️","skin_tone_support":false,"name":"biohazard","slug":"biohazard","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⬆️","skin_tone_support":false,"name":"up arrow","slug":"up_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"↗️","skin_tone_support":false,"name":"up-right arrow","slug":"up_right_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"➡️","skin_tone_support":false,"name":"right arrow","slug":"right_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"↘️","skin_tone_support":false,"name":"down-right arrow","slug":"down_right_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⬇️","skin_tone_support":false,"name":"down arrow","slug":"down_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"↙️","skin_tone_support":false,"name":"down-left arrow","slug":"down_left_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⬅️","skin_tone_support":false,"name":"left arrow","slug":"left_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"↖️","skin_tone_support":false,"name":"up-left arrow","slug":"up_left_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"↕️","skin_tone_support":false,"name":"up-down arrow","slug":"up_down_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"↔️","skin_tone_support":false,"name":"left-right arrow","slug":"left_right_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"↩️","skin_tone_support":false,"name":"right arrow curving left","slug":"right_arrow_curving_left","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"↪️","skin_tone_support":false,"name":"left arrow curving right","slug":"left_arrow_curving_right","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⤴️","skin_tone_support":false,"name":"right arrow curving up","slug":"right_arrow_curving_up","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⤵️","skin_tone_support":false,"name":"right arrow curving down","slug":"right_arrow_curving_down","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔃","skin_tone_support":false,"name":"clockwise vertical arrows","slug":"clockwise_vertical_arrows","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔄","skin_tone_support":false,"name":"counterclockwise arrows button","slug":"counterclockwise_arrows_button","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔙","skin_tone_support":false,"name":"BACK arrow","slug":"back_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔚","skin_tone_support":false,"name":"END arrow","slug":"end_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔛","skin_tone_support":false,"name":"ON! arrow","slug":"on_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔜","skin_tone_support":false,"name":"SOON arrow","slug":"soon_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔝","skin_tone_support":false,"name":"TOP arrow","slug":"top_arrow","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🛐","skin_tone_support":false,"name":"place of worship","slug":"place_of_worship","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"⚛️","skin_tone_support":false,"name":"atom symbol","slug":"atom_symbol","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🕉️","skin_tone_support":false,"name":"om","slug":"om","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"✡️","skin_tone_support":false,"name":"star of David","slug":"star_of_david","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"☸️","skin_tone_support":false,"name":"wheel of dharma","slug":"wheel_of_dharma","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"☯️","skin_tone_support":false,"name":"yin yang","slug":"yin_yang","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"✝️","skin_tone_support":false,"name":"latin cross","slug":"latin_cross","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"☦️","skin_tone_support":false,"name":"orthodox cross","slug":"orthodox_cross","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"☪️","skin_tone_support":false,"name":"star and crescent","slug":"star_and_crescent","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"☮️","skin_tone_support":false,"name":"peace symbol","slug":"peace_symbol","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🕎","skin_tone_support":false,"name":"menorah","slug":"menorah","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔯","skin_tone_support":false,"name":"dotted six-pointed star","slug":"dotted_six_pointed_star","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♈","skin_tone_support":false,"name":"Aries","slug":"aries","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♉","skin_tone_support":false,"name":"Taurus","slug":"taurus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♊","skin_tone_support":false,"name":"Gemini","slug":"gemini","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♋","skin_tone_support":false,"name":"Cancer","slug":"cancer","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♌","skin_tone_support":false,"name":"Leo","slug":"leo","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♍","skin_tone_support":false,"name":"Virgo","slug":"virgo","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♎","skin_tone_support":false,"name":"Libra","slug":"libra","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♏","skin_tone_support":false,"name":"Scorpio","slug":"scorpio","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♐","skin_tone_support":false,"name":"Sagittarius","slug":"sagittarius","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♑","skin_tone_support":false,"name":"Capricorn","slug":"capricorn","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♒","skin_tone_support":false,"name":"Aquarius","slug":"aquarius","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♓","skin_tone_support":false,"name":"Pisces","slug":"pisces","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⛎","skin_tone_support":false,"name":"Ophiuchus","slug":"ophiuchus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔀","skin_tone_support":false,"name":"shuffle tracks button","slug":"shuffle_tracks_button","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔁","skin_tone_support":false,"name":"repeat button","slug":"repeat_button","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔂","skin_tone_support":false,"name":"repeat single button","slug":"repeat_single_button","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"▶️","skin_tone_support":false,"name":"play button","slug":"play_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏩","skin_tone_support":false,"name":"fast-forward button","slug":"fast_forward_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏭️","skin_tone_support":false,"name":"next track button","slug":"next_track_button","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⏯️","skin_tone_support":false,"name":"play or pause button","slug":"play_or_pause_button","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"◀️","skin_tone_support":false,"name":"reverse button","slug":"reverse_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏪","skin_tone_support":false,"name":"fast reverse button","slug":"fast_reverse_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏮️","skin_tone_support":false,"name":"last track button","slug":"last_track_button","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🔼","skin_tone_support":false,"name":"upwards button","slug":"upwards_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏫","skin_tone_support":false,"name":"fast up button","slug":"fast_up_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔽","skin_tone_support":false,"name":"downwards button","slug":"downwards_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏬","skin_tone_support":false,"name":"fast down button","slug":"fast_down_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⏸️","skin_tone_support":false,"name":"pause button","slug":"pause_button","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⏹️","skin_tone_support":false,"name":"stop button","slug":"stop_button","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⏺️","skin_tone_support":false,"name":"record button","slug":"record_button","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"⏏️","skin_tone_support":false,"name":"eject button","slug":"eject_button","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🎦","skin_tone_support":false,"name":"cinema","slug":"cinema","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔅","skin_tone_support":false,"name":"dim button","slug":"dim_button","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔆","skin_tone_support":false,"name":"bright button","slug":"bright_button","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"📶","skin_tone_support":false,"name":"antenna bars","slug":"antenna_bars","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📳","skin_tone_support":false,"name":"vibration mode","slug":"vibration_mode","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📴","skin_tone_support":false,"name":"mobile phone off","slug":"mobile_phone_off","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♀️","skin_tone_support":false,"name":"female sign","slug":"female_sign","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"♂️","skin_tone_support":false,"name":"male sign","slug":"male_sign","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"⚧️","skin_tone_support":false,"name":"transgender symbol","slug":"transgender_symbol","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"✖️","skin_tone_support":false,"name":"multiply","slug":"multiply","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"➕","skin_tone_support":false,"name":"plus","slug":"plus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"➖","skin_tone_support":false,"name":"minus","slug":"minus","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"➗","skin_tone_support":false,"name":"divide","slug":"divide","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"♾️","skin_tone_support":false,"name":"infinity","slug":"infinity","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"‼️","skin_tone_support":false,"name":"double exclamation mark","slug":"double_exclamation_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⁉️","skin_tone_support":false,"name":"exclamation question mark","slug":"exclamation_question_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❓","skin_tone_support":false,"name":"red question mark","slug":"red_question_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❔","skin_tone_support":false,"name":"white question mark","slug":"white_question_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❕","skin_tone_support":false,"name":"white exclamation mark","slug":"white_exclamation_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❗","skin_tone_support":false,"name":"red exclamation mark","slug":"red_exclamation_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"〰️","skin_tone_support":false,"name":"wavy dash","slug":"wavy_dash","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💱","skin_tone_support":false,"name":"currency exchange","slug":"currency_exchange","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💲","skin_tone_support":false,"name":"heavy dollar sign","slug":"heavy_dollar_sign","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⚕️","skin_tone_support":false,"name":"medical symbol","slug":"medical_symbol","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"♻️","skin_tone_support":false,"name":"recycling symbol","slug":"recycling_symbol","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⚜️","skin_tone_support":false,"name":"fleur-de-lis","slug":"fleur_de_lis","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🔱","skin_tone_support":false,"name":"trident emblem","slug":"trident_emblem","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"📛","skin_tone_support":false,"name":"name badge","slug":"name_badge","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔰","skin_tone_support":false,"name":"Japanese symbol for beginner","slug":"japanese_symbol_for_beginner","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⭕","skin_tone_support":false,"name":"hollow red circle","slug":"hollow_red_circle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✅","skin_tone_support":false,"name":"check mark button","slug":"check_mark_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"☑️","skin_tone_support":false,"name":"check box with check","slug":"check_box_with_check","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✔️","skin_tone_support":false,"name":"check mark","slug":"check_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❌","skin_tone_support":false,"name":"cross mark","slug":"cross_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❎","skin_tone_support":false,"name":"cross mark button","slug":"cross_mark_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"➰","skin_tone_support":false,"name":"curly loop","slug":"curly_loop","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"➿","skin_tone_support":false,"name":"double curly loop","slug":"double_curly_loop","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"〽️","skin_tone_support":false,"name":"part alternation mark","slug":"part_alternation_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✳️","skin_tone_support":false,"name":"eight-spoked asterisk","slug":"eight_spoked_asterisk","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"✴️","skin_tone_support":false,"name":"eight-pointed star","slug":"eight_pointed_star","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"❇️","skin_tone_support":false,"name":"sparkle","slug":"sparkle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"©️","skin_tone_support":false,"name":"copyright","slug":"copyright","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"®️","skin_tone_support":false,"name":"registered","slug":"registered","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"™️","skin_tone_support":false,"name":"trade mark","slug":"trade_mark","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"#️⃣","skin_tone_support":false,"name":"keycap #","slug":"keycap_","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"*️⃣","skin_tone_support":false,"name":"keycap *","slug":"keycap_","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"0️⃣","skin_tone_support":false,"name":"keycap 0","slug":"keycap_0","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"1️⃣","skin_tone_support":false,"name":"keycap 1","slug":"keycap_1","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"2️⃣","skin_tone_support":false,"name":"keycap 2","slug":"keycap_2","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"3️⃣","skin_tone_support":false,"name":"keycap 3","slug":"keycap_3","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"4️⃣","skin_tone_support":false,"name":"keycap 4","slug":"keycap_4","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"5️⃣","skin_tone_support":false,"name":"keycap 5","slug":"keycap_5","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"6️⃣","skin_tone_support":false,"name":"keycap 6","slug":"keycap_6","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"7️⃣","skin_tone_support":false,"name":"keycap 7","slug":"keycap_7","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"8️⃣","skin_tone_support":false,"name":"keycap 8","slug":"keycap_8","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"9️⃣","skin_tone_support":false,"name":"keycap 9","slug":"keycap_9","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔟","skin_tone_support":false,"name":"keycap 10","slug":"keycap_10","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔠","skin_tone_support":false,"name":"input latin uppercase","slug":"input_latin_uppercase","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔡","skin_tone_support":false,"name":"input latin lowercase","slug":"input_latin_lowercase","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔢","skin_tone_support":false,"name":"input numbers","slug":"input_numbers","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔣","skin_tone_support":false,"name":"input symbols","slug":"input_symbols","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔤","skin_tone_support":false,"name":"input latin letters","slug":"input_latin_letters","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🅰️","skin_tone_support":false,"name":"A button (blood type)","slug":"a_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆎","skin_tone_support":false,"name":"AB button (blood type)","slug":"ab_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🅱️","skin_tone_support":false,"name":"B button (blood type)","slug":"b_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆑","skin_tone_support":false,"name":"CL button","slug":"cl_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆒","skin_tone_support":false,"name":"COOL button","slug":"cool_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆓","skin_tone_support":false,"name":"FREE button","slug":"free_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"ℹ️","skin_tone_support":false,"name":"information","slug":"information","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆔","skin_tone_support":false,"name":"ID button","slug":"id_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"Ⓜ️","skin_tone_support":false,"name":"circled M","slug":"circled_m","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆕","skin_tone_support":false,"name":"NEW button","slug":"new_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆖","skin_tone_support":false,"name":"NG button","slug":"ng_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🅾️","skin_tone_support":false,"name":"O button (blood type)","slug":"o_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆗","skin_tone_support":false,"name":"OK button","slug":"ok_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🅿️","skin_tone_support":false,"name":"P button","slug":"p_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆘","skin_tone_support":false,"name":"SOS button","slug":"sos_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆙","skin_tone_support":false,"name":"UP! button","slug":"up_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🆚","skin_tone_support":false,"name":"VS button","slug":"vs_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈁","skin_tone_support":false,"name":"Japanese “here” button","slug":"japanese_here_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈂️","skin_tone_support":false,"name":"Japanese “service charge” button","slug":"japanese_service_charge_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈷️","skin_tone_support":false,"name":"Japanese “monthly amount” button","slug":"japanese_monthly_amount_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈶","skin_tone_support":false,"name":"Japanese “not free of charge” button","slug":"japanese_not_free_of_charge_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈯","skin_tone_support":false,"name":"Japanese “reserved” button","slug":"japanese_reserved_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🉐","skin_tone_support":false,"name":"Japanese “bargain” button","slug":"japanese_bargain_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈹","skin_tone_support":false,"name":"Japanese “discount” button","slug":"japanese_discount_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈚","skin_tone_support":false,"name":"Japanese “free of charge” button","slug":"japanese_free_of_charge_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈲","skin_tone_support":false,"name":"Japanese “prohibited” button","slug":"japanese_prohibited_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🉑","skin_tone_support":false,"name":"Japanese “acceptable” button","slug":"japanese_acceptable_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈸","skin_tone_support":false,"name":"Japanese “application” button","slug":"japanese_application_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈴","skin_tone_support":false,"name":"Japanese “passing grade” button","slug":"japanese_passing_grade_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈳","skin_tone_support":false,"name":"Japanese “vacancy” button","slug":"japanese_vacancy_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"㊗️","skin_tone_support":false,"name":"Japanese “congratulations” button","slug":"japanese_congratulations_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"㊙️","skin_tone_support":false,"name":"Japanese “secret” button","slug":"japanese_secret_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈺","skin_tone_support":false,"name":"Japanese “open for business” button","slug":"japanese_open_for_business_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🈵","skin_tone_support":false,"name":"Japanese “no vacancy” button","slug":"japanese_no_vacancy_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔴","skin_tone_support":false,"name":"red circle","slug":"red_circle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🟠","skin_tone_support":false,"name":"orange circle","slug":"orange_circle","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟡","skin_tone_support":false,"name":"yellow circle","slug":"yellow_circle","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟢","skin_tone_support":false,"name":"green circle","slug":"green_circle","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🔵","skin_tone_support":false,"name":"blue circle","slug":"blue_circle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🟣","skin_tone_support":false,"name":"purple circle","slug":"purple_circle","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟤","skin_tone_support":false,"name":"brown circle","slug":"brown_circle","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"⚫","skin_tone_support":false,"name":"black circle","slug":"black_circle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⚪","skin_tone_support":false,"name":"white circle","slug":"white_circle","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🟥","skin_tone_support":false,"name":"red square","slug":"red_square","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟧","skin_tone_support":false,"name":"orange square","slug":"orange_square","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟨","skin_tone_support":false,"name":"yellow square","slug":"yellow_square","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟩","skin_tone_support":false,"name":"green square","slug":"green_square","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟦","skin_tone_support":false,"name":"blue square","slug":"blue_square","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟪","skin_tone_support":false,"name":"purple square","slug":"purple_square","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"🟫","skin_tone_support":false,"name":"brown square","slug":"brown_square","unicode_version":"12.0","emoji_version":"12.0"},{"emoji":"⬛","skin_tone_support":false,"name":"black large square","slug":"black_large_square","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"⬜","skin_tone_support":false,"name":"white large square","slug":"white_large_square","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"◼️","skin_tone_support":false,"name":"black medium square","slug":"black_medium_square","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"◻️","skin_tone_support":false,"name":"white medium square","slug":"white_medium_square","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"◾","skin_tone_support":false,"name":"black medium-small square","slug":"black_medium_small_square","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"◽","skin_tone_support":false,"name":"white medium-small square","slug":"white_medium_small_square","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"▪️","skin_tone_support":false,"name":"black small square","slug":"black_small_square","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"▫️","skin_tone_support":false,"name":"white small square","slug":"white_small_square","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔶","skin_tone_support":false,"name":"large orange diamond","slug":"large_orange_diamond","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔷","skin_tone_support":false,"name":"large blue diamond","slug":"large_blue_diamond","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔸","skin_tone_support":false,"name":"small orange diamond","slug":"small_orange_diamond","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔹","skin_tone_support":false,"name":"small blue diamond","slug":"small_blue_diamond","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔺","skin_tone_support":false,"name":"red triangle pointed up","slug":"red_triangle_pointed_up","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔻","skin_tone_support":false,"name":"red triangle pointed down","slug":"red_triangle_pointed_down","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"💠","skin_tone_support":false,"name":"diamond with a dot","slug":"diamond_with_a_dot","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔘","skin_tone_support":false,"name":"radio button","slug":"radio_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔳","skin_tone_support":false,"name":"white square button","slug":"white_square_button","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🔲","skin_tone_support":false,"name":"black square button","slug":"black_square_button","unicode_version":"0.6","emoji_version":"0.6"}],"Flags":[{"emoji":"🏁","skin_tone_support":false,"name":"chequered flag","slug":"chequered_flag","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🚩","skin_tone_support":false,"name":"triangular flag","slug":"triangular_flag","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🎌","skin_tone_support":false,"name":"crossed flags","slug":"crossed_flags","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🏴","skin_tone_support":false,"name":"black flag","slug":"black_flag","unicode_version":"1.0","emoji_version":"1.0"},{"emoji":"🏳️","skin_tone_support":false,"name":"white flag","slug":"white_flag","unicode_version":"0.7","emoji_version":"0.7"},{"emoji":"🏳️‍🌈","skin_tone_support":false,"name":"rainbow flag","slug":"rainbow_flag","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🏳️‍⚧️","skin_tone_support":false,"name":"transgender flag","slug":"transgender_flag","unicode_version":"13.0","emoji_version":"13.0"},{"emoji":"🏴‍☠️","skin_tone_support":false,"name":"pirate flag","slug":"pirate_flag","unicode_version":"11.0","emoji_version":"11.0"},{"emoji":"🇦🇨","skin_tone_support":false,"name":"flag Ascension Island","slug":"flag_ascension_island","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇩","skin_tone_support":false,"name":"flag Andorra","slug":"flag_andorra","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇪","skin_tone_support":false,"name":"flag United Arab Emirates","slug":"flag_united_arab_emirates","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇫","skin_tone_support":false,"name":"flag Afghanistan","slug":"flag_afghanistan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇬","skin_tone_support":false,"name":"flag Antigua & Barbuda","slug":"flag_antigua_barbuda","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇮","skin_tone_support":false,"name":"flag Anguilla","slug":"flag_anguilla","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇱","skin_tone_support":false,"name":"flag Albania","slug":"flag_albania","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇲","skin_tone_support":false,"name":"flag Armenia","slug":"flag_armenia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇴","skin_tone_support":false,"name":"flag Angola","slug":"flag_angola","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇶","skin_tone_support":false,"name":"flag Antarctica","slug":"flag_antarctica","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇷","skin_tone_support":false,"name":"flag Argentina","slug":"flag_argentina","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇸","skin_tone_support":false,"name":"flag American Samoa","slug":"flag_american_samoa","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇹","skin_tone_support":false,"name":"flag Austria","slug":"flag_austria","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇺","skin_tone_support":false,"name":"flag Australia","slug":"flag_australia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇼","skin_tone_support":false,"name":"flag Aruba","slug":"flag_aruba","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇽","skin_tone_support":false,"name":"flag Åland Islands","slug":"flag_aland_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇦🇿","skin_tone_support":false,"name":"flag Azerbaijan","slug":"flag_azerbaijan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇦","skin_tone_support":false,"name":"flag Bosnia & Herzegovina","slug":"flag_bosnia_herzegovina","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇧","skin_tone_support":false,"name":"flag Barbados","slug":"flag_barbados","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇩","skin_tone_support":false,"name":"flag Bangladesh","slug":"flag_bangladesh","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇪","skin_tone_support":false,"name":"flag Belgium","slug":"flag_belgium","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇫","skin_tone_support":false,"name":"flag Burkina Faso","slug":"flag_burkina_faso","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇬","skin_tone_support":false,"name":"flag Bulgaria","slug":"flag_bulgaria","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇭","skin_tone_support":false,"name":"flag Bahrain","slug":"flag_bahrain","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇮","skin_tone_support":false,"name":"flag Burundi","slug":"flag_burundi","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇯","skin_tone_support":false,"name":"flag Benin","slug":"flag_benin","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇱","skin_tone_support":false,"name":"flag St. Barthélemy","slug":"flag_st_barthelemy","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇲","skin_tone_support":false,"name":"flag Bermuda","slug":"flag_bermuda","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇳","skin_tone_support":false,"name":"flag Brunei","slug":"flag_brunei","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇴","skin_tone_support":false,"name":"flag Bolivia","slug":"flag_bolivia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇶","skin_tone_support":false,"name":"flag Caribbean Netherlands","slug":"flag_caribbean_netherlands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇷","skin_tone_support":false,"name":"flag Brazil","slug":"flag_brazil","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇸","skin_tone_support":false,"name":"flag Bahamas","slug":"flag_bahamas","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇹","skin_tone_support":false,"name":"flag Bhutan","slug":"flag_bhutan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇻","skin_tone_support":false,"name":"flag Bouvet Island","slug":"flag_bouvet_island","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇼","skin_tone_support":false,"name":"flag Botswana","slug":"flag_botswana","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇾","skin_tone_support":false,"name":"flag Belarus","slug":"flag_belarus","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇧🇿","skin_tone_support":false,"name":"flag Belize","slug":"flag_belize","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇦","skin_tone_support":false,"name":"flag Canada","slug":"flag_canada","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇨","skin_tone_support":false,"name":"flag Cocos (Keeling) Islands","slug":"flag_cocos_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇩","skin_tone_support":false,"name":"flag Congo - Kinshasa","slug":"flag_congo_kinshasa","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇫","skin_tone_support":false,"name":"flag Central African Republic","slug":"flag_central_african_republic","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇬","skin_tone_support":false,"name":"flag Congo - Brazzaville","slug":"flag_congo_brazzaville","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇭","skin_tone_support":false,"name":"flag Switzerland","slug":"flag_switzerland","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇮","skin_tone_support":false,"name":"flag Côte d’Ivoire","slug":"flag_cote_d_ivoire","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇰","skin_tone_support":false,"name":"flag Cook Islands","slug":"flag_cook_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇱","skin_tone_support":false,"name":"flag Chile","slug":"flag_chile","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇲","skin_tone_support":false,"name":"flag Cameroon","slug":"flag_cameroon","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇳","skin_tone_support":false,"name":"flag China","slug":"flag_china","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇨🇴","skin_tone_support":false,"name":"flag Colombia","slug":"flag_colombia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇵","skin_tone_support":false,"name":"flag Clipperton Island","slug":"flag_clipperton_island","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇷","skin_tone_support":false,"name":"flag Costa Rica","slug":"flag_costa_rica","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇺","skin_tone_support":false,"name":"flag Cuba","slug":"flag_cuba","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇻","skin_tone_support":false,"name":"flag Cape Verde","slug":"flag_cape_verde","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇼","skin_tone_support":false,"name":"flag Curaçao","slug":"flag_curacao","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇽","skin_tone_support":false,"name":"flag Christmas Island","slug":"flag_christmas_island","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇾","skin_tone_support":false,"name":"flag Cyprus","slug":"flag_cyprus","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇨🇿","skin_tone_support":false,"name":"flag Czechia","slug":"flag_czechia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇩🇪","skin_tone_support":false,"name":"flag Germany","slug":"flag_germany","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇩🇬","skin_tone_support":false,"name":"flag Diego Garcia","slug":"flag_diego_garcia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇩🇯","skin_tone_support":false,"name":"flag Djibouti","slug":"flag_djibouti","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇩🇰","skin_tone_support":false,"name":"flag Denmark","slug":"flag_denmark","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇩🇲","skin_tone_support":false,"name":"flag Dominica","slug":"flag_dominica","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇩🇴","skin_tone_support":false,"name":"flag Dominican Republic","slug":"flag_dominican_republic","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇩🇿","skin_tone_support":false,"name":"flag Algeria","slug":"flag_algeria","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇪🇦","skin_tone_support":false,"name":"flag Ceuta & Melilla","slug":"flag_ceuta_melilla","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇪🇨","skin_tone_support":false,"name":"flag Ecuador","slug":"flag_ecuador","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇪🇪","skin_tone_support":false,"name":"flag Estonia","slug":"flag_estonia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇪🇬","skin_tone_support":false,"name":"flag Egypt","slug":"flag_egypt","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇪🇭","skin_tone_support":false,"name":"flag Western Sahara","slug":"flag_western_sahara","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇪🇷","skin_tone_support":false,"name":"flag Eritrea","slug":"flag_eritrea","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇪🇸","skin_tone_support":false,"name":"flag Spain","slug":"flag_spain","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇪🇹","skin_tone_support":false,"name":"flag Ethiopia","slug":"flag_ethiopia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇪🇺","skin_tone_support":false,"name":"flag European Union","slug":"flag_european_union","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇫🇮","skin_tone_support":false,"name":"flag Finland","slug":"flag_finland","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇫🇯","skin_tone_support":false,"name":"flag Fiji","slug":"flag_fiji","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇫🇰","skin_tone_support":false,"name":"flag Falkland Islands","slug":"flag_falkland_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇫🇲","skin_tone_support":false,"name":"flag Micronesia","slug":"flag_micronesia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇫🇴","skin_tone_support":false,"name":"flag Faroe Islands","slug":"flag_faroe_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇫🇷","skin_tone_support":false,"name":"flag France","slug":"flag_france","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇬🇦","skin_tone_support":false,"name":"flag Gabon","slug":"flag_gabon","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇧","skin_tone_support":false,"name":"flag United Kingdom","slug":"flag_united_kingdom","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇬🇩","skin_tone_support":false,"name":"flag Grenada","slug":"flag_grenada","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇪","skin_tone_support":false,"name":"flag Georgia","slug":"flag_georgia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇫","skin_tone_support":false,"name":"flag French Guiana","slug":"flag_french_guiana","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇬","skin_tone_support":false,"name":"flag Guernsey","slug":"flag_guernsey","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇭","skin_tone_support":false,"name":"flag Ghana","slug":"flag_ghana","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇮","skin_tone_support":false,"name":"flag Gibraltar","slug":"flag_gibraltar","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇱","skin_tone_support":false,"name":"flag Greenland","slug":"flag_greenland","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇲","skin_tone_support":false,"name":"flag Gambia","slug":"flag_gambia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇳","skin_tone_support":false,"name":"flag Guinea","slug":"flag_guinea","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇵","skin_tone_support":false,"name":"flag Guadeloupe","slug":"flag_guadeloupe","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇶","skin_tone_support":false,"name":"flag Equatorial Guinea","slug":"flag_equatorial_guinea","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇷","skin_tone_support":false,"name":"flag Greece","slug":"flag_greece","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇸","skin_tone_support":false,"name":"flag South Georgia & South Sandwich Islands","slug":"flag_south_georgia_south_sandwich_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇹","skin_tone_support":false,"name":"flag Guatemala","slug":"flag_guatemala","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇺","skin_tone_support":false,"name":"flag Guam","slug":"flag_guam","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇼","skin_tone_support":false,"name":"flag Guinea-Bissau","slug":"flag_guinea_bissau","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇬🇾","skin_tone_support":false,"name":"flag Guyana","slug":"flag_guyana","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇭🇰","skin_tone_support":false,"name":"flag Hong Kong SAR China","slug":"flag_hong_kong_sar_china","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇭🇲","skin_tone_support":false,"name":"flag Heard & McDonald Islands","slug":"flag_heard_mcdonald_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇭🇳","skin_tone_support":false,"name":"flag Honduras","slug":"flag_honduras","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇭🇷","skin_tone_support":false,"name":"flag Croatia","slug":"flag_croatia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇭🇹","skin_tone_support":false,"name":"flag Haiti","slug":"flag_haiti","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇭🇺","skin_tone_support":false,"name":"flag Hungary","slug":"flag_hungary","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇨","skin_tone_support":false,"name":"flag Canary Islands","slug":"flag_canary_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇩","skin_tone_support":false,"name":"flag Indonesia","slug":"flag_indonesia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇪","skin_tone_support":false,"name":"flag Ireland","slug":"flag_ireland","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇱","skin_tone_support":false,"name":"flag Israel","slug":"flag_israel","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇲","skin_tone_support":false,"name":"flag Isle of Man","slug":"flag_isle_of_man","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇳","skin_tone_support":false,"name":"flag India","slug":"flag_india","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇴","skin_tone_support":false,"name":"flag British Indian Ocean Territory","slug":"flag_british_indian_ocean_territory","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇶","skin_tone_support":false,"name":"flag Iraq","slug":"flag_iraq","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇷","skin_tone_support":false,"name":"flag Iran","slug":"flag_iran","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇸","skin_tone_support":false,"name":"flag Iceland","slug":"flag_iceland","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇮🇹","skin_tone_support":false,"name":"flag Italy","slug":"flag_italy","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇯🇪","skin_tone_support":false,"name":"flag Jersey","slug":"flag_jersey","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇯🇲","skin_tone_support":false,"name":"flag Jamaica","slug":"flag_jamaica","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇯🇴","skin_tone_support":false,"name":"flag Jordan","slug":"flag_jordan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇯🇵","skin_tone_support":false,"name":"flag Japan","slug":"flag_japan","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇰🇪","skin_tone_support":false,"name":"flag Kenya","slug":"flag_kenya","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇬","skin_tone_support":false,"name":"flag Kyrgyzstan","slug":"flag_kyrgyzstan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇭","skin_tone_support":false,"name":"flag Cambodia","slug":"flag_cambodia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇮","skin_tone_support":false,"name":"flag Kiribati","slug":"flag_kiribati","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇲","skin_tone_support":false,"name":"flag Comoros","slug":"flag_comoros","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇳","skin_tone_support":false,"name":"flag St. Kitts & Nevis","slug":"flag_st_kitts_nevis","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇵","skin_tone_support":false,"name":"flag North Korea","slug":"flag_north_korea","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇷","skin_tone_support":false,"name":"flag South Korea","slug":"flag_south_korea","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇰🇼","skin_tone_support":false,"name":"flag Kuwait","slug":"flag_kuwait","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇾","skin_tone_support":false,"name":"flag Cayman Islands","slug":"flag_cayman_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇰🇿","skin_tone_support":false,"name":"flag Kazakhstan","slug":"flag_kazakhstan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇦","skin_tone_support":false,"name":"flag Laos","slug":"flag_laos","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇧","skin_tone_support":false,"name":"flag Lebanon","slug":"flag_lebanon","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇨","skin_tone_support":false,"name":"flag St. Lucia","slug":"flag_st_lucia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇮","skin_tone_support":false,"name":"flag Liechtenstein","slug":"flag_liechtenstein","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇰","skin_tone_support":false,"name":"flag Sri Lanka","slug":"flag_sri_lanka","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇷","skin_tone_support":false,"name":"flag Liberia","slug":"flag_liberia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇸","skin_tone_support":false,"name":"flag Lesotho","slug":"flag_lesotho","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇹","skin_tone_support":false,"name":"flag Lithuania","slug":"flag_lithuania","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇺","skin_tone_support":false,"name":"flag Luxembourg","slug":"flag_luxembourg","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇻","skin_tone_support":false,"name":"flag Latvia","slug":"flag_latvia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇱🇾","skin_tone_support":false,"name":"flag Libya","slug":"flag_libya","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇦","skin_tone_support":false,"name":"flag Morocco","slug":"flag_morocco","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇨","skin_tone_support":false,"name":"flag Monaco","slug":"flag_monaco","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇩","skin_tone_support":false,"name":"flag Moldova","slug":"flag_moldova","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇪","skin_tone_support":false,"name":"flag Montenegro","slug":"flag_montenegro","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇫","skin_tone_support":false,"name":"flag St. Martin","slug":"flag_st_martin","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇬","skin_tone_support":false,"name":"flag Madagascar","slug":"flag_madagascar","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇭","skin_tone_support":false,"name":"flag Marshall Islands","slug":"flag_marshall_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇰","skin_tone_support":false,"name":"flag North Macedonia","slug":"flag_north_macedonia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇱","skin_tone_support":false,"name":"flag Mali","slug":"flag_mali","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇲","skin_tone_support":false,"name":"flag Myanmar (Burma)","slug":"flag_myanmar","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇳","skin_tone_support":false,"name":"flag Mongolia","slug":"flag_mongolia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇴","skin_tone_support":false,"name":"flag Macao SAR China","slug":"flag_macao_sar_china","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇵","skin_tone_support":false,"name":"flag Northern Mariana Islands","slug":"flag_northern_mariana_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇶","skin_tone_support":false,"name":"flag Martinique","slug":"flag_martinique","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇷","skin_tone_support":false,"name":"flag Mauritania","slug":"flag_mauritania","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇸","skin_tone_support":false,"name":"flag Montserrat","slug":"flag_montserrat","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇹","skin_tone_support":false,"name":"flag Malta","slug":"flag_malta","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇺","skin_tone_support":false,"name":"flag Mauritius","slug":"flag_mauritius","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇻","skin_tone_support":false,"name":"flag Maldives","slug":"flag_maldives","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇼","skin_tone_support":false,"name":"flag Malawi","slug":"flag_malawi","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇽","skin_tone_support":false,"name":"flag Mexico","slug":"flag_mexico","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇾","skin_tone_support":false,"name":"flag Malaysia","slug":"flag_malaysia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇲🇿","skin_tone_support":false,"name":"flag Mozambique","slug":"flag_mozambique","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇦","skin_tone_support":false,"name":"flag Namibia","slug":"flag_namibia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇨","skin_tone_support":false,"name":"flag New Caledonia","slug":"flag_new_caledonia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇪","skin_tone_support":false,"name":"flag Niger","slug":"flag_niger","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇫","skin_tone_support":false,"name":"flag Norfolk Island","slug":"flag_norfolk_island","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇬","skin_tone_support":false,"name":"flag Nigeria","slug":"flag_nigeria","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇮","skin_tone_support":false,"name":"flag Nicaragua","slug":"flag_nicaragua","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇱","skin_tone_support":false,"name":"flag Netherlands","slug":"flag_netherlands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇴","skin_tone_support":false,"name":"flag Norway","slug":"flag_norway","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇵","skin_tone_support":false,"name":"flag Nepal","slug":"flag_nepal","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇷","skin_tone_support":false,"name":"flag Nauru","slug":"flag_nauru","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇺","skin_tone_support":false,"name":"flag Niue","slug":"flag_niue","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇳🇿","skin_tone_support":false,"name":"flag New Zealand","slug":"flag_new_zealand","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇴🇲","skin_tone_support":false,"name":"flag Oman","slug":"flag_oman","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇦","skin_tone_support":false,"name":"flag Panama","slug":"flag_panama","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇪","skin_tone_support":false,"name":"flag Peru","slug":"flag_peru","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇫","skin_tone_support":false,"name":"flag French Polynesia","slug":"flag_french_polynesia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇬","skin_tone_support":false,"name":"flag Papua New Guinea","slug":"flag_papua_new_guinea","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇭","skin_tone_support":false,"name":"flag Philippines","slug":"flag_philippines","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇰","skin_tone_support":false,"name":"flag Pakistan","slug":"flag_pakistan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇱","skin_tone_support":false,"name":"flag Poland","slug":"flag_poland","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇲","skin_tone_support":false,"name":"flag St. Pierre & Miquelon","slug":"flag_st_pierre_miquelon","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇳","skin_tone_support":false,"name":"flag Pitcairn Islands","slug":"flag_pitcairn_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇷","skin_tone_support":false,"name":"flag Puerto Rico","slug":"flag_puerto_rico","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇸","skin_tone_support":false,"name":"flag Palestinian Territories","slug":"flag_palestinian_territories","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇹","skin_tone_support":false,"name":"flag Portugal","slug":"flag_portugal","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇼","skin_tone_support":false,"name":"flag Palau","slug":"flag_palau","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇵🇾","skin_tone_support":false,"name":"flag Paraguay","slug":"flag_paraguay","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇶🇦","skin_tone_support":false,"name":"flag Qatar","slug":"flag_qatar","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇷🇪","skin_tone_support":false,"name":"flag Réunion","slug":"flag_reunion","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇷🇴","skin_tone_support":false,"name":"flag Romania","slug":"flag_romania","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇷🇸","skin_tone_support":false,"name":"flag Serbia","slug":"flag_serbia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇷🇺","skin_tone_support":false,"name":"flag Russia","slug":"flag_russia","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇷🇼","skin_tone_support":false,"name":"flag Rwanda","slug":"flag_rwanda","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇦","skin_tone_support":false,"name":"flag Saudi Arabia","slug":"flag_saudi_arabia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇧","skin_tone_support":false,"name":"flag Solomon Islands","slug":"flag_solomon_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇨","skin_tone_support":false,"name":"flag Seychelles","slug":"flag_seychelles","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇩","skin_tone_support":false,"name":"flag Sudan","slug":"flag_sudan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇪","skin_tone_support":false,"name":"flag Sweden","slug":"flag_sweden","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇬","skin_tone_support":false,"name":"flag Singapore","slug":"flag_singapore","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇭","skin_tone_support":false,"name":"flag St. Helena","slug":"flag_st_helena","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇮","skin_tone_support":false,"name":"flag Slovenia","slug":"flag_slovenia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇯","skin_tone_support":false,"name":"flag Svalbard & Jan Mayen","slug":"flag_svalbard_jan_mayen","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇰","skin_tone_support":false,"name":"flag Slovakia","slug":"flag_slovakia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇱","skin_tone_support":false,"name":"flag Sierra Leone","slug":"flag_sierra_leone","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇲","skin_tone_support":false,"name":"flag San Marino","slug":"flag_san_marino","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇳","skin_tone_support":false,"name":"flag Senegal","slug":"flag_senegal","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇴","skin_tone_support":false,"name":"flag Somalia","slug":"flag_somalia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇷","skin_tone_support":false,"name":"flag Suriname","slug":"flag_suriname","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇸","skin_tone_support":false,"name":"flag South Sudan","slug":"flag_south_sudan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇹","skin_tone_support":false,"name":"flag São Tomé & Príncipe","slug":"flag_sao_tome_principe","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇻","skin_tone_support":false,"name":"flag El Salvador","slug":"flag_el_salvador","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇽","skin_tone_support":false,"name":"flag Sint Maarten","slug":"flag_sint_maarten","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇾","skin_tone_support":false,"name":"flag Syria","slug":"flag_syria","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇸🇿","skin_tone_support":false,"name":"flag Eswatini","slug":"flag_eswatini","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇦","skin_tone_support":false,"name":"flag Tristan da Cunha","slug":"flag_tristan_da_cunha","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇨","skin_tone_support":false,"name":"flag Turks & Caicos Islands","slug":"flag_turks_caicos_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇩","skin_tone_support":false,"name":"flag Chad","slug":"flag_chad","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇫","skin_tone_support":false,"name":"flag French Southern Territories","slug":"flag_french_southern_territories","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇬","skin_tone_support":false,"name":"flag Togo","slug":"flag_togo","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇭","skin_tone_support":false,"name":"flag Thailand","slug":"flag_thailand","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇯","skin_tone_support":false,"name":"flag Tajikistan","slug":"flag_tajikistan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇰","skin_tone_support":false,"name":"flag Tokelau","slug":"flag_tokelau","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇱","skin_tone_support":false,"name":"flag Timor-Leste","slug":"flag_timor_leste","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇲","skin_tone_support":false,"name":"flag Turkmenistan","slug":"flag_turkmenistan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇳","skin_tone_support":false,"name":"flag Tunisia","slug":"flag_tunisia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇴","skin_tone_support":false,"name":"flag Tonga","slug":"flag_tonga","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇷","skin_tone_support":false,"name":"flag Turkey","slug":"flag_turkey","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇹","skin_tone_support":false,"name":"flag Trinidad & Tobago","slug":"flag_trinidad_tobago","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇻","skin_tone_support":false,"name":"flag Tuvalu","slug":"flag_tuvalu","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇼","skin_tone_support":false,"name":"flag Taiwan","slug":"flag_taiwan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇹🇿","skin_tone_support":false,"name":"flag Tanzania","slug":"flag_tanzania","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇺🇦","skin_tone_support":false,"name":"flag Ukraine","slug":"flag_ukraine","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇺🇬","skin_tone_support":false,"name":"flag Uganda","slug":"flag_uganda","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇺🇲","skin_tone_support":false,"name":"flag U.S. Outlying Islands","slug":"flag_u_s_outlying_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇺🇳","skin_tone_support":false,"name":"flag United Nations","slug":"flag_united_nations","unicode_version":"4.0","emoji_version":"4.0"},{"emoji":"🇺🇸","skin_tone_support":false,"name":"flag United States","slug":"flag_united_states","unicode_version":"0.6","emoji_version":"0.6"},{"emoji":"🇺🇾","skin_tone_support":false,"name":"flag Uruguay","slug":"flag_uruguay","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇺🇿","skin_tone_support":false,"name":"flag Uzbekistan","slug":"flag_uzbekistan","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇻🇦","skin_tone_support":false,"name":"flag Vatican City","slug":"flag_vatican_city","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇻🇨","skin_tone_support":false,"name":"flag St. Vincent & Grenadines","slug":"flag_st_vincent_grenadines","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇻🇪","skin_tone_support":false,"name":"flag Venezuela","slug":"flag_venezuela","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇻🇬","skin_tone_support":false,"name":"flag British Virgin Islands","slug":"flag_british_virgin_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇻🇮","skin_tone_support":false,"name":"flag U.S. Virgin Islands","slug":"flag_u_s_virgin_islands","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇻🇳","skin_tone_support":false,"name":"flag Vietnam","slug":"flag_vietnam","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇻🇺","skin_tone_support":false,"name":"flag Vanuatu","slug":"flag_vanuatu","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇼🇫","skin_tone_support":false,"name":"flag Wallis & Futuna","slug":"flag_wallis_futuna","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇼🇸","skin_tone_support":false,"name":"flag Samoa","slug":"flag_samoa","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇽🇰","skin_tone_support":false,"name":"flag Kosovo","slug":"flag_kosovo","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇾🇪","skin_tone_support":false,"name":"flag Yemen","slug":"flag_yemen","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇾🇹","skin_tone_support":false,"name":"flag Mayotte","slug":"flag_mayotte","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇿🇦","skin_tone_support":false,"name":"flag South Africa","slug":"flag_south_africa","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇿🇲","skin_tone_support":false,"name":"flag Zambia","slug":"flag_zambia","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🇿🇼","skin_tone_support":false,"name":"flag Zimbabwe","slug":"flag_zimbabwe","unicode_version":"2.0","emoji_version":"2.0"},{"emoji":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","skin_tone_support":false,"name":"flag England","slug":"flag_england","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","skin_tone_support":false,"name":"flag Scotland","slug":"flag_scotland","unicode_version":"5.0","emoji_version":"5.0"},{"emoji":"🏴󠁧󠁢󠁷󠁬󠁳󠁿","skin_tone_support":false,"name":"flag Wales","slug":"flag_wales","unicode_version":"5.0","emoji_version":"5.0"}]}')
+    },
+    d751: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Always Angry","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#836cc1","mode":"autoFit","padding":0,"dy":30},"background":{"type":"none","color":"#7bbc5c","mode":"pattern"}}')
+    },
+    e357: function(e, o, n) {
+        "use strict";
+        n("1c64")
+    },
+    e415: function(e, o, n) {
+        "use strict";
+        n("397a")
+    },
+    e6d5: function(e, o, n) {
+        "use strict";
+        n("385f")
+    },
+    e753: function(e, o, n) {
+        "use strict";
+        n("79f6")
+    },
+    f1e9: function(e, o, n) {},
+    f215: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Welcome!!!","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#000000","mode":"autoFit","padding":0,"dy":30},"background":{"type":"none","color":"#FBB82C","mode":"pattern"}}')
+    },
+    f36a: function(e, o, n) {
+        "use strict";
+        n("8ae6")
+    },
+    f46a: function(e, o, n) {
+        "use strict";
+        n("f1e9")
+    },
+    f49d: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"梦想和爱\\n健康和学习","fontSize":200,"fontFamily":"Yuanti SC","type":"none","color":"#FFA45B","mode":"none","padding":0,"dy":0},"background":{"type":"none","color":"#FBF6F0","mode":"pattern"}}')
+    },
+    fa59: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"falling down","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#fff","mode":"autoFit","padding":0,"dy":30},"background":{"mode":"image","imageURL":"https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439457370.webp"}}')
+    },
+    fc19: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"🍋🌳👇🐷🙋‍♀️","fontSize":121,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#000","mode":"none","padding":0,"dy":0},"background":{"type":"none","color":"#ed6828","mode":"pattern"}}')
+    },
+    fd84: function(e, o, n) {},
+    fdc6: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Face challenge","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"none","color":"#fff","mode":"autoFit","padding":0,"dy":30},"background":{"mode":"image","imageURL":"https://jsd.cdn.zzko.cn/gh/saoxiaoyu/picx-images-hosting@master/20230826/1706439492573.webp"}}')
+    },
+    fe82: function(e) {
+        e.exports = JSON.parse('{"text":{"content":"Mamba forever","fontSize":200,"fontFamily":"Luckiest Guy","fontURL":"./fonts/luckiest_guy.woff2","type":"line","rotation":45,"width":25,"height":25,"foregroundColor":"#EEEEEE","color":"#FFD369","mode":"autoFit","lineWidth":1.5,"padding":0,"dy":30},"background":{"mode":"pattern","color":"#222831","foregroundColor":"#393E46","type":"line","width":50,"lineWidth":1.5,"rotation":0}}')
+    }
+});
+//# sourceMappingURL=app.b82e531e.js.map
