@@ -624,16 +624,16 @@ body,html {
     box-shadow: 0 2px 12px 0 rgba(0,0,0,.1)
 }
 
-.about-container {
+.story-container {
     margin: 0 172px
 }
 
-.about-container .el-select {
+.story-container .el-select {
     margin-top: 1em;
     margin-right: 1em
 }
 
-.about-header {
+.story-header {
     display: flex;
     align-items: center;
     margin: 1em 0
@@ -645,32 +645,32 @@ body,html {
     float: right
 }
 
-.about-image {
+.story-image {
     margin-left: 5%;
     border-radius: 40px
 }
 
-.about-image img {
+.story-image img {
     border-radius: 50px
 }
 
-.about-header h1 {
+.story-header h1 {
     font-size: 50px;
     margin: .2em 0
 }
 
-.about-header p {
+.story-header p {
     text-align: left;
     font-size: 20px;
     margin: 1em 0
 }
 
-.about-emoji-container {
+.story-emoji-container {
     display: grid;
     grid-template-columns: repeat(24,1fr)
 }
 
-.about-emoji-container span {
+.story-emoji-container span {
     display: inline-block;
     font-size: 20px;
     padding: .5em 0;
@@ -678,11 +678,11 @@ body,html {
     border-radius: 10px
 }
 
-.about-emoji-container span:hover {
+.story-emoji-container span:hover {
     background: #eee
 }
 
-.about-emoticon-item {
+.story-emoticon-item {
     padding: .5em .5em;
     margin: .5em .5em;
     display: inline-block;
@@ -692,55 +692,55 @@ body,html {
     background: #eee
 }
 
-.about-emoticon-item:hover {
+.story-emoticon-item:hover {
     color: #409eff
 }
 
-.about-color-item {
+.story-color-item {
     text-align: center;
     margin-right: 1.25em
 }
 
-.about-color-item-wrapper {
+.story-color-item-wrapper {
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
     transition: box-shadow .3s
 }
 
-.about-color-collection {
+.story-color-collection {
     text-align: left;
     margin-bottom: 2em
 }
 
-.about-color-container {
+.story-color-container {
     display: grid;
     grid-template-columns: repeat(6,1fr)
 }
 
-.about-color-collection-des {
+.story-color-collection-des {
     margin: .75em 0
 }
 
-.about-color-item-wrapper:hover {
+.story-color-item-wrapper:hover {
     box-shadow: 0 2px 12px 0 rgba(0,0,0,.1)
 }
 
-.about-color-name {
+.story-color-name {
     display: inline-block;
     margin: .5em 0
 }
 
-.about-body {
+.story-body {
     margin-bottom: 2.5em
 }
 
-.about-pattern-container {
+.story-pattern-container {
     display: grid;
     grid-template-columns: repeat(4,1fr)
 }
 
-.about-pattern-item {
+.story-pattern-item {
     margin: 12px
 }
 
