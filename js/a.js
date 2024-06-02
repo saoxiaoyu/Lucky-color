@@ -321,7 +321,7 @@ function j() {
         'b3a0',
         'color-palette-link',
         'height',
-        'Lucky-Color'，
+        '妙笔生花'，
         'type',
         '#645a8d',
         'https://colorhunt.co/palette/ffa45bffda77fbf6f0aee6e6',
