@@ -321,7 +321,7 @@ function j() {
         'b3a0',
         'color-palette-link',
         'height',
-        'Lucky-Color',
+        '妙笔生花'，
         'type',
         '#645a8d',
         'https://colorhunt.co/palette/ffa45bffda77fbf6f0aee6e6',
@@ -1087,7 +1087,7 @@ function j() {
         'clearRect',
         '方正胖娃简体',
         '字体设置',
-        '\x20Lucky-Color提供了一些颜色、图案和文字，你甚至可以从图像中提取颜色。通过构思与简单的操作，你也可以成为一名优秀的“壁纸画家”，为自己和他人的设备上增添一幅更美的风景。找到它们背后的故事，书写属于你自己的篇章✨。',
+        '\x20Lucky-Color提供了一些颜色、图案和文字，你甚至可以从图像中提取颜色。通过构思与简单的操作，你也可以成为一名优秀的“壁纸画家”，为自己和他人的设备上增添一幅更美的风景。找到它们背后的故事，书写属于你自己的篇章✨。'，
         '背景颜色',
         '方正细珊瑚简体',
         'https://colorhunt.co/palette/3a0088930077e61c5dffbd39',
